@@ -82,4 +82,6 @@ convert_lowercase(string)
 def convert_uppercase(string):
     print(string.upper())
 
+<<<<<<< HEAD
 convert_uppercase(string)
+>>>>>>> main
