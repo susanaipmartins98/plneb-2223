@@ -1,0 +1,5207 @@
+{
+  "abdominal cavity": {
+    "i18n": {
+      "pt": "Cavidade Abdominal"
+    }
+  },
+  "abdominal echotomography": {
+    "i18n": {
+      "pt": "Ecotomografia Abdominal"
+    }
+  },
+  "abdominal tuberculosis": {
+    "i18n": {
+      "pt": "Tuberculose Abdominal"
+    }
+  },
+  "abdominal ultrasonography": {
+    "i18n": {
+      "pt": "Ecografia Abdominal"
+    }
+  },
+  "abdominalgia; celialgia; abdominal pain": {
+    "i18n": {
+      "pt": "Dor Abdominal"
+    }
+  },
+  "abortion": {
+    "i18n": {
+      "pt": "Aborto"
+    }
+  },
+  "abscess": {
+    "i18n": {
+      "pt": "Abcesso"
+    }
+  },
+  "acetone bodies": {
+    "i18n": {
+      "pt": "Corpo Cetónico"
+    }
+  },
+  "acidosis": {
+    "i18n": {
+      "pt": "Acidose"
+    }
+  },
+  "acquired immunity": {
+    "i18n": {
+      "pt": "Imunidade Adquirida"
+    }
+  },
+  "acute appendicitis": {
+    "i18n": {
+      "pt": "Apendicite Aguda"
+    }
+  },
+  "acute bronchitis": {
+    "i18n": {
+      "pt": "Bronquite Aguda"
+    }
+  },
+  "acute hepatitis": {
+    "i18n": {
+      "pt": "Hepatite Aguda"
+    }
+  },
+  "acute peritonitis": {
+    "i18n": {
+      "pt": "Peritonite Aguda"
+    }
+  },
+  "acute toxicity": {
+    "i18n": {
+      "pt": "Toxicidade Aguda"
+    }
+  },
+  "additional doses": {
+    "i18n": {
+      "pt": "Dose Adicional"
+    }
+  },
+  "adenitis": {
+    "i18n": {
+      "pt": "Adenite"
+    }
+  },
+  "adenocarcinoma": {
+    "i18n": {
+      "pt": "Adenocarcinoma"
+    }
+  },
+  "adenoidectomy": {
+    "i18n": {
+      "pt": "Adenoidectomia"
+    }
+  },
+  "adenomegalia": {
+    "i18n": {
+      "pt": "Adenomegalia"
+    }
+  },
+  "adenopathy": {
+    "i18n": {
+      "pt": "Adenopatia"
+    }
+  },
+  "administered dose": {
+    "i18n": {
+      "pt": "Dose Administrada"
+    }
+  },
+  "adrenal glands": {
+    "i18n": {
+      "pt": "Glândulas Supra-Renais"
+    }
+  },
+  "adrenalitis": {
+    "i18n": {
+      "pt": "Adrenalite"
+    }
+  },
+  "adynamia": {
+    "i18n": {
+      "pt": "Adinamia"
+    }
+  },
+  "agglutination": {
+    "i18n": {
+      "pt": "Aglutinação"
+    }
+  },
+  "agranulocytosis": {
+    "i18n": {
+      "pt": "Agranulocitose"
+    }
+  },
+  "alanine transaminase (alt)": {
+    "i18n": {
+      "pt": "Alanina Aminotransferase"
+    }
+  },
+  "albumin": {
+    "i18n": {
+      "pt": "Albumina"
+    }
+  },
+  "alcoholism": {
+    "i18n": {
+      "pt": "Alcoolismo"
+    }
+  },
+  "algid malaria": {
+    "i18n": {
+      "pt": "Malária Álgida"
+    }
+  },
+  "allergic reaction": {
+    "i18n": {
+      "pt": "Reacção Alérgica"
+    }
+  },
+  "allergy": {
+    "i18n": {
+      "pt": "Alergia"
+    }
+  },
+  "alopecia": {
+    "i18n": {
+      "pt": "Alopecia"
+    }
+  },
+  "alternative therapy": {
+    "i18n": {
+      "pt": "Tratamento Alternativo"
+    }
+  },
+  "alveolitis": {
+    "i18n": {
+      "pt": "Alveolite"
+    }
+  },
+  "ambulant treatment, out-patient treatment": {
+    "i18n": {
+      "pt": "Tratamento Ambulatório"
+    }
+  },
+  "ambulatory": {
+    "i18n": {
+      "pt": "Ambulatório"
+    }
+  },
+  "amebiasis": {
+    "i18n": {
+      "pt": "Amebíase"
+    }
+  },
+  "amebic dysentery": {
+    "i18n": {
+      "pt": "Desinteria Amebiana"
+    }
+  },
+  "aminotransferase": {
+    "i18n": {
+      "pt": "Aminotransferase"
+    }
+  },
+  "amnesia": {
+    "i18n": {
+      "pt": "Amnésia"
+    }
+  },
+  "amplicilline": {
+    "i18n": {
+      "pt": "Ampicilina"
+    }
+  },
+  "amputation": {
+    "i18n": {
+      "pt": "Amputação"
+    }
+  },
+  "amygdala": {
+    "i18n": {
+      "pt": "Amígdalas Cerebelosas"
+    }
+  },
+  "anaphylactic reaction": {
+    "i18n": {
+      "pt": "Reacção Anafilática"
+    }
+  },
+  "anaphylaxy": {
+    "i18n": {
+      "pt": "Anafilaxia"
+    }
+  },
+  "anastomosis": {
+    "i18n": {
+      "pt": "Anastomose"
+    }
+  },
+  "ancylostoma": {
+    "i18n": {
+      "pt": "Ancilostoma"
+    }
+  },
+  "anditote": {
+    "i18n": {
+      "pt": "Antídoto"
+    }
+  },
+  "anemia": {
+    "i18n": {
+      "pt": "Anemia"
+    }
+  },
+  "aneurysm": {
+    "i18n": {
+      "pt": "Aneurisma"
+    }
+  },
+  "angina pectoris": {
+    "i18n": {
+      "pt": "Angina de Peito"
+    }
+  },
+  "angiomatosis": {
+    "i18n": {
+      "pt": "Angiomatose"
+    }
+  },
+  "angiotensin i converting enzyme (ace)": {
+    "i18n": {
+      "pt": "Enzima Conversor da Angiotensina (ECA)"
+    }
+  },
+  "anomaly, abnormality": {
+    "i18n": {
+      "pt": "Anomalia"
+    }
+  },
+  "anterior cruciate ligament (acl)": {
+    "i18n": {
+      "pt": "Ligamento Cruzado Anterior"
+    }
+  },
+  "anthrax": {
+    "i18n": {
+      "pt": "Carbúnculo"
+    }
+  },
+  "anthropozoonosis": {
+    "i18n": {
+      "pt": "Antropozoonose"
+    }
+  },
+  "antibiogram": {
+    "i18n": {
+      "pt": "Antibiograma"
+    }
+  },
+  "antibiotic": {
+    "i18n": {
+      "pt": "Antibiótico"
+    }
+  },
+  "antibiotic therapy": {
+    "i18n": {
+      "pt": "Antibioterapia"
+    }
+  },
+  "anticoagulant": {
+    "i18n": {
+      "pt": "Anticoagulante"
+    }
+  },
+  "anticorps": {
+    "i18n": {
+      "pt": "Anticorpo"
+    }
+  },
+  "antidiabetic": {
+    "i18n": {
+      "pt": "Antidiabético"
+    }
+  },
+  "antiemetics": {
+    "i18n": {
+      "pt": "Antieméticos"
+    }
+  },
+  "antigen": {
+    "i18n": {
+      "pt": "Antigénio"
+    }
+  },
+  "antigenaemia; antigenemia": {
+    "i18n": {
+      "pt": "Antigenemia"
+    }
+  },
+  "anti-inflammatory": {
+    "i18n": {
+      "pt": "Anti-Inflamatório"
+    }
+  },
+  "antimalarial": {
+    "i18n": {
+      "pt": "Antimalárico"
+    }
+  },
+  "anti-neutrophil cytoplasmic antibody (anca)": {
+    "i18n": {
+      "pt": "Anticorpo Anti-Citoplasma de Neutrófilos"
+    }
+  },
+  "anti-nuclear antibody (ana)": {
+    "i18n": {
+      "pt": "Anticorpos Anti-Nucleares"
+    }
+  },
+  "antioxydant": {
+    "i18n": {
+      "pt": "Antioxidante"
+    }
+  },
+  "antipyretic": {
+    "i18n": {
+      "pt": "Antipirético"
+    }
+  },
+  "antisepsis": {
+    "i18n": {
+      "pt": "Anti-Sepsia"
+    }
+  },
+  "antitoxic immunity": {
+    "i18n": {
+      "pt": "Imunidade Anti-Tóxica"
+    }
+  },
+  "aortic aneurysm": {
+    "i18n": {
+      "pt": "Aneurisma Aórtico"
+    }
+  },
+  "aortic arch anomalies": {
+    "i18n": {
+      "pt": "Anomalia Cardiovascular"
+    }
+  },
+  "aortic tear": {
+    "i18n": {
+      "pt": "Dissecção da Aorta"
+    }
+  },
+  "aplasia": {
+    "i18n": {
+      "pt": "Aplasia"
+    }
+  },
+  "apoptosis": {
+    "i18n": {
+      "pt": "Apoptose"
+    }
+  },
+  "appendicectomy; appendectomy": {
+    "i18n": {
+      "pt": "Apendicectomia"
+    }
+  },
+  "appendicite": {
+    "i18n": {
+      "pt": "Apendicite"
+    }
+  },
+  "apyretic": {
+    "i18n": {
+      "pt": "Apirético"
+    }
+  },
+  "apyrexia": {
+    "i18n": {
+      "pt": "Apirexia"
+    }
+  },
+  "arbovirosis": {
+    "i18n": {
+      "pt": "Arbovirose"
+    }
+  },
+  "arnold chiari malformation": {
+    "i18n": {
+      "pt": "Malformação de Chiari"
+    }
+  },
+  "arrhytmia": {
+    "i18n": {
+      "pt": "Arritmia"
+    }
+  },
+  "arterial hypotension": {
+    "i18n": {
+      "pt": "Hipotensão Arterial"
+    }
+  },
+  "arterial tension, blood pressure, arterial pressure": {
+    "i18n": {
+      "pt": "Pressão Arterial"
+    }
+  },
+  "arteritis": {
+    "i18n": {
+      "pt": "Arterite"
+    }
+  },
+  "arthralgie": {
+    "i18n": {
+      "pt": "Artralgia"
+    }
+  },
+  "arthritis": {
+    "i18n": {
+      "pt": "Artrite"
+    }
+  },
+  "arthroplasty": {
+    "i18n": {
+      "pt": "Artroplastia"
+    }
+  },
+  "ascariasis": {
+    "i18n": {
+      "pt": "Ascaríase"
+    }
+  },
+  "ascarid; maw-worm; roundworm": {
+    "i18n": {
+      "pt": "Ascarídeo"
+    }
+  },
+  "ascaridiosis; ascariosis": {
+    "i18n": {
+      "pt": "Ascaridiose"
+    }
+  },
+  "ascaris lumbricoides": {
+    "i18n": {
+      "pt": "Ascaris Lumbricóides"
+    }
+  },
+  "ascites": {
+    "i18n": {
+      "pt": "Ascite"
+    }
+  },
+  "asepsis": {
+    "i18n": {
+      "pt": "Assepsia"
+    }
+  },
+  "aseptic meningitis; acute aseptic meningitis": {
+    "i18n": {
+      "pt": "Meningite Asséptica ou Viral"
+    }
+  },
+  "aspartate transaminase (ast)": {
+    "i18n": {
+      "pt": "Aspartato Aminotransferase"
+    }
+  },
+  "aspergilloma": {
+    "i18n": {
+      "pt": "Aspergiloma"
+    }
+  },
+  "aspirin": {
+    "i18n": {
+      "pt": "Aspirina"
+    }
+  },
+  "asplenia": {
+    "i18n": {
+      "pt": "Asplenia"
+    }
+  },
+  "asthénie": {
+    "i18n": {
+      "pt": "Astenia"
+    }
+  },
+  "asthma": {
+    "i18n": {
+      "pt": "Asma"
+    }
+  },
+  "astrocyte": {
+    "i18n": {
+      "pt": "Astrócito"
+    }
+  },
+  "ataxia": {
+    "i18n": {
+      "pt": "Ataxia"
+    }
+  },
+  "athérosclérose": {
+    "i18n": {
+      "pt": "Doença Aterosclerótica"
+    }
+  },
+  "atherosclerosis": {
+    "i18n": {
+      "pt": "Aterosclerose"
+    }
+  },
+  "atrial fibrillation": {
+    "i18n": {
+      "pt": "Fibrilhação Auricular"
+    }
+  },
+  "atrial systole": {
+    "i18n": {
+      "pt": "Contracção Auricular"
+    }
+  },
+  "atrium": {
+    "i18n": {
+      "pt": "Aurícula"
+    }
+  },
+  "atypical mycobacteria": {
+    "i18n": {
+      "pt": "Micobacteria Atípica"
+    }
+  },
+  "auscultation": {
+    "i18n": {
+      "pt": "Auscultação"
+    }
+  },
+  "autodiagnosis": {
+    "i18n": {
+      "pt": "Auto-Diagnóstico"
+    }
+  },
+  "autopsy, necropsy": {
+    "i18n": {
+      "pt": "Autópsia"
+    }
+  },
+  "axillary temperature": {
+    "i18n": {
+      "pt": "Temperatura Axilar"
+    }
+  },
+  "b cell": {
+    "i18n": {
+      "pt": "Células ou Linfócitos B"
+    }
+  },
+  "bacilloscopy": {
+    "i18n": {
+      "pt": "Baciloscopia"
+    }
+  },
+  "bacillus": {
+    "i18n": {
+      "pt": "Bacilo"
+    }
+  },
+  "bacterial genome": {
+    "i18n": {
+      "pt": "Genoma Bacteriano"
+    }
+  },
+  "bacteriemia": {
+    "i18n": {
+      "pt": "Bacteriemia"
+    }
+  },
+  "bacterium": {
+    "i18n": {
+      "pt": "Bactéria"
+    }
+  },
+  "bartonellosis": {
+    "i18n": {
+      "pt": "Bartonelose"
+    }
+  },
+  "base pairs (bp)": {
+    "i18n": {
+      "pt": "Pares de Bases (pb)"
+    }
+  },
+  "beck's triad": {
+    "i18n": {
+      "pt": "Tríade Cognitiva ou de Beck"
+    }
+  },
+  "beta blockers": {
+    "i18n": {
+      "pt": "Bloqueadores-Beta"
+    }
+  },
+  "bilharziosis": {
+    "i18n": {
+      "pt": "Bilharziose"
+    }
+  },
+  "biliary cirrhosis (primary)": {
+    "i18n": {
+      "pt": "Cirrose Biliar Primária"
+    }
+  },
+  "bilirubin": {
+    "i18n": {
+      "pt": "Bilirubina"
+    }
+  },
+  "biomicroscopy": {
+    "i18n": {
+      "pt": "Biomicroscopia"
+    }
+  },
+  "biopsy": {
+    "i18n": {
+      "pt": "Biópsia"
+    }
+  },
+  "blackwater fever": {
+    "i18n": {
+      "pt": "Febre Biliosa Hemoglobinurica"
+    }
+  },
+  "blindness": {
+    "i18n": {
+      "pt": "Cegueira"
+    }
+  },
+  "blood bank": {
+    "i18n": {
+      "pt": "Banco de Sangue"
+    }
+  },
+  "blood coagulation": {
+    "i18n": {
+      "pt": "Coagulação Sanguínea"
+    }
+  },
+  "blood donor": {
+    "i18n": {
+      "pt": "Doador de Sangue"
+    }
+  },
+  "blood group": {
+    "i18n": {
+      "pt": "Grupo Sanguíneo"
+    }
+  },
+  "blood sample": {
+    "i18n": {
+      "pt": "Amostra de Sangue"
+    }
+  },
+  "blood test": {
+    "i18n": {
+      "pt": "Exame de Sangue"
+    }
+  },
+  "blood transfusion": {
+    "i18n": {
+      "pt": "Transfusão Sanguínea"
+    }
+  },
+  "blood urea nitrogen (bun)": {
+    "i18n": {
+      "pt": "Azoto Ureico no Sangue"
+    }
+  },
+  "body temperature": {
+    "i18n": {
+      "pt": "Temperatura Corporal"
+    }
+  },
+  "bone marrow": {
+    "i18n": {
+      "pt": "Medula Óssea"
+    }
+  },
+  "bone marrow biopsy": {
+    "i18n": {
+      "pt": "Biópsia Óssea"
+    }
+  },
+  "booster dose": {
+    "i18n": {
+      "pt": "Dose de Reforço"
+    }
+  },
+  "borreliosis": {
+    "i18n": {
+      "pt": "Borreliose"
+    }
+  },
+  "boutonneuse fever": {
+    "i18n": {
+      "pt": "Febre Escaro-Nodular"
+    }
+  },
+  "bradycardia": {
+    "i18n": {
+      "pt": "Bradicardia"
+    }
+  },
+  "brain concussion; head trauma": {
+    "i18n": {
+      "pt": "Traumatismo Craniano"
+    }
+  },
+  "brain stem": {
+    "i18n": {
+      "pt": "Tronco Cerebral"
+    }
+  },
+  "breast cancer, mammary cancer": {
+    "i18n": {
+      "pt": "Cancro da Mama"
+    }
+  },
+  "breast feeding": {
+    "i18n": {
+      "pt": "Amamentação"
+    }
+  },
+  "breast tumor": {
+    "i18n": {
+      "pt": "Tumor da Mama"
+    }
+  },
+  "broca's area": {
+    "i18n": {
+      "pt": "Área de Broca"
+    }
+  },
+  "bronchiolitis": {
+    "i18n": {
+      "pt": "Bronquiolite"
+    }
+  },
+  "bronchitis": {
+    "i18n": {
+      "pt": "Bronquite"
+    }
+  },
+  "bronchopleural fistula": {
+    "i18n": {
+      "pt": "Fístula Bronco-Pleural"
+    }
+  },
+  "bronchopneumonia": {
+    "i18n": {
+      "pt": "Broncopneumonia"
+    }
+  },
+  "bronchoscopy": {
+    "i18n": {
+      "pt": "Broncoscopia"
+    }
+  },
+  "brucellosis": {
+    "i18n": {
+      "pt": "Brucelose"
+    }
+  },
+  "burkitt's lymphoma": {
+    "i18n": {
+      "pt": "Linfoma de Burkitt"
+    }
+  },
+  "cancer": {
+    "i18n": {
+      "pt": "Cancro"
+    }
+  },
+  "cancroid": {
+    "i18n": {
+      "pt": "Cancróide"
+    }
+  },
+  "capsular antigen": {
+    "i18n": {
+      "pt": "Antigénio Capsular"
+    }
+  },
+  "carcinoma": {
+    "i18n": {
+      "pt": "Carcinoma"
+    }
+  },
+  "carcinomatosis": {
+    "i18n": {
+      "pt": "Carcinomatose"
+    }
+  },
+  "cardiac arrest": {
+    "i18n": {
+      "pt": "Paragem Cardíaca"
+    }
+  },
+  "cardiac dysrhythmia": {
+    "i18n": {
+      "pt": "Disritmia Cardíaca"
+    }
+  },
+  "cardiac failure": {
+    "i18n": {
+      "pt": "Insuficiência Cardíaca"
+    }
+  },
+  "cardiac surgery": {
+    "i18n": {
+      "pt": "Cirurgia Cardíaca"
+    }
+  },
+  "cardiac tamponade": {
+    "i18n": {
+      "pt": "Tamponamento Cardíaco"
+    }
+  },
+  "cardiologist": {
+    "i18n": {
+      "pt": "Cardiologista"
+    }
+  },
+  "cardiopathy": {
+    "i18n": {
+      "pt": "Cardiopatia"
+    }
+  },
+  "cardiopulmonary resuscitation (cpr)": {
+    "i18n": {
+      "pt": "Ressuscitação ou Reanimação Cardiopulmonar"
+    }
+  },
+  "cataract": {
+    "i18n": {
+      "pt": "Catarata"
+    }
+  },
+  "catheter": {
+    "i18n": {
+      "pt": "Cateter"
+    }
+  },
+  "catheterization": {
+    "i18n": {
+      "pt": "Cateterismo"
+    }
+  },
+  "cavernous synus": {
+    "i18n": {
+      "pt": "Seio Cavernoso"
+    }
+  },
+  "cell culture": {
+    "i18n": {
+      "pt": "Cultura Celular"
+    }
+  },
+  "cellular immunity": {
+    "i18n": {
+      "pt": "Imunidade Celular"
+    }
+  },
+  "central venous pressure": {
+    "i18n": {
+      "pt": "Pressão Venosa Central"
+    }
+  },
+  "cephalalgia": {
+    "i18n": {
+      "pt": "Cefaleia"
+    }
+  },
+  "ceratitis": {
+    "i18n": {
+      "pt": "Ceratite"
+    }
+  },
+  "cerebellar ataxia": {
+    "i18n": {
+      "pt": "Ataxia Cerebelar"
+    }
+  },
+  "cerebral abscess": {
+    "i18n": {
+      "pt": "Abcesso Cerebral"
+    }
+  },
+  "cerebral ataxia": {
+    "i18n": {
+      "pt": "Ataxia Cerebral"
+    }
+  },
+  "cerebral cortex": {
+    "i18n": {
+      "pt": "Córtex Cerebral"
+    }
+  },
+  "cerebral hemorrhage": {
+    "i18n": {
+      "pt": "Hemorragia Cerebral"
+    }
+  },
+  "cerebral malaria": {
+    "i18n": {
+      "pt": "Malária Cerebral"
+    }
+  },
+  "cerebral oedema": {
+    "i18n": {
+      "pt": "Edema Cerebral"
+    }
+  },
+  "cerebral thrombosis": {
+    "i18n": {
+      "pt": "Trombose Cerebral"
+    }
+  },
+  "cerebro-spinal fluid (csf)": {
+    "i18n": {
+      "pt": "Líquido Cefalorraquidiano (LCR)"
+    }
+  },
+  "cervitis": {
+    "i18n": {
+      "pt": "Cervicite"
+    }
+  },
+  "cesarean section": {
+    "i18n": {
+      "pt": "Cesariana"
+    }
+  },
+  "chagas' disease; chagas-cruz disease": {
+    "i18n": {
+      "pt": "Doença de Chagas"
+    }
+  },
+  "chancroid": {
+    "i18n": {
+      "pt": "Cancro Mole"
+    }
+  },
+  "check-up": {
+    "i18n": {
+      "pt": "Exame Completo"
+    }
+  },
+  "cheilitis": {
+    "i18n": {
+      "pt": "Queilite"
+    }
+  },
+  "chemoprophylaxis": {
+    "i18n": {
+      "pt": "Quimioprofilaxia"
+    }
+  },
+  "chemotherapy": {
+    "i18n": {
+      "pt": "Quimioterapia"
+    }
+  },
+  "childbed fever": {
+    "i18n": {
+      "pt": "Infecção Puerperal"
+    }
+  },
+  "childbirth": {
+    "i18n": {
+      "pt": "Parto"
+    }
+  },
+  "children's disease": {
+    "i18n": {
+      "pt": "Doença Infantil"
+    }
+  },
+  "cholangitis": {
+    "i18n": {
+      "pt": "Colangite ou Angiocolite"
+    }
+  },
+  "cholecystectomy": {
+    "i18n": {
+      "pt": "Colecistectomia"
+    }
+  },
+  "cholera": {
+    "i18n": {
+      "pt": "Cólera"
+    }
+  },
+  "cholestasis; cholestasia": {
+    "i18n": {
+      "pt": "Colestase"
+    }
+  },
+  "cholesterol": {
+    "i18n": {
+      "pt": "Colesterol"
+    }
+  },
+  "chronic active hepatitis": {
+    "i18n": {
+      "pt": "Hepatite Crónica Activa"
+    }
+  },
+  "chronic bronchitis": {
+    "i18n": {
+      "pt": "Bronquite Crónica"
+    }
+  },
+  "chronic disease": {
+    "i18n": {
+      "pt": "Doença Crónica"
+    }
+  },
+  "chronic hepatitis": {
+    "i18n": {
+      "pt": "Hepatite Crónica"
+    }
+  },
+  "chronic lymphocytic leukemia": {
+    "i18n": {
+      "pt": "Leucemia Linfática Crónica"
+    }
+  },
+  "chronic toxicity": {
+    "i18n": {
+      "pt": "Toxicidade Crónica"
+    }
+  },
+  "chronicity": {
+    "i18n": {
+      "pt": "Cronicidade"
+    }
+  },
+  "circle of willis": {
+    "i18n": {
+      "pt": "Polígono de Willis"
+    }
+  },
+  "circulatory collapse; circulatory failure": {
+    "i18n": {
+      "pt": "Colapso Circulatório"
+    }
+  },
+  "circumcision": {
+    "i18n": {
+      "pt": "Circuncisão"
+    }
+  },
+  "cirrhosis": {
+    "i18n": {
+      "pt": "Cirrose"
+    }
+  },
+  "clinical diagnosis": {
+    "i18n": {
+      "pt": "Diagnóstico Clínico"
+    }
+  },
+  "clinical examination": {
+    "i18n": {
+      "pt": "Exame Clínico"
+    }
+  },
+  "cloning": {
+    "i18n": {
+      "pt": "Clonagem"
+    }
+  },
+  "closed chest cardiac massage": {
+    "i18n": {
+      "pt": "Massagem Cardíaca Externa"
+    }
+  },
+  "coagulation": {
+    "i18n": {
+      "pt": "Coagulação"
+    }
+  },
+  "codon": {
+    "i18n": {
+      "pt": "Codão"
+    }
+  },
+  "colic": {
+    "i18n": {
+      "pt": "Cólica"
+    }
+  },
+  "colitis": {
+    "i18n": {
+      "pt": "Colite"
+    }
+  },
+  "collapse": {
+    "i18n": {
+      "pt": "Colapso"
+    }
+  },
+  "colon cancer": {
+    "i18n": {
+      "pt": "Cancro do Cólon"
+    }
+  },
+  "colonoscopy": {
+    "i18n": {
+      "pt": "Colonoscopia"
+    }
+  },
+  "coma": {
+    "i18n": {
+      "pt": "Coma"
+    }
+  },
+  "combined vaccine; combination vaccine": {
+    "i18n": {
+      "pt": "Vacina Combinada"
+    }
+  },
+  "complete blood count (cbc)": {
+    "i18n": {
+      "pt": "Hemograma Completo"
+    }
+  },
+  "compound fracture; open fracture": {
+    "i18n": {
+      "pt": "Fractura Exposta"
+    }
+  },
+  "compulsory vaccination": {
+    "i18n": {
+      "pt": "Vacinação Obrigatória"
+    }
+  },
+  "computed (or computerized) axial tomography": {
+    "i18n": {
+      "pt": "Tomografia Axial Computorizada (TAC)"
+    }
+  },
+  "congenital defect": {
+    "i18n": {
+      "pt": "Anomalia Congénita"
+    }
+  },
+  "conjunctivitis": {
+    "i18n": {
+      "pt": "Conjuntivite"
+    }
+  },
+  "connective tissue": {
+    "i18n": {
+      "pt": "Tecido Conjuntivo"
+    }
+  },
+  "consult": {
+    "i18n": {
+      "pt": "Consultar"
+    }
+  },
+  "consultation": {
+    "i18n": {
+      "pt": "Consulta"
+    }
+  },
+  "contagion": {
+    "i18n": {
+      "pt": "Contágio"
+    }
+  },
+  "contagious disease": {
+    "i18n": {
+      "pt": "Doença Contagiosa"
+    }
+  },
+  "contagiousness": {
+    "i18n": {
+      "pt": "Contagiosidade"
+    }
+  },
+  "contaminate": {
+    "i18n": {
+      "pt": "Contaminar"
+    }
+  },
+  "contamination": {
+    "i18n": {
+      "pt": "Contaminação"
+    }
+  },
+  "contraceptive": {
+    "i18n": {
+      "pt": "Preservativo"
+    }
+  },
+  "contract": {
+    "i18n": {
+      "pt": "Contrair"
+    }
+  },
+  "contraindication": {
+    "i18n": {
+      "pt": "Contra-Indicação"
+    }
+  },
+  "contusion": {
+    "i18n": {
+      "pt": "Contusão"
+    }
+  },
+  "convulsion": {
+    "i18n": {
+      "pt": "Convulsão"
+    }
+  },
+  "coronary angioplasty": {
+    "i18n": {
+      "pt": "Angioplastia Coronária"
+    }
+  },
+  "coronary heart disease": {
+    "i18n": {
+      "pt": "Doença Coronária"
+    }
+  },
+  "coronary thrombosis": {
+    "i18n": {
+      "pt": "Trombose Coronária"
+    }
+  },
+  "corpus callosum": {
+    "i18n": {
+      "pt": "Corpo Caloso"
+    }
+  },
+  "cortical blindness": {
+    "i18n": {
+      "pt": "Cegueira Cortical"
+    }
+  },
+  "corticotherapy": {
+    "i18n": {
+      "pt": "Corticoterapia"
+    }
+  },
+  "coryza; nasal catarrh; common cold": {
+    "i18n": {
+      "pt": "Coriza"
+    }
+  },
+  "cough": {
+    "i18n": {
+      "pt": "Tosse"
+    }
+  },
+  "creatinine": {
+    "i18n": {
+      "pt": "Creatinina"
+    }
+  },
+  "crohn's disease": {
+    "i18n": {
+      "pt": "Doença de Crohn"
+    }
+  },
+  "creatine kinase": {
+    "i18n": {
+      "pt": "Creatinaquinase"
+    }
+  },
+  "cryptococcosis": {
+    "i18n": {
+      "pt": "Criptococose"
+    }
+  },
+  "curative method": {
+    "i18n": {
+      "pt": "Tratamento Curativo"
+    }
+  },
+  "cure, healing, recovering": {
+    "i18n": {
+      "pt": "Cura"
+    }
+  },
+  "curettage": {
+    "i18n": {
+      "pt": "Curetagem"
+    }
+  },
+  "cutaneous (or dermal) leishmaniasis": {
+    "i18n": {
+      "pt": "Leishmaniose Cutânea"
+    }
+  },
+  "cutaneous tuberculosis": {
+    "i18n": {
+      "pt": "Tuberculose Cutânea"
+    }
+  },
+  "cyanosis": {
+    "i18n": {
+      "pt": "Cianose"
+    }
+  },
+  "cyst": {
+    "i18n": {
+      "pt": "Quisto"
+    }
+  },
+  "cysticercosis": {
+    "i18n": {
+      "pt": "Cisticercose"
+    }
+  },
+  "cystitis": {
+    "i18n": {
+      "pt": "Cistite"
+    }
+  },
+  "cytokyne": {
+    "i18n": {
+      "pt": "Citocina ou Citoquina"
+    }
+  },
+  "cytometry": {
+    "i18n": {
+      "pt": "Citometria"
+    }
+  },
+  "cytotoxicity": {
+    "i18n": {
+      "pt": "Citotoxicidade"
+    }
+  },
+  "daily dose": {
+    "i18n": {
+      "pt": "Dose Diária"
+    }
+  },
+  "decontamination": {
+    "i18n": {
+      "pt": "Descontaminação"
+    }
+  },
+  "decortication": {
+    "i18n": {
+      "pt": "Descorticação"
+    }
+  },
+  "definitive host; final host": {
+    "i18n": {
+      "pt": "Hospedeiro Definitivo"
+    }
+  },
+  "dehydratation": {
+    "i18n": {
+      "pt": "Desidratação"
+    }
+  },
+  "dehydrate": {
+    "i18n": {
+      "pt": "Desidratar"
+    }
+  },
+  "delta hepatitis": {
+    "i18n": {
+      "pt": "Hepatite Delta"
+    }
+  },
+  "dementia": {
+    "i18n": {
+      "pt": "Demência"
+    }
+  },
+  "demyelination": {
+    "i18n": {
+      "pt": "Desmielinização"
+    }
+  },
+  "denaturation": {
+    "i18n": {
+      "pt": "Desnaturação"
+    }
+  },
+  "dengue": {
+    "i18n": {
+      "pt": "Dengue"
+    }
+  },
+  "dental abscess": {
+    "i18n": {
+      "pt": "Abcesso Dentário"
+    }
+  },
+  "denutrition": {
+    "i18n": {
+      "pt": "Desnutrição"
+    }
+  },
+  "dermatitis": {
+    "i18n": {
+      "pt": "Dermatite ou Dermite"
+    }
+  },
+  "dermatosis": {
+    "i18n": {
+      "pt": "Dermatose"
+    }
+  },
+  "desquamation": {
+    "i18n": {
+      "pt": "Descamação"
+    }
+  },
+  "diabetes": {
+    "i18n": {
+      "pt": "Diabetes"
+    }
+  },
+  "diabetes mellitus": {
+    "i18n": {
+      "pt": "Diabetes Mellitus"
+    }
+  },
+  "diagnose, diagnosticate": {
+    "i18n": {
+      "pt": "Diagnosticar"
+    }
+  },
+  "diagnosis, diagnostic": {
+    "i18n": {
+      "pt": "Diagnóstico"
+    }
+  },
+  "diarrhea": {
+    "i18n": {
+      "pt": "Diarreia"
+    }
+  },
+  "diarrhheal diseases": {
+    "i18n": {
+      "pt": "Doença Diarreica"
+    }
+  },
+  "diastasis": {
+    "i18n": {
+      "pt": "Diástase"
+    }
+  },
+  "diastole": {
+    "i18n": {
+      "pt": "Diástole"
+    }
+  },
+  "diffuse lymphoma": {
+    "i18n": {
+      "pt": "Linfoma Difuso"
+    }
+  },
+  "digestive tube": {
+    "i18n": {
+      "pt": "Tubo Digestivo"
+    }
+  },
+  "dilatation": {
+    "i18n": {
+      "pt": "Dilatação"
+    }
+  },
+  "dilatation of the heart": {
+    "i18n": {
+      "pt": "Dilatação Cardíaca"
+    }
+  },
+  "dilated (congestive) cardiomyopathy": {
+    "i18n": {
+      "pt": "Cardiomiopatia Dilatada"
+    }
+  },
+  "diphteria": {
+    "i18n": {
+      "pt": "Difteria"
+    }
+  },
+  "disciform keratitis": {
+    "i18n": {
+      "pt": "Ceratite Disciforme"
+    }
+  },
+  "disease": {
+    "i18n": {
+      "pt": "Doença"
+    }
+  },
+  "disinfection": {
+    "i18n": {
+      "pt": "Desinfecção"
+    }
+  },
+  "disinfestation": {
+    "i18n": {
+      "pt": "Desinfestação"
+    }
+  },
+  "disseminated (or diffuse) intravascular coagulation": {
+    "i18n": {
+      "pt": "Coagulação Intravascular Disseminada"
+    }
+  },
+  "dissemination": {
+    "i18n": {
+      "pt": "Disseminação"
+    }
+  },
+  "diuresis": {
+    "i18n": {
+      "pt": "Diurese"
+    }
+  },
+  "diuretic": {
+    "i18n": {
+      "pt": "Diurético"
+    }
+  },
+  "donor": {
+    "i18n": {
+      "pt": "Doador"
+    }
+  },
+  "dopamine": {
+    "i18n": {
+      "pt": "Dopamina"
+    }
+  },
+  "dopaminergic pathways": {
+    "i18n": {
+      "pt": "Feixes Dopaminérgicos"
+    }
+  },
+  "dosage": {
+    "i18n": {
+      "pt": "Doseamento"
+    }
+  },
+  "dose": {
+    "i18n": {
+      "pt": "Dose"
+    }
+  },
+  "dracontiasis": {
+    "i18n": {
+      "pt": "Dracunculose"
+    }
+  },
+  "drain": {
+    "i18n": {
+      "pt": "Dreno"
+    }
+  },
+  "drainage": {
+    "i18n": {
+      "pt": "Drenagem"
+    }
+  },
+  "drug": {
+    "i18n": {
+      "pt": "Droga"
+    }
+  },
+  "drug, medicine": {
+    "i18n": {
+      "pt": "Medicamento"
+    }
+  },
+  "dumd rabies; paralytic rabies": {
+    "i18n": {
+      "pt": "Raiva Paralítica"
+    }
+  },
+  "duodenal ulcer": {
+    "i18n": {
+      "pt": "Úlcera Duodenal"
+    }
+  },
+  "dysarthria": {
+    "i18n": {
+      "pt": "Disartria"
+    }
+  },
+  "dysphagia": {
+    "i18n": {
+      "pt": "Disfagia"
+    }
+  },
+  "dyspnea": {
+    "i18n": {
+      "pt": "Dispneia"
+    }
+  },
+  "ebola": {
+    "i18n": {
+      "pt": "Ébola"
+    }
+  },
+  "ebola hemorrhagic fever": {
+    "i18n": {
+      "pt": "Febre Hemorrágica do Ébola"
+    }
+  },
+  "echinococcosis": {
+    "i18n": {
+      "pt": "Equinococose"
+    }
+  },
+  "echocardiogram": {
+    "i18n": {
+      "pt": "Ecocardiograma"
+    }
+  },
+  "echography": {
+    "i18n": {
+      "pt": "Ecografia"
+    }
+  },
+  "ectasia": {
+    "i18n": {
+      "pt": "Ectasia"
+    }
+  },
+  "ectopic pregnancy": {
+    "i18n": {
+      "pt": "Gravidez Ectópica"
+    }
+  },
+  "eczema": {
+    "i18n": {
+      "pt": "Eczema"
+    }
+  },
+  "edema": {
+    "i18n": {
+      "pt": "Edema"
+    }
+  },
+  "eelworm": {
+    "i18n": {
+      "pt": "Verme"
+    }
+  },
+  "effect": {
+    "i18n": {
+      "pt": "Efeito"
+    }
+  },
+  "effusion": {
+    "i18n": {
+      "pt": "Derrame"
+    }
+  },
+  "electron microscopy": {
+    "i18n": {
+      "pt": "Microscopia Electrónica"
+    }
+  },
+  "embolism": {
+    "i18n": {
+      "pt": "Embolia"
+    }
+  },
+  "embolization": {
+    "i18n": {
+      "pt": "Embolização"
+    }
+  },
+  "emergency treatment": {
+    "i18n": {
+      "pt": "Tratamento de Emergência"
+    }
+  },
+  "empyème": {
+    "i18n": {
+      "pt": "Empiema"
+    }
+  },
+  "encephalitis": {
+    "i18n": {
+      "pt": "Encefalite"
+    }
+  },
+  "encephalopathy": {
+    "i18n": {
+      "pt": "Encefalopatia"
+    }
+  },
+  "endamebic abscess, entamebic abscess": {
+    "i18n": {
+      "pt": "Abcesso Amebiano"
+    }
+  },
+  "endemic goiter": {
+    "i18n": {
+      "pt": "Bócio Endémico"
+    }
+  },
+  "endemic zone": {
+    "i18n": {
+      "pt": "Zona de Endemia"
+    }
+  },
+  "endemicity": {
+    "i18n": {
+      "pt": "Endemicidade"
+    }
+  },
+  "endocarditis": {
+    "i18n": {
+      "pt": "Endocardite"
+    }
+  },
+  "endoscopy": {
+    "i18n": {
+      "pt": "Endoscopia"
+    }
+  },
+  "endotoxin": {
+    "i18n": {
+      "pt": "Endotoxina"
+    }
+  },
+  "enteritis": {
+    "i18n": {
+      "pt": "Enterite"
+    }
+  },
+  "enterobiasis": {
+    "i18n": {
+      "pt": "Enterobíase"
+    }
+  },
+  "enzima": {
+    "i18n": {
+      "pt": "Enzima"
+    }
+  },
+  "ependymal zone": {
+    "i18n": {
+      "pt": "Zona de Epidemia"
+    }
+  },
+  "epidemic": {
+    "i18n": {
+      "pt": "Epidemia"
+    }
+  },
+  "epidemic typhus; european typhus; exanthemic typhus": {
+    "i18n": {
+      "pt": "Tifo Epidémico"
+    }
+  },
+  "epidemiology": {
+    "i18n": {
+      "pt": "Epidemiologia"
+    }
+  },
+  "epidermis": {
+    "i18n": {
+      "pt": "Epiderme"
+    }
+  },
+  "epiglottitis": {
+    "i18n": {
+      "pt": "Epiglotite"
+    }
+  },
+  "epilepsy": {
+    "i18n": {
+      "pt": "Epilepsia"
+    }
+  },
+  "epinephrine, adrenalin": {
+    "i18n": {
+      "pt": "Adrenalina"
+    }
+  },
+  "epiphyseal plate": {
+    "i18n": {
+      "pt": "Placa Epifisária ou de Crescimento"
+    }
+  },
+  "episcleritis": {
+    "i18n": {
+      "pt": "Episclerite"
+    }
+  },
+  "epithelial cell": {
+    "i18n": {
+      "pt": "Célula Epitelial"
+    }
+  },
+  "eradication": {
+    "i18n": {
+      "pt": "Erradicação"
+    }
+  },
+  "erythema": {
+    "i18n": {
+      "pt": "Eritema"
+    }
+  },
+  "erythema annulare centrifugum": {
+    "i18n": {
+      "pt": "Eritema Anular Centrifugum"
+    }
+  },
+  "erythema migrans": {
+    "i18n": {
+      "pt": "Eritema Migrans"
+    }
+  },
+  "erythrocyte": {
+    "i18n": {
+      "pt": "Hemácia"
+    }
+  },
+  "esophagitis": {
+    "i18n": {
+      "pt": "Esofagite"
+    }
+  },
+  "esophagogram": {
+    "i18n": {
+      "pt": "Esofagograma"
+    }
+  },
+  "etiologic diagnosis": {
+    "i18n": {
+      "pt": "Diagnóstico Etiológico"
+    }
+  },
+  "etiology": {
+    "i18n": {
+      "pt": "Etiologia"
+    }
+  },
+  "etiopathology": {
+    "i18n": {
+      "pt": "Etiopatogenia"
+    }
+  },
+  "examination": {
+    "i18n": {
+      "pt": "Exame"
+    }
+  },
+  "expectoration": {
+    "i18n": {
+      "pt": "Expectoração"
+    }
+  },
+  "exploratory laparotomy (ex lap)": {
+    "i18n": {
+      "pt": "Laparotomia Exploratória"
+    }
+  },
+  "extrapulmonary tuberculosis": {
+    "i18n": {
+      "pt": "Tuberculose Extra-Pulmonar"
+    }
+  },
+  "falciform anemia": {
+    "i18n": {
+      "pt": "Anemia Falciforme"
+    }
+  },
+  "falciparum malaria": {
+    "i18n": {
+      "pt": "Malária Falciparum"
+    }
+  },
+  "fallopian tube": {
+    "i18n": {
+      "pt": "Trompa de Falópio"
+    }
+  },
+  "familial immunity; genetic immunity": {
+    "i18n": {
+      "pt": "Imunidade Genética"
+    }
+  },
+  "fascioliasis": {
+    "i18n": {
+      "pt": "Fasciolíase"
+    }
+  },
+  "febricule": {
+    "i18n": {
+      "pt": "Febrícula"
+    }
+  },
+  "febrile convulsions": {
+    "i18n": {
+      "pt": "Convulsão Febril"
+    }
+  },
+  "fecal contamination": {
+    "i18n": {
+      "pt": "Contaminação Fecal"
+    }
+  },
+  "fecal culture": {
+    "i18n": {
+      "pt": "Coprocultura"
+    }
+  },
+  "fecal-oral transmission": {
+    "i18n": {
+      "pt": "Transmissão Fecal-Oral"
+    }
+  },
+  "fecundity": {
+    "i18n": {
+      "pt": "Fertilidade"
+    }
+  },
+  "fetal distress": {
+    "i18n": {
+      "pt": "Sofrimento Fetal"
+    }
+  },
+  "fetus": {
+    "i18n": {
+      "pt": "Feto"
+    }
+  },
+  "fever": {
+    "i18n": {
+      "pt": "Febre"
+    }
+  },
+  "fiberoptic bronchoscopy": {
+    "i18n": {
+      "pt": "Broncofibroscopia"
+    }
+  },
+  "fibrinogen": {
+    "i18n": {
+      "pt": "Fibrinogénio"
+    }
+  },
+  "fibrinolysis": {
+    "i18n": {
+      "pt": "Fibrinólise"
+    }
+  },
+  "fibrosis": {
+    "i18n": {
+      "pt": "Fibrose"
+    }
+  },
+  "filariasis": {
+    "i18n": {
+      "pt": "Filariose"
+    }
+  },
+  "fistula": {
+    "i18n": {
+      "pt": "Fístula"
+    }
+  },
+  "fistulization": {
+    "i18n": {
+      "pt": "Fistulização"
+    }
+  },
+  "flavivirus": {
+    "i18n": {
+      "pt": "Flavivírus"
+    }
+  },
+  "fluke": {
+    "i18n": {
+      "pt": "Fascíola"
+    }
+  },
+  "fluorescence microscopy": {
+    "i18n": {
+      "pt": "Microscopia de Fluorescência"
+    }
+  },
+  "focus": {
+    "i18n": {
+      "pt": "Foco"
+    }
+  },
+  "food sanitation": {
+    "i18n": {
+      "pt": "Higiene Alimentar"
+    }
+  },
+  "fossa": {
+    "i18n": {
+      "pt": "Fossa"
+    }
+  },
+  "fractional dose": {
+    "i18n": {
+      "pt": "Dose Fraccionada"
+    }
+  },
+  "fracture": {
+    "i18n": {
+      "pt": "Fractura"
+    }
+  },
+  "french brauduche; french letter; male condom": {
+    "i18n": {
+      "pt": "Preservativo Masculino"
+    }
+  },
+  "fresh frozen plasma (ffp)": {
+    "i18n": {
+      "pt": "Plasma Fresco Congelado"
+    }
+  },
+  "fulminant hepatitis; fulminanting hepatitis": {
+    "i18n": {
+      "pt": "Hepatite Fulminante"
+    }
+  },
+  "funiculitis": {
+    "i18n": {
+      "pt": "Funiculite"
+    }
+  },
+  "furuncle": {
+    "i18n": {
+      "pt": "Furúnculo"
+    }
+  },
+  "gallbladder": {
+    "i18n": {
+      "pt": "Vesícula Biliar"
+    }
+  },
+  "gallstone": {
+    "i18n": {
+      "pt": "Colelitíase"
+    }
+  },
+  "gamma glutamyl transpeptidase (ggt)": {
+    "i18n": {
+      "pt": "Gama Glutamil Transferase"
+    }
+  },
+  "gangrene": {
+    "i18n": {
+      "pt": "Gangrena"
+    }
+  },
+  "gastrectomy": {
+    "i18n": {
+      "pt": "Gastrectomia"
+    }
+  },
+  "gastroenteritis": {
+    "i18n": {
+      "pt": "Gastrenterite"
+    }
+  },
+  "gastrointestinal hemorrhage": {
+    "i18n": {
+      "pt": "Hemorragia Gastrointestinal"
+    }
+  },
+  "gelose": {
+    "i18n": {
+      "pt": "Gelose"
+    }
+  },
+  "gene": {
+    "i18n": {
+      "pt": "Gene"
+    }
+  },
+  "general anesthesia": {
+    "i18n": {
+      "pt": "Anestesia Geral"
+    }
+  },
+  "generic medicament": {
+    "i18n": {
+      "pt": "Medicamento Genérico"
+    }
+  },
+  "genome": {
+    "i18n": {
+      "pt": "Genoma"
+    }
+  },
+  "gestation": {
+    "i18n": {
+      "pt": "Gestação"
+    }
+  },
+  "giardiasis": {
+    "i18n": {
+      "pt": "Giardíase"
+    }
+  },
+  "glossitis": {
+    "i18n": {
+      "pt": "Glossite"
+    }
+  },
+  "glucose": {
+    "i18n": {
+      "pt": "Glicose"
+    }
+  },
+  "glycolipid": {
+    "i18n": {
+      "pt": "Glicolípido"
+    }
+  },
+  "glycolysis": {
+    "i18n": {
+      "pt": "Glicólise"
+    }
+  },
+  "goiter": {
+    "i18n": {
+      "pt": "Bócio"
+    }
+  },
+  "gonorrhea": {
+    "i18n": {
+      "pt": "Blenorragia"
+    }
+  },
+  "graft": {
+    "i18n": {
+      "pt": "Enxerto"
+    }
+  },
+  "gravida": {
+    "i18n": {
+      "pt": "Grávida"
+    }
+  },
+  "greater omentum": {
+    "i18n": {
+      "pt": "Grande Epiploon ou Epiploon Gastro-Cólico"
+    }
+  },
+  "gynecologist": {
+    "i18n": {
+      "pt": "Ginecologista"
+    }
+  },
+  "gynecomastia": {
+    "i18n": {
+      "pt": "Ginecomastia"
+    }
+  },
+  "haemagglutination": {
+    "i18n": {
+      "pt": "Hemaglutinação"
+    }
+  },
+  "haemophiliac": {
+    "i18n": {
+      "pt": "Hemofílico"
+    }
+  },
+  "halofantrine": {
+    "i18n": {
+      "pt": "Halofantrina"
+    }
+  },
+  "hantavirus": {
+    "i18n": {
+      "pt": "Hantavírus"
+    }
+  },
+  "haptoglobin": {
+    "i18n": {
+      "pt": "Haptoglobina"
+    }
+  },
+  "heal": {
+    "i18n": {
+      "pt": "Curar"
+    }
+  },
+  "health education": {
+    "i18n": {
+      "pt": "Educação Sanitária"
+    }
+  },
+  "heart disease": {
+    "i18n": {
+      "pt": "Doença Cardiovascular"
+    }
+  },
+  "helminthiasis": {
+    "i18n": {
+      "pt": "Helmintíase"
+    }
+  },
+  "hematology": {
+    "i18n": {
+      "pt": "Hematologia"
+    }
+  },
+  "hemiparesis": {
+    "i18n": {
+      "pt": "Hemiparesia"
+    }
+  },
+  "hemiplegia": {
+    "i18n": {
+      "pt": "Hemiplegia"
+    }
+  },
+  "hemochromatosis": {
+    "i18n": {
+      "pt": "Hemocromatose"
+    }
+  },
+  "hemoculture": {
+    "i18n": {
+      "pt": "Hemocultura"
+    }
+  },
+  "hemodialized": {
+    "i18n": {
+      "pt": "Hemodialisado"
+    }
+  },
+  "hemodialysis": {
+    "i18n": {
+      "pt": "Hemodiálise"
+    }
+  },
+  "hemoglobinopathy": {
+    "i18n": {
+      "pt": "Hemoglobinopatia"
+    }
+  },
+  "hemoglobinuric fever": {
+    "i18n": {
+      "pt": "Febre Hemoglobinúrica"
+    }
+  },
+  "hemogram": {
+    "i18n": {
+      "pt": "Hemograma"
+    }
+  },
+  "hemolysis": {
+    "i18n": {
+      "pt": "Hemólise"
+    }
+  },
+  "hemolytic anemia": {
+    "i18n": {
+      "pt": "Anemia Hemolítica"
+    }
+  },
+  "hemopathy": {
+    "i18n": {
+      "pt": "Hemopatia"
+    }
+  },
+  "hemopericardium": {
+    "i18n": {
+      "pt": "Hemopericárdio"
+    }
+  },
+  "hemophilia": {
+    "i18n": {
+      "pt": "Hemofilia"
+    }
+  },
+  "hemoptysis": {
+    "i18n": {
+      "pt": "Hemoptise"
+    }
+  },
+  "hemorrhage": {
+    "i18n": {
+      "pt": "Hemorragia"
+    }
+  },
+  "hemorrhagic dengue": {
+    "i18n": {
+      "pt": "Dengue Hemorrágico"
+    }
+  },
+  "hemorrhagic fevers": {
+    "i18n": {
+      "pt": "Febre Hemorrágica"
+    }
+  },
+  "hemorrhagic stroke": {
+    "i18n": {
+      "pt": "AVC Hemorrágico"
+    }
+  },
+  "hemothorax": {
+    "i18n": {
+      "pt": "Hemotórax"
+    }
+  },
+  "heparin": {
+    "i18n": {
+      "pt": "Heparina"
+    }
+  },
+  "hepatectomy": {
+    "i18n": {
+      "pt": "Hepatectomia"
+    }
+  },
+  "hepatic cell": {
+    "i18n": {
+      "pt": "Célula Hepática"
+    }
+  },
+  "hepatic dysfuntion": {
+    "i18n": {
+      "pt": "Disfunção Hepática"
+    }
+  },
+  "hepatic encephalopathy": {
+    "i18n": {
+      "pt": "Encefalopatia Hepática"
+    }
+  },
+  "hepatic failure acute": {
+    "i18n": {
+      "pt": "Insuficiência Hepática Aguda"
+    }
+  },
+  "hepatic insufficiency": {
+    "i18n": {
+      "pt": "Insuficiência Hepática"
+    }
+  },
+  "hepatic peliosis": {
+    "i18n": {
+      "pt": "Peliose Hepática"
+    }
+  },
+  "hepatitis": {
+    "i18n": {
+      "pt": "Hepatite"
+    }
+  },
+  "hepatocellular carcinoma": {
+    "i18n": {
+      "pt": "Carcinoma Hepatocelular"
+    }
+  },
+  "hepatocellular failure": {
+    "i18n": {
+      "pt": "Insuficiência Hepatocelular"
+    }
+  },
+  "hepatomegaly": {
+    "i18n": {
+      "pt": "Hepatomegalia"
+    }
+  },
+  "hepatotropic viri": {
+    "i18n": {
+      "pt": "Vírus Hepatotrópico"
+    }
+  },
+  "hernia": {
+    "i18n": {
+      "pt": "Hérnia"
+    }
+  },
+  "herpes genitalis": {
+    "i18n": {
+      "pt": "Herpes Genital"
+    }
+  },
+  "herpes simplex": {
+    "i18n": {
+      "pt": "Herpes Simplex"
+    }
+  },
+  "herpes zoster": {
+    "i18n": {
+      "pt": "Herpes Zoster ou Zona"
+    }
+  },
+  "herpesvirus": {
+    "i18n": {
+      "pt": "Herpesvírus"
+    }
+  },
+  "herpetic keratitis": {
+    "i18n": {
+      "pt": "Ceratite Herpética"
+    }
+  },
+  "hilar lymph node": {
+    "i18n": {
+      "pt": "Gânglios Linfáticos Hilares"
+    }
+  },
+  "hipoxia": {
+    "i18n": {
+      "pt": "Hipoxemia ou Hipoxia"
+    }
+  },
+  "hiv (human immunodeficiency virus)": {
+    "i18n": {
+      "pt": "VIH (Vírus da Imunodeficiência Humana)"
+    }
+  },
+  "hiv infection": {
+    "i18n": {
+      "pt": "Infecção VIH"
+    }
+  },
+  "homoeostasis; homestasis": {
+    "i18n": {
+      "pt": "Homeostasia"
+    }
+  },
+  "hormone": {
+    "i18n": {
+      "pt": "Hormona"
+    }
+  },
+  "hospital": {
+    "i18n": {
+      "pt": "Hospital"
+    }
+  },
+  "hospital hygiene": {
+    "i18n": {
+      "pt": "Higiene Hospitalar"
+    }
+  },
+  "hospitalization": {
+    "i18n": {
+      "pt": "Hospitalização"
+    }
+  },
+  "hospitalize": {
+    "i18n": {
+      "pt": "Hospitalizar"
+    }
+  },
+  "host": {
+    "i18n": {
+      "pt": "Hospedeiro"
+    }
+  },
+  "humoral immunity": {
+    "i18n": {
+      "pt": "Imunidade Humoral"
+    }
+  },
+  "hunger": {
+    "i18n": {
+      "pt": "Fome"
+    }
+  },
+  "hybridization": {
+    "i18n": {
+      "pt": "Hibridização"
+    }
+  },
+  "hydatid cyste": {
+    "i18n": {
+      "pt": "Quisto Hidático"
+    }
+  },
+  "hydatidosis": {
+    "i18n": {
+      "pt": "Hidatidose"
+    }
+  },
+  "hydrocephalus": {
+    "i18n": {
+      "pt": "Hidrocefalia"
+    }
+  },
+  "hydrodiarrhoea": {
+    "i18n": {
+      "pt": "Diarreia Aquosa"
+    }
+  },
+  "hygiene": {
+    "i18n": {
+      "pt": "Higiene"
+    }
+  },
+  "hypercytosis": {
+    "i18n": {
+      "pt": "Hipercitose"
+    }
+  },
+  "hyperemia of the conjunctiva": {
+    "i18n": {
+      "pt": "Hiperemia Conjuntival"
+    }
+  },
+  "hyperendemia": {
+    "i18n": {
+      "pt": "Hiperendemia"
+    }
+  },
+  "hyperendemic area": {
+    "i18n": {
+      "pt": "Área Hiperendémica"
+    }
+  },
+  "hyperinsulinemia": {
+    "i18n": {
+      "pt": "Hiperinsulinemia"
+    }
+  },
+  "hyperleukocytosis": {
+    "i18n": {
+      "pt": "Hiperleucocitose"
+    }
+  },
+  "hyperparasitemia": {
+    "i18n": {
+      "pt": "Hiperparasitemia"
+    }
+  },
+  "hyperplasia": {
+    "i18n": {
+      "pt": "Hiperplasia"
+    }
+  },
+  "hyperpyrexia": {
+    "i18n": {
+      "pt": "Hiperpirexia"
+    }
+  },
+  "hypersecretion": {
+    "i18n": {
+      "pt": "Hipersecreção"
+    }
+  },
+  "hypersensitivity reaction": {
+    "i18n": {
+      "pt": "Reacção de Hipersensibilidade"
+    }
+  },
+  "hypertension": {
+    "i18n": {
+      "pt": "Hipertensão"
+    }
+  },
+  "hyperthermia": {
+    "i18n": {
+      "pt": "Hipertermia"
+    }
+  },
+  "hypertonicity": {
+    "i18n": {
+      "pt": "Hipertonicidade"
+    }
+  },
+  "hypertrophy": {
+    "i18n": {
+      "pt": "Hipertrofia"
+    }
+  },
+  "hypoacusia; hypoacusis": {
+    "i18n": {
+      "pt": "Hipoacusia"
+    }
+  },
+  "hypocalcemia": {
+    "i18n": {
+      "pt": "Hipocalcemia"
+    }
+  },
+  "hypocapnie": {
+    "i18n": {
+      "pt": "Hipocapnia"
+    }
+  },
+  "hypochromia": {
+    "i18n": {
+      "pt": "Hipocromia"
+    }
+  },
+  "hypo-endemia": {
+    "i18n": {
+      "pt": "Hipoendemia"
+    }
+  },
+  "hypoglycemia": {
+    "i18n": {
+      "pt": "Hipoglicemia"
+    }
+  },
+  "hypoplasie": {
+    "i18n": {
+      "pt": "Hipoplasia"
+    }
+  },
+  "hypotension": {
+    "i18n": {
+      "pt": "Hipotensão"
+    }
+  },
+  "hypothermia": {
+    "i18n": {
+      "pt": "Hipotermia"
+    }
+  },
+  "hypotonia": {
+    "i18n": {
+      "pt": "Hipotonia"
+    }
+  },
+  "hypotonic": {
+    "i18n": {
+      "pt": "Hipotónico"
+    }
+  },
+  "hypovolemia": {
+    "i18n": {
+      "pt": "Hipovolemia"
+    }
+  },
+  "iatrogeny": {
+    "i18n": {
+      "pt": "Iatrogenia"
+    }
+  },
+  "icterus, jaundice": {
+    "i18n": {
+      "pt": "Icterícia"
+    }
+  },
+  "ileus, intestinal obstruction": {
+    "i18n": {
+      "pt": "Oclusão Intestinal"
+    }
+  },
+  "ill": {
+    "i18n": {
+      "pt": "Doente"
+    }
+  },
+  "immunity": {
+    "i18n": {
+      "pt": "Imunidade"
+    }
+  },
+  "immunocompromised": {
+    "i18n": {
+      "pt": "Imunocomprometido"
+    }
+  },
+  "immunodepression; immune depression": {
+    "i18n": {
+      "pt": "Imunosupressão"
+    }
+  },
+  "immunodiffusion": {
+    "i18n": {
+      "pt": "Imunodifusão"
+    }
+  },
+  "immunoglobulin (ig)": {
+    "i18n": {
+      "pt": "Imunoglobulina"
+    }
+  },
+  "immunotherapy": {
+    "i18n": {
+      "pt": "Imunoterapia"
+    }
+  },
+  "inchemia": {
+    "i18n": {
+      "pt": "Isquémia"
+    }
+  },
+  "incubation": {
+    "i18n": {
+      "pt": "Incubação"
+    }
+  },
+  "infant mortality": {
+    "i18n": {
+      "pt": "Mortalidade Infantil"
+    }
+  },
+  "infantile diarrhea, infantile diarrhoea": {
+    "i18n": {
+      "pt": "Diarreia Infantil"
+    }
+  },
+  "infection": {
+    "i18n": {
+      "pt": "Infecção"
+    }
+  },
+  "infectious disease": {
+    "i18n": {
+      "pt": "Doença Infecciosa"
+    }
+  },
+  "infectious endocarditis": {
+    "i18n": {
+      "pt": "Endocardite Infecciosa"
+    }
+  },
+  "infectious hepatitis": {
+    "i18n": {
+      "pt": "Hepatite Vírica"
+    }
+  },
+  "infective asthma": {
+    "i18n": {
+      "pt": "Asma Infecciosa"
+    }
+  },
+  "infectivity; infectiosity": {
+    "i18n": {
+      "pt": "Infecciosidade"
+    }
+  },
+  "infertility; intersterility": {
+    "i18n": {
+      "pt": "Infertilidade"
+    }
+  },
+  "infestação": {
+    "i18n": {
+      "pt": "Infestação"
+    }
+  },
+  "infirmary": {
+    "i18n": {
+      "pt": "Enfermaria"
+    }
+  },
+  "inflammation": {
+    "i18n": {
+      "pt": "Inflamação"
+    }
+  },
+  "influenza virus": {
+    "i18n": {
+      "pt": "Vírus Influenza"
+    }
+  },
+  "influenza, flu": {
+    "i18n": {
+      "pt": "Gripe"
+    }
+  },
+  "infusion": {
+    "i18n": {
+      "pt": "Infusão"
+    }
+  },
+  "ingestion": {
+    "i18n": {
+      "pt": "Ingestão"
+    }
+  },
+  "inhalation": {
+    "i18n": {
+      "pt": "Inalação"
+    }
+  },
+  "inhibition": {
+    "i18n": {
+      "pt": "Inibição"
+    }
+  },
+  "initial dose; starting dose": {
+    "i18n": {
+      "pt": "Dose Inicial"
+    }
+  },
+  "injection": {
+    "i18n": {
+      "pt": "Injecção"
+    }
+  },
+  "inoculation": {
+    "i18n": {
+      "pt": "Inoculação"
+    }
+  },
+  "insolation": {
+    "i18n": {
+      "pt": "Insolação"
+    }
+  },
+  "insulin": {
+    "i18n": {
+      "pt": "Insulina"
+    }
+  },
+  "insulin resistance": {
+    "i18n": {
+      "pt": "Resistência à Insulina"
+    }
+  },
+  "interferon": {
+    "i18n": {
+      "pt": "Interferão"
+    }
+  },
+  "intermittent fever": {
+    "i18n": {
+      "pt": "Febre Intermitente"
+    }
+  },
+  "internation": {
+    "i18n": {
+      "pt": "Internamento"
+    }
+  },
+  "internist": {
+    "i18n": {
+      "pt": "Internista"
+    }
+  },
+  "intestinal mucosa": {
+    "i18n": {
+      "pt": "Mucosa Intestinal"
+    }
+  },
+  "intestinal obstruction": {
+    "i18n": {
+      "pt": "Obstrução Intestinal"
+    }
+  },
+  "intestinal parasite; parasitic worn": {
+    "i18n": {
+      "pt": "Parasita Intestinal"
+    }
+  },
+  "intoxication": {
+    "i18n": {
+      "pt": "Intoxicação"
+    }
+  },
+  "intrathecal": {
+    "i18n": {
+      "pt": "Intratecal"
+    }
+  },
+  "intramuscular (i.m.) injection": {
+    "i18n": {
+      "pt": "Injecção Intra-Muscular"
+    }
+  },
+  "intravenous injection": {
+    "i18n": {
+      "pt": "Injecção Endovenosa"
+    }
+  },
+  "isovolumic contraction": {
+    "i18n": {
+      "pt": "Contracção Isovolumétrica"
+    }
+  },
+  "isovolumic relaxation": {
+    "i18n": {
+      "pt": "Relaxamento Isovolumétrico"
+    }
+  },
+  "japanese encephalitis": {
+    "i18n": {
+      "pt": "Encefalite Japonesa"
+    }
+  },
+  "jugular venous pressure (jvp)": {
+    "i18n": {
+      "pt": "Pressão Venosa Jugular"
+    }
+  },
+  "jungle yellow fever": {
+    "i18n": {
+      "pt": "Febre Amarela Silvática"
+    }
+  },
+  "juvenile paralysis": {
+    "i18n": {
+      "pt": "Paralisia Infantil"
+    }
+  },
+  "ketogenesis": {
+    "i18n": {
+      "pt": "Cetogénese"
+    }
+  },
+  "kinesitherapy": {
+    "i18n": {
+      "pt": "Cinesiterapia"
+    }
+  },
+  "koch's bacillus": {
+    "i18n": {
+      "pt": "Bacilo de Kock"
+    }
+  },
+  "kupffer's cell": {
+    "i18n": {
+      "pt": "Célula de Kupffer"
+    }
+  },
+  "laboratory diagnosis": {
+    "i18n": {
+      "pt": "Diagnóstico Laboratorial"
+    }
+  },
+  "labyrinthitis": {
+    "i18n": {
+      "pt": "Labirintite"
+    }
+  },
+  "lactic acidosis": {
+    "i18n": {
+      "pt": "Acidose Láctica"
+    }
+  },
+  "lacunar infarct": {
+    "i18n": {
+      "pt": "Enfarte Lacunar"
+    }
+  },
+  "laminectomy": {
+    "i18n": {
+      "pt": "Laminectomia"
+    }
+  },
+  "laparotomy": {
+    "i18n": {
+      "pt": "Laparotomia"
+    }
+  },
+  "laps/lap sponges": {
+    "i18n": {
+      "pt": "Compressas Abdominais"
+    }
+  },
+  "large doses; high doses": {
+    "i18n": {
+      "pt": "Dose Elevada"
+    }
+  },
+  "laryngitis": {
+    "i18n": {
+      "pt": "Laringite"
+    }
+  },
+  "lassa fever": {
+    "i18n": {
+      "pt": "Febre de Lassa"
+    }
+  },
+  "latency": {
+    "i18n": {
+      "pt": "Latência"
+    }
+  },
+  "latrine; cesspool": {
+    "i18n": {
+      "pt": "Latrina"
+    }
+  },
+  "leishmania": {
+    "i18n": {
+      "pt": "Leishmania"
+    }
+  },
+  "leprosy": {
+    "i18n": {
+      "pt": "Lepra"
+    }
+  },
+  "leptospirosis": {
+    "i18n": {
+      "pt": "Leptospirose"
+    }
+  },
+  "lesion": {
+    "i18n": {
+      "pt": "Lesão"
+    }
+  },
+  "lesser omentum": {
+    "i18n": {
+      "pt": "Pequeno Epiploon ou Epiploon Gastro-Hepático"
+    }
+  },
+  "lethality": {
+    "i18n": {
+      "pt": "Letalidade"
+    }
+  },
+  "lethargy": {
+    "i18n": {
+      "pt": "Letargia"
+    }
+  },
+  "leucémie": {
+    "i18n": {
+      "pt": "Leucemia"
+    }
+  },
+  "leukocyte": {
+    "i18n": {
+      "pt": "Leucócito"
+    }
+  },
+  "leukocytosis": {
+    "i18n": {
+      "pt": "Leucocitose"
+    }
+  },
+  "leukopenia": {
+    "i18n": {
+      "pt": "Leucopenia"
+    }
+  },
+  "leukorrhea": {
+    "i18n": {
+      "pt": "Leucorreia"
+    }
+  },
+  "limbic system": {
+    "i18n": {
+      "pt": "Sistema Límbico"
+    }
+  },
+  "listeriosis": {
+    "i18n": {
+      "pt": "Listeriose"
+    }
+  },
+  "lithiasis": {
+    "i18n": {
+      "pt": "Litíase"
+    }
+  },
+  "liver abscess": {
+    "i18n": {
+      "pt": "Abcesso Hepático"
+    }
+  },
+  "liver biopsy": {
+    "i18n": {
+      "pt": "Biópsia Hepática"
+    }
+  },
+  "liver damage": {
+    "i18n": {
+      "pt": "Lesão Hepática"
+    }
+  },
+  "liver transplant": {
+    "i18n": {
+      "pt": "Transplantação Hepática"
+    }
+  },
+  "lobectomy": {
+    "i18n": {
+      "pt": "Lobectomia"
+    }
+  },
+  "low-grade fever": {
+    "i18n": {
+      "pt": "Febre Baixa"
+    }
+  },
+  "lumbar puncture (lp or tap)": {
+    "i18n": {
+      "pt": "Punção Lombar"
+    }
+  },
+  "lung (carcinoma of)": {
+    "i18n": {
+      "pt": "Cancro do Pulmão"
+    }
+  },
+  "lupus": {
+    "i18n": {
+      "pt": "Lúpus"
+    }
+  },
+  "lyme disease": {
+    "i18n": {
+      "pt": "Doença de Lyme"
+    }
+  },
+  "lymfoma": {
+    "i18n": {
+      "pt": "Linfoma"
+    }
+  },
+  "lymph node": {
+    "i18n": {
+      "pt": "Gânglio Linfático"
+    }
+  },
+  "lymphadenopathy": {
+    "i18n": {
+      "pt": "Linfadenopatia"
+    }
+  },
+  "lymphangitis": {
+    "i18n": {
+      "pt": "Linfangite"
+    }
+  },
+  "lymphatic filariasis": {
+    "i18n": {
+      "pt": "Filaríase ou Filariose Linfática"
+    }
+  },
+  "lymphedema": {
+    "i18n": {
+      "pt": "Linfedema"
+    }
+  },
+  "lymphocytes": {
+    "i18n": {
+      "pt": "Linfócitos"
+    }
+  },
+  "lymphocytic alveolitis": {
+    "i18n": {
+      "pt": "Alveolite Linfocítica"
+    }
+  },
+  "lymphocytosis": {
+    "i18n": {
+      "pt": "Linfocitose"
+    }
+  },
+  "malaria": {
+    "i18n": {
+      "pt": "Malária ou Paludismo"
+    }
+  },
+  "malaria parasite": {
+    "i18n": {
+      "pt": "Parasita Malárico"
+    }
+  },
+  "malignancy": {
+    "i18n": {
+      "pt": "Malignidade"
+    }
+  },
+  "malnutrition": {
+    "i18n": {
+      "pt": "Malnutrição"
+    }
+  },
+  "mammography": {
+    "i18n": {
+      "pt": "Mamografia"
+    }
+  },
+  "marasmus": {
+    "i18n": {
+      "pt": "Marasmo"
+    }
+  },
+  "marsupialization": {
+    "i18n": {
+      "pt": "Marsupialização"
+    }
+  },
+  "mast cell": {
+    "i18n": {
+      "pt": "Mastócito"
+    }
+  },
+  "mastectomy": {
+    "i18n": {
+      "pt": "Mastectomia"
+    }
+  },
+  "mastoidectomy": {
+    "i18n": {
+      "pt": "Mastoidectomia"
+    }
+  },
+  "maternity ward": {
+    "i18n": {
+      "pt": "Maternidade"
+    }
+  },
+  "mediastinum": {
+    "i18n": {
+      "pt": "Mediastino"
+    }
+  },
+  "medical care; medical aid": {
+    "i18n": {
+      "pt": "Assistência Médica"
+    }
+  },
+  "medical certificate": {
+    "i18n": {
+      "pt": "Atestado Médico"
+    }
+  },
+  "medical examination": {
+    "i18n": {
+      "pt": "Exame Médico"
+    }
+  },
+  "medical pathology": {
+    "i18n": {
+      "pt": "Patologia Médica"
+    }
+  },
+  "medical products": {
+    "i18n": {
+      "pt": "Material Médico"
+    }
+  },
+  "medical treatment": {
+    "i18n": {
+      "pt": "Tratamento Médico"
+    }
+  },
+  "medicament": {
+    "i18n": {
+      "pt": "Fármaco"
+    }
+  },
+  "medication": {
+    "i18n": {
+      "pt": "Medicação"
+    }
+  },
+  "medicinal prescription": {
+    "i18n": {
+      "pt": "Receita Médica"
+    }
+  },
+  "medullary aplasia": {
+    "i18n": {
+      "pt": "Aplasia Medular"
+    }
+  },
+  "membrane": {
+    "i18n": {
+      "pt": "Membrana"
+    }
+  },
+  "meningitis": {
+    "i18n": {
+      "pt": "Meningite"
+    }
+  },
+  "meningococcal (or meningococcic) meningittis": {
+    "i18n": {
+      "pt": "Meningite Meningocócica"
+    }
+  },
+  "menstruation": {
+    "i18n": {
+      "pt": "Menstruação"
+    }
+  },
+  "metabolic acidosis": {
+    "i18n": {
+      "pt": "Acidose Metabólica"
+    }
+  },
+  "metastatization": {
+    "i18n": {
+      "pt": "Metastização"
+    }
+  },
+  "microbe": {
+    "i18n": {
+      "pt": "Micróbio"
+    }
+  },
+  "microbiologic examination": {
+    "i18n": {
+      "pt": "Exame Microbiológico"
+    }
+  },
+  "microorganism": {
+    "i18n": {
+      "pt": "Microorganismo"
+    }
+  },
+  "microradiographie": {
+    "i18n": {
+      "pt": "Microrradiografia"
+    }
+  },
+  "microscopy": {
+    "i18n": {
+      "pt": "Microscopia"
+    }
+  },
+  "miliary tuberculosis": {
+    "i18n": {
+      "pt": "Tuberculose Miliar"
+    }
+  },
+  "mitosis": {
+    "i18n": {
+      "pt": "Mitose"
+    }
+  },
+  "mitral valve": {
+    "i18n": {
+      "pt": "Válvula Mitral"
+    }
+  },
+  "monoclonal antibodies": {
+    "i18n": {
+      "pt": "Anticorpo Monoclonal"
+    }
+  },
+  "monovalent vaccine": {
+    "i18n": {
+      "pt": "Vacina Monovalente"
+    }
+  },
+  "mortality": {
+    "i18n": {
+      "pt": "Mortalidade"
+    }
+  },
+  "mosquito": {
+    "i18n": {
+      "pt": "Mosquito"
+    }
+  },
+  "mucosa": {
+    "i18n": {
+      "pt": "Mucosa"
+    }
+  },
+  "multiple gated acquisition scan (muga)": {
+    "i18n": {
+      "pt": "Angiografia de Múltipla Entrada"
+    }
+  },
+  "multiple sclerosis": {
+    "i18n": {
+      "pt": "Esclerose Múltipla"
+    }
+  },
+  "mumps": {
+    "i18n": {
+      "pt": "Papeira"
+    }
+  },
+  "murine typhus": {
+    "i18n": {
+      "pt": "Tifo Murino"
+    }
+  },
+  "muscle spasm, muscle cramp": {
+    "i18n": {
+      "pt": "Espasmo Muscular"
+    }
+  },
+  "muscular tonus": {
+    "i18n": {
+      "pt": "Tónus Muscular"
+    }
+  },
+  "mutation": {
+    "i18n": {
+      "pt": "Mutação"
+    }
+  },
+  "myalgia": {
+    "i18n": {
+      "pt": "Mialgia"
+    }
+  },
+  "mycobacteria": {
+    "i18n": {
+      "pt": "Micobactéria"
+    }
+  },
+  "mycotic aneurysm": {
+    "i18n": {
+      "pt": "Aneurisma Micótico"
+    }
+  },
+  "myelodysplasia": {
+    "i18n": {
+      "pt": "Mielodisplasia"
+    }
+  },
+  "myelogram": {
+    "i18n": {
+      "pt": "Mielograma"
+    }
+  },
+  "myelomeningocele": {
+    "i18n": {
+      "pt": "Mielomenigocelo"
+    }
+  },
+  "myelotomy": {
+    "i18n": {
+      "pt": "Mielotomia"
+    }
+  },
+  "myocardial failure": {
+    "i18n": {
+      "pt": "Insuficiência Miocárdica"
+    }
+  },
+  "myocardial infarction": {
+    "i18n": {
+      "pt": "Enfarte do Miocárdio"
+    }
+  },
+  "myocarditis": {
+    "i18n": {
+      "pt": "Miocardite"
+    }
+  },
+  "myocardium": {
+    "i18n": {
+      "pt": "Miocárdio"
+    }
+  },
+  "myoglobin": {
+    "i18n": {
+      "pt": "Mioglobina"
+    }
+  },
+  "myopathy": {
+    "i18n": {
+      "pt": "Miopatia"
+    }
+  },
+  "myopericarditis": {
+    "i18n": {
+      "pt": "Miopericardite"
+    }
+  },
+  "myositis": {
+    "i18n": {
+      "pt": "Miosite"
+    }
+  },
+  "nasopharynge": {
+    "i18n": {
+      "pt": "Nasofaringe"
+    }
+  },
+  "natality": {
+    "i18n": {
+      "pt": "Natalidade"
+    }
+  },
+  "natural orifices translumenal endoscopic surgery (notes)": {
+    "i18n": {
+      "pt": "Cirurgia Endoscópica Transluminal"
+    }
+  },
+  "nausea": {
+    "i18n": {
+      "pt": "Náusea"
+    }
+  },
+  "necrosis": {
+    "i18n": {
+      "pt": "Necrose"
+    }
+  },
+  "necrotizing vasculitis": {
+    "i18n": {
+      "pt": "Vasculite Necrotizante"
+    }
+  },
+  "neonatal mortality": {
+    "i18n": {
+      "pt": "Mortalidade Neonatal"
+    }
+  },
+  "neoplasia": {
+    "i18n": {
+      "pt": "Neoplasia"
+    }
+  },
+  "nervous tissue; nerve tissue; neural tissue": {
+    "i18n": {
+      "pt": "Tecido Nervoso"
+    }
+  },
+  "neurogenic": {
+    "i18n": {
+      "pt": "Neurogénico"
+    }
+  },
+  "neuropathy": {
+    "i18n": {
+      "pt": "Neuropatia"
+    }
+  },
+  "neurosurgery": {
+    "i18n": {
+      "pt": "Neurocirurgia"
+    }
+  },
+  "neutralize": {
+    "i18n": {
+      "pt": "Neutralizar"
+    }
+  },
+  "neutralizing antibody": {
+    "i18n": {
+      "pt": "Anticorpo Neutralizante"
+    }
+  },
+  "neutropenia": {
+    "i18n": {
+      "pt": "Neutropenia"
+    }
+  },
+  "neutrophilia": {
+    "i18n": {
+      "pt": "Neutrofilia"
+    }
+  },
+  "newly-born child": {
+    "i18n": {
+      "pt": "Recém-Nascido"
+    }
+  },
+  "nodulectomy": {
+    "i18n": {
+      "pt": "Nodulectomia"
+    }
+  },
+  "non-hodgkin lymphoma": {
+    "i18n": {
+      "pt": "Linfoma Não Hodgkin"
+    }
+  },
+  "nurse": {
+    "i18n": {
+      "pt": "Enfermeira"
+    }
+  },
+  "nutrition": {
+    "i18n": {
+      "pt": "Nutrição"
+    }
+  },
+  "nutritional rehabilitation": {
+    "i18n": {
+      "pt": "Recuperação Nutricional"
+    }
+  },
+  "nystagmus": {
+    "i18n": {
+      "pt": "Nistagmo"
+    }
+  },
+  "obnubilation": {
+    "i18n": {
+      "pt": "Obnubilação"
+    }
+  },
+  "obstetric sonography": {
+    "i18n": {
+      "pt": "Ecografia"
+    }
+  },
+  "obstetrics": {
+    "i18n": {
+      "pt": "Obstetrícia"
+    }
+  },
+  "obstipation; constipation": {
+    "i18n": {
+      "pt": "Obstipação"
+    }
+  },
+  "obstruction": {
+    "i18n": {
+      "pt": "Obstrução"
+    }
+  },
+  "obstructive hydrocephalus": {
+    "i18n": {
+      "pt": "Hidrocefalia Obstrutiva"
+    }
+  },
+  "odynophagia": {
+    "i18n": {
+      "pt": "Odinofagia"
+    }
+  },
+  "oligloclonal bands": {
+    "i18n": {
+      "pt": "Bandas Oligoclonais"
+    }
+  },
+  "onchocerciasis": {
+    "i18n": {
+      "pt": "Oncocercose"
+    }
+  },
+  "ophtalmologist": {
+    "i18n": {
+      "pt": "Oftalmologista"
+    }
+  },
+  "ophthalmic surgery": {
+    "i18n": {
+      "pt": "Cirurgia Oftalmológica"
+    }
+  },
+  "opportunistic infection": {
+    "i18n": {
+      "pt": "Infecção Oportunista"
+    }
+  },
+  "optic neuritis; neuritis of the optic nerve": {
+    "i18n": {
+      "pt": "Nevrite Óptica"
+    }
+  },
+  "optic nerve": {
+    "i18n": {
+      "pt": "Nervo Óptico"
+    }
+  },
+  "optical microscopy": {
+    "i18n": {
+      "pt": "Microscopia Óptica"
+    }
+  },
+  "oral antidiabetic": {
+    "i18n": {
+      "pt": "Antidiabético Oral"
+    }
+  },
+  "oral vaccine": {
+    "i18n": {
+      "pt": "Vacina Oral"
+    }
+  },
+  "organ graft": {
+    "i18n": {
+      "pt": "Transplante de Órgão"
+    }
+  },
+  "oropharynx": {
+    "i18n": {
+      "pt": "Orofaringe"
+    }
+  },
+  "osteomyelitis": {
+    "i18n": {
+      "pt": "Osteomielite"
+    }
+  },
+  "osteotomy": {
+    "i18n": {
+      "pt": "Osteotomia"
+    }
+  },
+  "otalgia": {
+    "i18n": {
+      "pt": "Otalgia"
+    }
+  },
+  "otitis": {
+    "i18n": {
+      "pt": "Otite"
+    }
+  },
+  "otomastoiditis": {
+    "i18n": {
+      "pt": "Otomastoidite"
+    }
+  },
+  "palpation": {
+    "i18n": {
+      "pt": "Palpação"
+    }
+  },
+  "pancreatic diabetes": {
+    "i18n": {
+      "pt": "Diabetes Pancreática"
+    }
+  },
+  "pancreatic duct": {
+    "i18n": {
+      "pt": "Canal Pancreático ou de Wirsung"
+    }
+  },
+  "pancreatitis": {
+    "i18n": {
+      "pt": "Pancreatite"
+    }
+  },
+  "pandemic": {
+    "i18n": {
+      "pt": "Pandemia"
+    }
+  },
+  "papillotomy; papillectomy": {
+    "i18n": {
+      "pt": "Papilotomia"
+    }
+  },
+  "pappilledema": {
+    "i18n": {
+      "pt": "Papiledema"
+    }
+  },
+  "paralysis": {
+    "i18n": {
+      "pt": "Paralisia"
+    }
+  },
+  "paramedical": {
+    "i18n": {
+      "pt": "Paramédico"
+    }
+  },
+  "pararhythmia, dysrhythmia": {
+    "i18n": {
+      "pt": "Disritmia"
+    }
+  },
+  "parasite": {
+    "i18n": {
+      "pt": "Parasita"
+    }
+  },
+  "parasitemia": {
+    "i18n": {
+      "pt": "Parasitemia"
+    }
+  },
+  "parasitic disease": {
+    "i18n": {
+      "pt": "Doença Parasitária"
+    }
+  },
+  "parasitosis": {
+    "i18n": {
+      "pt": "Parasitose"
+    }
+  },
+  "paresis": {
+    "i18n": {
+      "pt": "Paresia"
+    }
+  },
+  "parathyroid gland": {
+    "i18n": {
+      "pt": "Paratireóide"
+    }
+  },
+  "parotiditis": {
+    "i18n": {
+      "pt": "Parotidite"
+    }
+  },
+  "patellar tendon (or ligament)": {
+    "i18n": {
+      "pt": "Tendão ou Ligamento Rotuliano"
+    }
+  },
+  "pathogenesis": {
+    "i18n": {
+      "pt": "Patogénese"
+    }
+  },
+  "pathogenic agent": {
+    "i18n": {
+      "pt": "Agente Patogénico"
+    }
+  },
+  "pathogenicity": {
+    "i18n": {
+      "pt": "Patogenicidade"
+    }
+  },
+  "pathogeny": {
+    "i18n": {
+      "pt": "Patogenia"
+    }
+  },
+  "pathology": {
+    "i18n": {
+      "pt": "Patologia"
+    }
+  },
+  "patient": {
+    "i18n": {
+      "pt": "Paciente"
+    }
+  },
+  "pediatrics": {
+    "i18n": {
+      "pt": "Pediatria"
+    }
+  },
+  "penicillin": {
+    "i18n": {
+      "pt": "Penicilina"
+    }
+  },
+  "peptic ulcer": {
+    "i18n": {
+      "pt": "Úlcera Péptica"
+    }
+  },
+  "perfusion": {
+    "i18n": {
+      "pt": "Perfusão"
+    }
+  },
+  "pericardial effusion": {
+    "i18n": {
+      "pt": "Derrame Pericárdico"
+    }
+  },
+  "pericarditis": {
+    "i18n": {
+      "pt": "Pericardite"
+    }
+  },
+  "perimetry": {
+    "i18n": {
+      "pt": "Perimetria"
+    }
+  },
+  "peripheral neurophaty": {
+    "i18n": {
+      "pt": "Neuropatia Periférica"
+    }
+  },
+  "peripheral nervous system": {
+    "i18n": {
+      "pt": "Sistema Nervoso Periférico"
+    }
+  },
+  "peritoneography": {
+    "i18n": {
+      "pt": "Peritoneografia"
+    }
+  },
+  "peritoneum": {
+    "i18n": {
+      "pt": "Peritoneu"
+    }
+  },
+  "peritonitis": {
+    "i18n": {
+      "pt": "Peritonite"
+    }
+  },
+  "pertussis": {
+    "i18n": {
+      "pt": "Pertussis"
+    }
+  },
+  "pertussis, whopping cough": {
+    "i18n": {
+      "pt": "Tosse Convulsa"
+    }
+  },
+  "pestis bubonica": {
+    "i18n": {
+      "pt": "Peste Bubónica"
+    }
+  },
+  "phagocytosis": {
+    "i18n": {
+      "pt": "Fagocitose"
+    }
+  },
+  "pharmaceutical industry": {
+    "i18n": {
+      "pt": "Indústria Farmacêutica"
+    }
+  },
+  "pharmacy": {
+    "i18n": {
+      "pt": "Farmácia"
+    }
+  },
+  "pharygitis": {
+    "i18n": {
+      "pt": "Faringite"
+    }
+  },
+  "phospholipid antibody": {
+    "i18n": {
+      "pt": "Anticorpos Anti-Fosfolípidos"
+    }
+  },
+  "photophobia": {
+    "i18n": {
+      "pt": "Fotofobia"
+    }
+  },
+  "physician": {
+    "i18n": {
+      "pt": "Médico"
+    }
+  },
+  "physiophatology": {
+    "i18n": {
+      "pt": "Fisiopatologia"
+    }
+  },
+  "physiotherapy": {
+    "i18n": {
+      "pt": "Fisioterapia"
+    }
+  },
+  "pill": {
+    "i18n": {
+      "pt": "Pílula"
+    }
+  },
+  "pituitary gland": {
+    "i18n": {
+      "pt": "Glândula Pituitária ou Hipófise"
+    }
+  },
+  "placenta": {
+    "i18n": {
+      "pt": "Placenta"
+    }
+  },
+  "plasma": {
+    "i18n": {
+      "pt": "Plasma"
+    }
+  },
+  "plasmin": {
+    "i18n": {
+      "pt": "Plasmina"
+    }
+  },
+  "pleocytosis": {
+    "i18n": {
+      "pt": "Pleocitose"
+    }
+  },
+  "pleural biopsy; pleural needle biopsy": {
+    "i18n": {
+      "pt": "Biópsia Pleural"
+    }
+  },
+  "pleural effusion": {
+    "i18n": {
+      "pt": "Derrame Pleural"
+    }
+  },
+  "pleural tuberculosis": {
+    "i18n": {
+      "pt": "Tuberculose Pleural"
+    }
+  },
+  "pneumatocele": {
+    "i18n": {
+      "pt": "Pneumatocelo"
+    }
+  },
+  "pneumocistose pulmonar": {
+    "i18n": {
+      "pt": "Pneumocistose Pulmonar"
+    }
+  },
+  "pneumococcal infection": {
+    "i18n": {
+      "pt": "Infecção Pneumocócica"
+    }
+  },
+  "pneumocystosis": {
+    "i18n": {
+      "pt": "Pneumocistose"
+    }
+  },
+  "pneumonia": {
+    "i18n": {
+      "pt": "Pneumonia"
+    }
+  },
+  "poliomielitis; poliomyelitis": {
+    "i18n": {
+      "pt": "Poliomielite"
+    }
+  },
+  "poliovirus": {
+    "i18n": {
+      "pt": "Poliovírus"
+    }
+  },
+  "polychemotherapy": {
+    "i18n": {
+      "pt": "Poliquimioterapia"
+    }
+  },
+  "polymerase chain reaction (pcr)": {
+    "i18n": {
+      "pt": "Reacção de Polimerização em Cadeia (Pcr)"
+    }
+  },
+  "polyneuritis": {
+    "i18n": {
+      "pt": "Polinevrite"
+    }
+  },
+  "polyneuropathy": {
+    "i18n": {
+      "pt": "Polineuropatia"
+    }
+  },
+  "polypnea": {
+    "i18n": {
+      "pt": "Polipneia"
+    }
+  },
+  "posology": {
+    "i18n": {
+      "pt": "Posologia"
+    }
+  },
+  "postabortal infection": {
+    "i18n": {
+      "pt": "Infecção Pós-Aborto"
+    }
+  },
+  "potable water": {
+    "i18n": {
+      "pt": "Água Potável"
+    }
+  },
+  "premature calving; preterm delievery": {
+    "i18n": {
+      "pt": "Parto Prematuro"
+    }
+  },
+  "preservation of vaccines": {
+    "i18n": {
+      "pt": "Conservação das Vacinas"
+    }
+  },
+  "prevent": {
+    "i18n": {
+      "pt": "Prevenir"
+    }
+  },
+  "prevention": {
+    "i18n": {
+      "pt": "Prevenção"
+    }
+  },
+  "primary health care": {
+    "i18n": {
+      "pt": "Cuidados de Saúde Primário"
+    }
+  },
+  "primary infection": {
+    "i18n": {
+      "pt": "Infecção Primária"
+    }
+  },
+  "primary prophylaxis": {
+    "i18n": {
+      "pt": "Profilaxia Primária"
+    }
+  },
+  "primary resistance": {
+    "i18n": {
+      "pt": "Resistência Primária"
+    }
+  },
+  "profound coma": {
+    "i18n": {
+      "pt": "Coma Profundo"
+    }
+  },
+  "prognosis": {
+    "i18n": {
+      "pt": "Prognóstico"
+    }
+  },
+  "prophylaxis": {
+    "i18n": {
+      "pt": "Profilaxia"
+    }
+  },
+  "prostate (carcinoma of)": {
+    "i18n": {
+      "pt": "Cancro da Próstata"
+    }
+  },
+  "prostatitis": {
+    "i18n": {
+      "pt": "Prostatite"
+    }
+  },
+  "prothesis": {
+    "i18n": {
+      "pt": "Prótese"
+    }
+  },
+  "psittacosis": {
+    "i18n": {
+      "pt": "Psitacose"
+    }
+  },
+  "psychosis": {
+    "i18n": {
+      "pt": "Psicose"
+    }
+  },
+  "pulmonary aspergilosis": {
+    "i18n": {
+      "pt": "Aspergilose Pulmonar"
+    }
+  },
+  "pulmonary chest x-ray; chest x-rays": {
+    "i18n": {
+      "pt": "Radiografia do Tórax"
+    }
+  },
+  "pulmonary distomatosis": {
+    "i18n": {
+      "pt": "Distomatose Pulmonar"
+    }
+  },
+  "pulmonary edema": {
+    "i18n": {
+      "pt": "Edema Pulmonar"
+    }
+  },
+  "pulmonary embolism": {
+    "i18n": {
+      "pt": "Embolia Pulmonar"
+    }
+  },
+  "pulmonary hypertension": {
+    "i18n": {
+      "pt": "Hipertensão Pulmonar"
+    }
+  },
+  "pulmonary tuberculosis": {
+    "i18n": {
+      "pt": "Tuberculose Pulmonar"
+    }
+  },
+  "pupil": {
+    "i18n": {
+      "pt": "Pupila"
+    }
+  },
+  "putrid bronchitis; suppurative bronchitis": {
+    "i18n": {
+      "pt": "Bronquite Purulenta"
+    }
+  },
+  "pyomyositis": {
+    "i18n": {
+      "pt": "Piomiosite"
+    }
+  },
+  "quadriceps": {
+    "i18n": {
+      "pt": "Quadricípede Crural"
+    }
+  },
+  "rabies": {
+    "i18n": {
+      "pt": "Raiva"
+    }
+  },
+  "rabies virus": {
+    "i18n": {
+      "pt": "Vírus da Raiva"
+    }
+  },
+  "radiation": {
+    "i18n": {
+      "pt": "Radiação"
+    }
+  },
+  "radical mastectomy": {
+    "i18n": {
+      "pt": "Mastectomia Radical"
+    }
+  },
+  "radiography": {
+    "i18n": {
+      "pt": "Radiografia"
+    }
+  },
+  "radiology": {
+    "i18n": {
+      "pt": "Radiologia"
+    }
+  },
+  "radiotherapy": {
+    "i18n": {
+      "pt": "Radioterapia"
+    }
+  },
+  "rapid eye movement (rem)": {
+    "i18n": {
+      "pt": "Movimento Rápido dos Olhos"
+    }
+  },
+  "rapid inflow": {
+    "i18n": {
+      "pt": "Enchimento Rápido"
+    }
+  },
+  "rectitis": {
+    "i18n": {
+      "pt": "Rectite"
+    }
+  },
+  "relapsing fever": {
+    "i18n": {
+      "pt": "Febre Recorrente"
+    }
+  },
+  "renal failure": {
+    "i18n": {
+      "pt": "Insuficiência Renal"
+    }
+  },
+  "renal failure acute": {
+    "i18n": {
+      "pt": "Insuficiência Renal Aguda"
+    }
+  },
+  "renal failure chronic": {
+    "i18n": {
+      "pt": "Insuficiência Renal Crónica"
+    }
+  },
+  "respiratory failure; respiratory impairment; respiratory ailment": {
+    "i18n": {
+      "pt": "Insuficiência Respiratória"
+    }
+  },
+  "retina": {
+    "i18n": {
+      "pt": "Retina"
+    }
+  },
+  "retinitis": {
+    "i18n": {
+      "pt": "Retinite"
+    }
+  },
+  "retinopathy": {
+    "i18n": {
+      "pt": "Retinopatia"
+    }
+  },
+  "retrovirus": {
+    "i18n": {
+      "pt": "Retrovírus"
+    }
+  },
+  "revaccination": {
+    "i18n": {
+      "pt": "Revacinação"
+    }
+  },
+  "rheumatic fever": {
+    "i18n": {
+      "pt": "Febre Reumática"
+    }
+  },
+  "rheumatoid": {
+    "i18n": {
+      "pt": "Reumatóide"
+    }
+  },
+  "rheumatoid arthritis": {
+    "i18n": {
+      "pt": "Artrite Reumatóide"
+    }
+  },
+  "rickettsia": {
+    "i18n": {
+      "pt": "Rickettsia"
+    }
+  },
+  "rickettsia prowazekii": {
+    "i18n": {
+      "pt": "Rickettsia Prowaseki"
+    }
+  },
+  "rickettsia typhi": {
+    "i18n": {
+      "pt": "Rickettsia Typhi"
+    }
+  },
+  "rickettsiaceae": {
+    "i18n": {
+      "pt": "Rickettsiaceae"
+    }
+  },
+  "river blindness": {
+    "i18n": {
+      "pt": "Cegueira dos Rios"
+    }
+  },
+  "rubella": {
+    "i18n": {
+      "pt": "Rubéola"
+    }
+  },
+  "sample": {
+    "i18n": {
+      "pt": "Amostra"
+    }
+  },
+  "sampling": {
+    "i18n": {
+      "pt": "Amostragem"
+    }
+  },
+  "sanatorium for children": {
+    "i18n": {
+      "pt": "Hospital Pediátrico"
+    }
+  },
+  "sanitary room": {
+    "i18n": {
+      "pt": "Posto de Saúde"
+    }
+  },
+  "savage poliovirus": {
+    "i18n": {
+      "pt": "Poliovírus Selvagem"
+    }
+  },
+  "scabies": {
+    "i18n": {
+      "pt": "Escabiose"
+    }
+  },
+  "scarlet fever": {
+    "i18n": {
+      "pt": "Escarlatina"
+    }
+  },
+  "schistasis; fissuration": {
+    "i18n": {
+      "pt": "Fissuração"
+    }
+  },
+  "scleritis": {
+    "i18n": {
+      "pt": "Esclerite"
+    }
+  },
+  "sclerosis": {
+    "i18n": {
+      "pt": "Esclerose"
+    }
+  },
+  "secondary infection": {
+    "i18n": {
+      "pt": "Infecção Secundária"
+    }
+  },
+  "secretion of urine": {
+    "i18n": {
+      "pt": "Excreção Urinária"
+    }
+  },
+  "self-medication": {
+    "i18n": {
+      "pt": "Auto-Medicação"
+    }
+  },
+  "serogical test": {
+    "i18n": {
+      "pt": "Exame Serológico"
+    }
+  },
+  "serological test": {
+    "i18n": {
+      "pt": "Teste Serológico"
+    }
+  },
+  "serum diagnosis": {
+    "i18n": {
+      "pt": "Diagnóstico Serológico"
+    }
+  },
+  "sexually transmitted diseases": {
+    "i18n": {
+      "pt": "Doença Sexualmente Transmitida"
+    }
+  },
+  "sickle cell anemia": {
+    "i18n": {
+      "pt": "Drepanocitose"
+    }
+  },
+  "sickle-cell anemia": {
+    "i18n": {
+      "pt": "Anemia de Célula Falciforme"
+    }
+  },
+  "side effect": {
+    "i18n": {
+      "pt": "Efeito Secundário"
+    }
+  },
+  "single dose": {
+    "i18n": {
+      "pt": "Dose Única"
+    }
+  },
+  "sinus node": {
+    "i18n": {
+      "pt": "Nódulo Sinusal"
+    }
+  },
+  "sinus tachycardia": {
+    "i18n": {
+      "pt": "Taquicardia Sinusal"
+    }
+  },
+  "skin (carcinoma of)": {
+    "i18n": {
+      "pt": "Cancro da Pele"
+    }
+  },
+  "skin biopsy": {
+    "i18n": {
+      "pt": "Biópsia Cutânea"
+    }
+  },
+  "smallpox, variola": {
+    "i18n": {
+      "pt": "Varíola"
+    }
+  },
+  "snow blindness": {
+    "i18n": {
+      "pt": "Cegueira da Neve"
+    }
+  },
+  "somatic antigen": {
+    "i18n": {
+      "pt": "Antigénio Somático"
+    }
+  },
+  "spasm": {
+    "i18n": {
+      "pt": "Espasmo"
+    }
+  },
+  "specialist": {
+    "i18n": {
+      "pt": "Especialista"
+    }
+  },
+  "specific immunity": {
+    "i18n": {
+      "pt": "Imunidade Específica"
+    }
+  },
+  "specific treatment": {
+    "i18n": {
+      "pt": "Tratamento Específico"
+    }
+  },
+  "spherocytosis": {
+    "i18n": {
+      "pt": "Esferocitose"
+    }
+  },
+  "splenectomy": {
+    "i18n": {
+      "pt": "Esplenectomia"
+    }
+  },
+  "spondylodiskitis": {
+    "i18n": {
+      "pt": "Espondilodiscite"
+    }
+  },
+  "spontaneous abortion": {
+    "i18n": {
+      "pt": "Aborto Espontâneo"
+    }
+  },
+  "sporogony": {
+    "i18n": {
+      "pt": "Esporogonia"
+    }
+  },
+  "staphylococcal pneumonia": {
+    "i18n": {
+      "pt": "Pneumonia Estafilocócica"
+    }
+  },
+  "sterilization": {
+    "i18n": {
+      "pt": "Esterilização"
+    }
+  },
+  "steroid": {
+    "i18n": {
+      "pt": "Esteróide"
+    }
+  },
+  "stethoscope": {
+    "i18n": {
+      "pt": "Estetoscópio"
+    }
+  },
+  "stomatitis": {
+    "i18n": {
+      "pt": "Estomatite"
+    }
+  },
+  "stool": {
+    "i18n": {
+      "pt": "Fezes"
+    }
+  },
+  "strain": {
+    "i18n": {
+      "pt": "Estirpe"
+    }
+  },
+  "strength, dosage": {
+    "i18n": {
+      "pt": "Dosagem"
+    }
+  },
+  "subcortical dementia": {
+    "i18n": {
+      "pt": "Demência Subcortical"
+    }
+  },
+  "surgeon": {
+    "i18n": {
+      "pt": "Cirurgião"
+    }
+  },
+  "surgery": {
+    "i18n": {
+      "pt": "Cirurgia"
+    }
+  },
+  "surgical drainage": {
+    "i18n": {
+      "pt": "Drenagem Cirúrgica"
+    }
+  },
+  "systemic vasculitis": {
+    "i18n": {
+      "pt": "Vasculite Sistémica"
+    }
+  },
+  "systole": {
+    "i18n": {
+      "pt": "Sístole"
+    }
+  },
+  "systolic pressure; systolic blood pressure": {
+    "i18n": {
+      "pt": "Pressão Sistólica"
+    }
+  },
+  "t cell": {
+    "i18n": {
+      "pt": "Linfócitos T"
+    }
+  },
+  "tachycardia": {
+    "i18n": {
+      "pt": "Taquicardia"
+    }
+  },
+  "tachypnea": {
+    "i18n": {
+      "pt": "Taquipneia"
+    }
+  },
+  "tau protein": {
+    "i18n": {
+      "pt": "Proteína Tau"
+    }
+  },
+  "testosterone": {
+    "i18n": {
+      "pt": "Testosterona"
+    }
+  },
+  "tetanus": {
+    "i18n": {
+      "pt": "Tétano"
+    }
+  },
+  "tetanus neonatorum; tetanus infantum": {
+    "i18n": {
+      "pt": "Tétano Neonatal"
+    }
+  },
+  "tetanus toxoid": {
+    "i18n": {
+      "pt": "Toxóide Tetânico"
+    }
+  },
+  "tetanus vaccine": {
+    "i18n": {
+      "pt": "Vacina Anti-Tetânica"
+    }
+  },
+  "therapeutic dose": {
+    "i18n": {
+      "pt": "Dose Terapêutica"
+    }
+  },
+  "thérapeutique": {
+    "i18n": {
+      "pt": "Terapêutica"
+    }
+  },
+  "therapeutist, therapist": {
+    "i18n": {
+      "pt": "Terapeuta"
+    }
+  },
+  "therapy": {
+    "i18n": {
+      "pt": "Terapia"
+    }
+  },
+  "therapy, treatment": {
+    "i18n": {
+      "pt": "Tratamento"
+    }
+  },
+  "thrombocytopenia; thrombopenia": {
+    "i18n": {
+      "pt": "Trombocitopenia"
+    }
+  },
+  "thrombocytosis": {
+    "i18n": {
+      "pt": "Trombocitose"
+    }
+  },
+  "thrombolysis": {
+    "i18n": {
+      "pt": "Trombólise"
+    }
+  },
+  "thrombosis": {
+    "i18n": {
+      "pt": "Trombose"
+    }
+  },
+  "thymus gland": {
+    "i18n": {
+      "pt": "Timo"
+    }
+  },
+  "thyroxine (t4)": {
+    "i18n": {
+      "pt": "Tiroxina"
+    }
+  },
+  "tick": {
+    "i18n": {
+      "pt": "Carraça"
+    }
+  },
+  "tiger mosquito": {
+    "i18n": {
+      "pt": "Aedes Aegypti"
+    }
+  },
+  "tomography": {
+    "i18n": {
+      "pt": "Tomografia"
+    }
+  },
+  "tonsilitis": {
+    "i18n": {
+      "pt": "Amigdalite"
+    }
+  },
+  "total dose": {
+    "i18n": {
+      "pt": "Dose Total"
+    }
+  },
+  "total mastectomy": {
+    "i18n": {
+      "pt": "Mastectomia Total"
+    }
+  },
+  "toxemia": {
+    "i18n": {
+      "pt": "Toxémia"
+    }
+  },
+  "toxic hepatitis": {
+    "i18n": {
+      "pt": "Hepatite Tóxica"
+    }
+  },
+  "toxicity": {
+    "i18n": {
+      "pt": "Toxicidade"
+    }
+  },
+  "toxicological effect": {
+    "i18n": {
+      "pt": "Efeito Tóxico"
+    }
+  },
+  "toxoid": {
+    "i18n": {
+      "pt": "Toxóide"
+    }
+  },
+  "toxoplasma": {
+    "i18n": {
+      "pt": "Toxoplasma"
+    }
+  },
+  "toxoplasmosis": {
+    "i18n": {
+      "pt": "Toxoplasmose"
+    }
+  },
+  "trachoma": {
+    "i18n": {
+      "pt": "Tracoma"
+    }
+  },
+  "transaminase": {
+    "i18n": {
+      "pt": "Transaminase"
+    }
+  },
+  "transfusion": {
+    "i18n": {
+      "pt": "Transfusão"
+    }
+  },
+  "transmission": {
+    "i18n": {
+      "pt": "Transmissão"
+    }
+  },
+  "transplantation": {
+    "i18n": {
+      "pt": "Transplantação"
+    }
+  },
+  "transudate": {
+    "i18n": {
+      "pt": "Transudado"
+    }
+  },
+  "trauma": {
+    "i18n": {
+      "pt": "Trauma"
+    }
+  },
+  "traumatism": {
+    "i18n": {
+      "pt": "Traumatismo"
+    }
+  },
+  "traumatic arrest": {
+    "i18n": {
+      "pt": "Paragem Cardíaca Traumática"
+    }
+  },
+  "trichuriasis": {
+    "i18n": {
+      "pt": "Tricuríase"
+    }
+  },
+  "tricuspid valve": {
+    "i18n": {
+      "pt": "Válvula Tricúspide"
+    }
+  },
+  "tropical diabetes": {
+    "i18n": {
+      "pt": "Diabetes Tropical"
+    }
+  },
+  "tropical disease": {
+    "i18n": {
+      "pt": "Doença Tropical"
+    }
+  },
+  "trypanosomiasis": {
+    "i18n": {
+      "pt": "Tripanossomíase"
+    }
+  },
+  "tuberculin tests;": {
+    "i18n": {
+      "pt": "Prova Tuberculínica"
+    }
+  },
+  "tuberculoma": {
+    "i18n": {
+      "pt": "Tuberculoma"
+    }
+  },
+  "tuberculosis": {
+    "i18n": {
+      "pt": "Tuberculose"
+    }
+  },
+  "tuberculostatic": {
+    "i18n": {
+      "pt": "Tuberculostático"
+    }
+  },
+  "tuberculous meningitis": {
+    "i18n": {
+      "pt": "Meningite Tuberculosa"
+    }
+  },
+  "tularemia": {
+    "i18n": {
+      "pt": "Tularemia"
+    }
+  },
+  "tumefaction": {
+    "i18n": {
+      "pt": "Tumefacção"
+    }
+  },
+  "tumor": {
+    "i18n": {
+      "pt": "Tumor"
+    }
+  },
+  "tumor cell": {
+    "i18n": {
+      "pt": "Célula Tumoral"
+    }
+  },
+  "typhoid fever": {
+    "i18n": {
+      "pt": "Febre Tifóide"
+    }
+  },
+  "typhus": {
+    "i18n": {
+      "pt": "Tifo"
+    }
+  },
+  "ulcer": {
+    "i18n": {
+      "pt": "Úlcera"
+    }
+  },
+  "ulceration": {
+    "i18n": {
+      "pt": "Ulceração"
+    }
+  },
+  "ulcerative colitis": {
+    "i18n": {
+      "pt": "Colite Ulcerosa"
+    }
+  },
+  "ulnar nerve": {
+    "i18n": {
+      "pt": "Nervo Cubital"
+    }
+  },
+  "ultrasonography": {
+    "i18n": {
+      "pt": "Ultra-Sonografia"
+    }
+  },
+  "ultraviolet radiation": {
+    "i18n": {
+      "pt": "Radiação Ultravioleta"
+    }
+  },
+  "urethra": {
+    "i18n": {
+      "pt": "Uretra"
+    }
+  },
+  "urine culture": {
+    "i18n": {
+      "pt": "Urocultura"
+    }
+  },
+  "uveitis": {
+    "i18n": {
+      "pt": "Uveíte"
+    }
+  },
+  "vaccinate": {
+    "i18n": {
+      "pt": "Vacinar"
+    }
+  },
+  "vaccination": {
+    "i18n": {
+      "pt": "Vacinação"
+    }
+  },
+  "vaccination card": {
+    "i18n": {
+      "pt": "Cartão de Vacinação"
+    }
+  },
+  "vaccination schedule": {
+    "i18n": {
+      "pt": "Calendário de Vacinação"
+    }
+  },
+  "vaccine": {
+    "i18n": {
+      "pt": "Vacina"
+    }
+  },
+  "vaginal contraceptive": {
+    "i18n": {
+      "pt": "Preservativo Feminino"
+    }
+  },
+  "vaginitis": {
+    "i18n": {
+      "pt": "Vaginite"
+    }
+  },
+  "varicella, chickenpox": {
+    "i18n": {
+      "pt": "Varicela"
+    }
+  },
+  "vascular lesion": {
+    "i18n": {
+      "pt": "Lesão Vascular"
+    }
+  },
+  "vascularization": {
+    "i18n": {
+      "pt": "Vascularização"
+    }
+  },
+  "vasculitis": {
+    "i18n": {
+      "pt": "Vasculite"
+    }
+  },
+  "vasoconstriction": {
+    "i18n": {
+      "pt": "Vasoconstrição"
+    }
+  },
+  "vasodilation; vasodilatation": {
+    "i18n": {
+      "pt": "Vasodilatação"
+    }
+  },
+  "vector insects": {
+    "i18n": {
+      "pt": "Insecto Vector"
+    }
+  },
+  "veneral disease": {
+    "i18n": {
+      "pt": "Doença Venérea"
+    }
+  },
+  "venous thrombosis": {
+    "i18n": {
+      "pt": "Trombose Venosa"
+    }
+  },
+  "ventricular fibrillation (v-fib)": {
+    "i18n": {
+      "pt": "Fibrilhação Ventricular"
+    }
+  },
+  "vesicle": {
+    "i18n": {
+      "pt": "Vesícula"
+    }
+  },
+  "vesicular": {
+    "i18n": {
+      "pt": "Vesicular"
+    }
+  },
+  "vibrio": {
+    "i18n": {
+      "pt": "Vibrião"
+    }
+  },
+  "viral capsid antigen": {
+    "i18n": {
+      "pt": "Antigénio da Cápside Viral"
+    }
+  },
+  "viral hepatitis": {
+    "i18n": {
+      "pt": "Hepatite Viral"
+    }
+  },
+  "viral infection": {
+    "i18n": {
+      "pt": "Infecção Viral"
+    }
+  },
+  "viral pneumonia": {
+    "i18n": {
+      "pt": "Pneumonia Viral"
+    }
+  },
+  "viremia": {
+    "i18n": {
+      "pt": "Viremia"
+    }
+  },
+  "virology": {
+    "i18n": {
+      "pt": "Virologia"
+    }
+  },
+  "virosis": {
+    "i18n": {
+      "pt": "Virose"
+    }
+  },
+  "virulence": {
+    "i18n": {
+      "pt": "Virulência"
+    }
+  },
+  "virus": {
+    "i18n": {
+      "pt": "Vírus"
+    }
+  },
+  "vitrectomy": {
+    "i18n": {
+      "pt": "Vitrectomia"
+    }
+  },
+  "vitreous humour": {
+    "i18n": {
+      "pt": "Humor Vítreo1"
+    }
+  },
+  "vivax malaria": {
+    "i18n": {
+      "pt": "Malária Vivax"
+    }
+  },
+  "vulvitis": {
+    "i18n": {
+      "pt": "Vulvite"
+    }
+  },
+  "water intoxication": {
+    "i18n": {
+      "pt": "Intoxicação Hídrica"
+    }
+  },
+  "watery stools": {
+    "i18n": {
+      "pt": "Fezes Líquidas"
+    }
+  },
+  "wernicke's area": {
+    "i18n": {
+      "pt": "Área de Wernicke"
+    }
+  },
+  "whipple's disease": {
+    "i18n": {
+      "pt": "Doença de Whipple"
+    }
+  },
+  "wilms' tumor": {
+    "i18n": {
+      "pt": "Tumor de Wilms"
+    }
+  },
+  "wilson's disease": {
+    "i18n": {
+      "pt": "Doença de Wilson"
+    }
+  },
+  "world health organization (who)": {
+    "i18n": {
+      "pt": "Organização Mundial de Saúde (OMS)"
+    }
+  },
+  "yellow fever": {
+    "i18n": {
+      "pt": "Febre Amarela"
+    }
+  },
+  "zoonosis": {
+    "i18n": {
+      "pt": "Zoonose"
+    }
+  }
+}

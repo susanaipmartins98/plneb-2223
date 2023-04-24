@@ -1,0 +1,5414 @@
+{
+    "'blister'": {
+        "pop": "frasco de X comprimidos recobertos de plástico"
+    },
+    "(d)escamação": {
+        "pop": "formação excessiva de escamas na pele"
+    },
+    "(herpes) zóster": {
+        "pop": "vírus instalado à volta das células sensitivas"
+    },
+    "acth": {
+        "pop": "hormônio adreno-córticotrófico, corticotrofina"
+    },
+    "gram-negativo": {
+        "pop": "que não toma o corante de Gram"
+    },
+    "gram-positivo": {
+        "pop": "que toma o corante de Gram"
+    },
+    "petit mal; epilepsia menor": {
+        "pop": "pequeno mal, epilepsia com ataques pouco intensos"
+    },
+    "abcesso": {
+        "pop": "abcesso, tumor"
+    },
+    "abdominal": {
+        "pop": "ventral"
+    },
+    "abdómen": {
+        "pop": "barriga, ventre"
+    },
+    "aberrante": {
+        "pop": "anormal"
+    },
+    "aborto": {
+        "pop": "abortamento, desmancho"
+    },
+    "abrupto": {
+        "pop": "repentino, brusco"
+    },
+    "absorção": {
+        "pop": "absorvimento, absorvência"
+    },
+    "abstinência": {
+        "pop": "jejum"
+    },
+    "acatisia": {
+        "pop": "incapacidade em permanecer sentado"
+    },
+    "acidental": {
+        "pop": "por acaso, sem importância"
+    },
+    "acidez": {
+        "pop": "acidade, azedume"
+    },
+    "acidose": {
+        "pop": "alteração do equilíbrio ácido básico do sangue e líquidos teciduais"
+    },
+    "acinesia": {
+        "pop": "ausência de movimento, acinese"
+    },
+    "acomodação": {
+        "pop": "adaptação"
+    },
+    "acrocianose": {
+        "pop": "cor azulada das extremidades (mãos-pés)"
+    },
+    "activar": {
+        "pop": "estimular ou acelerar, reactivar"
+    },
+    "actividade": {
+        "pop": "actividade"
+    },
+    "activo": {
+        "pop": "reactivo, eficaz"
+    },
+    "acuidade": {
+        "pop": "agudez(a)"
+    },
+    "acumulação": {
+        "pop": "acumulamento"
+    },
+    "adaptação": {
+        "pop": "acomodação"
+    },
+    "adenite": {
+        "pop": "caroço inflamado, inflamação das glândulas"
+    },
+    "adenoma": {
+        "pop": "tumor benigno"
+    },
+    "adequado": {
+        "pop": "apropriado, próprio"
+    },
+    "aderência": {
+        "pop": "adesão, união viciosa das superfícies orgânicas"
+    },
+    "adicional": {
+        "pop": "complementar"
+    },
+    "aditivo": {
+        "pop": "produto acrescentado"
+    },
+    "adjuvante": {
+        "pop": "substância que contribui para a auxiliar"
+    },
+    "adolescente": {
+        "pop": "\fjovem"
+    },
+    "adrenolítico": {
+        "pop": "substância que inibe a resposta à adrenalina"
+    },
+    "adrenérgico": {
+        "pop": "activado por adrenalina"
+    },
+    "adsorção": {
+        "pop": "penetração pela pele ou pelas mucosas, consumo"
+    },
+    "adstringente": {
+        "pop": "que aperta os tecidos, secura da pele"
+    },
+    "adulto": {
+        "pop": "adulto"
+    },
+    "aerofagia": {
+        "pop": "engolir ar"
+    },
+    "aerossol": {
+        "pop": "solução de um produto destinado à inalação"
+    },
+    "aeróbio": {
+        "pop": "que vive no ar"
+    },
+    "afasia": {
+        "pop": "perda da capacidade de comunicar"
+    },
+    "afinidade": {
+        "pop": "parentesco, analogia, semelhança"
+    },
+    "agalactia": {
+        "pop": "falta ou diminuição da secreção do leite"
+    },
+    "agamaglobulinémia": {
+        "pop": "sem gamoglobinas"
+    },
+    "agente": {
+        "pop": "substância activa"
+    },
+    "agitação": {
+        "pop": "desassossego, inquietação, excitação"
+    },
+    "agonista": {
+        "pop": "maneira natural"
+    },
+    "agranulocitose": {
+        "pop": "inexistência de glóbulos no sangue, doença de Pfeiffer"
+    },
+    "agravação": {
+        "pop": "agravamento, pioramento, piora"
+    },
+    "agregação": {
+        "pop": "agregado, associação"
+    },
+    "agressividade": {
+        "pop": "agressividade"
+    },
+    "agudo": {
+        "pop": "agudo"
+    },
+    "alastrar": {
+        "pop": "dispsersão da infecção; alastramento"
+    },
+    "albumina": {
+        "pop": "proteína principal no sangue"
+    },
+    "alcalina": {
+        "pop": "\fmedicamento que contém um álcali"
+    },
+    "alcalose": {
+        "pop": "alteração da relação ácido-base no sangue"
+    },
+    "alcalóide": {
+        "pop": "substância orgânica azotada com propriedades alcalinas"
+    },
+    "alcilação": {
+        "pop": "substância radical alquil por um átomo de H num composto cíclico"
+    },
+    "alcoolismo": {
+        "pop": "alcoolismo"
+    },
+    "alergia": {
+        "pop": "hipersensibilidade"
+    },
+    "alergia cruzada": {
+        "pop": "alergia a substâncias similares"
+    },
+    "alerta": {
+        "pop": "vigilante"
+    },
+    "alimentar": {
+        "pop": "alimentício"
+    },
+    "alopecia": {
+        "pop": "careca, calvície, calva"
+    },
+    "alternar": {
+        "pop": "sucessão de duas ou mais acções ou administrações de medicamentos"
+    },
+    "alternativo": {
+        "pop": "\falternativo"
+    },
+    "alucinação": {
+        "pop": "alucinação"
+    },
+    "alveolite": {
+        "pop": "lesão dos alvéolos pulmonares"
+    },
+    "alérgeno": {
+        "pop": "causa alergia"
+    },
+    "alérgico": {
+        "pop": "alérgico"
+    },
+    "ambliopia": {
+        "pop": "enfraquecimento da vista"
+    },
+    "ambulante": {
+        "pop": "ambulatório"
+    },
+    "amenorreia": {
+        "pop": "ausência de períodos menstruais"
+    },
+    "amina": {
+        "pop": "composto químico relacionado com o amoníaco"
+    },
+    "aminoácido": {
+        "pop": "ácido aninado"
+    },
+    "amnésia": {
+        "pop": "esquecimento, perda de memória"
+    },
+    "ampola": {
+        "pop": "bolha, pequeno tumor"
+    },
+    "anabólico": {
+        "pop": "que activa o desenvolvimento fisiológico"
+    },
+    "anaeróbio": {
+        "pop": "que vive sem ar"
+    },
+    "anafiláctico": {
+        "pop": "que aumenta a sensibilidade do organismo para um veneno"
+    },
+    "anal": {
+        "pop": "relativo ao ânus"
+    },
+    "analgésico": {
+        "pop": "que alivia a dor"
+    },
+    "analéptico": {
+        "pop": "droga estimulante do sistema nervoso"
+    },
+    "anamnésia": {
+        "pop": "acto de relembrar os antecedentes do doente"
+    },
+    "anastomose": {
+        "pop": "comunicação natural ou artificial entre dois vasos ou nervos"
+    },
+    "anatómico": {
+        "pop": "anatómico"
+    },
+    "androgénico": {
+        "pop": "relativo à geração do homem"
+    },
+    "anemia": {
+        "pop": "falta de sangue"
+    },
+    "anemia aplástica": {
+        "pop": "formação insuficiente das células do sangue"
+    },
+    "anergia": {
+        "pop": "falta de acção, inactividade"
+    },
+    "anestesia": {
+        "pop": "insensibilidade à dor"
+    },
+    "anestésico": {
+        "pop": "que tira a sensibilidade"
+    },
+    "aneurisma": {
+        "pop": "protuberância num ponto fraco de uma artéria"
+    },
+    "anexite": {
+        "pop": "inflamações dos ovários e da trompa"
+    },
+    "angiite": {
+        "pop": "flebite, inflamação de uma veia"
+    },
+    "angina de peito": {
+        "pop": "angina de peito, esternalgia"
+    },
+    "anginoso": {
+        "pop": "relativo a angina"
+    },
+    "angioedema": {
+        "pop": "inchaço sem inflamação"
+    },
+    "angioneurótico": {
+        "pop": "indivíduo com eretismo do aparelho vascular e vasomotor, de origem nervosa"
+    },
+    "anidro": {
+        "pop": "que não tem água"
+    },
+    "anisocoria": {
+        "pop": "desigualdade do diâmetro das pupilas"
+    },
+    "aniónico": {
+        "pop": "com carga negativa"
+    },
+    "anogenital": {
+        "pop": "pertencente à região do anus e dos órgãos genitais"
+    },
+    "anomalia": {
+        "pop": "irregularidade"
+    },
+    "anorectal": {
+        "pop": "relativo ao anus e ao intestino grosso"
+    },
+    "anorexia": {
+        "pop": "inapetência, falta de apetite"
+    },
+    "anormal": {
+        "pop": "anormal"
+    },
+    "anosmia": {
+        "pop": "falta de cheiro"
+    },
+    "anovulatório": {
+        "pop": "ciclo sem óvulo"
+    },
+    "anoxia": {
+        "pop": "falta de oxigénio no organismo por respiração deficiente"
+    },
+    "ansiedade": {
+        "pop": "angústia"
+    },
+    "antagonista": {
+        "pop": "acção de outra"
+    },
+    "antecedente": {
+        "pop": "passado do paciente"
+    },
+    "anterógrado": {
+        "pop": "dirigido para a frente"
+    },
+    "anti-helmíntico": {
+        "pop": "contra as lombrigas, contra as bichas"
+    },
+    "anti-hipertensivo": {
+        "pop": "substância que diminui a pressão sanguínea"
+    },
+    "anti-histamina": {
+        "pop": "substância que combate a acção da histamina"
+    },
+    "anti-infeccioso": {
+        "pop": "que combate a infecção"
+    },
+    "anti-inflamatório": {
+        "pop": "que impede a inflamação"
+    },
+    "anti-séptico": {
+        "pop": "desinfectante, que mata os micróbios ou fungos"
+    },
+    "antialérgico": {
+        "pop": "antialérgico"
+    },
+    "antianginoso": {
+        "pop": "\fcombate as anginas"
+    },
+    "antiarrítmico": {
+        "pop": "medicamento para tratamento da irregularidade da pulsação cardíaca"
+    },
+    "antiasmático": {
+        "pop": "remédio contra a asma"
+    },
+    "antibacteriano": {
+        "pop": "que destrói as bactérias"
+    },
+    "antibiograma": {
+        "pop": "estudo da sensibilidade de um micróbio a vários antibióticos"
+    },
+    "antibioterapia": {
+        "pop": "tratamento com antibióticos"
+    },
+    "antibiótico": {
+        "pop": "fármaco para tratar infecções"
+    },
+    "anticoagulante": {
+        "pop": "fármaco que impede a coagulação do sangue"
+    },
+    "anticolinérgico": {
+        "pop": "substância que bloqueia os nervos parassimpáticos"
+    },
+    "anticonvulsivante": {
+        "pop": "substância que evita as convulsões"
+    },
+    "anticorpo": {
+        "pop": "anti-soma, anti-substância, corpo imune, antítropo"
+    },
+    "antidepressivo": {
+        "pop": "substância que alivia a depressão"
+    },
+    "antidiabético": {
+        "pop": "substância que reduz a concentração de açúcar no sangue"
+    },
+    "antidiurético": {
+        "pop": "que não faz urinar"
+    },
+    "antiemético": {
+        "pop": "\fcontra os vómitos"
+    },
+    "antiepiléptico": {
+        "pop": "medicamento contra a epilepsia"
+    },
+    "antiestrogénico": {
+        "pop": "que impede ou contraria o efeito das hormonas estrogénicas"
+    },
+    "antiexudativo": {
+        "pop": "que impede a exsudação, a transpiração"
+    },
+    "antiflogístico": {
+        "pop": "que combate a inflamação, anti-inflamatório"
+    },
+    "antifúngico": {
+        "pop": "medicamento com os cogumelos ou leveduras parasitas no homem"
+    },
+    "antimicrobiano": {
+        "pop": "que impede o desenvolvimento de micróbios"
+    },
+    "antimicótico": {
+        "pop": "que impede a reprodução dos fungos"
+    },
+    "antimitótico": {
+        "pop": "que trava a divisão e crescimento das células"
+    },
+    "antineoplástico": {
+        "pop": "anticanceroso"
+    },
+    "antioxidante": {
+        "pop": "evita a deterioração de um produto por oxidação"
+    },
+    "antipirético": {
+        "pop": "que reduz a febre, antitérmico, febrífugo, antifebril"
+    },
+    "antiproliferativo": {
+        "pop": "que não deixa as células multiplicarem-se"
+    },
+    "antipruriginoso": {
+        "pop": "antiprurítico, antipruritoso"
+    },
+    "antipsicótico": {
+        "pop": "tranquilizante"
+    },
+    "antispasmódico": {
+        "pop": "substância que combate as contraturas, cãibras e convulsões"
+    },
+    "antitoxina": {
+        "pop": "combate as toxinas bacterianas"
+    },
+    "antitrombótico": {
+        "pop": "\fque impede a formação de coágulos no sangue e dissolve-os"
+    },
+    "antitumor": {
+        "pop": "que combate a formação de tumores"
+    },
+    "antitússico": {
+        "pop": "que suprime ou combate a tosse"
+    },
+    "antiviral": {
+        "pop": "que destrói ou impede o desenvolvimento de vírus"
+    },
+    "antiácido": {
+        "pop": "fármaco com o excesso de acidez do estômago"
+    },
+    "antraz": {
+        "pop": "pústula maligna, baceira, mal-do-baço, mal-do-sangue"
+    },
+    "antídoto": {
+        "pop": "contraveneno"
+    },
+    "antígeno": {
+        "pop": "substância considerada estranha pelo organismo"
+    },
+    "anxiolítico": {
+        "pop": "que combate a ansiedade, tranquilizante"
+    },
+    "análise": {
+        "pop": "decomposição"
+    },
+    "análogo": {
+        "pop": "com função semelhante mas diferente origem (diz-se de estruturas anatómicas)"
+    },
+    "anúria": {
+        "pop": "anurese, que não urina"
+    },
+    "apatia": {
+        "pop": "indiferença, aversão"
+    },
+    "aplasia": {
+        "pop": "desenvolvimento defeituoso"
+    },
+    "aplicação": {
+        "pop": "administração de um medicamento ou emprego de uma medida física"
+    },
+    "apneia": {
+        "pop": "apneustia; ausência de respiração"
+    },
+    "apresentação": {
+        "pop": "apresentação do feto em relação ao colo uterino"
+    },
+    "aproximado": {
+        "pop": "aproximado"
+    },
+    "aquoso": {
+        "pop": "semelhante à água"
+    },
+    "aromático": {
+        "pop": "cheiroso"
+    },
+    "arritmia": {
+        "pop": "falata de ritmo regular, pulsação irregular"
+    },
+    "arritmogénico": {
+        "pop": "que causa arritmia, pulsão irregular"
+    },
+    "arterial": {
+        "pop": "relativo às artérias"
+    },
+    "arteriografia": {
+        "pop": "radiografia das artérias"
+    },
+    "arteriolar": {
+        "pop": "relativo às pequenas artérias"
+    },
+    "arteriosclerose": {
+        "pop": "esclerose das artérias"
+    },
+    "articular": {
+        "pop": "relativo às articulações"
+    },
+    "artificial": {
+        "pop": "não natural"
+    },
+    "artralgia": {
+        "pop": "dor nas articulações"
+    },
+    "artrite": {
+        "pop": "inflamação das articulações"
+    },
+    "artropatia": {
+        "pop": "doença das articulações"
+    },
+    "artrose": {
+        "pop": "destruição das articulações"
+    },
+    "artério-venoso": {
+        "pop": "relativo a uma artéria e a uma veia"
+    },
+    "ascite": {
+        "pop": "barriga de água, hidropisia da cavidade abdominal, hidroperitoneu"
+    },
+    "aspiração": {
+        "pop": "acção de inalar, extracção de líquidos ou gases"
+    },
+    "assepsia": {
+        "pop": "esterilização, ausência de micróbios"
+    },
+    "assintomático": {
+        "pop": "sem sintomas"
+    },
+    "assistir": {
+        "pop": "auxiliar, presenciar, ajudar"
+    },
+    "assistolia": {
+        "pop": "paragem cardíaco"
+    },
+    "associação": {
+        "pop": "união, acoplamento, coordenação"
+    },
+    "asséptico": {
+        "pop": "esterilizado, sem germes"
+    },
+    "astenia": {
+        "pop": "fraqueza, cansaço físico intenso"
+    },
+    "ataxia": {
+        "pop": "perca da coordenação muscular"
+    },
+    "ateromatose": {
+        "pop": "depósito de gorduras nas artérias"
+    },
+    "atetose": {
+        "pop": "movimentos descontrolados, atesia, doença de Hammond"
+    },
+    "atonia": {
+        "pop": "ausência o deficiência da tensão de um tecido ou órgão"
+    },
+    "atraso": {
+        "pop": "desenvolvimento atrasado"
+    },
+    "atrial": {
+        "pop": "relativo a uma câmara superior do coração"
+    },
+    "atrioventricular": {
+        "pop": "relativo a uma câmara superior e a um ventrículo do coração"
+    },
+    "atrofia": {
+        "pop": "que não desenvolveu"
+    },
+    "atípico": {
+        "pop": "irregular, anormal"
+    },
+    "atópico": {
+        "pop": "alérgico"
+    },
+    "atóxico": {
+        "pop": "não tóxico, não venenoso, não nocivo"
+    },
+    "auditivo": {
+        "pop": "relativo ao ouvido e à audição"
+    },
+    "aura": {
+        "pop": "sensação no início de um acesso de doença"
+    },
+    "aural": {
+        "pop": "relativo à aura, percebido pelo ouvido"
+    },
+    "auricular": {
+        "pop": "relativo à orelha; relativo a uma das câmaras superiores do coração"
+    },
+    "auscultação": {
+        "pop": "auscultar (os ruídos produzidos no interior de um organismo) com o estetoscópio"
+    },
+    "ausência": {
+        "pop": "perda momentânea do conhecimento"
+    },
+    "auto-imune": {
+        "pop": "reacção anormal do organismo contra um dos seus próprios tecidos"
+    },
+    "automatismo": {
+        "pop": "automatismo"
+    },
+    "autónomo": {
+        "pop": "independente, fora do controlo consciente"
+    },
+    "avaliação": {
+        "pop": "avaliação"
+    },
+    "azospermia": {
+        "pop": "que não tem espermatóides"
+    },
+    "azotemia": {
+        "pop": "retenção no sangue de produtos azotados"
+    },
+    "açúcar invertido": {
+        "pop": "mistura de glicose e frutose"
+    },
+    "bacilo": {
+        "pop": "organismo microscópico em forma de filamento recto ou curvo"
+    },
+    "bactericida": {
+        "pop": "que mata as bactérias"
+    },
+    "bacteriemia": {
+        "pop": "presença de bactérias no sangue"
+    },
+    "bacteriológico": {
+        "pop": "relativo ao estudo das bactérias"
+    },
+    "bacteriostático": {
+        "pop": "que impede o desenvolvimento das bactérias"
+    },
+    "balanite": {
+        "pop": "inflamação da glande do pénis"
+    },
+    "barreira": {
+        "pop": "obstrução"
+    },
+    "basal": {
+        "pop": "situado junto de uma base, normal"
+    },
+    "base": {
+        "pop": "superfície ou parte inferior de um órgão"
+    },
+    "benigno": {
+        "pop": "de pouca gravidade"
+    },
+    "betamimético": {
+        "pop": "substância que imita a acção dos receptores adrenérgicos B"
+    },
+    "bifásico": {
+        "pop": "que tem duas fases"
+    },
+    "bilateral": {
+        "pop": "com dois lados, relativo a dois lados"
+    },
+    "biliar": {
+        "pop": "relativo à vesícula biliar e ao fígado"
+    },
+    "bio-disponibilidade": {
+        "pop": "medida de actividade de um medicamento ingerido"
+    },
+    "bio-equivalente": {
+        "pop": "fármaco com potência e efeito similares a outra"
+    },
+    "biodegração": {
+        "pop": "procedimento que transforma sistemas vivos em substâncias químicas nocivas"
+    },
+    "biológico": {
+        "pop": "biológico"
+    },
+    "biopsia": {
+        "pop": "diagnóstico através da remoção de uma porção do tecido vivo para exame"
+    },
+    "bioquímico": {
+        "pop": "relativo à química dos processos vitais e organismos vivos"
+    },
+    "biossíntese": {
+        "pop": "elaboração de um produto por um organismo vivo"
+    },
+    "biotransformação": {
+        "pop": "transformação química de um composto no organismo"
+    },
+    "blefarite": {
+        "pop": "inflamação das pálpebras"
+    },
+    "bloqueio": {
+        "pop": "bloqueio"
+    },
+    "borborigmo": {
+        "pop": "ruído no ventre pela deslocação de gases"
+    },
+    "bradicardia": {
+        "pop": "ritmo cardíaco lento"
+    },
+    "bradicinesia": {
+        "pop": "lentidão dos movimentos"
+    },
+    "bradipneia": {
+        "pop": "ritmo respiratório lento"
+    },
+    "bronco-espasmo": {
+        "pop": "espasmo dos brônquios, asma"
+    },
+    "broncoconstricção": {
+        "pop": "contracção dos brônquios"
+    },
+    "broncodilatação": {
+        "pop": "dilação dos brônquios"
+    },
+    "broncopneumonia": {
+        "pop": "pneumonia dos brônquios"
+    },
+    "broncopulmonar": {
+        "pop": "relativo aos brônquios e pulmões"
+    },
+    "bronquectasia": {
+        "pop": "dilatação patológica dos brônquios"
+    },
+    "bronquial": {
+        "pop": "brônquico, dos brônquios"
+    },
+    "bronquite": {
+        "pop": "inflamação dos brônquios"
+    },
+    "brônquio": {
+        "pop": "brônquio"
+    },
+    "bucal": {
+        "pop": "relativo à boca, oral"
+    },
+    "bucofaríngeo": {
+        "pop": "relativo à boca e à garganta"
+    },
+    "bulbar": {
+        "pop": "relativo ao bolbo (raquidiano)"
+    },
+    "buloso": {
+        "pop": "com bolhas ou ampolas"
+    },
+    "bursite": {
+        "pop": "inflamação de uma bolsa"
+    },
+    "calcemia": {
+        "pop": "nível de cálcio no sangue"
+    },
+    "calcificação": {
+        "pop": "degenerescência calcária, infiltração calcária"
+    },
+    "calciúria": {
+        "pop": "cálcio nas urinas"
+    },
+    "canal": {
+        "pop": "conduto"
+    },
+    "candidíase": {
+        "pop": "infecção por fungo do género Candida"
+    },
+    "capacidade": {
+        "pop": "lotação, potência"
+    },
+    "capacidade vital": {
+        "pop": "volume de gás que pode expulsar-se dos pulmões"
+    },
+    "capilar": {
+        "pop": "pertencente ao cabelo, filiforme"
+    },
+    "caquexia": {
+        "pop": "perda do peso e enfraquecimento físico"
+    },
+    "carboidrato": {
+        "pop": "\fhidrato de carbono"
+    },
+    "carcinogénico": {
+        "pop": "que provoca o cancro, cancerígeno"
+    },
+    "carcinoma": {
+        "pop": "tumor maligno, cancro, câncer"
+    },
+    "cardiogénico": {
+        "pop": "que é consequência de uma deficiência do coração"
+    },
+    "cardiológico": {
+        "pop": "\fcardiológico"
+    },
+    "cardiomegália": {
+        "pop": "aumento do tamanho do coração"
+    },
+    "cardiomiopatia": {
+        "pop": "transtorno crónico que afecta o músculo cardíaco"
+    },
+    "cardiopatia": {
+        "pop": "doença do coração, enfermidade do coração"
+    },
+    "cardiopulmonar": {
+        "pop": "relativo ao coração e pulmões"
+    },
+    "cardiorespiratório": {
+        "pop": "relativo ao coração e à respiração"
+    },
+    "cardiosselectivo": {
+        "pop": "que age só no coração"
+    },
+    "cardiotónico": {
+        "pop": "que estimula o coração"
+    },
+    "cardiotóxico": {
+        "pop": "tóxico para o coração"
+    },
+    "cardiovascular": {
+        "pop": "\frelativo ao coração e vasos sanguíneos"
+    },
+    "cardíaco": {
+        "pop": "relativo ao coração"
+    },
+    "castração": {
+        "pop": "ablação dos órgãos sexuais, capação, eviração, emasculação"
+    },
+    "catabolismo": {
+        "pop": "degradação das substâncias alimentares no organismo"
+    },
+    "catarata": {
+        "pop": "opacidade do cristalino do olho"
+    },
+    "catarro": {
+        "pop": "inflamação da membrana mucosa do nariz"
+    },
+    "cateter": {
+        "pop": "sonda, algália"
+    },
+    "cateterismo": {
+        "pop": "introdução de uma sonda numa cavidade"
+    },
+    "catálise": {
+        "pop": "acção de certos corpos sobre outros"
+    },
+    "caudal": {
+        "pop": "relativo ou em direcção da cauda"
+    },
+    "causal": {
+        "pop": "causal"
+    },
+    "cavidade": {
+        "pop": "alvéolo, recesso, buraco"
+    },
+    "cefalalgia": {
+        "pop": "cefaleia, dor de cabeça"
+    },
+    "cefaleia": {
+        "pop": "\fdor de cabeça, enxaqueca"
+    },
+    "celulite": {
+        "pop": "inflamação crónica do tecido celular"
+    },
+    "ceratite": {
+        "pop": "inflamação da córnea"
+    },
+    "ceratoconjuntivite": {
+        "pop": "inflamação da córnea e da conjuntiva do olho"
+    },
+    "ceratolítico": {
+        "pop": "agente que dissolve a parte córnea da pele"
+    },
+    "cerebelar": {
+        "pop": "relativo ao cerebelo"
+    },
+    "cerebral": {
+        "pop": "relativo ao cérebro"
+    },
+    "cerebrospinal": {
+        "pop": "relativo ao cérebro e à medula espinal, cefalorraquídeo"
+    },
+    "cerebrovascular": {
+        "pop": "que afecta os vasos cerebrais"
+    },
+    "cervical": {
+        "pop": "que afecta o colo ou o colo de um órgão"
+    },
+    "cerúmen": {
+        "pop": "cera dos ouvidos"
+    },
+    "ceto-acidose": {
+        "pop": "excesso de ácidos e corpos cetónicos no sangue"
+    },
+    "choque": {
+        "pop": "comoção, abalo, golpe"
+    },
+    "cianose": {
+        "pop": "coloração azulada da pele e das mucosas"
+    },
+    "cicatrização": {
+        "pop": "cicatrização"
+    },
+    "ciclo": {
+        "pop": "período"
+    },
+    "cicloderma": {
+        "pop": "cicloderma"
+    },
+    "cicloplegia": {
+        "pop": "paralisia da pupila do globo ocular"
+    },
+    "cinético": {
+        "pop": "pertencente a ou que produz o movimento"
+    },
+    "circulação": {
+        "pop": "circulação"
+    },
+    "cirrose": {
+        "pop": "afecção do fígado"
+    },
+    "cirúrgico": {
+        "pop": "cirúrgico, relativo a uma operação"
+    },
+    "cistite": {
+        "pop": "inflamação da bexiga"
+    },
+    "cistoscopia": {
+        "pop": "exame do interior da bexiga com o cistoscópio"
+    },
+    "citocrómio": {
+        "pop": "grupo de opostos aparentados com a hemoglobina do sangue"
+    },
+    "citoplasma": {
+        "pop": "parte da célula não ocupada pelo núcleo"
+    },
+    "citostático": {
+        "pop": "que pára a multiplicação das células"
+    },
+    "citotóxico": {
+        "pop": "que é tóxico para as células; detém o crescimento dos tecidos"
+    },
+    "ciática": {
+        "pop": "nevralgia ciática"
+    },
+    "classificação": {
+        "pop": "classificação"
+    },
+    "claudicação": {
+        "pop": "coxeadura"
+    },
+    "clitórico": {
+        "pop": "relativo ao clítoris"
+    },
+    "cloaca": {
+        "pop": "saco terminal do tubo digestivo (aves e répteis)"
+    },
+    "cloasma": {
+        "pop": "manchas irregulares que aparecem geralmente na cara"
+    },
+    "clássico": {
+        "pop": "típico, característico"
+    },
+    "clínico": {
+        "pop": "relativo à clínica; baseado na observação e no tratamento"
+    },
+    "co-enzima": {
+        "pop": "coenzima, co-factor"
+    },
+    "coagulação": {
+        "pop": "formação de coágulos no sangue"
+    },
+    "coclear": {
+        "pop": "pertencente ao caracol ósseo do ouvido interno"
+    },
+    "cognitivo": {
+        "pop": "relativo ao conhecimento; intelectivo"
+    },
+    "coito": {
+        "pop": "cópula, acto sexual"
+    },
+    "colagénio": {
+        "pop": "proteína que constitui o principal componente do tecido conjuntivo"
+    },
+    "colangiografia": {
+        "pop": "radiografia de contraste das condutas biliares"
+    },
+    "colangite": {
+        "pop": "inflamação das vias biliares"
+    },
+    "colapso": {
+        "pop": "queda rápida da tensão arterial; enfraquecimento de um órgão"
+    },
+    "colecistite": {
+        "pop": "inflamação da vesícula biliar"
+    },
+    "colerético": {
+        "pop": "substância que favorece a produção de fel"
+    },
+    "colestase": {
+        "pop": "retenção de fel nas condutas"
+    },
+    "colesterol": {
+        "pop": "substância lipóide que se encontra na maior parte dos tecidos"
+    },
+    "colinérgico": {
+        "pop": "que actua por intermédio da acetilcolina"
+    },
+    "colite": {
+        "pop": "inflamação do intestino grosso, catarro intestinal, enterite"
+    },
+    "colo do útero": {
+        "pop": "colo do útero"
+    },
+    "coloidal": {
+        "pop": "da natureza da cola de gelatina"
+    },
+    "coloníquia": {
+        "pop": "unha em forma de colher"
+    },
+    "colopatia": {
+        "pop": "doença do cólon"
+    },
+    "colorectal": {
+        "pop": "referente ao intestino grosso e à sua parte final"
+    },
+    "colírio": {
+        "pop": "medicamento para cuidar dos olhos"
+    },
+    "comatoso": {
+        "pop": "em coma, que se acompanha de coma"
+    },
+    "combinação": {
+        "pop": "combinação"
+    },
+    "comedão": {
+        "pop": "variedade de acne"
+    },
+    "comensal": {
+        "pop": "ser vivo que convive com outro organismo hóspede"
+    },
+    "comoção": {
+        "pop": "sacudidela violenta, golpe violento, pressão violenta"
+    },
+    "compatível": {
+        "pop": "que pode ser administrado juntamente com outro medicamento"
+    },
+    "compensação": {
+        "pop": "compensação"
+    },
+    "competitivo": {
+        "pop": "competitivo"
+    },
+    "complacente": {
+        "pop": "que se compadece com os males ou desventuras de outrem; simpático"
+    },
+    "complementar": {
+        "pop": "suplementar, adicional, auxiliar"
+    },
+    "complemento": {
+        "pop": "complemento"
+    },
+    "complexo": {
+        "pop": "composto, grupo"
+    },
+    "complexo qrs": {
+        "pop": "onda rápida, ondas iniciais do complexo ventricular"
+    },
+    "complicação": {
+        "pop": "\fcomplicação, agravamento"
+    },
+    "componente": {
+        "pop": "ingrediente"
+    },
+    "concentração": {
+        "pop": "grau, riqueza"
+    },
+    "concepção": {
+        "pop": "fecundação"
+    },
+    "concomitante": {
+        "pop": "acompanhante"
+    },
+    "concreto": {
+        "pop": "concreto"
+    },
+    "condiloma": {
+        "pop": "excrescência similar à verruga"
+    },
+    "condição": {
+        "pop": "estado geral, capacidade física de um indivíduo"
+    },
+    "condução": {
+        "pop": "transmissão"
+    },
+    "confusão": {
+        "pop": "confusão"
+    },
+    "congestão": {
+        "pop": "excesso de sangue numa parte do organismo"
+    },
+    "congénito": {
+        "pop": "presente desde a nascença, mas não necessariamente hereditário"
+    },
+    "conjugado": {
+        "pop": "simultâneo"
+    },
+    "conjugação": {
+        "pop": "conjugação"
+    },
+    "conjuntivite": {
+        "pop": "inflamação da conjuntiva"
+    },
+    "conselho": {
+        "pop": "conselho, aviso"
+    },
+    "conserva": {
+        "pop": "conserva"
+    },
+    "conservador": {
+        "pop": "sem intervenção cirúrgica"
+    },
+    "constitucional": {
+        "pop": "próprio à constituição de um indivíduo"
+    },
+    "contacto": {
+        "pop": "toque; indivíduo que esteve em relação com pessoa portadora de doença contagiosa"
+    },
+    "contaminação": {
+        "pop": "inquinamento, poluição"
+    },
+    "contra-indicação": {
+        "pop": "contra-indicação"
+    },
+    "contraceptivo": {
+        "pop": "que impede a gravidez"
+    },
+    "contracepção": {
+        "pop": "contraconcepção, anticoncepção"
+    },
+    "contractibilidade": {
+        "pop": "capacidade de contracção"
+    },
+    "contracção": {
+        "pop": "contracção"
+    },
+    "contratura": {
+        "pop": "espasmo, contracção persistente e involuntária de um ou mais"
+    },
+    "contusão": {
+        "pop": "ferida; lesão interna por golpe, compressão ou choque"
+    },
+    "contínuo": {
+        "pop": "persistente"
+    },
+    "convalescença": {
+        "pop": "analepsia; restabelecimento das forças (depois de uma doença)"
+    },
+    "convencional": {
+        "pop": "convencional"
+    },
+    "conversão": {
+        "pop": "transformação; transformação das emoções em manifestações corporais"
+    },
+    "convulsão": {
+        "pop": "contracções involuntárias desordenadas de músculos"
+    },
+    "coordenação": {
+        "pop": "coordenação"
+    },
+    "cor pulmonar": {
+        "pop": "doença do coração causada por perturbações pulmonares"
+    },
+    "coreia": {
+        "pop": "movimentos bruscos incontrolados nas crianças"
+    },
+    "coronário": {
+        "pop": "relativo a artérias e veias do coração"
+    },
+    "corpo lúteo": {
+        "pop": "corpo que se forma no ovário após a ovulação"
+    },
+    "correcção": {
+        "pop": "substância que corrige a acção ou o sabor de um medicamento; compensação, rectificação"
+    },
+    "correlação": {
+        "pop": "relação recíproca ou mútua"
+    },
+    "corresponder": {
+        "pop": "que equivale"
+    },
+    "corrimento": {
+        "pop": "flúor branco"
+    },
+    "cortical": {
+        "pop": "relativo ao córtex"
+    },
+    "corticosteróide": {
+        "pop": "corticóide; hormonas essenciais à vida formada no córtex das glândulas supra-renais"
+    },
+    "cosmético": {
+        "pop": "preparado para a higiene e beleza"
+    },
+    "coxalgia": {
+        "pop": "dor na articulação da coxa"
+    },
+    "craniano": {
+        "pop": "relativo ao crânio"
+    },
+    "creatinemia": {
+        "pop": "presença de creatina no sangue"
+    },
+    "crise": {
+        "pop": "pioramento repentino, ataque"
+    },
+    "cristalização": {
+        "pop": "formação de cristais"
+    },
+    "cristalúria": {
+        "pop": "formação de cristais na urina"
+    },
+    "critério": {
+        "pop": "regra"
+    },
+    "cromossómico": {
+        "pop": "relativo ao cromossoma"
+    },
+    "cronotrópico": {
+        "pop": "diz respeito à regularidade e frequência de um ritmo cardíaco"
+    },
+    "crónico": {
+        "pop": "de desenvolvimento lento, de longa duração"
+    },
+    "cumulativo": {
+        "pop": "acumulativo"
+    },
+    "curarizar": {
+        "pop": "submeter o curativo a cura; substância que afecta os músculos"
+    },
+    "curativo": {
+        "pop": "que cura, terapêutico"
+    },
+    "curetagem": {
+        "pop": "raspagem"
+    },
+    "curva": {
+        "pop": "diagrama"
+    },
+    "cutâneo": {
+        "pop": "da pele"
+    },
+    "cálculo": {
+        "pop": "pedra"
+    },
+    "cárie": {
+        "pop": "deterioração dentária"
+    },
+    "cáustico": {
+        "pop": "corrosivo"
+    },
+    "cânula": {
+        "pop": "tubo utilizado em cirurgia"
+    },
+    "cíclico": {
+        "pop": "relativo a um ciclo, que passa por etapas sucessivas"
+    },
+    "córnea": {
+        "pop": "parte anterior transparente do olho"
+    },
+    "córtice": {
+        "pop": "córtex, cortiça; camada exterior distinta de um órgão"
+    },
+    "dador": {
+        "pop": "pessoa que oferece um órgão, sangue, etc"
+    },
+    "de(s)compensação": {
+        "pop": "desengano (do doente da gravidade do seu mal)"
+    },
+    "de(s)polarização": {
+        "pop": "despolarização"
+    },
+    "decoro": {
+        "pop": "decência; pundonor; coisa preventiva"
+    },
+    "decúbito": {
+        "pop": "prolongada na cama"
+    },
+    "defecação": {
+        "pop": "evacuação dos excrementos"
+    },
+    "deficiência": {
+        "pop": "carência"
+    },
+    "degenerativo": {
+        "pop": "que produz degeneração"
+    },
+    "degradação": {
+        "pop": "degradação"
+    },
+    "delírio": {
+        "pop": "perturbação mental por traumatismo, febre, envenenamento, etc. com confusão mental"
+    },
+    "demulcente": {
+        "pop": "que alivia as zonas inflamadas; suavizante"
+    },
+    "demência": {
+        "pop": "alienação mental, desarranjo mental, loucura"
+    },
+    "dendrítico": {
+        "pop": "ramificado, relativo às dendrites (fibras nervosas)"
+    },
+    "dentição": {
+        "pop": "rompimento dos dentes"
+    },
+    "dependente": {
+        "pop": "dependente"
+    },
+    "dependência": {
+        "pop": "dependência de drogas"
+    },
+    "deplecção": {
+        "pop": "consumo anormal de substâncias pelo próprio corpo"
+    },
+    "depressão": {
+        "pop": "abaixamento, abatimento, prostração"
+    },
+    "depuração": {
+        "pop": "eliminação de certas substâncias do sangue"
+    },
+    "derivado": {
+        "pop": "derivado"
+    },
+    "dermatite": {
+        "pop": "inflamação da pele"
+    },
+    "dermatofitia": {
+        "pop": "\fdoença da pele causada pelos fungos do grupo dos dermatófitos"
+    },
+    "dermatológico": {
+        "pop": "relativo à pele"
+    },
+    "dermatomicose": {
+        "pop": "doença da pele causada pelos fungos"
+    },
+    "dermatose": {
+        "pop": "doença da pele"
+    },
+    "dermografia": {
+        "pop": "reacção local da pele a uma irritação mecânica ou efeito de pressão"
+    },
+    "descongestionante": {
+        "pop": "substância que alivia a congestão nasal"
+    },
+    "desfibrilhação": {
+        "pop": "restabelecimento da pulsação cardíaca"
+    },
+    "desidratação": {
+        "pop": "falta de água no corpo"
+    },
+    "desinfectante": {
+        "pop": "que desinfecta"
+    },
+    "desintoxicação": {
+        "pop": "diminuição das propriedades nocivas de um veneno"
+    },
+    "deslocação": {
+        "pop": "deslocação (de um osso, por exemplo)"
+    },
+    "desorientação": {
+        "pop": "desorientação"
+    },
+    "despersonalização": {
+        "pop": "perda da própria personalidade"
+    },
+    "despigmentação": {
+        "pop": "escassez ou carência total de pigmentação da pele"
+    },
+    "dessensibilização": {
+        "pop": "terapia destinada a reduzir uma alergia"
+    },
+    "destilar": {
+        "pop": "destilar, separar (por destilação)"
+    },
+    "detecção": {
+        "pop": "descoberta, revelação"
+    },
+    "detergente": {
+        "pop": "\fdetergente"
+    },
+    "diabetes": {
+        "pop": "aumento anormal da diurese; doença caracterizada pela presença de açúcar na origina)"
+    },
+    "diaforese": {
+        "pop": "transpiração, (secreção de) suor"
+    },
+    "diagnóstico": {
+        "pop": "identificação ou reconhecimento das doenças"
+    },
+    "diarreia": {
+        "pop": "emissão frequente de fezes líquidas"
+    },
+    "diastólico": {
+        "pop": "relativo à disástole (fase de relaxamento do músculo cardíaco)"
+    },
+    "diatermia": {
+        "pop": "\fprodução de calor num tecido por correntes eléctricas de alta frequência"
+    },
+    "didralcoólico": {
+        "pop": "preparado com alcool diluído"
+    },
+    "diferenciação": {
+        "pop": "variação; desenvolvimento de células e tecidos em diversos sentidos"
+    },
+    "difteria": {
+        "pop": "garrotilho"
+    },
+    "difuso": {
+        "pop": "disperso"
+    },
+    "difusão": {
+        "pop": "concentração; dispersão"
+    },
+    "digestivo": {
+        "pop": "relativo à digestão"
+    },
+    "digitalização": {
+        "pop": "tratamento de uma doença com digital"
+    },
+    "dilatação": {
+        "pop": "expansão de um órgão; alargamento"
+    },
+    "dilatação pupilar": {
+        "pop": "dilatação das pupilas"
+    },
+    "diplopia": {
+        "pop": "visão dupla"
+    },
+    "directo": {
+        "pop": "directo"
+    },
+    "disartria": {
+        "pop": "gaguez"
+    },
+    "discinesia": {
+        "pop": "dificuldade nos movimentos voluntários"
+    },
+    "discrasia": {
+        "pop": "equilíbrio defeituoso dos quatro humores; composição alterada do líquido corporal"
+    },
+    "discóide": {
+        "pop": "em forma de disco"
+    },
+    "disenteria": {
+        "pop": "doença intestinal que causa a diarreia"
+    },
+    "disfagia": {
+        "pop": "dificuldade na deglutição"
+    },
+    "disforia": {
+        "pop": "desconforto psíquico, mal-estar, indisposição"
+    },
+    "disfunção": {
+        "pop": "perturbação do funcionamento de um órgão; alteração de função"
+    },
+    "disgenesia": {
+        "pop": "disgenese: desenvolvimento embrionário defeituoso"
+    },
+    "disgeusia": {
+        "pop": "alteração do paladar"
+    },
+    "dismenorreia": {
+        "pop": "transtorno da menstruação"
+    },
+    "dispareunia": {
+        "pop": "coito doloroso"
+    },
+    "dispepsia": {
+        "pop": "má digestão"
+    },
+    "displasia": {
+        "pop": "desenvolvimento histológico anormal"
+    },
+    "dispneia": {
+        "pop": "dificuldade de respirar"
+    },
+    "disposição": {
+        "pop": "disposição"
+    },
+    "dissociação": {
+        "pop": "desdobramento; descomposição de uma célula"
+    },
+    "distal": {
+        "pop": "periférico, distante do tronco"
+    },
+    "distensão": {
+        "pop": "estiramento excessivo de um músculo"
+    },
+    "distonia": {
+        "pop": "tonicidade anormal dos tecidos"
+    },
+    "distorção": {
+        "pop": "imagem deformada, torção"
+    },
+    "distribuição": {
+        "pop": "distribuição"
+    },
+    "distrofia": {
+        "pop": "perturbação da nutrição de vários tecidos do organismo"
+    },
+    "disúria": {
+        "pop": "dificuldade em urinar"
+    },
+    "diurese": {
+        "pop": "formação e excreção de urina"
+    },
+    "diurno": {
+        "pop": "que se produz durante o dia"
+    },
+    "diurético": {
+        "pop": "que ajuda a aumentar o fluxo de urina"
+    },
+    "diverticulite": {
+        "pop": "diverticulose"
+    },
+    "diálise": {
+        "pop": "\fdifusão selectiva mediante uma membrana que serve como filtro molecular"
+    },
+    "diátese": {
+        "pop": "tendência para um determinado tipo de doença"
+    },
+    "diâmetro": {
+        "pop": "diâmetro"
+    },
+    "documento": {
+        "pop": "documento"
+    },
+    "doença de parkinson": {
+        "pop": "paralisia agitante"
+    },
+    "doença de raynaud": {
+        "pop": "gangrena simétrica das extremidades"
+    },
+    "dominância": {
+        "pop": "predomínio de um gene ou de um carácter"
+    },
+    "dorsal": {
+        "pop": "relativo ao dorso, às costas"
+    },
+    "dosagem": {
+        "pop": "dose, doseamento, dosificação"
+    },
+    "dose": {
+        "pop": "dose"
+    },
+    "dose de ataque": {
+        "pop": "dose inicial"
+    },
+    "dose única": {
+        "pop": "dose única"
+    },
+    "dose-padrão": {
+        "pop": "dose-padrão"
+    },
+    "drenagem": {
+        "pop": "escoamento, despejo"
+    },
+    "duodeno": {
+        "pop": "parte inicial do intestino delgado"
+    },
+    "duplamente cego": {
+        "pop": "prova dita duplamente cego"
+    },
+    "dura-máter": {
+        "pop": "\fmembrana que envolve o sistema nervoso central"
+    },
+    "défice": {
+        "pop": "deficiência, falta"
+    },
+    "eclampsia": {
+        "pop": "convulsões e queda da tensão nas mulheres grávidas"
+    },
+    "ecografia": {
+        "pop": "ecografia"
+    },
+    "ectópico": {
+        "pop": "que se encontra ou produz fora do lugar habitual"
+    },
+    "eczema": {
+        "pop": "dermatite; inflamação da pele"
+    },
+    "edema": {
+        "pop": "excesso de líquido nos tecidos sob a pele; inchaço"
+    },
+    "efectivo": {
+        "pop": "eficaz, eficiente"
+    },
+    "efeito": {
+        "pop": "resultado"
+    },
+    "efeito de ressonância": {
+        "pop": "efeito de ressonância"
+    },
+    "eficaz": {
+        "pop": "eficiente"
+    },
+    "efusão": {
+        "pop": "derrame"
+    },
+    "ejaculação": {
+        "pop": "\fejaculação"
+    },
+    "electivo": {
+        "pop": "selectivo"
+    },
+    "electrocardiografia": {
+        "pop": "exame e inscrição em registo dos movimentos cardíacos"
+    },
+    "electroencefalografia": {
+        "pop": "registo das ondas cerebrais (para detecção de tumores)"
+    },
+    "electrofisiológico": {
+        "pop": "eléctricas)"
+    },
+    "electrólito": {
+        "pop": "condutor de segunda classe, ácido para acumuladores"
+    },
+    "eliminação": {
+        "pop": "eliminação; remoção"
+    },
+    "elástico": {
+        "pop": "elástico"
+    },
+    "embolismo": {
+        "pop": "\fembolia"
+    },
+    "embrião": {
+        "pop": "feto"
+    },
+    "emocional": {
+        "pop": "emocional"
+    },
+    "emoliente": {
+        "pop": "que amolece a pele"
+    },
+    "empiema": {
+        "pop": "abcesso; acumulação de pus"
+    },
+    "empírico": {
+        "pop": "baseado na experiência"
+    },
+    "emulsionar": {
+        "pop": "dissolver uma substância noutra"
+    },
+    "emulsão": {
+        "pop": "emulsão"
+    },
+    "emésis": {
+        "pop": "vómito"
+    },
+    "emético": {
+        "pop": "substância que provoca vómitos"
+    },
+    "enantema": {
+        "pop": "erupção nas mucosas"
+    },
+    "encefalite": {
+        "pop": "inflamação do cérebro"
+    },
+    "encefalopatia": {
+        "pop": "doença que afecta o funcionamento do cérebro"
+    },
+    "endocardite": {
+        "pop": "inflamação da membrana de revestimento interno do coração"
+    },
+    "endometriose": {
+        "pop": "proliferação da mucosa uterina fora do seu lugar habitual"
+    },
+    "endoscopia": {
+        "pop": "exame interno por via directa com o endoscópio"
+    },
+    "endotélio": {
+        "pop": "capa interna que reveste as cavidades cardíacas e os vasos sanguíneos e linfáticos"
+    },
+    "endotóxico": {
+        "pop": "relativo às endotoxinas"
+    },
+    "endémico": {
+        "pop": "próprio a uma região ou população específica"
+    },
+    "endócrino": {
+        "pop": "\fque secreta hormonas"
+    },
+    "endógeno": {
+        "pop": "que se desenvolve ou surge num organismo"
+    },
+    "enema": {
+        "pop": "clister, irrigação"
+    },
+    "energético": {
+        "pop": "relativo à energia"
+    },
+    "enfarte": {
+        "pop": "congestão e bloqueamento de um vaso sanguíneo; infarto, infartação"
+    },
+    "enfisema": {
+        "pop": "presença excessiva de ar nos pulmões ou tecidos corporais"
+    },
+    "ensaio": {
+        "pop": "experiência, análise"
+    },
+    "enterite": {
+        "pop": "catarro intestinal, colite"
+    },
+    "entero-hepático": {
+        "pop": "referente ao intestino e ao fígado"
+    },
+    "enterocolite": {
+        "pop": "inflamação dos intestinos delgado e grosso"
+    },
+    "enurese": {
+        "pop": "aniscuria, incontinência de urina"
+    },
+    "enzima": {
+        "pop": "enzima"
+    },
+    "eosinofilia": {
+        "pop": "aumento das células eosinófilas no sangue"
+    },
+    "epicondilite": {
+        "pop": "inflamação do epicôndilo (tuberosidade exterior do útero)"
+    },
+    "epidemia": {
+        "pop": "epidemia"
+    },
+    "epidemiológico": {
+        "pop": "relativo ao estudo da propagação das doenças"
+    },
+    "epidural": {
+        "pop": "sobre ou por fora da dura-mater"
+    },
+    "epidérmico": {
+        "pop": "relativo à pele"
+    },
+    "epifisário": {
+        "pop": "relativo à cabeça de um osso largo"
+    },
+    "epigastralgia": {
+        "pop": "dor na boca do estômago"
+    },
+    "epigástrico": {
+        "pop": "na boca do estômago"
+    },
+    "epilepsia": {
+        "pop": "crises convulsivas"
+    },
+    "episiotomia": {
+        "pop": "corte vaginal para facilitar o parto"
+    },
+    "epistaxe": {
+        "pop": "hemorragia nasal"
+    },
+    "episódio": {
+        "pop": "episódio"
+    },
+    "epitelioma": {
+        "pop": "tumor da pele ou da mucosa"
+    },
+    "epitélio": {
+        "pop": "tecido de cobertura ou de revestimento interior; pele ou mucosas"
+    },
+    "equimose": {
+        "pop": "derrame sanguíneo na pele traumatizada; contusão"
+    },
+    "equivalente": {
+        "pop": "de igual valor"
+    },
+    "erecção": {
+        "pop": "tesão; entumescimento do pénis"
+    },
+    "ergotismo": {
+        "pop": "intoxicação crónica pelo uso alimentar do centeio atacado de cravagem"
+    },
+    "erisipela": {
+        "pop": "infecção grave e contagiosa da pele por estreptococos"
+    },
+    "eritema": {
+        "pop": "ruborização, inflamação da pele"
+    },
+    "eritrasma": {
+        "pop": "doença da pele que aparece sobretudo na face interna das coxas, virilhas e axilas"
+    },
+    "eritropoiese": {
+        "pop": "formação de glóbulos vermelhos"
+    },
+    "erosão": {
+        "pop": "\fdesgaste; destruição ou ulceração de um tecido"
+    },
+    "eructação": {
+        "pop": "arroto"
+    },
+    "erupção": {
+        "pop": "evacuação súbita de sangue, pus, etc."
+    },
+    "escabiose": {
+        "pop": "acaríase sarcóptica, sarna"
+    },
+    "escamoso": {
+        "pop": "com escamas"
+    },
+    "escarlatina": {
+        "pop": "anasarca, febre petequial, elefância"
+    },
+    "esclerose": {
+        "pop": "endurecimento ou dureza"
+    },
+    "esclerótica": {
+        "pop": "branco do olho"
+    },
+    "escotoma": {
+        "pop": "perda da faculdade visual em zonas bem circunscritas do campo visual; escotomia"
+    },
+    "esfoladela": {
+        "pop": "desgaste, raspagem, erosão de origem químico-física"
+    },
+    "esfoliação": {
+        "pop": "escamação, descamação"
+    },
+    "esfíncter": {
+        "pop": "músculo constritor, que aperta"
+    },
+    "esofagite": {
+        "pop": "inflamação do esófago"
+    },
+    "espasmo": {
+        "pop": "espasmo"
+    },
+    "espasmolítico": {
+        "pop": "medicamento que serve para resolver os espasmos"
+    },
+    "espasmódico": {
+        "pop": "espástico, convulsivo"
+    },
+    "espasticidade": {
+        "pop": "contractura muscular"
+    },
+    "espectro": {
+        "pop": "zona de actividade de um antibiótico"
+    },
+    "específico": {
+        "pop": "característico de uma espécie ou de uma doença"
+    },
+    "espermatogénese": {
+        "pop": "processo de formação dos espermatozóides"
+    },
+    "espermicida": {
+        "pop": "que mata os espermatozóides"
+    },
+    "espinal": {
+        "pop": "relativo à coluna vertebral"
+    },
+    "esplenomegalia": {
+        "pop": "hipertrofia do baço, aumento de tamanho ou volume do baço"
+    },
+    "espondilite": {
+        "pop": "inflamação das vértebras"
+    },
+    "esporádico": {
+        "pop": "\fnão epidérmico ou não amplamente difundido; ocasional"
+    },
+    "esputo": {
+        "pop": "cuspo, cuspe, saliva, escarro"
+    },
+    "espástico": {
+        "pop": "espasmódico, convulsivo"
+    },
+    "espécie": {
+        "pop": "espécie; preparação terapêutica, mistura de ervas"
+    },
+    "esquelético": {
+        "pop": "relativo ao esqueleto, magro"
+    },
+    "esquizofrenia": {
+        "pop": "si mesmo"
+    },
+    "estabilidade": {
+        "pop": "estabilidade"
+    },
+    "estabilização": {
+        "pop": "criação de um estado estável"
+    },
+    "estado": {
+        "pop": "condição, situação; crise ou ponto culminante"
+    },
+    "estado de equilíbrio": {
+        "pop": "situação em que uma variável se mantém imutável"
+    },
+    "estandardizar": {
+        "pop": "normalizar, unificar, padronizar"
+    },
+    "estase": {
+        "pop": "estancamento do sangue ou de qualquer outro líquido orgânico"
+    },
+    "estatístico": {
+        "pop": "estatístico"
+    },
+    "esteatorreia": {
+        "pop": "\fexcesso de gordura nas fezes; estearreia, seborreia"
+    },
+    "esteatose": {
+        "pop": "acumulação excessiva de glóbulos gordos nos tecidos"
+    },
+    "estenose": {
+        "pop": "estreitamento de um conduto, aperto, constrição"
+    },
+    "esterilidade": {
+        "pop": "incapacidade de fecundar ou conceber"
+    },
+    "esterilização": {
+        "pop": "procedimento que torna um indivíduo incapaz de reproduzir"
+    },
+    "esteróide": {
+        "pop": "tipo de composto químico"
+    },
+    "estimulante": {
+        "pop": "excitante"
+    },
+    "estomatite": {
+        "pop": "inflamação da mucosa da boca"
+    },
+    "estomatológico": {
+        "pop": "parte da medicina que estuda a boca e suas doenças"
+    },
+    "estrabismo": {
+        "pop": "desvio de um olho da sua direcção normal"
+    },
+    "estria": {
+        "pop": "lista, raia; fibras nervosas cerebrais"
+    },
+    "estrogénio": {
+        "pop": "tipo de hormona sexual feminina"
+    },
+    "estruma(s)": {
+        "pop": "escrófula(s), bócio, engrossamento dos tiróides"
+    },
+    "estrutural": {
+        "pop": "estrutural"
+    },
+    "estupor": {
+        "pop": "perda parcial ou quase total da consciência; obnubilação, torpor"
+    },
+    "etiologia": {
+        "pop": "estudo da origem de uma doença"
+    },
+    "euforia": {
+        "pop": "sensação anormal de bem-estar"
+    },
+    "evacuação": {
+        "pop": "evacuação"
+    },
+    "evolução": {
+        "pop": "desenvolvimento"
+    },
+    "exacerbação": {
+        "pop": "pioramento, gravamento"
+    },
+    "exantema": {
+        "pop": "erupção vermelha da pele"
+    },
+    "exceptuado": {
+        "pop": "não compreendido, sem contar"
+    },
+    "excessivo": {
+        "pop": "demasiado"
+    },
+    "excipiente": {
+        "pop": "substância inerte num preparado farmacológico"
+    },
+    "excitação": {
+        "pop": "irritação, estímulo, estimulação"
+    },
+    "excreção": {
+        "pop": "eliminação prlo próprio organismo; eliminação de um medicamento sem substituição"
+    },
+    "exoftalmia": {
+        "pop": "\folhos salientes"
+    },
+    "expansor plasmático": {
+        "pop": "substância que se injecta para aumentar o volume sanguíneo"
+    },
+    "expectorante": {
+        "pop": "remédio para desprender o muco dos pulmões e facilitar a tosse"
+    },
+    "experimental": {
+        "pop": "baseado em ensaios"
+    },
+    "expiração": {
+        "pop": "expiração"
+    },
+    "exsudado": {
+        "pop": "líquido que aparece numa superfície inflamada"
+    },
+    "extensão": {
+        "pop": "movimento de endireitar uma articulação"
+    },
+    "externo": {
+        "pop": "externo, estranho"
+    },
+    "extra-renal": {
+        "pop": "situado fora dos rins"
+    },
+    "extra-sístole": {
+        "pop": "pulsação fora do tempo"
+    },
+    "extracelular": {
+        "pop": "fora das células"
+    },
+    "extracorporal": {
+        "pop": "fora do corpo"
+    },
+    "extracto": {
+        "pop": "preparação concentrada de uma droga"
+    },
+    "extracção": {
+        "pop": "ablação"
+    },
+    "extrapiramidal": {
+        "pop": "situado fora da via piramidal"
+    },
+    "extravasação": {
+        "pop": "derrame do fluido de um vaso para os tecidos circundantes devido a uma lesão"
+    },
+    "extravascular": {
+        "pop": "situado fora de um vaso"
+    },
+    "extremidade": {
+        "pop": "membros superior e inferior"
+    },
+    "extremo": {
+        "pop": "que está afastado"
+    },
+    "exócrino": {
+        "pop": "de secreção externa"
+    },
+    "exógeno": {
+        "pop": "por causas externas; introduzido no corpo do exterior"
+    },
+    "facial": {
+        "pop": "\frelativo à cara"
+    },
+    "factor": {
+        "pop": "\fcausa, agente, meio; número"
+    },
+    "factor de risco": {
+        "pop": "\ffactor de risco"
+    },
+    "fagocitose": {
+        "pop": "incorporação e digestão de partículas no interior de uma célula"
+    },
+    "faringite": {
+        "pop": "inflamação da garganta"
+    },
+    "farmacocinética": {
+        "pop": "ciência que se ocupa do efeito exercido pelo organismo sobre o medicamento"
+    },
+    "farmacodinâmica": {
+        "pop": "estudo do efeito de um medicamento sobre o organismo"
+    },
+    "farmacológico": {
+        "pop": "relativo à ciência que investiga os medicamentos"
+    },
+    "farmacêutico": {
+        "pop": "relativo à farmácia"
+    },
+    "fasciculação": {
+        "pop": "contracção de grupos de músculos"
+    },
+    "fase": {
+        "pop": "período dentro de uma evolução constante"
+    },
+    "fatal": {
+        "pop": "letal, letífero, mortífero"
+    },
+    "febril": {
+        "pop": "que tem febre, pirético"
+    },
+    "fecal": {
+        "pop": "relativo às fezes"
+    },
+    "femoral": {
+        "pop": "pertencente ao osso da coxa"
+    },
+    "fenómeno": {
+        "pop": "manifestação, sinal, sintoma"
+    },
+    "ferropénico": {
+        "pop": "que tem falta de ferro"
+    },
+    "fertilidade": {
+        "pop": "fertilidade"
+    },
+    "fetal": {
+        "pop": "relativo ao feto"
+    },
+    "fetoplacentário": {
+        "pop": "relativo ao intercâmbio entre o feto e placenta"
+    },
+    "fetotóxico": {
+        "pop": "tóxico para o feto/embrião"
+    },
+    "fezes": {
+        "pop": "matérias fecais, excrementos"
+    },
+    "fibrilação": {
+        "pop": "contracções desordenadas e ineficientes do coração"
+    },
+    "fibrina": {
+        "pop": "fibrina"
+    },
+    "fibrinolítico": {
+        "pop": "que dissolve a fibrina"
+    },
+    "fibrose": {
+        "pop": "aumento anormal do tecido conjuntivo"
+    },
+    "fibrose cística": {
+        "pop": "defeito hereditário de muitas glândulas"
+    },
+    "filtração": {
+        "pop": "filtragem, filtramento"
+    },
+    "fisiológico": {
+        "pop": "normal, não devido a uma doença; relativo ao estudo das funções dos organismos vivos"
+    },
+    "fissura": {
+        "pop": "fenda"
+    },
+    "fixação": {
+        "pop": "outra pessoa"
+    },
+    "flatulência": {
+        "pop": "gases no estômago ou no intestino, ventosidade, aerenterectasia"
+    },
+    "flebite": {
+        "pop": "inflamação das paredes de uma veia"
+    },
+    "flebografia": {
+        "pop": "radiografia das veias"
+    },
+    "fleimão": {
+        "pop": "inflamação difusa"
+    },
+    "flexão": {
+        "pop": "flexão"
+    },
+    "flora intestinal": {
+        "pop": "conjunto de bactérias no intestino grosso"
+    },
+    "flácido": {
+        "pop": "frouxo, mole, languido"
+    },
+    "fobia": {
+        "pop": "medo despropositado persistente"
+    },
+    "foliculite": {
+        "pop": "inflamação de um ou mais folículos pilosos"
+    },
+    "fontanela": {
+        "pop": "molarinha do recém-nascido"
+    },
+    "fotofobia": {
+        "pop": "que foge da luz (que tem aversão à luz)"
+    },
+    "fotossensibilidade": {
+        "pop": "sensibilidade à luz, resposta normal da pele à luz"
+    },
+    "fotossensibilização": {
+        "pop": "\fsensibilização à luz, reacção normal da pele à luz"
+    },
+    "fractura": {
+        "pop": "fractura, rotura, quebra"
+    },
+    "fracção": {
+        "pop": "número fraccionário (número) quebrado; porção, parte"
+    },
+    "fracção de ejecção": {
+        "pop": "fracção de ejecção"
+    },
+    "frequência": {
+        "pop": "número de períodos"
+    },
+    "frigidez": {
+        "pop": "insensibilidade sexual, anafrodisia"
+    },
+    "fundamental": {
+        "pop": "fundamental"
+    },
+    "fungicida": {
+        "pop": "destruição de fungos"
+    },
+    "fungistático": {
+        "pop": "impede a multiplicação de fungos"
+    },
+    "fungo": {
+        "pop": "fungo, tumor em forma de fungo"
+    },
+    "função": {
+        "pop": "função"
+    },
+    "furunculose": {
+        "pop": "aparecimento de furúnculos"
+    },
+    "fálico": {
+        "pop": "relativo ao membro viril"
+    },
+    "fármaco": {
+        "pop": "medicamento"
+    },
+    "físico": {
+        "pop": "corporal, que se percebe pelos sentidos"
+    },
+    "físico-químico": {
+        "pop": "relativo à física e à química"
+    },
+    "fístula": {
+        "pop": "comunicação anormal entre dois órgãos entre si ou com o exterior"
+    },
+    "galactorreia": {
+        "pop": "eliminação espontânea do leite"
+    },
+    "galénico": {
+        "pop": "preparado a partir de drogas vegetais em vez de substâncias químicas"
+    },
+    "gangrena": {
+        "pop": "grangrena, esfacelo"
+    },
+    "gastralgia": {
+        "pop": "dor do estômago, gastrodinia, cardialgia"
+    },
+    "gastrenterite": {
+        "pop": "inflamação do estômago e do intestino delgado"
+    },
+    "gastrintestinal": {
+        "pop": "relativo ao estômago e aos intestinos"
+    },
+    "gastrite": {
+        "pop": "catarro gástrico"
+    },
+    "gastro-esofágico": {
+        "pop": "relativo ao estômago e ao esófago"
+    },
+    "gastroduodenal": {
+        "pop": "relativo ao estômago e ao intestino delgado"
+    },
+    "gengivite": {
+        "pop": "inflamação superficial da gengivas"
+    },
+    "genital": {
+        "pop": "relativo aos órgãos sexuais"
+    },
+    "geniturinário": {
+        "pop": "relativo aos órgãos genitais e urinários"
+    },
+    "genético": {
+        "pop": "relativo aos genes"
+    },
+    "geriátrico": {
+        "pop": "\frelativo à medicina que trata as doenças dos velhos"
+    },
+    "germicida": {
+        "pop": "substância que destrói os germes"
+    },
+    "gestação": {
+        "pop": "gravidez"
+    },
+    "ginecológico": {
+        "pop": "ginecológico"
+    },
+    "ginecomastia": {
+        "pop": "aumento dos peitos"
+    },
+    "glaucoma": {
+        "pop": "pressão anormal no globo ocular"
+    },
+    "glicose": {
+        "pop": "glicose"
+    },
+    "glicosúria": {
+        "pop": "presença de glicose nas urinas"
+    },
+    "glicósido": {
+        "pop": "glicósido"
+    },
+    "glomerular": {
+        "pop": "relativo à parte filtrante dos rins"
+    },
+    "glossite": {
+        "pop": "inflamação da língua"
+    },
+    "glossodinia": {
+        "pop": "dor na língua"
+    },
+    "glote": {
+        "pop": "entrada da faringe para a via aérea principal"
+    },
+    "glumerolonefrite": {
+        "pop": "doença renal com inflamação dos glomérulos"
+    },
+    "glúten": {
+        "pop": "proteína de diversos cereais"
+    },
+    "gonadotrópico": {
+        "pop": "que estimula as glândulas sexuais"
+    },
+    "gonioscopia": {
+        "pop": "exame do ângulo da câmara interna do olho"
+    },
+    "gonorreia": {
+        "pop": "esquentamento"
+    },
+    "gonádico": {
+        "pop": "relativo às glândulas sexuais"
+    },
+    "gradual": {
+        "pop": "gradual"
+    },
+    "grande mal": {
+        "pop": "epilepsia generalizada"
+    },
+    "granulopenia": {
+        "pop": "diminuição dos glóbulos brancos"
+    },
+    "gravidez": {
+        "pop": "gravidez"
+    },
+    "grânulos": {
+        "pop": "preparação farmacológica em forma de grânulos"
+    },
+    "gânglio": {
+        "pop": "caroço"
+    },
+    "habitual": {
+        "pop": "acostumado"
+    },
+    "hematológico": {
+        "pop": "relativo à hematologia (estudo do sangue e das suas afecções)"
+    },
+    "hematoma": {
+        "pop": "hemorragia para dentro dos tecidos"
+    },
+    "hematémese": {
+        "pop": "vómitos de sangue"
+    },
+    "hematúria": {
+        "pop": "sangue nas urinas, emissão de sangue pelas vias urinárias"
+    },
+    "hemeralopia": {
+        "pop": "cegueira diurna"
+    },
+    "hemiplegia": {
+        "pop": "paralisia de um lado do corpo"
+    },
+    "hemodiálise": {
+        "pop": "filtragem da circulação do sangue"
+    },
+    "hemofilia": {
+        "pop": "dificuldade de coagulação do sangue"
+    },
+    "hemopatia": {
+        "pop": "doença do sangue"
+    },
+    "hemoperfusão": {
+        "pop": "perfusão no sangue"
+    },
+    "hemopoiético": {
+        "pop": "relativo ao fabrico de glóbulos vermelhos"
+    },
+    "hemoptise": {
+        "pop": "escarros de sangue, hemorragia pulmonar"
+    },
+    "hemorragia": {
+        "pop": "perda de sangue"
+    },
+    "hemorróides": {
+        "pop": "veias distendidas na junção do recto e do canal anal; almorróidas, almorródias"
+    },
+    "hemostasia": {
+        "pop": "estancamento do sangue"
+    },
+    "hemólise": {
+        "pop": "hematólise, globulólise, desintegração das células sanguíneas"
+    },
+    "hepatite": {
+        "pop": "inflamação do fígado"
+    },
+    "hepatobiliar": {
+        "pop": "relativo ao fígado e às condutas biliares"
+    },
+    "hepatocelular": {
+        "pop": "relativo às células do fígado"
+    },
+    "hepatomegalia": {
+        "pop": "\faumento do fígado"
+    },
+    "hepatotóxico": {
+        "pop": "tóxico para o fígado"
+    },
+    "hepático": {
+        "pop": "relativo ao fígado"
+    },
+    "hereditariedade": {
+        "pop": "hereditariedade"
+    },
+    "hermético": {
+        "pop": "estanque (ao ar), impermeável (ao ar)"
+    },
+    "herpes simplex": {
+        "pop": "conjunto de vesículas inflamadas à volta da boca"
+    },
+    "hidratação": {
+        "pop": "hidratação"
+    },
+    "hidrocefalia": {
+        "pop": "cabeça de água"
+    },
+    "hidroxilação": {
+        "pop": "hidroxilação"
+    },
+    "hidrófilo": {
+        "pop": "que absorve a água, é atraído pela água"
+    },
+    "hidrófobo": {
+        "pop": "que tem horror à água ou foge dela"
+    },
+    "hidrólise": {
+        "pop": "reacção de desdobramento de uma molécula por acção da água"
+    },
+    "higiénico": {
+        "pop": "higiénico"
+    },
+    "hiper-reflexia": {
+        "pop": "reflexos aumentados"
+    },
+    "hiperalgesia": {
+        "pop": "grande sensibilidade à dor"
+    },
+    "hiperbárico": {
+        "pop": "aumento da pressão de O2 no sangue"
+    },
+    "hipercalemia": {
+        "pop": "excesso de potássio no sangue"
+    },
+    "hipercapnia": {
+        "pop": "aumento de O2 no sangue"
+    },
+    "hipercenesia": {
+        "pop": "excesso de actividade motriz"
+    },
+    "hiperceratose": {
+        "pop": "aumento da espessura da capa córnea da pele"
+    },
+    "hiperemia": {
+        "pop": "excesso de sangue nos vasos de órgão"
+    },
+    "hiperestesia": {
+        "pop": "aumento da sensibilidade nervosa"
+    },
+    "hiperestimulação": {
+        "pop": "estimulação excessiva"
+    },
+    "hiperglicemia": {
+        "pop": "excesso de glicose no sangue"
+    },
+    "hiperidrose": {
+        "pop": "exsudação excessiva"
+    },
+    "hiperlipidemia": {
+        "pop": "aumento de lípidos no sangue"
+    },
+    "hiperostose": {
+        "pop": "hipertrofia de um osso"
+    },
+    "hiperpirexia": {
+        "pop": "febre elevada"
+    },
+    "hiperplasia": {
+        "pop": "aumento do desenvolvimento"
+    },
+    "hipersecreção": {
+        "pop": "secreção excessiva de uma glândula"
+    },
+    "hipersensibilidade": {
+        "pop": "sensibilidade excessiva, alergia"
+    },
+    "hipertensão": {
+        "pop": "aumento da tensão"
+    },
+    "hipertermia": {
+        "pop": "aumento da temperatura, acaloramento"
+    },
+    "hipertiroidismo": {
+        "pop": "actividade excessiva da tiróide"
+    },
+    "hipertonia": {
+        "pop": "aumento da tensão no olho"
+    },
+    "hipertricose": {
+        "pop": "aumento da espessura do pêlo do corpo"
+    },
+    "hipertrofia": {
+        "pop": "maior crescimento de um tecido por aumento, sem multiplicação, das suas células"
+    },
+    "hiperuricemia": {
+        "pop": "excesso de ácido úrico no sangue"
+    },
+    "hiperventilação": {
+        "pop": "respiração difícil, rápida e profunda; aumento do volume de ar que entra nos pulmões"
+    },
+    "hipervitaminose": {
+        "pop": "excesso de vitaminas no organismo"
+    },
+    "hipervolemia": {
+        "pop": "aumento dos fluidos no organismo"
+    },
+    "hiperémese": {
+        "pop": "vómitos excessivos"
+    },
+    "hipnótico": {
+        "pop": "sonífero"
+    },
+    "hipocalemia": {
+        "pop": "diminuição de potássio no sangue"
+    },
+    "hipocondria": {
+        "pop": "preocupação indevida de uma pessoa pela sua saúde"
+    },
+    "hipodérmico": {
+        "pop": "subcutâneo"
+    },
+    "hipofisário": {
+        "pop": "relativo à hipófice"
+    },
+    "hipoglicemia": {
+        "pop": "diminuição do nível de glicose no sangue"
+    },
+    "hipogonadismo": {
+        "pop": "sub-desenvolvimento dos órgãos sexuais"
+    },
+    "hipomania": {
+        "pop": "mania ligeira"
+    },
+    "hipoplasia": {
+        "pop": "pouco desenvolvido"
+    },
+    "hipotalámico": {
+        "pop": "situado na metade inferior do cérebro; relativo ao hipotálamo"
+    },
+    "hipotenso": {
+        "pop": "com tensão ou pressão baixa"
+    },
+    "hipotensão": {
+        "pop": "\fpressão sanguínea anormalmente baixa"
+    },
+    "hipotermia": {
+        "pop": "baixa de temperatura"
+    },
+    "hipotiroidismo": {
+        "pop": "actividade insuficiente da tiróide"
+    },
+    "hipotonia": {
+        "pop": "moleza"
+    },
+    "hipotrofia": {
+        "pop": "atraso de desenvolvimento"
+    },
+    "hipovitaminose": {
+        "pop": "necessidade de uma ou várias vitaminas essenciais"
+    },
+    "hipovolemia": {
+        "pop": "diminuição do sangue circulante"
+    },
+    "hipoxemie": {
+        "pop": "diminuição de O2 no sangue"
+    },
+    "hipoxia": {
+        "pop": "diminuição de O2 no sangue"
+    },
+    "hipótese": {
+        "pop": "abstracção, suposição"
+    },
+    "hirsutismo": {
+        "pop": "desenvolvimento exagerado do sistema piloso"
+    },
+    "histerectomia": {
+        "pop": "operação cirúrgica do útero"
+    },
+    "histológico": {
+        "pop": "relativo à histologia (parte da anatomia que trata dos tecidos orgânicos)"
+    },
+    "homeostase": {
+        "pop": "estado de equilíbrio orgânico"
+    },
+    "homogéneo": {
+        "pop": "da mesma categoria, da mesma espécie, de estrutura igual; que tem as mesmas funções"
+    },
+    "homólogo": {
+        "pop": "igual"
+    },
+    "hormonal": {
+        "pop": "relativo às hormonas"
+    },
+    "hospitalização": {
+        "pop": "internar num hospital"
+    },
+    "humor": {
+        "pop": "fluido corporal"
+    },
+    "humoral": {
+        "pop": "relativo aos fluidos corporais"
+    },
+    "hérnia": {
+        "pop": "tumor mole com abertura de membrana"
+    },
+    "iatorgénico": {
+        "pop": "doença provocada pelos médicos ou pelo tratamento"
+    },
+    "icterícia": {
+        "pop": "icterícia"
+    },
+    "ictiose": {
+        "pop": "defeito hereditário da pele; pele de peixe"
+    },
+    "identificação": {
+        "pop": "assimilação inconsciente com outra pessoa"
+    },
+    "idiopático": {
+        "pop": "de causa desconhecida, primário, espontâneo"
+    },
+    "idiossincrasia": {
+        "pop": "alergia a uma substância específica"
+    },
+    "idêntico": {
+        "pop": "análogo"
+    },
+    "ileite": {
+        "pop": "inflamação do íleo (última parte do intestino delgado), doença de Crohen"
+    },
+    "imaturidade": {
+        "pop": "estado de quem não alcançou o seu pleno desenvolvimento"
+    },
+    "imobilização": {
+        "pop": "corpo em repouso, ou alguma das suas partes"
+    },
+    "impetigo": {
+        "pop": "infecção das camadas exteriores da pele; impetigem"
+    },
+    "implantação": {
+        "pop": "nidação do embrião na mucosa do útero da mãe, cerca de seis dias após a concepção"
+    },
+    "implicação": {
+        "pop": "implicação"
+    },
+    "impotência": {
+        "pop": "\fincapacidade de realização do coito; falta de virilidade; anandria, assinodia"
+    },
+    "impregnação": {
+        "pop": "fecundação do óvulo;"
+    },
+    "imune": {
+        "pop": "relativo ao sistema imunitário; insensível"
+    },
+    "imunidade": {
+        "pop": "resistência natural às infecções"
+    },
+    "imunização": {
+        "pop": "obtenção da imunidade pelo organismo"
+    },
+    "imunogénico": {
+        "pop": "que causa imunidade"
+    },
+    "imunológico": {
+        "pop": "relativo aos sistema imunitário"
+    },
+    "imunossupressor": {
+        "pop": "que diminui a defesa do organismo"
+    },
+    "in situ": {
+        "pop": "no seu lugar"
+    },
+    "in vitro": {
+        "pop": "em laboratório"
+    },
+    "in vivo": {
+        "pop": "que está situado ou ocorre num corpo vivo"
+    },
+    "inactivo": {
+        "pop": "em repouso, anérgico"
+    },
+    "inadequado": {
+        "pop": "não apropriado"
+    },
+    "inalação": {
+        "pop": "aspiração de gases e vapores"
+    },
+    "incarceração": {
+        "pop": "incarceração"
+    },
+    "incidental": {
+        "pop": "incidental"
+    },
+    "incidência": {
+        "pop": "incidência"
+    },
+    "incisivo": {
+        "pop": "penetrante"
+    },
+    "incisão": {
+        "pop": "corte"
+    },
+    "inclusivo": {
+        "pop": "incluso"
+    },
+    "incompatível": {
+        "pop": "não adequado para administração simultânea"
+    },
+    "incompetência": {
+        "pop": "incapacidade"
+    },
+    "incontinência": {
+        "pop": "não segura as fezes ou as urinas"
+    },
+    "incorporação": {
+        "pop": "união de uma substância no interior do organismo"
+    },
+    "incubação": {
+        "pop": "período entre o contágio e a manifestação da doença; choco"
+    },
+    "indicar": {
+        "pop": "apontar"
+    },
+    "indicativo": {
+        "pop": "indicativo"
+    },
+    "indicação": {
+        "pop": "circunstância que indica a utilização de uma terapia"
+    },
+    "indirecto": {
+        "pop": "que actua através de um agente intermédio"
+    },
+    "indisposição": {
+        "pop": "\fmal-estar"
+    },
+    "individual": {
+        "pop": "individual"
+    },
+    "induração": {
+        "pop": "endurecimento anormal de um tecido"
+    },
+    "indução": {
+        "pop": "método de aplicação de uma anestesia geral; provocação de um processo"
+    },
+    "inerente": {
+        "pop": "inato, implantado naturalmente"
+    },
+    "inervação": {
+        "pop": "suprimento nervoso ou a condução de impulsos nervosos de um local para outro"
+    },
+    "inespecífico": {
+        "pop": "não específico, não característico"
+    },
+    "infantil": {
+        "pop": "relativo à infância"
+    },
+    "infecção": {
+        "pop": "infecção"
+    },
+    "infiltração": {
+        "pop": "infiltração"
+    },
+    "inflamação": {
+        "pop": "inflamação"
+    },
+    "influenza": {
+        "pop": "gripe violenta e epidémica"
+    },
+    "infundir": {
+        "pop": "infundir"
+    },
+    "infusão": {
+        "pop": "infusão"
+    },
+    "ingestão": {
+        "pop": "deglutição de alimentos ou outras substâncias para o interior do tubo digestivo"
+    },
+    "inguinal": {
+        "pop": "\fpertencente à virilha"
+    },
+    "inibição": {
+        "pop": "atenuação, supressão ou bloqueamento de uma função ou reacção"
+    },
+    "inicial": {
+        "pop": "inicial"
+    },
+    "injecção": {
+        "pop": "injecção"
+    },
+    "injecção bolus": {
+        "pop": "injecção rápida"
+    },
+    "inoperável": {
+        "pop": "que não se pode curar com operação cirúrgica"
+    },
+    "inorgânico": {
+        "pop": "inanimado, sem vida"
+    },
+    "inotrópico": {
+        "pop": "influencia a actividade do coração"
+    },
+    "inserção": {
+        "pop": "implantação; ponto de união entre um músculo e um osso"
+    },
+    "inspiração": {
+        "pop": "\finspiração"
+    },
+    "instabilidade": {
+        "pop": "falta de equilíbrio"
+    },
+    "instilação": {
+        "pop": "administração gota-a-gota (solução oftálmica)"
+    },
+    "instrução": {
+        "pop": "indicações"
+    },
+    "insuficiência": {
+        "pop": "função inadequada de um órgão ou sistema"
+    },
+    "insulto": {
+        "pop": "ataque"
+    },
+    "insónia": {
+        "pop": "falta de sono, insonolência"
+    },
+    "intacto": {
+        "pop": "intacto"
+    },
+    "integridade": {
+        "pop": "conservação inalterada"
+    },
+    "integumentário": {
+        "pop": "que serve de cobertura, como a pele; integumental"
+    },
+    "inteligência": {
+        "pop": "entendimento, intelecto, mente"
+    },
+    "intensidade": {
+        "pop": "grau de força ou tensão"
+    },
+    "interacção": {
+        "pop": "relação entre dois elementos"
+    },
+    "intercostal": {
+        "pop": "entre as costelas"
+    },
+    "interferência": {
+        "pop": "perturbação"
+    },
+    "interindividual": {
+        "pop": "entre indivíduos"
+    },
+    "intermediário": {
+        "pop": "intermediário"
+    },
+    "intermitente": {
+        "pop": "\fque ocorre em intervalos"
+    },
+    "interno": {
+        "pop": "interior"
+    },
+    "interpretação": {
+        "pop": "\finterpretação"
+    },
+    "intersticial": {
+        "pop": "entre duas partes, isto é, no tecido conjuntivo"
+    },
+    "intertrigo": {
+        "pop": "infecção na pele das dobras"
+    },
+    "intervalo": {
+        "pop": "interstício, espaço; entremeio"
+    },
+    "intervalo qt": {
+        "pop": "representa a duração total da sístole eléctrica ventricular"
+    },
+    "intervenção": {
+        "pop": "operação"
+    },
+    "intervertebral": {
+        "pop": "entre as vértebras"
+    },
+    "intestinal": {
+        "pop": "relativo ao intestino"
+    },
+    "intolerância": {
+        "pop": "incapacidade de suportar um medicamento"
+    },
+    "intoxicação": {
+        "pop": "envenenamento"
+    },
+    "intraindividual": {
+        "pop": "dentro do indivíduo"
+    },
+    "intramuscular": {
+        "pop": "no interior do músculo"
+    },
+    "intraocular": {
+        "pop": "no interior do globo ocular"
+    },
+    "intratecal": {
+        "pop": "pertencente ao lúmen de uma bainha ou canal"
+    },
+    "intravascular": {
+        "pop": "no interior de um vaso sanguíneo"
+    },
+    "intravenoso": {
+        "pop": "situado dentro de uma veia"
+    },
+    "intrínseco": {
+        "pop": "intimamente relacionado com uma porção"
+    },
+    "intubação": {
+        "pop": "introdução de um tubo num órgão oco"
+    },
+    "invalidar": {
+        "pop": "infirmar"
+    },
+    "invasivo": {
+        "pop": "que penatra, que invade"
+    },
+    "investigação": {
+        "pop": "indagação, pesquisa"
+    },
+    "involução": {
+        "pop": "das estruturas envolventes após o parto"
+    },
+    "inércia": {
+        "pop": "inactividade, incapacidade de se mover espontaneamente"
+    },
+    "ionização": {
+        "pop": "processo pelo qual são produzidos iões numa substância"
+    },
+    "ionograma": {
+        "pop": "ionograma"
+    },
+    "iridociclite": {
+        "pop": "infecção de um dos anexos da vista"
+    },
+    "irite": {
+        "pop": "\finflamação da íris"
+    },
+    "irreversível": {
+        "pop": "sem retorno"
+    },
+    "irrigação": {
+        "pop": "lavagem com eliminação do líquido utilizado"
+    },
+    "irritação": {
+        "pop": "estímulo, estimulação, excitação"
+    },
+    "isolar": {
+        "pop": "isolar"
+    },
+    "isotónico": {
+        "pop": "que tem a mesma tensão ou concentração"
+    },
+    "isquemia": {
+        "pop": "tecidular ainda reversível"
+    },
+    "jacto": {
+        "pop": "banho por duche"
+    },
+    "jejuno": {
+        "pop": "parte do intestino delgado desde o duodeno até ao íleo"
+    },
+    "juvenil": {
+        "pop": "relativo ao jovem"
+    },
+    "laceração": {
+        "pop": "ferida irregular"
+    },
+    "lacrimal": {
+        "pop": "das lágrimas"
+    },
+    "lactação": {
+        "pop": "formação de leite"
+    },
+    "largo espectro": {
+        "pop": "activo com vários grupos de germes"
+    },
+    "laringite": {
+        "pop": "inflamação da laringe"
+    },
+    "lassitude": {
+        "pop": "fraqueza, cansaço"
+    },
+    "lateral": {
+        "pop": "lateral"
+    },
+    "laxativo": {
+        "pop": "medicamento purgante"
+    },
+    "lenticular": {
+        "pop": "relacionado com o cristalino"
+    },
+    "lesão": {
+        "pop": "alteração mórbida na função ou estrutura de um órgão"
+    },
+    "letal": {
+        "pop": "que provoca a morte"
+    },
+    "letargia": {
+        "pop": "embriaguez, sonolência"
+    },
+    "leucemia": {
+        "pop": "glóbulos brancos em circulação"
+    },
+    "leucocitose": {
+        "pop": "aumento do número de glóbulos brancos em circulação"
+    },
+    "leucopenia": {
+        "pop": "deficiência de glóbulos brancos no sangue"
+    },
+    "leucoplasia": {
+        "pop": "\fnesse órgão"
+    },
+    "leucorreia": {
+        "pop": "corrimento mucoso de cor branca oriundo da vagina; flores-brancas"
+    },
+    "leucócito": {
+        "pop": "glóbulo branco"
+    },
+    "licor": {
+        "pop": "solução, soluto"
+    },
+    "ligamento": {
+        "pop": "feixe fibroso entre dos ossos numa articulação"
+    },
+    "linear": {
+        "pop": "linear"
+    },
+    "linfadenopatia": {
+        "pop": "tumefacção de um ou mais gânglios linfáticos"
+    },
+    "linfangite": {
+        "pop": "angioleucite, inflamação dos vasos linfáticos"
+    },
+    "linfocítico": {
+        "pop": "relativo aos linfócitos, células com núcleo redondo"
+    },
+    "linfoma": {
+        "pop": "tumor maligno gerado no tecido linfóide"
+    },
+    "lipodistrofia": {
+        "pop": "pernas)"
+    },
+    "lipofílico": {
+        "pop": "que dissolve as gorduras; que pode tornar-se obeso"
+    },
+    "lipoproteína": {
+        "pop": "combinação de uma gordura e uma proteína"
+    },
+    "liposoma": {
+        "pop": "liposoma"
+    },
+    "liquenificação": {
+        "pop": "endurecimento da pele"
+    },
+    "livedo": {
+        "pop": "cor avermelhada da pele"
+    },
+    "lobo": {
+        "pop": "lóbulo"
+    },
+    "local": {
+        "pop": "restricto, não geral"
+    },
+    "localização": {
+        "pop": "restrição a uma área determinada"
+    },
+    "loco-regional": {
+        "pop": "local e regional"
+    },
+    "locomotor": {
+        "pop": "locomotor"
+    },
+    "lombar": {
+        "pop": "relacionado com a parte inferior da coluna vertebral"
+    },
+    "lumbago": {
+        "pop": "dor na parte inferior da coluna vertebral"
+    },
+    "luxação": {
+        "pop": "deslocação dos ossos de uma articulação"
+    },
+    "luético": {
+        "pop": "sifilítico"
+    },
+    "lábil": {
+        "pop": "instável, facilmente alterável"
+    },
+    "líbido": {
+        "pop": "desejo sexual"
+    },
+    "límbico": {
+        "pop": "relativo a uma borda ou margem"
+    },
+    "lípido": {
+        "pop": "gordura ou substância idêntica"
+    },
+    "lítico": {
+        "pop": "relativo à pedra, que rompe, que influi na destruição da célula"
+    },
+    "lóquios": {
+        "pop": "corrimento após o parto"
+    },
+    "lúmen": {
+        "pop": "cavidade ou canal dentro de um órgão em forma de tubo"
+    },
+    "maceração": {
+        "pop": "extracção a frio"
+    },
+    "maciço": {
+        "pop": "grande, amplo"
+    },
+    "maculopapular": {
+        "pop": "consistente em manchas e pápulas, borbulhas"
+    },
+    "mal-absorção": {
+        "pop": "transtorno da absorção intestinal de nutrientes"
+    },
+    "malformação": {
+        "pop": "deformação"
+    },
+    "maligno": {
+        "pop": "ruim; de evolução fatal"
+    },
+    "mamário": {
+        "pop": "relativo à mama"
+    },
+    "mania": {
+        "pop": "delírio maníaco, delírio furioso"
+    },
+    "manifestação": {
+        "pop": "exteriorização de uma doença"
+    },
+    "manifesto": {
+        "pop": "visível"
+    },
+    "maníaco": {
+        "pop": "relativo a uma mania"
+    },
+    "massagem": {
+        "pop": "massagem"
+    },
+    "mastigatório": {
+        "pop": "que afecta os músculos da mastigação; que deve mastigar-se"
+    },
+    "mastite": {
+        "pop": "mamite, inflamação dos peitos"
+    },
+    "mastodinia": {
+        "pop": "dor nos peitos"
+    },
+    "mastoidite": {
+        "pop": "inflamação da apófise mastóide no ouvido"
+    },
+    "mastócito": {
+        "pop": "célula de Mast"
+    },
+    "maxilar": {
+        "pop": "relativo aos ossos da cara onde se encontram fixados os dentes"
+    },
+    "mecanismo": {
+        "pop": "maquinismo, órgão, artifício, dispositivo"
+    },
+    "mecela": {
+        "pop": "pequenos fragmentos presentes em dispersão coloidal"
+    },
+    "mediador": {
+        "pop": "agente intermediário, substância química que transmite algo"
+    },
+    "mediano": {
+        "pop": "médio"
+    },
+    "mediar": {
+        "pop": "mediar, interpor"
+    },
+    "medicamento": {
+        "pop": "remédio, medicina"
+    },
+    "medicação": {
+        "pop": "medicamentação; aplicação de medicamentos"
+    },
+    "medicinal": {
+        "pop": "medical, médico; que tem qualidades curativas"
+    },
+    "medular": {
+        "pop": "relativo à medula de qualquer tipo"
+    },
+    "megacolo": {
+        "pop": "megalócon, cólon anormalmente dilatado, doença de Hirschsprung"
+    },
+    "megaloblástico": {
+        "pop": "megaloblástico"
+    },
+    "meio de contraste": {
+        "pop": "meio para visualização radiográfica"
+    },
+    "melanona": {
+        "pop": "tumor pigmentado, geralmente maligno, da pele ou das mucosas"
+    },
+    "melanose": {
+        "pop": "coloração obscura superficial da pele ou das mucosas"
+    },
+    "melena": {
+        "pop": "\ffezes negras pela presença de sangue"
+    },
+    "membrana": {
+        "pop": "membrana"
+    },
+    "membrana celular": {
+        "pop": "membrana de uma célula"
+    },
+    "menarca": {
+        "pop": "primeira menstruação"
+    },
+    "meningite": {
+        "pop": "inflamação das meninges"
+    },
+    "menopausa": {
+        "pop": "cessação da menstruação na mulher"
+    },
+    "menorragia": {
+        "pop": "excesso de fluxo de sangue na menstruação"
+    },
+    "menstruação": {
+        "pop": "regras"
+    },
+    "mental": {
+        "pop": "psíquico"
+    },
+    "mesentérico": {
+        "pop": "relativo ao mesentério, membrana que contém os vasos sanguíneos mesentéricos"
+    },
+    "metabolismo": {
+        "pop": "conjunto de reacções bioquímicas dentro do organismo"
+    },
+    "metabolito": {
+        "pop": "substância derivada de um medicamento dentro do organismo"
+    },
+    "metaplasia": {
+        "pop": "processo de transformação de células ou tecidos noutros distintos"
+    },
+    "metastase": {
+        "pop": "migração de doença, aparecimento de um cancro à distância"
+    },
+    "meteorismo": {
+        "pop": "timpanismo, timpanite, dilatação do ventre (devido a gases)"
+    },
+    "metrorragia": {
+        "pop": "hemorragia sanguínea uterina não menstrual"
+    },
+    "mialgia": {
+        "pop": "miodinia, dor muscular"
+    },
+    "miastenia": {
+        "pop": "falta de força, fraqueza muscular"
+    },
+    "micobactéria": {
+        "pop": "\fmicobactéria"
+    },
+    "micológico": {
+        "pop": "relativo à micologia (estudo dos cogumelos)"
+    },
+    "micose": {
+        "pop": "doença causada por fungos"
+    },
+    "microbiológico": {
+        "pop": "relativo à ciência dos microrganismos (organismos minúsculos)"
+    },
+    "microcirculação": {
+        "pop": "fluxo de sangue em todo o sistema de vasos minúsculos"
+    },
+    "micrografia": {
+        "pop": "fotografia como através do microscópio; análise com o microscópio"
+    },
+    "micrograma": {
+        "pop": "a milionésima parte de um grama"
+    },
+    "micronizar": {
+        "pop": "reduzir a pó fino"
+    },
+    "microrganismo": {
+        "pop": "micróbio"
+    },
+    "microscópico": {
+        "pop": "extremamente pequeno"
+    },
+    "microspório": {
+        "pop": "género de fungos ascomicetes, parasitas no homem"
+    },
+    "microssómico": {
+        "pop": "derivado dos microssomas"
+    },
+    "microvilosidade": {
+        "pop": "forma de velosidade à superfície de uma célula"
+    },
+    "micção": {
+        "pop": "acção de urinar, urinação"
+    },
+    "micótico": {
+        "pop": "produzido por fungos"
+    },
+    "midriático": {
+        "pop": "droga que dilata a pupila"
+    },
+    "mieloma": {
+        "pop": "tumor maligno das células da medula do osso; cancro do sangue"
+    },
+    "mielomatose": {
+        "pop": "cancro da medula do osso, doença de Kahler"
+    },
+    "mielossupressão": {
+        "pop": "inibição da actividade da medula"
+    },
+    "mielotóxico": {
+        "pop": "nocivo para a medula do osso"
+    },
+    "mineralização": {
+        "pop": "incorporação de substâncias minerais por meio de tecidos do organismo"
+    },
+    "mineralocorticóide": {
+        "pop": "hormonas mineralocorticosteróides"
+    },
+    "minimizar": {
+        "pop": "reduzir (ao mínimo), limitar"
+    },
+    "miocardite": {
+        "pop": "inflamação do miocárdio"
+    },
+    "miopatia": {
+        "pop": "qualquer doença muscular"
+    },
+    "miopia": {
+        "pop": "hipometropia, visão curta, vista-curta"
+    },
+    "miorrelaxante": {
+        "pop": "que distende os músculos"
+    },
+    "miosite": {
+        "pop": "miíte, inflamação de um músculo voluntário"
+    },
+    "miscível": {
+        "pop": "que se pode misturar"
+    },
+    "mitose": {
+        "pop": "divisão cinética, cariocinese, divisão celular indirecta"
+    },
+    "miótico": {
+        "pop": "relativo à divisão dos cromossomas e replicação das células"
+    },
+    "mobilidade": {
+        "pop": "possibilidade de realizar movimentos activos, por ex., uma articulação"
+    },
+    "mobilização": {
+        "pop": "processo de tornar móvel uma parte fixa ou uma substância presa"
+    },
+    "modificar": {
+        "pop": "alterar"
+    },
+    "modulador": {
+        "pop": "substância reguladora"
+    },
+    "molecular": {
+        "pop": "relativo às moléculas ou composto por elas"
+    },
+    "monocomponente": {
+        "pop": "de um só componente"
+    },
+    "mononucleose": {
+        "pop": "mononucleose"
+    },
+    "monoterapia": {
+        "pop": "terapia com um medicamento de cada vez"
+    },
+    "morbidez(a)": {
+        "pop": "taxa de doentes numa população"
+    },
+    "morfinomimético": {
+        "pop": "produtos com efeito idêntico ao da morfina"
+    },
+    "mortalidade": {
+        "pop": "taxa de falecimentos de uma população"
+    },
+    "motilidade": {
+        "pop": "faculdade de se mover espontaneamente"
+    },
+    "motor": {
+        "pop": "que move, motriz"
+    },
+    "muco": {
+        "pop": "mucosidade; pituíta, monco, ranho"
+    },
+    "mucociliar": {
+        "pop": "mucociliar"
+    },
+    "mucocutâneo": {
+        "pop": "relativo às mucosas e à pele ou que as afecta"
+    },
+    "mucolítico": {
+        "pop": "agente que destrói ou dissolve a mucina"
+    },
+    "mucopurulento": {
+        "pop": "que contém muco e pus"
+    },
+    "mucosa": {
+        "pop": "mucosa"
+    },
+    "multidose": {
+        "pop": "que encerra muitas doses"
+    },
+    "multípara": {
+        "pop": "que teve vários filhos"
+    },
+    "muscular": {
+        "pop": "relativo ao músculo; com musculatura bem desenvolvida"
+    },
+    "musculatura": {
+        "pop": "sistema muscular do corpo ou das suas partes"
+    },
+    "mutagénico": {
+        "pop": "que induz mutações genéticas"
+    },
+    "mutação": {
+        "pop": "mudança do material genético"
+    },
+    "mutismo": {
+        "pop": "mudez"
+    },
+    "mácula": {
+        "pop": "sinal, mancha, cicatriz, estigma"
+    },
+    "máximo (adj)": {
+        "pop": "máximo"
+    },
+    "máximo (subst)": {
+        "pop": "máximo, limite superior"
+    },
+    "médico": {
+        "pop": "medical, medicinal"
+    },
+    "mímica": {
+        "pop": "\fexpressão de ideias ou pensamentos por meio de gestos"
+    },
+    "mínimo (adj)": {
+        "pop": "mínimo, ínfimo"
+    },
+    "mínimo (subst)": {
+        "pop": "mínimo, limite inferior"
+    },
+    "múltiplo": {
+        "pop": "variado"
+    },
+    "nadir": {
+        "pop": "\fo ponto mais baixo"
+    },
+    "narcótico": {
+        "pop": "sonífero; agente que produz insensibilidade, estupor ou anestesia"
+    },
+    "nasal": {
+        "pop": "relativo ao nariz"
+    },
+    "nasolacrimal": {
+        "pop": "relativo ao nariz e ao aparelho lacrimal"
+    },
+    "natriurese": {
+        "pop": "excreção de quantidades anormais de sódio na urina"
+    },
+    "necrose": {
+        "pop": "morte celular, esfacelo, gangrena"
+    },
+    "necrólise": {
+        "pop": "separação e esfoliação do tecido por morte celular"
+    },
+    "nefrite": {
+        "pop": "inflamação do rim"
+    },
+    "nefropatia": {
+        "pop": "doença renal"
+    },
+    "nefrotóxico": {
+        "pop": "tóxico para os rins"
+    },
+    "nefrólito": {
+        "pop": "\fcálculo renal, cálculo do rim"
+    },
+    "nefrótico": {
+        "pop": "relativo a uma doença dos rins ou causado por ela"
+    },
+    "negativo": {
+        "pop": "sem resultado, não positivo, abaixo da linha zero"
+    },
+    "neonatal": {
+        "pop": "relativo ao primeiro mês de vida"
+    },
+    "neoplástico": {
+        "pop": "canceroso, neoplásico"
+    },
+    "nervosidade": {
+        "pop": "nervosismo"
+    },
+    "neural": {
+        "pop": "relativo aos nervos; situado na região da coluna vertebral"
+    },
+    "neuralgia": {
+        "pop": "nevralgia, dor viva que se sente no trajecto dos nervos"
+    },
+    "neurite": {
+        "pop": "nevrite, inflamação de um nervo"
+    },
+    "neurodermatite": {
+        "pop": "doença da pele derivada de causas emocionais"
+    },
+    "neuroleptanalgesia": {
+        "pop": "técnica de preparação dos doentes para operações cirúrgicas"
+    },
+    "neuroléptico": {
+        "pop": "calmante do sistema nervoso"
+    },
+    "neurológico": {
+        "pop": "relativo ao sistema nervoso ou à neurologia"
+    },
+    "neuromuscular": {
+        "pop": "relativo à correlação entre os nervos e os músculos"
+    },
+    "neuronal": {
+        "pop": "relativo às neuronas"
+    },
+    "neuropatia": {
+        "pop": "nevropatia, doença nervosa"
+    },
+    "neurotransmissor": {
+        "pop": "substância que transmite impulsos nervosos por via química"
+    },
+    "neurotóxico": {
+        "pop": "tóxico para os nervos"
+    },
+    "neurovegetativo": {
+        "pop": "que pertence ou é relativo ao sistema nervoso vegetativo"
+    },
+    "neurótico": {
+        "pop": "nevrótico, neuropático, nevropático"
+    },
+    "neutralização": {
+        "pop": "processo pelo qual uma coisa perde eficácia"
+    },
+    "neutropenia": {
+        "pop": "insuficiência de glóbulos brancos"
+    },
+    "neutrófilo": {
+        "pop": "que tem afinidade com corantes neutros"
+    },
+    "nictúria": {
+        "pop": "incontinência das urinas durante a noite"
+    },
+    "nidação": {
+        "pop": "implantação do óvulo na cavidade uterina"
+    },
+    "niilidade": {
+        "pop": "\fniilismo, isto é, sensação de falta de esperança por parte do homem; nada"
+    },
+    "nistagmo": {
+        "pop": "movimento reflexo do globo ocular (dos olhos)"
+    },
+    "nocturno": {
+        "pop": "de noite, da noite"
+    },
+    "nodoso": {
+        "pop": "caracterizado por pequenos nós sólidos"
+    },
+    "normalização": {
+        "pop": "estandardização, padronização, unificação"
+    },
+    "normotenso": {
+        "pop": "com tensão ou pressão normal"
+    },
+    "nosocomial": {
+        "pop": "relativo ao hospital e às doenças que ali se tratam, hospitalar"
+    },
+    "nulípara": {
+        "pop": "mulher que nunca deu à luz"
+    },
+    "numular": {
+        "pop": "escarros em forma de moeda nas tuberculoses pulmonares"
+    },
+    "nutriente": {
+        "pop": "alimentar, alimentício, nutritivo, nutrício, substancial"
+    },
+    "náusea": {
+        "pop": "vontade de vomitar; enjoo; repugnância, sentimento de repulsão"
+    },
+    "obesidade": {
+        "pop": "excesso de peso corporal por acumulação de gordura"
+    },
+    "objectivo": {
+        "pop": "perceptível aos sentidos externos; meta"
+    },
+    "observação": {
+        "pop": "\festudo de um fenómeno"
+    },
+    "obsessão": {
+        "pop": "ideia fixa"
+    },
+    "obstetrício": {
+        "pop": "parte da medicina que se ocupa da gravidez, parto e puerpério; obstétrico, tocológico"
+    },
+    "obstipação": {
+        "pop": "dificuldade de expelir os excrementos, prisão de ventre"
+    },
+    "obstrução": {
+        "pop": "entupimento"
+    },
+    "ocasional": {
+        "pop": "de vez em quando"
+    },
+    "ocitócico": {
+        "pop": "ocitócito, agente que faz acelerar parto estimulando o útero"
+    },
+    "oclusão": {
+        "pop": "obliteração, fecho, de um canal ou de uma abertura natural"
+    },
+    "ocular": {
+        "pop": "relativo ao olho ou à vista"
+    },
+    "oculogiro": {
+        "pop": "que faz girar os olhos"
+    },
+    "oculomucocutâneo": {
+        "pop": "oculomucocutâneo"
+    },
+    "oculto": {
+        "pop": "escondido, secrecto"
+    },
+    "odor": {
+        "pop": "cheiro"
+    },
+    "oftalmológico": {
+        "pop": "relativo à parte da medicina que estuda os olhos"
+    },
+    "oftálmico": {
+        "pop": "referente ou pertencente ao olho ou à vista"
+    },
+    "oligoelemento": {
+        "pop": "substância mineral em quantidades mínimas da dieta alimentar"
+    },
+    "oligomenorreia": {
+        "pop": "diminuição do fluxo menstrual"
+    },
+    "oliguria": {
+        "pop": "diminuição da produção de urina"
+    },
+    "oncolítico": {
+        "pop": "que destrói as células cancerosas"
+    },
+    "oncótico": {
+        "pop": "relativo ao cancro"
+    },
+    "ooforectomia": {
+        "pop": "remoção cirúrgica de um ovário"
+    },
+    "opalescente": {
+        "pop": "parecido com o ópalo ou que tem cores como ele"
+    },
+    "opiato": {
+        "pop": "medicamento que contém ópio (droga)"
+    },
+    "opistótono": {
+        "pop": "arqueamento posterior da cabeça e membros inferiores"
+    },
+    "oportunista": {
+        "pop": "diz-se do microrganismo que produz doenças unicamente em determinadas circunstâncias"
+    },
+    "oral": {
+        "pop": "relativo à boca, pela boca"
+    },
+    "orbital": {
+        "pop": "relativo à cavidade óssea que contém o globo ocular; orbitário"
+    },
+    "organismo": {
+        "pop": "qualquer coisa viva individual"
+    },
+    "orgasmo": {
+        "pop": "ponto mais elevado da excitação sexual"
+    },
+    "orientação": {
+        "pop": "orientação"
+    },
+    "orofacial": {
+        "pop": "\forofacial"
+    },
+    "orquite": {
+        "pop": "inflamação de um testículo"
+    },
+    "ortopédico": {
+        "pop": "ortopédico"
+    },
+    "ortostático": {
+        "pop": "relativo à posição do pé ou causado por ele"
+    },
+    "osmolalidade": {
+        "pop": "concentração de partículas osmoticamente activas em solução"
+    },
+    "osmolaridade": {
+        "pop": "concentração de partículas osmoticamente activas em solução"
+    },
+    "osmótico": {
+        "pop": "relativo à difusão de um líquido através de uma membrana"
+    },
+    "ossificação": {
+        "pop": "formação do osso ou de substância óssea"
+    },
+    "ossículo": {
+        "pop": "pequeno osso; ossinho"
+    },
+    "osteoartrite": {
+        "pop": "osteoartrose; inflamação articular que atinge também o osso"
+    },
+    "osteodistrofia": {
+        "pop": "deformação, distrofia, dos ossos"
+    },
+    "osteomalacia": {
+        "pop": "amolecimento dos ossos"
+    },
+    "osteomielite": {
+        "pop": "infecção dos ossos"
+    },
+    "osteoporose": {
+        "pop": "rarefacção dos minerais nos ossos; desmineralização esquelética"
+    },
+    "osteotomia": {
+        "pop": "corte cirúrgico do osso"
+    },
+    "osteólise": {
+        "pop": "destruição dos ossos"
+    },
+    "otite": {
+        "pop": "inflamação no ouvido"
+    },
+    "otorreia": {
+        "pop": "supuração, corrimento do ouvido"
+    },
+    "otorrinolaringologia": {
+        "pop": "estudo das doenças do ouvido, nariz e garganta"
+    },
+    "otosclerose": {
+        "pop": "doença do labirinto ósseo do ouvido"
+    },
+    "ototóxico": {
+        "pop": "tóxico para o órgão auditivo"
+    },
+    "overdosagem": {
+        "pop": "dosagem excessiva"
+    },
+    "overdose": {
+        "pop": "dose excessiva"
+    },
+    "ovulação": {
+        "pop": "desprendimento natural do óvulo"
+    },
+    "ovárico": {
+        "pop": "relativo ao ovário"
+    },
+    "oxidação": {
+        "pop": "acção de enferrujar"
+    },
+    "oxigenação": {
+        "pop": "transporte e saturação de oxigénio"
+    },
+    "ph": {
+        "pop": "pH"
+    },
+    "pacemaker": {
+        "pop": "iniciador do ritmo do coração; regulador cardíaco"
+    },
+    "paciente": {
+        "pop": "doente"
+    },
+    "paciente de risco": {
+        "pop": "paciente de risco"
+    },
+    "pacitopenia": {
+        "pop": "diminuição de todos os glóbulos brancos"
+    },
+    "paliativo": {
+        "pop": "que alivia as dores mas não cura"
+    },
+    "palpebral": {
+        "pop": "relativo à pálpebra"
+    },
+    "palpitação": {
+        "pop": "sensação de batimentos cardíacos rápidos e irregulares"
+    },
+    "pancreatite": {
+        "pop": "inflamação do pâncreas"
+    },
+    "paniculite": {
+        "pop": "inflamação da gordura abdominal"
+    },
+    "papilar": {
+        "pop": "em forma de papila ou verruga"
+    },
+    "papilite": {
+        "pop": "neuropapilite, inflamação de uma papila"
+    },
+    "papiloedema": {
+        "pop": "excesso de líquido nos tecidos (edema) do disco óptico, da papila"
+    },
+    "paracentese": {
+        "pop": "esvaziamento por punção"
+    },
+    "paradoxal": {
+        "pop": "contraditório, inabitual"
+    },
+    "paralelo": {
+        "pop": "paralelo"
+    },
+    "paralisia": {
+        "pop": "privação ou diminuição considerável do movimento voluntário e da sensibilidade"
+    },
+    "paranóia": {
+        "pop": "delírio, loucura raciocinante, monomania"
+    },
+    "paraplegia": {
+        "pop": "paralisia das pernas e parte inferior do corpo"
+    },
+    "parassimpaticomimétrico": {
+        "pop": "substância que estimula directamente o sistema colinérgico ou parassimpático"
+    },
+    "parasítico": {
+        "pop": "parasitário; referente aos organismos que vivem à custa de outros organismos"
+    },
+    "paratiróide": {
+        "pop": "relativo à glândula paratiróide"
+    },
+    "paravenoso": {
+        "pop": "próximo de uma veia"
+    },
+    "parenteral": {
+        "pop": "administrado por via não oral"
+    },
+    "paresia": {
+        "pop": "paralisia incompleta, parcial"
+    },
+    "parestesia": {
+        "pop": "sensação de formigueiro, picadelas"
+    },
+    "parietal": {
+        "pop": "relativo à parede de uma cavidade; relativo ao osso frontal"
+    },
+    "paroníquia": {
+        "pop": "inflamação do dedo perto da unha; panarício"
+    },
+    "parotidite": {
+        "pop": "inflamação da glândula salivar; papeira"
+    },
+    "paroxísmico": {
+        "pop": "paroxístico, agudo"
+    },
+    "parto": {
+        "pop": "parto"
+    },
+    "partícula": {
+        "pop": "corpúsculo, parte elementar"
+    },
+    "parâmetro": {
+        "pop": "parâmetro, critério"
+    },
+    "parênquima": {
+        "pop": "parte funcional de um órgão"
+    },
+    "passagem": {
+        "pop": "evacuação intestinal"
+    },
+    "passivo": {
+        "pop": "não activo"
+    },
+    "patológico": {
+        "pop": "mórbido, relacionado com uma doença determinada"
+    },
+    "patógeno": {
+        "pop": "patogénico, que causa doença"
+    },
+    "pediculose": {
+        "pop": "ftiríase, doença pedicular, infestação por piolhos"
+    },
+    "pediátrico": {
+        "pop": "relativo à parte da medicina que trata das crianças"
+    },
+    "película líquida": {
+        "pop": "película líquida"
+    },
+    "penetração": {
+        "pop": "penetração, perfuração"
+    },
+    "penicilinase": {
+        "pop": "enzima encontrada nos organismos penicilino-resistentes"
+    },
+    "percepção": {
+        "pop": "\fpercepção"
+    },
+    "percutâneo": {
+        "pop": "através da pele"
+    },
+    "perene": {
+        "pop": "perpétuo"
+    },
+    "perfuração": {
+        "pop": "abertura; orifício"
+    },
+    "perfusão": {
+        "pop": "perfusão; transfusão"
+    },
+    "perianal": {
+        "pop": "em volta do ânus"
+    },
+    "periartrite": {
+        "pop": "inflamação dos tecidos que rodeiam uma articulação"
+    },
+    "pericardite": {
+        "pop": "inflamação da envoltura do coração"
+    },
+    "peridual": {
+        "pop": "situado em torno da envoltura do sistema nervoso central"
+    },
+    "periférico": {
+        "pop": "fora do centro, fora do sistema nervoso central"
+    },
+    "perinatal": {
+        "pop": "pouco antes ou depois do nascimento"
+    },
+    "perineal": {
+        "pop": "relativo à região limitada pelo escroto-ânus, no homem, e pela vulva-ânus, na mulher"
+    },
+    "perioperativo": {
+        "pop": "período de hospitalização aquando de uma operação"
+    },
+    "perioral": {
+        "pop": "à volta da boca"
+    },
+    "periorbital": {
+        "pop": "à volta da órbita"
+    },
+    "peristaltismo": {
+        "pop": "movimento automático do intestino"
+    },
+    "peritonite": {
+        "pop": "inflamação da envoltura do abdominal"
+    },
+    "perivascular": {
+        "pop": "à volta dos vasos sanguíneos"
+    },
+    "periódico": {
+        "pop": "cíclico, regular"
+    },
+    "permanente": {
+        "pop": "permanente"
+    },
+    "permeabilidade": {
+        "pop": "propriedade de uma membrana deixar passar as substâncias"
+    },
+    "pernas sem repouso": {
+        "pop": "sensação de formigueiro profundo em ambas as pernas"
+    },
+    "pernicioso": {
+        "pop": "\fmau, grave, maligno"
+    },
+    "peroral": {
+        "pop": "através da boca (ingestão de remédios, por exemplo)"
+    },
+    "persistente": {
+        "pop": "perseverante"
+    },
+    "pertosse": {
+        "pop": "esgana, coqueluche, tosse convuls(iv)a"
+    },
+    "perversão": {
+        "pop": "desvio sexual"
+    },
+    "período de latência": {
+        "pop": "tempo de espera"
+    },
+    "pessário": {
+        "pop": "instrumento que se coloca na vagina como dispositivo contraceptivo; supositório vaginal"
+    },
+    "petéquias": {
+        "pop": "pequenas manchas avermelhado-rouxas na pele"
+    },
+    "pico do débito": {
+        "pop": "auge ou pico do fluxo, do débito"
+    },
+    "pielite": {
+        "pop": "inflamação da pélvis renal"
+    },
+    "pielonefrite": {
+        "pop": "inflamação conjunta do rim e da pélvis renal"
+    },
+    "pigmentação": {
+        "pop": "matéria orgânica corante da pele"
+    },
+    "piloerecção": {
+        "pop": "pelos ou cabelos em pé, erecção do pelo ou cabelo"
+    },
+    "piloro": {
+        "pop": "saída do estômago"
+    },
+    "pioderma": {
+        "pop": "\finfecção da pele"
+    },
+    "piogénico": {
+        "pop": "infeccioso, que produz pus"
+    },
+    "pirexia": {
+        "pop": "estado febril"
+    },
+    "pirogénico": {
+        "pop": "que causa febre"
+    },
+    "pirose": {
+        "pop": "azia, sensação de calor no estômago"
+    },
+    "pitiríase": {
+        "pop": "descamação da pele"
+    },
+    "placa dentária": {
+        "pop": "tártaro"
+    },
+    "placebo": {
+        "pop": "medicamento destinado mais a agradar do que a beneficiar o"
+    },
+    "placenta": {
+        "pop": "placenta"
+    },
+    "plasminogénio": {
+        "pop": "precursor inactivo da plasmina"
+    },
+    "pleurisia": {
+        "pop": "pleurite, inflamação da membrana que reveste os pulmões e a cavidade torácica"
+    },
+    "plexo": {
+        "pop": "rede de vasos linfáticos, nervos ou veias"
+    },
+    "pneumonia": {
+        "pop": "pulmonia, inflamação dos pulmões e brônquios respiratórios"
+    },
+    "pneumopatia": {
+        "pop": "doença dos pulmões"
+    },
+    "poliartrite": {
+        "pop": "inflamação simultânea de várias articulações"
+    },
+    "polidipsia": {
+        "pop": "sede excessiva persistente; sintoma de diabetes mellitus descompensada"
+    },
+    "polimorfo": {
+        "pop": "que apresenta diversas formas"
+    },
+    "polinevrite": {
+        "pop": "neurite múltipla; inflamação de muitos nervos um por cada vez"
+    },
+    "poliomielite": {
+        "pop": "paralisia infantil"
+    },
+    "polipeptídeo": {
+        "pop": "peptídicas"
+    },
+    "politerapia": {
+        "pop": "terapia múltipla"
+    },
+    "polivalente": {
+        "pop": "plurivalente, multivalente"
+    },
+    "poliúria": {
+        "pop": "eliminação de grandes quantidades de urina por dia"
+    },
+    "população": {
+        "pop": "população"
+    },
+    "porfíria": {
+        "pop": "transtorno do metabolismo das porfirinas"
+    },
+    "positivo": {
+        "pop": "que indica a presença de um transtorno"
+    },
+    "posologia": {
+        "pop": "regime de administração do medicamento"
+    },
+    "posterior": {
+        "pop": "\ftraseiro"
+    },
+    "postural": {
+        "pop": "relacionado com a postura ou a posição"
+    },
+    "potencial": {
+        "pop": "existente mas não activo"
+    },
+    "potencialização": {
+        "pop": "activação de uma droga por outra"
+    },
+    "potenciação": {
+        "pop": "activação de uma droga por outra"
+    },
+    "potência": {
+        "pop": "poder; capacidade sexual; poder de um medicamento produzir efeitos"
+    },
+    "precipitação": {
+        "pop": "precipitado, depósito"
+    },
+    "precordial": {
+        "pop": "situado diante do coração"
+    },
+    "precursor": {
+        "pop": "que precede, dianteiro"
+    },
+    "predisposição": {
+        "pop": "aptidão do organismo para contrair certas doenças; vocação"
+    },
+    "preeclampsia": {
+        "pop": "estado antenatal que precede as convulsões eclâmpticas"
+    },
+    "prejudicial": {
+        "pop": "desfavorável, adverso"
+    },
+    "preliminar": {
+        "pop": "que antecede o principal ou que o prepara"
+    },
+    "prematuro": {
+        "pop": "que acontece antes do tempo (normal)"
+    },
+    "preparação": {
+        "pop": "preparado, confecção, solução, fabricação"
+    },
+    "prepúcio": {
+        "pop": "prega de pele que recobre a glande do pénis ou o clítoris"
+    },
+    "prescrição": {
+        "pop": "receita"
+    },
+    "presença de pedras nas condutas biliares, litíase biliar (pop) , colelitíase": {
+        "pop": "cianose"
+    },
+    "prevenção": {
+        "pop": "medidas destinadas a evitar doenças ou acidentes"
+    },
+    "priapismo": {
+        "pop": "erecção anormal e persistente"
+    },
+    "primeira passagem": {
+        "pop": "primeiro passo"
+    },
+    "primeira vacinação": {
+        "pop": "primeira vacina"
+    },
+    "primário": {
+        "pop": "primeiro, principal, originário"
+    },
+    "prisão de ventre": {
+        "pop": "obstipação"
+    },
+    "privação": {
+        "pop": "falta ou carência"
+    },
+    "procedimento": {
+        "pop": "método, processo"
+    },
+    "procriação": {
+        "pop": "geração, reprodução, propagação"
+    },
+    "proctite": {
+        "pop": "inflamação do recto"
+    },
+    "produtivo": {
+        "pop": "tosse)"
+    },
+    "produtivo , que produz tecido novo (diz-se de uma inflamação); que produz escarros e": {
+        "pop": "supra-renal"
+    },
+    "produto liofilizado": {
+        "pop": "produto preparado mediante congelação e desidratação"
+    },
+    "produção": {
+        "pop": "fabricação, geração"
+    },
+    "profilaxia": {
+        "pop": "medicina preventiva"
+    },
+    "progestogeno": {
+        "pop": "\fhormônio que prepara o útero para a recepção e desenvolvimento do óvulo fecundado"
+    },
+    "prognose": {
+        "pop": "prognóstico"
+    },
+    "progressivo": {
+        "pop": "continuado, que avança lentamente"
+    },
+    "prolapso": {
+        "pop": "afundamento ou queda (ex.: útero, recto, cordão umbilical)"
+    },
+    "proliferação": {
+        "pop": "reprodução, multiplicação"
+    },
+    "proporcional": {
+        "pop": "proporcional"
+    },
+    "proptose": {
+        "pop": "proptoma"
+    },
+    "propulsivo": {
+        "pop": "motor"
+    },
+    "prostaglandina(s)": {
+        "pop": "substâncias derivadas de ácidos gordos"
+    },
+    "prostatismo": {
+        "pop": "hipertrofia e obstrução da próstata"
+    },
+    "prostatite": {
+        "pop": "inflamação da próstata"
+    },
+    "protectivo": {
+        "pop": "que protege, protector"
+    },
+    "proteolítico": {
+        "pop": "que digere ou hidrolisa as proteínas"
+    },
+    "proteína": {
+        "pop": "prótido"
+    },
+    "proteína plasmática": {
+        "pop": "proteína do plasma"
+    },
+    "protozoário": {
+        "pop": "organismos unicelulares"
+    },
+    "protrombina": {
+        "pop": "actor II da coagulação sanguínea; trombogénio"
+    },
+    "protrusão": {
+        "pop": "deslocação para a frente de um órgão"
+    },
+    "protéase": {
+        "pop": "enzima proteolítica, enzina que destrói as proteínas"
+    },
+    "prova": {
+        "pop": "ensaio, experiência, análise"
+    },
+    "prurido": {
+        "pop": "comichão"
+    },
+    "prurítico": {
+        "pop": "pruriginoso, que faz comichão"
+    },
+    "pré-carga": {
+        "pop": "pré-carga"
+    },
+    "pré-clínico": {
+        "pop": "que ocorre antes da doença ser clinicamente reconhecível"
+    },
+    "pré-menstrual": {
+        "pop": "que ocorre antes da menstruação"
+    },
+    "pré-natal": {
+        "pop": "antes do nascimento, durante a evolução da gravidez"
+    },
+    "pré-operatório": {
+        "pop": "que precede uma operação"
+    },
+    "pré-sinático": {
+        "pop": "que se encontra adiante da zona de contacto entre dois neuronas"
+    },
+    "prémedicação": {
+        "pop": "administração de medicamentos como sedativos antes de uma anestesia gera"
+    },
+    "prótese": {
+        "pop": "substituição artificial de um órgão; anaplerose"
+    },
+    "próximo": {
+        "pop": "situado mais perto do centro do tronco"
+    },
+    "pseudo-tumor": {
+        "pop": "falso tumor"
+    },
+    "pseudomembranoso": {
+        "pop": "pseudomenbranoso"
+    },
+    "psicogénico": {
+        "pop": "que tem origem emocional ou psicológica"
+    },
+    "psicoléptico": {
+        "pop": "fármaco com efeito sedente"
+    },
+    "psicológico": {
+        "pop": "psicológico"
+    },
+    "psicomotor": {
+        "pop": "relativo aos efeitos motores da actividade cerebral ou psíquica"
+    },
+    "psicose": {
+        "pop": "psicopatia, alienação (mental), doença mental"
+    },
+    "psicossomático": {
+        "pop": "que tem sintomas corporais de origem psíquica, emocional e mental"
+    },
+    "psicotrópico": {
+        "pop": "\fque afecta o estado mental"
+    },
+    "psiquiátrico": {
+        "pop": "relativo à psiquiatria"
+    },
+    "psoríase": {
+        "pop": "doença da pele caracterizada por descamação"
+    },
+    "psíquico": {
+        "pop": "mental"
+    },
+    "ptose": {
+        "pop": "queda de um órgão"
+    },
+    "puberdade": {
+        "pop": "período de maturidade sexual"
+    },
+    "puerpério": {
+        "pop": "período de restabelecimento após o parto"
+    },
+    "pulmonar": {
+        "pop": "\frelativo aos pulmões"
+    },
+    "pulsação": {
+        "pop": "batimento cardíaco ou o fluxo do sangue nas artérias"
+    },
+    "pulverizador": {
+        "pop": "atomizador, vaporizador, aparelho de pulverizar"
+    },
+    "punção": {
+        "pop": "paracentese, puntura"
+    },
+    "purgativo": {
+        "pop": "purgante, que produz evacuação do intestino"
+    },
+    "purulento": {
+        "pop": "que contém ou produz pus"
+    },
+    "pustuloso": {
+        "pop": "pustulento, com formação de pústulas"
+    },
+    "pápula": {
+        "pop": "pequena elevação sólida e circunscrita da pele"
+    },
+    "pélvico": {
+        "pop": "relativo à parte inferior do tronco do corpo"
+    },
+    "pénis": {
+        "pop": "membro viril, falo, pene, verga"
+    },
+    "péptico": {
+        "pop": "relativo à digestão; úlcera gástrica"
+    },
+    "pênfigo": {
+        "pop": "doença bulhosa da pele"
+    },
+    "pós-menopáusico": {
+        "pop": "que ocorre após a menopausa"
+    },
+    "pós-natal": {
+        "pop": "depois do nascimento"
+    },
+    "pós-operativo": {
+        "pop": "depois de uma operação"
+    },
+    "pós-parto": {
+        "pop": "após o parto"
+    },
+    "pós-prandial": {
+        "pop": "após uma refeição"
+    },
+    "pós-traumático": {
+        "pop": "que ocorre depois de um traumatismo"
+    },
+    "púrpura": {
+        "pop": "hemorragias subcutâneas"
+    },
+    "qualitativo": {
+        "pop": "relativo à qualidade"
+    },
+    "quantitativo": {
+        "pop": "relativo à quantidade"
+    },
+    "quaternário": {
+        "pop": "que contém quatro elementos"
+    },
+    "quelação": {
+        "pop": "quelante"
+    },
+    "quelóide": {
+        "pop": "cicatriz defeituosa"
+    },
+    "quiescente": {
+        "pop": "em repouso"
+    },
+    "quimioterapia": {
+        "pop": "tratamento do cancro com substâncias químicas"
+    },
+    "quimioterápico": {
+        "pop": "medicamento que ataca os micróbios parasitas ou as células de um cancro"
+    },
+    "quisto": {
+        "pop": "tumefacção anormal com conteúdo líquido; ciste"
+    },
+    "químico": {
+        "pop": "químico"
+    },
+    "químio-receptor": {
+        "pop": "célula capaz de receber substâncias químicas"
+    },
+    "radioactividade": {
+        "pop": "radioactividade"
+    },
+    "radiografia": {
+        "pop": "radiografia"
+    },
+    "radiológico": {
+        "pop": "radiológico"
+    },
+    "radioterapia": {
+        "pop": "tratamento por radiações; curieterapia"
+    },
+    "raquitismo": {
+        "pop": "doença de Glisson, nodosidade das articulações"
+    },
+    "reabsorção": {
+        "pop": "reabsorção cutânea, dental"
+    },
+    "reactivação": {
+        "pop": "restauração da actividade num corpo inactivo"
+    },
+    "reactividade": {
+        "pop": "capacidade para apresentar reacções"
+    },
+    "reacção": {
+        "pop": "reacção"
+    },
+    "reagente": {
+        "pop": "reactivo, substância utilizada para produzir uma reacção química"
+    },
+    "reavaliação": {
+        "pop": "reavaliação"
+    },
+    "receptor": {
+        "pop": "receptor"
+    },
+    "recidivista": {
+        "pop": "reincidente, pessoa que repete os actos delinquentes depois de receber tratamento"
+    },
+    "recipiente": {
+        "pop": "beneficiário"
+    },
+    "recombinante": {
+        "pop": "célula com nova combinação genética, não herdada dos pais"
+    },
+    "reconstituição": {
+        "pop": "lesionada; retorno à forma líquida do soro ou plasma sanguíneo previamente dessecado"
+    },
+    "reconvalescença": {
+        "pop": "fase de recuperação"
+    },
+    "recorrente": {
+        "pop": "que volta à sua origem"
+    },
+    "rectal": {
+        "pop": "relativo ao recto, ânos"
+    },
+    "recuperação": {
+        "pop": "recuperação, aproveitamento"
+    },
+    "redução": {
+        "pop": "retorno à forma inicial ou normal"
+    },
+    "referência": {
+        "pop": "referência"
+    },
+    "reflexivo": {
+        "pop": "pensativo, reflexivo"
+    },
+    "reflexo": {
+        "pop": "reflexo"
+    },
+    "refluxo": {
+        "pop": "fluxo de retorno"
+    },
+    "refractário": {
+        "pop": "rebelde, que não cede facilmente com o tratamento"
+    },
+    "regeneração": {
+        "pop": "renovação ou preparação de tecidos ou de partes desaparecidas"
+    },
+    "regional": {
+        "pop": "\fregional"
+    },
+    "região": {
+        "pop": "parte do corpo"
+    },
+    "regressão": {
+        "pop": "anormal; involução"
+    },
+    "regulação": {
+        "pop": "afinação, ajustamento"
+    },
+    "regurgitação": {
+        "pop": "voltar à boca [por exemplo, alimentos sólidos que...]"
+    },
+    "reidratação": {
+        "pop": "restauração da água ou do conteúdo líquido num organismo"
+    },
+    "reinfecção": {
+        "pop": "nova infecção num mesmo agente, depois de ter curado a primeira"
+    },
+    "relaxante": {
+        "pop": "agente que reduz a tensão"
+    },
+    "relevante": {
+        "pop": "importante"
+    },
+    "remissão": {
+        "pop": "\fdiminuição temporal dos sintomas de uma doença"
+    },
+    "renal": {
+        "pop": "relativo ao rim"
+    },
+    "renina": {
+        "pop": "\fenzima (hormona) produzida pelos rins"
+    },
+    "renovascular": {
+        "pop": "renovascular"
+    },
+    "repetitivo": {
+        "pop": "de repetição"
+    },
+    "replicação": {
+        "pop": "autoduplicação, réplica"
+    },
+    "reprodução": {
+        "pop": "propagação, multiplicação; cópia"
+    },
+    "reservatório": {
+        "pop": "depósito, cavidade que serve de armazém"
+    },
+    "residual": {
+        "pop": "restante, que deposita"
+    },
+    "resistente": {
+        "pop": "que não reage a determinados medicamentos"
+    },
+    "resistência cruzada": {
+        "pop": "resistência a antibióticos similares"
+    },
+    "respiratório": {
+        "pop": "relativo à respiração"
+    },
+    "responder": {
+        "pop": "responder"
+    },
+    "resposta": {
+        "pop": "reacção a um estímulo"
+    },
+    "ressecção": {
+        "pop": "corte, extirpação cirúrgica parcial ou total de um órgão"
+    },
+    "ressorção": {
+        "pop": "absorção de água e de solutos por células vivas"
+    },
+    "ressuscitação": {
+        "pop": "reanimação de doentes que pareciam mortos, como após afogamento, etc."
+    },
+    "retardamento": {
+        "pop": "retardo, atraso no desenvolvimento de determinada actividade"
+    },
+    "retenção": {
+        "pop": "conservação, dentro do corpo, de materiais ou líquidos que se excretam normalmente"
+    },
+    "retinal": {
+        "pop": "relativo à retina"
+    },
+    "retinopatia": {
+        "pop": "lesão patológica que afecta a retina"
+    },
+    "retracção": {
+        "pop": "retirada, supressão"
+    },
+    "retroacção": {
+        "pop": "regulação"
+    },
+    "retrobulbar": {
+        "pop": "por trás do bolbo raquiano, por trás do globo ocular"
+    },
+    "retroesternal": {
+        "pop": "por trás do esterno"
+    },
+    "retrógrado": {
+        "pop": "que degenera, retrógrado, regressivo, retrocedente"
+    },
+    "reumatóide": {
+        "pop": "semelhante ao reumatismo"
+    },
+    "reversível": {
+        "pop": "que pode desaparecer totalmente com a supressão da causa"
+    },
+    "revestimento intestinal": {
+        "pop": "revestimento intestinal"
+    },
+    "revulsivo": {
+        "pop": "antiléptico, contra-irritante, que provoca uma irritação destinada a aliviar outra"
+    },
+    "rigidez": {
+        "pop": "resistência, robustez"
+    },
+    "rinite": {
+        "pop": "inflamação do nariz, nasite, defluxo, constipação (nasal), catarro nasal"
+    },
+    "rinofaringite": {
+        "pop": "nasofaringite, retrofaringite, angina retronasal"
+    },
+    "rinorreia": {
+        "pop": "corrimento nasal"
+    },
+    "ronco": {
+        "pop": "ruído respiratório anormal; ressono"
+    },
+    "rotatividade": {
+        "pop": "rotatividade"
+    },
+    "rotineiramente": {
+        "pop": "por rotina, por hábito"
+    },
+    "rotura": {
+        "pop": "\fruptura, fractura dos tecidos ou de um órgão"
+    },
+    "rouquidão": {
+        "pop": "rouquidão"
+    },
+    "rubor": {
+        "pop": "ruborização"
+    },
+    "rubéola": {
+        "pop": "sarampo alemão"
+    },
+    "rágade": {
+        "pop": "\fcorte, fissura"
+    },
+    "salicismo": {
+        "pop": "intoxicação com aspirina"
+    },
+    "salino": {
+        "pop": "salgado, que contém sais"
+    },
+    "salivação": {
+        "pop": "secreção de saliva, ptialismo, sialorreia, polissialia, fluxo salivar"
+    },
+    "salpingite": {
+        "pop": "inflamação da trompa uterina, da trompa auditiva"
+    },
+    "salúrico": {
+        "pop": "que induz a eliminação de sal pela urina"
+    },
+    "saprófito": {
+        "pop": "não causa doenças"
+    },
+    "sarcoma": {
+        "pop": "tumor maligno"
+    },
+    "seborreia": {
+        "pop": "excreção excessiva de substâncias gordas"
+    },
+    "secreção": {
+        "pop": "secreção"
+    },
+    "secundário": {
+        "pop": "acessório, anexo, indesejável"
+    },
+    "sedativo": {
+        "pop": "calmante, anódino, paregórico"
+    },
+    "sedentário": {
+        "pop": "que se senta habitualmente; de hábitos inactivos"
+    },
+    "sedimentação": {
+        "pop": "depósito de partículas sólidas de uma solução no fundo de um recipiente"
+    },
+    "sedimento": {
+        "pop": "depósito, assento, lia, pé, borra(s)"
+    },
+    "segmento": {
+        "pop": "parte de um organismo ou órgão"
+    },
+    "selectivo": {
+        "pop": "muito exigente quanto à indicação"
+    },
+    "semi-sintético": {
+        "pop": "produzido por manipulação química de substâncias naturais"
+    },
+    "senilidade": {
+        "pop": "velhice"
+    },
+    "sensibilização": {
+        "pop": "administração de um antigénio para induzir uma resposta imunitária"
+    },
+    "sensorial": {
+        "pop": "relativo às sensações"
+    },
+    "septicémia": {
+        "pop": "intoxicação do sangue por microrganismos"
+    },
+    "septo": {
+        "pop": "tabique de separação"
+    },
+    "sequela": {
+        "pop": "complicação mais ou menos tardia de uma doença, doença consecutiva"
+    },
+    "sequestro": {
+        "pop": "fragmento de tecido morto separado do tecido são"
+    },
+    "seroconversão": {
+        "pop": "\fmudança de um prova serológica de negativa para positiva"
+    },
+    "serológico": {
+        "pop": "relativo ao estudo da imunidade pelo soro"
+    },
+    "sigmóide": {
+        "pop": "em forma de sigma, da letra S"
+    },
+    "significante": {
+        "pop": "significativo"
+    },
+    "simpaticomimético": {
+        "pop": "\fsubstância que estimula o sistema nervoso simpático"
+    },
+    "simultâneo": {
+        "pop": "contemporâneo"
+    },
+    "sinergético": {
+        "pop": "que age simultaneamente com outra coisa"
+    },
+    "sinovial": {
+        "pop": "relativo ao líquido secretado pela membrana sinovial ou que o secreta"
+    },
+    "sinovite": {
+        "pop": "\finflamação de uma membrana sinovial"
+    },
+    "sintoma": {
+        "pop": "sinal"
+    },
+    "sintomatologia": {
+        "pop": "sintomas combinados de uma doença"
+    },
+    "sintomático": {
+        "pop": "pertencente aos sintomas"
+    },
+    "sinusal": {
+        "pop": "relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração"
+    },
+    "sinusite": {
+        "pop": "inflamação de uma bolsa ou cavidade, especialmente dos ossos do crânio"
+    },
+    "sináptico": {
+        "pop": "relativo à zona de contacto entre dois neuronas"
+    },
+    "sistemático": {
+        "pop": "que segue um sistema, um método"
+    },
+    "sistémico": {
+        "pop": "que afecta o corpo de forma total; geral, generalizado"
+    },
+    "sistólico": {
+        "pop": "relacionado com a contracção músculo cardíaco"
+    },
+    "soluço": {
+        "pop": "soluço, singulto"
+    },
+    "solução": {
+        "pop": "preparado líquido que contém várias substâncias químicas solúveis; soluto, licor; meio"
+    },
+    "solvente": {
+        "pop": "\fdissolvente"
+    },
+    "somatrotopina": {
+        "pop": "hormônio do crescimento"
+    },
+    "somático": {
+        "pop": "relativo ao corpo: desenvolvimento somático, por exemplo"
+    },
+    "sonambulismo": {
+        "pop": "andar dormindo, em sonhos"
+    },
+    "sonolência": {
+        "pop": "sonolência"
+    },
+    "soporífico": {
+        "pop": "que produz sono, soporífero"
+    },
+    "sopro": {
+        "pop": "vibração audível por auscultação, ruído"
+    },
+    "soro": {
+        "pop": "soro"
+    },
+    "spotting": {
+        "pop": "perda de sangue pela vagina"
+    },
+    "stress": {
+        "pop": "tensão, vida [moderna] agitada"
+    },
+    "subagudo": {
+        "pop": "pouco agudo"
+    },
+    "subaracnóide": {
+        "pop": "situado ou produzido por baixo da aracnóide"
+    },
+    "subcapsular": {
+        "pop": "situado por baixo de uma cápsula"
+    },
+    "subclínico": {
+        "pop": "que acontece sem manifestação de sintomas"
+    },
+    "subconjuntival": {
+        "pop": "\fsubconjuntival"
+    },
+    "subcutâneo": {
+        "pop": "sob a pele, hipodérmico"
+    },
+    "subjectivo": {
+        "pop": "subjectivo; reacção específica, pessoal"
+    },
+    "sublingual": {
+        "pop": "por baixo da língua, hipoglosso"
+    },
+    "substituição": {
+        "pop": "substituição, troca"
+    },
+    "substrato": {
+        "pop": "base, substância básica"
+    },
+    "substância": {
+        "pop": "matéria"
+    },
+    "superinfecção": {
+        "pop": "nova infecção que surge como complicação de outra já existente"
+    },
+    "supervisão": {
+        "pop": "vigilância, inspecção, controlo"
+    },
+    "supino": {
+        "pop": "deitado de costas"
+    },
+    "suplemento": {
+        "pop": "suplemento, adicional"
+    },
+    "supositório": {
+        "pop": "\fsupositório"
+    },
+    "supraventricular": {
+        "pop": "por cima de uma pequena cavidade"
+    },
+    "supressivo": {
+        "pop": "supressivo"
+    },
+    "supuração": {
+        "pop": "formação de pus"
+    },
+    "surdez": {
+        "pop": "surdez"
+    },
+    "suspensão": {
+        "pop": "partículas existentes na água que não foram por ela dissolvidas"
+    },
+    "séptico": {
+        "pop": "contaminado por germes, podre"
+    },
+    "síncope": {
+        "pop": "perda súbita da consciência por descida da pressão sanguínea no cérebro; desmaio"
+    },
+    "síndroma": {
+        "pop": "complexo mórbido, conjunto de sintomas"
+    },
+    "síntese": {
+        "pop": "combinação; formação de substâncias in vitro por meios artificiais"
+    },
+    "taquiarritmia": {
+        "pop": "cadência rápida do ritmo do coração; arritmia rápida"
+    },
+    "taquicardia": {
+        "pop": "aceleração da frequência cardíaca"
+    },
+    "taquifilaxia": {
+        "pop": "efeito decrescente de um medicamento"
+    },
+    "tardio": {
+        "pop": "tardio"
+    },
+    "telangiectasia": {
+        "pop": "dilatação de vasos terminais, sobretudo na cara"
+    },
+    "tendinite": {
+        "pop": "inflamação de um tendão"
+    },
+    "tendência": {
+        "pop": "inclinação, propensão"
+    },
+    "tenesmo": {
+        "pop": "desejo doloroso e ineficaz de urinar ou defecar"
+    },
+    "tenossinovite": {
+        "pop": "inflamação de um tendão e da sua veia; tecite"
+    },
+    "tensioactivo": {
+        "pop": "que exerce efeito sobre a tensão superficial"
+    },
+    "tensão": {
+        "pop": "pressão"
+    },
+    "terapia": {
+        "pop": "tratamento das doenças, terapêutica"
+    },
+    "terapêutico": {
+        "pop": "que serve para curar"
+    },
+    "teratogénico": {
+        "pop": "indutor de malformações fetais"
+    },
+    "teratológico": {
+        "pop": "congénitas"
+    },
+    "termal": {
+        "pop": "térmico, que faz referência ao calor ou à temperatura"
+    },
+    "terminal": {
+        "pop": "final, último"
+    },
+    "termorregulação": {
+        "pop": "regulação do calor ou da temperatura"
+    },
+    "testicular": {
+        "pop": "relativo aos testículos"
+    },
+    "tetania": {
+        "pop": "estado caracterizado por cãibras e convulsões musculares"
+    },
+    "teórico": {
+        "pop": "teórico"
+    },
+    "tinea pedis": {
+        "pop": "tinha do pé; pé-de-atleta."
+    },
+    "tinitus (aurium)": {
+        "pop": "zumbido do ouvido"
+    },
+    "tique": {
+        "pop": "movimento involuntário que se produz repetidamente"
+    },
+    "tirostático": {
+        "pop": "substância que inibe a biossíntese e/ou a secreção de hormonas tiróides"
+    },
+    "tirotoxicose": {
+        "pop": "conjunto de sintomas devido a um excesso de hormonas tiróides"
+    },
+    "tofo": {
+        "pop": "depósito nos tecidos, principalmente de ácido úrico e seus sais, característico da gota"
+    },
+    "tolerância": {
+        "pop": "capacidade de suportar doses elevadas de uma droga tóxica"
+    },
+    "tomografia": {
+        "pop": "radiografia de uma secção do corpo ou de um órgão"
+    },
+    "tono": {
+        "pop": "tensão"
+    },
+    "tonsilite": {
+        "pop": "angina (tonsilar), amigdalite, esquinência, antiadite, inflamação das amígdalas"
+    },
+    "torcicolo": {
+        "pop": "torticolo"
+    },
+    "torsade de pointes": {
+        "pop": "torsade de pointes"
+    },
+    "torácico": {
+        "pop": "relativo ao tórax ou que o afecta"
+    },
+    "torção": {
+        "pop": "rotação de um órgão em torno de si mesmo"
+    },
+    "toxemia": {
+        "pop": "intoxicação do sangue; toxinemia"
+    },
+    "toxicidade": {
+        "pop": "efeito nocivo de uma substância química"
+    },
+    "toxicológico": {
+        "pop": "relativo à ciência que estuda os venenos"
+    },
+    "toxicomania": {
+        "pop": "toxicodependência (dependência de uma droga)"
+    },
+    "toxina": {
+        "pop": "veneno"
+    },
+    "toxoplasmose": {
+        "pop": "doença infecciosa causada por Toxoplasma gondi"
+    },
+    "tracoma": {
+        "pop": "doença infecciosa da conjuntiva e da córnea do olho"
+    },
+    "tracto (gastrintestinal)": {
+        "pop": "ânos e glândulas anexas (vesícula biliar e pâncreas)"
+    },
+    "tranquilizante": {
+        "pop": "medicamento que serve para tranquilizar; calmante"
+    },
+    "transaminase": {
+        "pop": "enzimas hepáticas (do fígado)"
+    },
+    "transcutâneo": {
+        "pop": "através da pele intacta"
+    },
+    "transdérmico": {
+        "pop": "que passa através da pele"
+    },
+    "transferência": {
+        "pop": "passagem de um sintoma ou doença para outro(a)"
+    },
+    "transformação": {
+        "pop": "mudança de forma ou estrutura, alteração"
+    },
+    "transformação de uma substância noutra durante o metabolismo (pop) , metabolização": {
+        "pop": "orgânicas"
+    },
+    "transfusão": {
+        "pop": "transfusão"
+    },
+    "transitório": {
+        "pop": "passageiro"
+    },
+    "transmissão": {
+        "pop": "propagação"
+    },
+    "transplantação": {
+        "pop": "transplante"
+    },
+    "transruretal": {
+        "pop": "que conduz através da uretra ou a atravessa"
+    },
+    "traqueíte": {
+        "pop": "inflamação da traqueia"
+    },
+    "traumático": {
+        "pop": "relativo a um trauma ou traumatismo, ou causado por ele"
+    },
+    "tremor": {
+        "pop": "tremor que aparece ao efectuar um movimento voluntário coordenado"
+    },
+    "tremulação": {
+        "pop": "efeito ondulatório, flutuação"
+    },
+    "tricíclico": {
+        "pop": "constituído por três anéis entrelaçados"
+    },
+    "trismo": {
+        "pop": "espasmo dos músculos mandibulares; tétano"
+    },
+    "trivalente": {
+        "pop": "que se une com três átomos de hidrogénio ou os substitui"
+    },
+    "trombo": {
+        "pop": "coágulo de sangue num vaso sanguíneo"
+    },
+    "trombocitopenia": {
+        "pop": "diminuição do número de plaquetas no sangue"
+    },
+    "trombocitose": {
+        "pop": "aumento exagerado do número de plaquetas no sangue"
+    },
+    "tromboembolismo": {
+        "pop": "obstrução de um vaso sanguíneo com material trombótico"
+    },
+    "tromboflebite": {
+        "pop": "inflamação de uma veia com obstrução por um coágulo sanguíneo"
+    },
+    "trombolítico": {
+        "pop": "que dissolve ou desintegra um trombo"
+    },
+    "trombose": {
+        "pop": "coagulação do sangue numa artéria ou veia, com bloqueio da circulação"
+    },
+    "trânsito": {
+        "pop": "passagem"
+    },
+    "trófico": {
+        "pop": "nutritivo"
+    },
+    "tubercular": {
+        "pop": "tubercular"
+    },
+    "tuberculostático": {
+        "pop": "medicamento que inibe o crescimento do bacilo da tuberculose"
+    },
+    "tubo": {
+        "pop": "tubo, cano"
+    },
+    "tubular": {
+        "pop": "com forma de tubo; tubuloso"
+    },
+    "tumor": {
+        "pop": "vegetação, excrescência, neoplasma"
+    },
+    "tálamo": {
+        "pop": "massa importante de núcleos cinzentos"
+    },
+    "tétano": {
+        "pop": "tétano"
+    },
+    "tímpano": {
+        "pop": "membrana ou cavidade do ouvido médio"
+    },
+    "título": {
+        "pop": "valor, grau, proporção"
+    },
+    "tónico": {
+        "pop": "que produz e restabelece o tom normal; que se caracteriza por tensão contínua"
+    },
+    "tópico": {
+        "pop": "local"
+    },
+    "tóxico": {
+        "pop": "venenoso"
+    },
+    "ulceração": {
+        "pop": "processo de formação de uma úlcera; helcose"
+    },
+    "ulcerogénico": {
+        "pop": "que gera úlceras"
+    },
+    "umeral": {
+        "pop": "relativo ao úmero (osso do braço - do ombro até ao cotovelo)"
+    },
+    "umeroscapular": {
+        "pop": "umeroscapular"
+    },
+    "uniforme": {
+        "pop": "uniforme"
+    },
+    "unilateral": {
+        "pop": "de um só lado"
+    },
+    "uremia": {
+        "pop": "acumulação de ureia no sangue; urinemia"
+    },
+    "uretrite": {
+        "pop": "inflamação da uretra"
+    },
+    "urgência": {
+        "pop": "urgência"
+    },
+    "uricossúrico": {
+        "pop": "agente que promove a secreção urinária do ácido úrico"
+    },
+    "urinário": {
+        "pop": "urinário"
+    },
+    "urogenital": {
+        "pop": "referente aos órgãos urinários e genitais; geniturinário"
+    },
+    "urografia": {
+        "pop": "radiografia de uma parte do aparelho urinário"
+    },
+    "urticária": {
+        "pop": "erupção cutânea caracterizada pelo aparecimento de manchas vermelhas e prurido intenso"
+    },
+    "uveíte": {
+        "pop": "inflamação da úvea"
+    },
+    "vacina": {
+        "pop": "\fvacina"
+    },
+    "vacinação": {
+        "pop": "vacina"
+    },
+    "vagal": {
+        "pop": "relativo ao nervo vago, décimo nervo craniano"
+    },
+    "vaginal": {
+        "pop": "relativo à vagina"
+    },
+    "vagolítico": {
+        "pop": "que inibe o nervo vago"
+    },
+    "vagotonia": {
+        "pop": "predominância do vago"
+    },
+    "validez": {
+        "pop": "fiabilidade de um processo de prova"
+    },
+    "variabilidade": {
+        "pop": "capacidade de variação"
+    },
+    "variação": {
+        "pop": "flutuação, oscilação; alteração, mudança, modificação das propriedades"
+    },
+    "varicela": {
+        "pop": "doença viral; bexigas loucas"
+    },
+    "varíola bovina": {
+        "pop": "bexigas da vaca"
+    },
+    "vascular": {
+        "pop": "referente aos vasos sanguíneos"
+    },
+    "vasculite": {
+        "pop": "inflamação dos pequenos vasos sanguíneos"
+    },
+    "vasoactivo": {
+        "pop": "que age sobre os vasos sanguíneos"
+    },
+    "vasoconstrição": {
+        "pop": "estreitamento dos vasos sanguíneos; angiostenose"
+    },
+    "vasodilatação": {
+        "pop": "dilatação dos vasos sanguíneos"
+    },
+    "vasomotor": {
+        "pop": "que afecta o calibre dos vasos"
+    },
+    "vasopressor": {
+        "pop": "\fque contrai os vasos sanguíneos"
+    },
+    "vegetativo": {
+        "pop": "reprodução assexual"
+    },
+    "veia varicosa": {
+        "pop": "de varicose, isto é, inflamação provocada por varizes; varicosidade"
+    },
+    "venoso": {
+        "pop": "relativo às veias, provido de veias"
+    },
+    "ventilação": {
+        "pop": "aeragem, arejamento, aeração"
+    },
+    "ventral": {
+        "pop": "relativo ao ventre; abdominal"
+    },
+    "ventricular": {
+        "pop": "relativo a uma pequena cavidade"
+    },
+    "venéreo": {
+        "pop": "relativo ao contacto sexual ou transmitido por ele"
+    },
+    "vertebral": {
+        "pop": "relativo às vértebras"
+    },
+    "vertigem": {
+        "pop": "sensação rotatória associada a náusea; tontura de cabeça"
+    },
+    "vesicular": {
+        "pop": "em forma de vesícula, vesiculado"
+    },
+    "vestibular": {
+        "pop": "relativo a um vestíbulo ou que se dirige para ele"
+    },
+    "veículo": {
+        "pop": "transportador; excipiente"
+    },
+    "vial": {
+        "pop": "pequena ampola, frasco"
+    },
+    "vigilância": {
+        "pop": "estado de alerta ou observação"
+    },
+    "viral": {
+        "pop": "relativo aos vírus ou causado por eles"
+    },
+    "virilização": {
+        "pop": "masculinização"
+    },
+    "visceral": {
+        "pop": "relativo a uma víscera"
+    },
+    "viscosidade": {
+        "pop": "grau de fluidez das substâncias em estado líquido ou gasoso"
+    },
+    "visual": {
+        "pop": "relativo à visão"
+    },
+    "visão": {
+        "pop": "\fvisão"
+    },
+    "voluntário": {
+        "pop": "voluntário"
+    },
+    "vulvar": {
+        "pop": "relativo aos órgãos sexuais externos da mulher"
+    },
+    "vulvovaginite": {
+        "pop": "inflamação dos órgãos genitais externos femininos, incluindo a vagina"
+    },
+    "válvula": {
+        "pop": "\fprega existente num canal permitindo o fluxo num único sentido"
+    },
+    "vítreo": {
+        "pop": "cristalino"
+    },
+    "vómito": {
+        "pop": "vómito"
+    },
+    "xantoma": {
+        "pop": "tipo de tumor benigno da pele; xantelasma"
+    },
+    "xantopsia": {
+        "pop": "visão amarelada"
+    },
+    "xeroftalmia": {
+        "pop": "secura, ulceração da córnea por falta de vitamina A"
+    },
+    "xerostomia": {
+        "pop": "secura ocular"
+    },
+    "zona de pressão": {
+        "pop": "zona de excitabilidade aumentada (trigger zone)"
+    },
+    "átrio": {
+        "pop": "aurículo"
+    },
+    "âmnio": {
+        "pop": "bolsa membranosa que contém o líquido amniótico onde flutua o bebé"
+    },
+    "ânus": {
+        "pop": "orifício de saída do intestino, cu"
+    },
+    "íleo": {
+        "pop": "oclusão intestinal"
+    },
+    "óptico": {
+        "pop": "relativo à vista ou ao nervo ótptico"
+    },
+    "óvulo": {
+        "pop": "pequeno ovo"
+    },
+    "úlcera": {
+        "pop": "\fchaga, ferida"
+    },
+    "úlcera crural": {
+        "pop": "úlcera da perna"
+    },
+    "úlcera péptica": {
+        "pop": "úlcera causada pela acção do suco gástrico; úlcera duodenal"
+    },
+    "útero": {
+        "pop": "matriz"
+    }
+}

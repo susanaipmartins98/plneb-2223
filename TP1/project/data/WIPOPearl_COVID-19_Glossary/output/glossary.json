@@ -1,0 +1,1634 @@
+{
+  "acute respiratory distress syndrome": {
+    "syn": "(syn.) ARDS",
+    "descr": "Respiratory disease characterized by the rapid onset of widespread inflammation in the lungs.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ةمزلاتمةقئاضلاةيسفنتلاةداحلا",
+      "de": "akutes Atemnotsyndrom des Erwachsenen, (syn.) ARDS",
+      "es": "síndrome de dificultad respiratoria aguda, (syn.) SDRA",
+      "fr": "syndrome de détresse respiratoire aiguë, (syn.) SDRA",
+      "ja": "急性呼吸窮迫症候群, (syn.) 急性呼吸促迫症候群, ARDS",
+      "ko": "급성  호흡곤란  증후군, (syn.) ARDS",
+      "pt": "síndrome do desconforto respiratório agudo, (syn.) SDRA",
+      "ru": "острый респираторный дистресс-синдром, (syn.) ОРДС",
+      "zh": "急性呼吸窘迫综合征, (syn.) ARDS"
+    }
+  },
+  "ageusia": {
+    "syn": "",
+    "descr": "Disorder characterized by loss of taste.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "دقفةساحقوذلا،(syn.) نادقفةساحقوذلا، دقفةساحقوذتلا",
+      "de": "Ageusie",
+      "es": "ageusia",
+      "fr": "agueusie",
+      "ja": "味覚消失",
+      "ko": "무미각증",
+      "pt": "ageusia",
+      "ru": "агевзия",
+      "zh": "味觉丧失"
+    }
+  },
+  "angiotensin-converting enzyme": {
+    "syn": "(syn.) ACE",
+    "descr": "Class of ectoenzymes found in, e.g., the lungs, heart, skin, or blood vessels, whose function is to cleave circulating peptides, among which angiotensinogen, which are then used to regulate specific cell functions.",
+    "tag": "SCIE, Biochemistry",
+    "i18n": {
+      "ar": "ميزناوحمليجنلالنيسنيتو",
+      "de": "Angiotensin-konvertierendes Enzym, (syn.) ACE",
+      "es": "enzima convertidora de la angiotensina, (syn.) ECA",
+      "fr": "enzyme de conversion de l'angiotensine, (syn.) ECA",
+      "ja": "アンジオテンシン変換酵素, (syn.) ACE",
+      "ko": "안지오텐신  전환효소, (syn.) ACE",
+      "pt": "enzima conversora de angiotensina, (syn.) ECA",
+      "ru": "ангиотензин-превращающий фермент, (syn.) АПФ (syn.) ангиотензин-конвертирующий фермент, (syn.) АКФ",
+      "zh": "血管紧张素转换酶, (syn.) ACE"
+    }
+  },
+  "anosmia": {
+    "syn": "",
+    "descr": "Disorder characterized by loss of smell.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "نادقفةساحشلام",
+      "de": "Anosmie",
+      "es": "anosmia",
+      "fr": "anosmie",
+      "ja": "無嗅覚",
+      "ko": "무후각증",
+      "pt": "anosmia",
+      "ru": "аносмия",
+      "zh": "嗅觉消失"
+    }
+  },
+  "antibody": {
+    "syn": "(syn.) immunoglobulin",
+    "descr": "Protein produced by B lymphocytes that can recognize and neutralize an antigen.",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "دض،(syn.) مسجداضم ،نيليبولجيعانم",
+      "de": "Antikörper, (syn.) Immunglobulin",
+      "es": "anticuerpo, (syn.) inmunoglobulina",
+      "fr": "anticorps, (syn.) immunoglobuline",
+      "ja": "抗体, (syn.) 免疫グロブリン",
+      "ko": "항체",
+      "pt": "anticorpo, (syn.) imunoglobulina",
+      "ru": "антитело, (syn.) иммуноглобулин",
+      "zh": "抗体, (syn.) 免疫球蛋白"
+    }
+  },
+  "antigen": {
+    "syn": "",
+    "descr": "Particle, typically a protein, which the immune system recognizes as foreign.",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "سمدضت، (syn. )لومدمداض",
+      "de": "Antigen",
+      "es": "antígeno",
+      "fr": "antigène",
+      "ja": "抗原",
+      "ko": "항원",
+      "pt": "antígeno",
+      "ru": "антиген",
+      "zh": "抗原"
+    }
+  },
+  "asymptomatic transmission": {
+    "syn": "",
+    "descr": "Mode of transmission of an infectious disease to another person from an infected person who does not develop symptoms.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "لاقتنانمباصمنودبضارعأ",
+      "de": "asymptomatische Übertragung",
+      "es": "transmisión asintomática",
+      "fr": "transmission asymptomatique",
+      "ja": "無症候性感染",
+      "ko": "무증상  전파",
+      "pt": "transmissão assintomática",
+      "ru": "бессимптомная передача",
+      "zh": "无症状传播"
+    }
+  },
+  "attack rate": {
+    "syn": "",
+    "descr": "Proportion of people that contract a disease in a population initially free of the disease, i.e. during a disease outbreak.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "لدعمموجه",
+      "de": "Befallsrate",
+      "es": "tasa de ataque",
+      "fr": "taux d'attaque",
+      "ja": "発病率",
+      "ko": "발병률",
+      "pt": "taxa de ataque",
+      "ru": "показатель пораженности",
+      "zh": "罹患率"
+    }
+  },
+  "biostatistics": {
+    "syn": "",
+    "descr": "Application of statistical methods and tools to the fields of biological sciences and medicine, including study design, data collection and analysis, and interpretation of findings.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ءاصحإيجولويب",
+      "de": "Biostatistik",
+      "es": "bioestadística",
+      "fr": "biostatistique",
+      "ja": "生物統計学",
+      "ko": "생물통계학",
+      "pt": "bioestatística",
+      "ru": "биостатистика",
+      "zh": "生物统计学"
+    }
+  },
+  "blood plasma": {
+    "syn": "(syn.) plasma",
+    "descr": "Liquid part of the blood in which red and white blood cells and platelets are suspended and which carries such blood cells as well as proteins, mineral salts, sugars, fats, and hormones throughout the body.",
+    "tag": "MEDI, Anatomy &amp; physiology",
+    "i18n": {
+      "ar": "ةروصممدلا،(syn.) امزلابمدلا، امزلاب",
+      "de": "Blutplasma",
+      "es": "plasma sanguíneo, (syn.) plasma",
+      "fr": "plasma sanguin, (syn.) plasma",
+      "ja": "血漿",
+      "ko": "혈장",
+      "pt": "plasma sanguíneo, (syn.) plasma",
+      "ru": "плазма крови",
+      "zh": "血浆"
+    }
+  },
+  "case": {
+    "syn": "",
+    "descr": "Person who is diagnosed as having a disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةلاح،(syn.) ةلاحةيضرم",
+      "de": "Fall",
+      "es": "caso",
+      "fr": "cas",
+      "ja": "症例",
+      "ko": "사례",
+      "pt": "caso",
+      "ru": "случай",
+      "zh": "病例"
+    }
+  },
+  "case definition": {
+    "syn": "",
+    "descr": "Set of criteria used to decide whether a person has contracted a specific disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "فيرعتةلاح،(syn.) فيرعتةلاحةيضرم",
+      "de": "Falldefinition",
+      "es": "definición de caso",
+      "fr": "définition de cas",
+      "ja": "症例定義",
+      "ko": "사례  정의",
+      "pt": "definição de caso",
+      "ru": "эпидемиологическое определение случая",
+      "zh": "病例定义"
+    }
+  },
+  "casual contact": {
+    "syn": "",
+    "descr": "Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "طلاخمرباع",
+      "de": "Kontaktperson der Kategorie II",
+      "es": "contacto ocasional",
+      "fr": "contact occasionnel",
+      "ja": "非濃厚接触者",
+      "ko": "일상접촉",
+      "pt": "contato casual, (syn.) contacto casual (pt-PT)",
+      "ru": "случайный контакт",
+      "zh": "偶然接触者"
+    }
+  },
+  "chain of infection": {
+    "syn": "",
+    "descr": "Process in which an infectious agent leaves its reservoir or host through a portal of exit, is conveyed by a mode of transmission, and enters a susceptible host through a portal of entry.",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "ةلسلسىودع",
+      "de": "Übertragungskette",
+      "es": "cadena de transmission, (syn.) cadena epidemiológica",
+      "fr": "chaîne de transmission",
+      "ja": "感染の連鎖, (syn.) 感染成立の連鎖",
+      "ko": "감염사슬",
+      "pt": "cadeia de transmissão",
+      "ru": "цепь передачи инфекции, (syn.) инфекционная цепь",
+      "zh": "感染链"
+    }
+  },
+  "cluster": {
+    "syn": "(syn.) disease cluster",
+    "descr": "Aggregation of cases of a disease within a given place and time.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "دوقنع",
+      "de": "Cluster",
+      "es": "conglomerado de casos",
+      "fr": "cluster",
+      "ja": "クラスター",
+      "ko": "군집",
+      "pt": "conglomerado",
+      "ru": "кластер",
+      "zh": "集群"
+    }
+  },
+  "confirmed case": {
+    "syn": "",
+    "descr": "Case that is confirmed by a laboratory test.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةلاحةدكؤم،(syn.) ةلاحةدكؤمةباصلإاضرملاب",
+      "de": "bestätigter Fall",
+      "es": "caso confirmado, (syn.) paciente confirmado",
+      "fr": "cas positif",
+      "ja": "確定例, (syn.) 確定症例",
+      "ko": "확진자, (syn.) 확진  환자",
+      "pt": "caso confirmado",
+      "ru": "подтвержденный случай",
+      "zh": "确诊病例"
+    }
+  },
+  "contact": {
+    "syn": "",
+    "descr": "Person who has been in the proximity of another person affected by an infectious disease and who is at risk of having contracted this disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "طلاخم",
+      "de": "Kontaktperson",
+      "es": "contacto",
+      "fr": "contact, (syn.) personne contact",
+      "ja": "接触者",
+      "ko": "접촉자",
+      "pt": "contato, (syn.) contacto (pt-PT)",
+      "ru": "контактное лицо",
+      "zh": "接触者"
+    }
+  },
+  "contact follow-up": {
+    "syn": "",
+    "descr": "Process of monitoring the contacts of a case for symptoms of the disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةعباتمنيطلاخم",
+      "de": "Kontaktpersonen-Nachverfolgung",
+      "es": "seguimiento de contactos",
+      "fr": "suivi des contacts",
+      "ja": "接触者のフォローアップ",
+      "ko": "접촉자  관리",
+      "pt": "seguimento de contatos, (syn.) acompanhamento de contatos",
+      "ru": "наблюдение за контактами",
+      "zh": "接触者随访"
+    }
+  },
+  "contact identification": {
+    "syn": "",
+    "descr": "Process aimed at identifying all contacts of a case by asking about the activities of the case and the activities and roles of the people around the case since the onset of the disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ديدحتنيطلاخم",
+      "de": "Identifizierung von Kontaktpersonen",
+      "es": "identificación de contactos",
+      "fr": "identification des contacts",
+      "ja": "接触者の特定",
+      "ko": "접촉자  확인",
+      "pt": "identificação de contatos, (syn.) identificação de contactos (pt-PT)",
+      "ru": "выявление контактов, (syn.) идентификация контактных лиц",
+      "zh": "接触者识别"
+    }
+  },
+  "contact tracing": {
+    "syn": "",
+    "descr": "Process of identification, listing and follow-up of contacts.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "عبتتنيطلاخم",
+      "de": "Contact Tracing",
+      "es": "rastreo de contactos",
+      "fr": "traçage des contacts",
+      "ja": "接触追跡",
+      "ko": "접촉자  추적",
+      "pt": "rastreamento de contatos, (syn.) rastreamento de contactos (pt-PT)",
+      "ru": "отслеживание контактов",
+      "zh": "接触者追踪"
+    }
+  },
+  "containment": {
+    "syn": "",
+    "descr": "Strategy adopted by a public body to cut off transmission of a disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ءاوتحا",
+      "de": "Eindämmung",
+      "es": "contención",
+      "fr": "endiguement",
+      "ja": "封じ込め",
+      "ko": "전파차단",
+      "pt": "contenção",
+      "ru": "сдерживание",
+      "zh": "围堵"
+    }
+  },
+  "convalescent plasma therapy": {
+    "syn": "",
+    "descr": "Therapeutic treatment whereby the blood plasma donated by individuals who have recovered from an infectious disease is introduced into the blood of people who are suffering from the same disease in order to help control the symptoms and limit the progression of the disease.",
+    "tag": "MEDI, Therapeutics",
+    "i18n": {
+      "ar": "جلاعامزلاببةهاقنلا",
+      "de": "Therapie mit Rekonvaleszentenplasma",
+      "es": "tratamiento con plasma de convalecientes",
+      "fr": "utilisation thérapeutique de plasma de convalescents",
+      "ja": "回復期血漿療法",
+      "ko": "회복기혈장치료",
+      "pt": "terapia com plasma convalescente, (syn.) tratamento com plasma convalescente",
+      "ru": "переливание плазмы от реконвалесцентов",
+      "zh": "恢复期血浆治疗, (syn.) 康复者血浆治疗"
+    }
+  },
+  "coronavirus": {
+    "syn": "(syn.) CoV",
+    "descr": "Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes.",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "سوريفيجات،(syn.) سوريفيليلكإ، سوريفلكمل",
+      "de": "Coronavirus",
+      "es": "coronavirus, (syn.) CoV",
+      "fr": "coronavirus, (syn.) CoV",
+      "ja": "コロナウイルス",
+      "ko": "코로나바이러스",
+      "pt": "coronavírus, (syn.) CoV",
+      "ru": "коронавирус",
+      "zh": "冠状病毒, (syn.) CoV"
+    }
+  },
+  "coronavirus disease 2019": {
+    "syn": "(syn.) COVID-19",
+    "descr": "Infectious disease caused by SARS-CoV-2.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ضرمديفوك-19",
+      "de": "Covid-19",
+      "es": "enfermedad por coronavirus 2019, (syn.) covid-19",
+      "fr": "COVID-19, (syn.) Covid-19, covid-19",
+      "ja": "新型コロナウイルス感染症, (syn.) COVID-19",
+      "ko": "코로나바이러스감염증-19",
+      "pt": "doença do coronavírus 2019, (syn.) COVID-19",
+      "ru": "коронавирусная болезнь 2019 года, (syn.) COVID-19",
+      "zh": "2019 冠状病毒病, (syn.) COVID-19"
+    }
+  },
+  "cytokine release syndrome": {
+    "syn": "(syn.) CRS",
+    "descr": "Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ةمزلاتمزارفإنيكوتيسلا",
+      "de": "Zytokin-Freisetzungssyndrom",
+      "es": "síndrome de liberación de citocinas, (syn.) tormenta de citocinas",
+      "fr": "syndrome de libération de cytokines",
+      "ja": "サイトカイン放出症候群, (syn.) CRS",
+      "ko": "사이토카인  방출  증후군",
+      "pt": "síndrome de liberação de citocinas",
+      "ru": "синдром выброса цитокинов",
+      "zh": "细胞因子释放综合征"
+    }
+  },
+  "disease": {
+    "syn": "",
+    "descr": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ضرم،(syn.) ءاد",
+      "de": "Krankheit",
+      "es": "enfermedad",
+      "fr": "maladie",
+      "ja": "疾病, (syn.) 疾患",
+      "ko": "질병, (syn.) 병",
+      "pt": "doença",
+      "ru": "болезнь",
+      "zh": "疾病"
+    }
+  },
+  "disease outbreak": {
+    "syn": "",
+    "descr": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "يشفتضرم",
+      "de": "Ausbruch",
+      "es": "brote epidémico",
+      "fr": "flambée épidémique",
+      "ja": "集団発生, (syn.) アウトブレイク",
+      "ko": "질병  발생",
+      "pt": "surto",
+      "ru": "вспышка болезни",
+      "zh": "疾病爆发"
+    }
+  },
+  "deoxyribonucleic acid": {
+    "syn": "(syn.) DNA",
+    "descr": "Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group.",
+    "tag": "SCIE, Biochemistry",
+    "i18n": {
+      "ar": "ضمحيوونصوقنمنيجسكلأا،(syn.) اند",
+      "de": "Desoxyribonukleinsäure, (syn.) Desoxyribonucleinsäure, DNA, DNS",
+      "es": "ácido desoxirribonucleico, (syn.) ADN",
+      "fr": "acide désoxyribonucléique, (syn.) ADN",
+      "ja": "デオキシリボ核酸, (syn.) DNA",
+      "ko": "디옥시리보핵산, (syn.) DNA",
+      "pt": "ácido desoxirribonucleico, (syn.) ADN",
+      "ru": "дезоксирибонуклеиновая кислота, (syn.) ДНК",
+      "zh": "脱氧核糖核酸, (syn.) DNA"
+    }
+  },
+  "drive-through testing": {
+    "syn": "",
+    "descr": "Method of performing swab tests on people whilst they remain in their vehicles.",
+    "tag": "MEDI, Medical care",
+    "i18n": {
+      "ar": "صحفنمةرايسلا",
+      "de": "Drive-in für Corona-Test",
+      "es": "prueba desde el auto",
+      "fr": "test de dépistage en voiture",
+      "ja": "ドライブスルー検査",
+      "ko": "승차  검진",
+      "pt": "rastreio drive-through",
+      "ru": "тестирование по принципу «не выходя из машины»",
+      "zh": "免下车检测"
+    }
+  },
+  "elimination": {
+    "syn": "(syn.) suppression, elimination strategy",
+    "descr": "Strategy adopted by a public body to reduce to zero the incidence of a disease in a given geographical area.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةطخءاضقىلعضرم،(syn.) ةيجيتارتساةحفاكمضرم، ةيجيتارتساءاضقىلعضرم",
+      "de": "Tilgung",
+      "es": "eliminación",
+      "fr": "élimination",
+      "ja": "排除",
+      "ko": "제거  전략",
+      "pt": "eliminação",
+      "ru": "cтратегия ликвидации",
+      "zh": "消除, (syn.) 消除策略"
+    }
+  },
+  "endemic disease": {
+    "syn": "",
+    "descr": "Disease for which there are as many cases as would be expected in a given population at a given time.",
+    "tag": "MEDI, Public health &amp; hygiene Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ضرمنطوتم",
+      "de": "Endemie",
+      "es": "endemia",
+      "fr": "endémie",
+      "ja": "風土病",
+      "ko": "풍토병",
+      "pt": "doença endêmica, (syn.) doença endémica (pt-PT)",
+      "ru": "эндемическое заболевание",
+      "zh": "地方病"
+    }
+  },
+  "environmental cleaning": {
+    "syn": "",
+    "descr": "Set of actions and processes, including cleaning, disinfecting and monitoring, implemented in places at risk of spread of an infectious agent through contaminated objects.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "فيظنتيئيب،(syn.) فيظنتةئيبةطيحم",
+      "de": "Krankenhaushygiene",
+      "es": "limpieza ambiental",
+      "fr": "nettoyage de l'environnement",
+      "ja": "環境清掃",
+      "ko": "환경관리",
+      "pt": "limpeza ambiental",
+      "ru": "уборка помещений",
+      "zh": "环境清洁"
+    }
+  },
+  "epidemic curve": {
+    "syn": "",
+    "descr": "Graphical representation of the incidence of a disease or other health-related event plotted over time.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ىنحنميئابو",
+      "de": "epidemische Kurve",
+      "es": "curva epidemiológica",
+      "fr": "courbe épidémique",
+      "ja": "流行曲線",
+      "ko": "유행곡선",
+      "pt": "curva epidêmica, (syn.) curva epidémica (pt-PT)",
+      "ru": "эпидемическая кривая",
+      "zh": "流行曲线"
+    }
+  },
+  "epidemic disease": {
+    "syn": "",
+    "descr": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ضرميئابو",
+      "de": "Epidemie",
+      "es": "epidemia",
+      "fr": "épidémie",
+      "ja": "流行病",
+      "ko": "유행병",
+      "pt": "epidemia, (syn.) doença epidêmica, doença epidémica (pt-PT)",
+      "ru": "эпидемическое заболевание",
+      "zh": "流行病"
+    }
+  },
+  "epidemic threshold": {
+    "syn": "",
+    "descr": "Number of individuals within a population at risk that is required for an epidemic to occur.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةبتعءابو",
+      "de": "epidemische Schwelle",
+      "es": "umbral epidémico",
+      "fr": "seuil épidémique",
+      "ja": "流行閾値",
+      "ko": "유행  기준치",
+      "pt": "limite epidêmico, (syn.) limiar epidêmico, limiar epidémico (pt-PT)",
+      "ru": "эпидемический порог",
+      "zh": "流行阈值"
+    }
+  },
+  "epidemiology": {
+    "syn": "",
+    "descr": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ملعتايئابولا،(syn.) ملعةئبولأا",
+      "de": "Epidemiologie",
+      "es": "epidemiología",
+      "fr": "épidémiologie",
+      "ja": "疫学",
+      "ko": "역학",
+      "pt": "epidemiologia",
+      "ru": "эпидемиология",
+      "zh": "流行病学"
+    }
+  },
+  "filtering facepiece respirator": {
+    "syn": "(syn.) filtering face-piece respirator, FFR",
+    "descr": "Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer.",
+    "tag": "ENVR, Personal protective equipment",
+    "i18n": {
+      "ar": "عانقسفنتحشرم",
+      "de": "partikelfiltrierende Halbmaske",
+      "es": "mascarilla autofiltrante",
+      "fr": "masque de protection respiratoire, (syn.) masque FFP",
+      "ja": "フィルター式フェイスピースレスピレーター",
+      "ko": "방진  마스크",
+      "pt": "máscara autofiltrante",
+      "ru": "фильтрующая лицевая маска, (syn.) фильтрующий респиратор",
+      "zh": "过滤面罩呼吸器"
+    }
+  },
+  "fomite": {
+    "syn": "",
+    "descr": "Inanimate object contaminated by an infectious agent that can indirectly transmit an infectious disease.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ةادأىودع",
+      "de": "unbelebter Vektor",
+      "es": "fómite, (syn.) vector pasivo",
+      "fr": "vecteur passif",
+      "ja": "媒介物",
+      "ko": "매개물",
+      "pt": "fômite, (syn.) fómite (pt-PT)",
+      "ru": "фомит",
+      "zh": "物媒"
+    }
+  },
+  "gene": {
+    "syn": "",
+    "descr": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein.",
+    "tag": "SCIE, Genetics",
+    "i18n": {
+      "ar": "نيج،(syn.) ةثروم",
+      "de": "Gen",
+      "es": "gen",
+      "fr": "gène",
+      "ja": "遺伝子",
+      "ko": "유전자",
+      "pt": "gene",
+      "ru": "ген",
+      "zh": "基因"
+    }
+  },
+  "gene therapy": {
+    "syn": "",
+    "descr": "Therapeutic treatment whereby one or more foreign genes are inserted into the genome of an organism by means of a vector, to compensate for abnormal genes or to help the organism produce a protein that can be beneficial for it.",
+    "tag": "MEDI, Therapeutics",
+    "i18n": {
+      "ar": "جلاعينيج،(syn.) جلاعتانيجلاب",
+      "de": "Gentherapie",
+      "es": "genoterapia, (syn.) terapia génica",
+      "fr": "thérapie génique",
+      "ja": "遺伝子治療",
+      "ko": "유전자  치료",
+      "pt": "terapia gênica, (syn.) terapia génica (pt-PT)",
+      "ru": "генная терапия",
+      "zh": "基因治疗"
+    }
+  },
+  "genome": {
+    "syn": "",
+    "descr": "Complete set of DNA of a living organism, including all of its genes.",
+    "tag": "SCIE, Genetics",
+    "i18n": {
+      "ar": "موُني ِج،(syn.) يجمن",
+      "de": "Genom",
+      "es": "genoma",
+      "fr": "génome",
+      "ja": "ゲノム",
+      "ko": "게놈, (syn.) 유전체",
+      "pt": "genoma",
+      "ru": "геном",
+      "zh": "基因组"
+    }
+  },
+  "hand sanitizer": {
+    "syn": "",
+    "descr": "Gel, foam, or liquid used for handwashing that may or may not contain alcohol.",
+    "tag": "CHEM, Detergents &amp; cleaning agents",
+    "i18n": {
+      "ar": "مقعمنيدي",
+      "de": "Händedesinfektionsmittel",
+      "es": "gel hidroalcohólico, (syn.) alcohol en gel",
+      "fr": "désinfectant pour les mains",
+      "ja": "手指消毒剤",
+      "ko": "손  세정제",
+      "pt": "gel desinfetante, (syn.) álcool-gel",
+      "ru": "кожный антисептик, (syn.) антисептическое средство для рук, санитайзер",
+      "zh": "免洗洗手液"
+    }
+  },
+  "hand washing": {
+    "syn": "",
+    "descr": "Action of removing any unwanted substance or microorganism from a person's hands using water or another liquid, with or without soap or other detergents.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "لسغنيدي",
+      "de": "Händewaschen",
+      "es": "lavado de las manos",
+      "fr": "lavage des mains",
+      "ja": "手洗い",
+      "ko": "손  씻기",
+      "pt": "lavagem das mãos",
+      "ru": "мытье рук",
+      "zh": "洗手"
+    }
+  },
+  "herd immunity": {
+    "syn": "(syn.) community immunity",
+    "descr": "Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةعانمعيطق،(syn.) ةعانمعمتجم",
+      "de": "Herdenimmunität",
+      "es": "inmunidad de grupo, (syn.) inmunidad colectiva, inmunidad de rebaño",
+      "fr": "immunité de groupe",
+      "ja": "集団免疫",
+      "ko": "집단  면역",
+      "pt": "imunidade de grupo, (syn.) imunidade comunitária",
+      "ru": "коллективный иммунитет, (syn.) популяционный иммунитет",
+      "zh": "群体免疫"
+    }
+  },
+  "high-risk group": {
+    "syn": "",
+    "descr": "Part of a population at risk that has higher than average prevalence, incidence or severity of a disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةئفرثكأةضرعةباصلإل",
+      "de": "besonders gefährdete Personengruppe",
+      "es": "grupo de alto riesgo",
+      "fr": "groupe à haut risque",
+      "ja": "ハイリスク群, (syn.) 高危険群",
+      "ko": "고위험군",
+      "pt": "grupo de alto risco",
+      "ru": "группа риска",
+      "zh": "高危人群"
+    }
+  },
+  "hospitalization": {
+    "syn": "",
+    "descr": "Admission and stay of a patient in a hospital for treatment.",
+    "tag": "MEDI, Medical care",
+    "i18n": {
+      "ar": "ءافشتسا",
+      "de": "Krankenhausaufenthalt",
+      "es": "hospitalización",
+      "fr": "hospitalisation",
+      "ja": "入院",
+      "ko": "입원",
+      "pt": "hospitalização",
+      "ru": "госпитализация",
+      "zh": "住院治疗"
+    }
+  },
+  "host": {
+    "syn": "",
+    "descr": "Person or animal infected by an infectious agent.",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "لئاع،(syn.) فيضم",
+      "de": "Wirt",
+      "es": "hospedador, (syn.) hospedero",
+      "fr": "hôte",
+      "ja": "宿主",
+      "ko": "숙주",
+      "pt": "hospedeiro",
+      "ru": "хозяин",
+      "zh": "宿主"
+    }
+  },
+  "hygiene": {
+    "syn": "",
+    "descr": "Set of practices that help to maintain health and prevent the spread of diseases.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةفاظن،(syn.) ةفاظنةيحص",
+      "de": "Hygiene",
+      "es": "higiene",
+      "fr": "hygiène",
+      "ja": "衛生",
+      "ko": "위생",
+      "pt": "higiene",
+      "ru": "гигиена",
+      "zh": "卫生I"
+    }
+  },
+  "immunity": {
+    "syn": "",
+    "descr": "Condition of being protected against an infectious disease.",
+    "tag": "MEDI, Anatomy &amp; physiology",
+    "i18n": {
+      "ar": "ةعانم",
+      "de": "Immunität",
+      "es": "inmunidad",
+      "fr": "immunité",
+      "ja": "免疫",
+      "ko": "면역",
+      "pt": "imunidade",
+      "ru": "иммунитет",
+      "zh": "免疫力"
+    }
+  },
+  "incubation period": {
+    "syn": "",
+    "descr": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ةرتفةناضح",
+      "de": "Inkubationszeit",
+      "es": "período de incubación",
+      "fr": "période d'incubation",
+      "ja": "潜伏期間",
+      "ko": "잠복기",
+      "pt": "período de incubação",
+      "ru": "инкубационный период",
+      "zh": "潜伏期"
+    }
+  },
+  "index case": {
+    "syn": "(syn.) index patient",
+    "descr": "The first known case of the outbreak of a disease in a cluster.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةلاحةلاد",
+      "de": "Indexfall",
+      "es": "caso índice",
+      "fr": "cas index",
+      "ja": "インデックスケース, (syn.) 発端者,  最初の患者",
+      "ko": "지표환자, (syn.) 최초  환자",
+      "pt": "caso índice",
+      "ru": "индексный случай, (syn.) индексный пациент",
+      "zh": "指示病例"
+    }
+  },
+  "indirect contact transmission": {
+    "syn": "",
+    "descr": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by means of a vehicle, i.e. water, food or air, a vector or a fomite.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "لاقتناريغرشابم",
+      "de": "indirekte Kontaktübertragung",
+      "es": "transmisión indirecta",
+      "fr": "transmission par contact indirect",
+      "ja": "間接接触感染",
+      "ko": "간접  접촉  전파",
+      "pt": "transmissão indireta",
+      "ru": "непрямой контактный путь передачи",
+      "zh": "间接接触传播"
+    }
+  },
+  "infectious agent": {
+    "syn": "",
+    "descr": "Biological agent that may or may not cause an infectious disease.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "لماعدعم",
+      "de": "Infektionserreger",
+      "es": "agente infeccioso",
+      "fr": "agent infectieux",
+      "ja": "感染病原体, (syn.) 感染因子",
+      "ko": "감염원",
+      "pt": "agente infeccioso",
+      "ru": "инфекционный агент",
+      "zh": "传染病原体"
+    }
+  },
+  "infectious disease": {
+    "syn": "",
+    "descr": "Disease caused by a pathogen.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ضرمدعم",
+      "de": "Infektionskrankheit",
+      "es": "enfermedad infecciosa",
+      "fr": "maladie infectieuse",
+      "ja": "感染症",
+      "ko": "감염병",
+      "pt": "doença infecciosa",
+      "ru": "инфекционнoe заболеваниe",
+      "zh": "传染病"
+    }
+  },
+  "infectivity": {
+    "syn": "",
+    "descr": "Ability of an infectious agent to enter, survive, and multiply in a host.",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "ةردقىلعثادحإىودع",
+      "de": "Infektiosität",
+      "es": "infecciosidad",
+      "fr": "infectiosité",
+      "ja": "感染力",
+      "ko": "감염력",
+      "pt": "infecciosidade, (syn.) infectividade",
+      "ru": "инфективность",
+      "zh": "感染力"
+    }
+  },
+  "inflammation": {
+    "syn": "",
+    "descr": "Series of innate immunity processes initiated by the body in response to an injury.",
+    "tag": "MEDI, Anatomy &amp; physiology",
+    "i18n": {
+      "ar": "باهتلا",
+      "de": "Entzündung",
+      "es": "inflamación",
+      "fr": "inflammation",
+      "ja": "炎症",
+      "ko": "염증",
+      "pt": "inflamação",
+      "ru": "воспаление",
+      "zh": "炎症"
+    }
+  },
+  "intensive care unit": {
+    "syn": "(syn.) critical care unit, ICU, CCU",
+    "descr": "Hospital facility that provides critical care and life support for acutely ill or injured patients.",
+    "tag": "MEDI, Medical care",
+    "i18n": {
+      "ar": "ةدحوةيانعكرمةز،(syn.) ةدحوةياعركرمةز، ةدحوةيانعثكمةف، ةدحوةياعرثكمةف",
+      "de": "Intensivstation",
+      "es": "unidad de cuidados intensivos, (syn.) unidad de terapia intensiva, UCI, UTI",
+      "fr": "unité de soins intensifs, (syn.) USI",
+      "ja": "集中治療室, (syn.) ICU",
+      "ko": "중환자실, (syn.) 집중치료실",
+      "pt": "unidade de cuidados intensivos, (syn.) UCI",
+      "ru": "отделение реанимации и интенсивной терапии, (syn.) ОРИТ",
+      "zh": "重症监护室, (syn.) 加护病房"
+    }
+  },
+  "lockdown": {
+    "syn": "(syn.) confinement",
+    "descr": "Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "قلاغإ",
+      "de": "Massenquarantäne",
+      "es": "confinamiento",
+      "fr": "confinement",
+      "ja": "都市封鎖, (syn.) ロックダウン",
+      "ko": "봉쇄",
+      "pt": "confinamento",
+      "ru": "режим изоляции",
+      "zh": "封锁"
+    }
+  },
+  "mask": {
+    "syn": "",
+    "descr": "Commercially produced or homemade covering for nose and mouth used to reduce the spread of respiratory droplets from the wearer to others.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةمامك،(syn.) عانق",
+      "de": "Atemschutzmaske",
+      "es": "mascarilla, (syn.) barbijo (es-AR), tapaboca (es-CU)",
+      "fr": "masque",
+      "ja": "マスク",
+      "ko": "마스크",
+      "pt": "máscara",
+      "ru": "маска",
+      "zh": "口罩"
+    }
+  },
+  "mechanical ventilation": {
+    "syn": "",
+    "descr": "Lung ventilation provided by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure.",
+    "tag": "MEDI, Medical care",
+    "i18n": {
+      "ar": "ةيوهتةيكيناكيم",
+      "de": "maschinelle Beatmung",
+      "es": "ventilación mecánica",
+      "fr": "ventilation artificielle",
+      "ja": "機械的換気, (syn.) MV",
+      "ko": "기계환기",
+      "pt": "ventilação mecânica",
+      "ru": "искусственная вентиляция лёгких, (syn.) аппаратное дыхание, ИВЛ",
+      "zh": "机械通气"
+    }
+  },
+  "medical care": {
+    "syn": "",
+    "descr": "Administration and delivery of healthcare by professionals.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةياعرةيبط،(syn.) ةيانعةيبط",
+      "de": "medizinische Versorgung",
+      "es": "atención médica",
+      "fr": "soins médicaux",
+      "ja": "医療",
+      "ko": "의료",
+      "pt": "cuidado médico",
+      "ru": "медицинская помощь",
+      "zh": "医疗保健"
+    }
+  },
+  "medical glove": {
+    "syn": "",
+    "descr": "Personal protective equipment for the hands typically worn by healthcare professionals to protect themselves from exposure to infectious agents or other biological, chemical or physical hazards.",
+    "tag": "MEDI, Medical equipment",
+    "i18n": {
+      "ar": "زافقيبط",
+      "de": "Einmalhandschuh",
+      "es": "guante médico",
+      "fr": "gant médical",
+      "ja": "医療用手袋",
+      "ko": "의료용장갑",
+      "pt": "luva médica",
+      "ru": "медицинская перчатка",
+      "zh": "医用手套"
+    }
+  },
+  "mitigation": {
+    "syn": "",
+    "descr": "Strategy adopted by a public body to reduce the number of infected people in a given geographical area and limit the impact on the health system of a disease outbreak.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "فيفخت",
+      "de": "Folgenminderungsstrategie",
+      "es": "mitigación",
+      "fr": "stratégie d'atténuation",
+      "ja": "緩和",
+      "ko": "피해최소화",
+      "pt": "mitigação",
+      "ru": "смягчение последствий",
+      "zh": "缓疫"
+    }
+  },
+  "mode of transmission": {
+    "syn": "(syn.) route of transmission",
+    "descr": "Means by which an infectious agent spreads from one host to another.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ةقيرطلاقتناىودع،(syn.) ةليسولاقتناىودع",
+      "de": "Übertragungsweg",
+      "es": "vía de transmisión",
+      "fr": "mode de transmission",
+      "ja": "感染経路",
+      "ko": "전파양식",
+      "pt": "modo de transmissão",
+      "ru": "механизм передачи",
+      "zh": "传播方式"
+    }
+  },
+  "monoclonal antibody": {
+    "syn": "",
+    "descr": "Laboratory-produced molecule that targets and attacks specific antigens, thereby triggering a specific immune response.",
+    "tag": "SCIE, Therapeutics",
+    "i18n": {
+      "ar": "مسجداضمديحوةليسنلا،(syn.) ضدديحوةليسنلا ،مسجداضميداحأأشنملا",
+      "de": "monoklonaler Antikörper",
+      "es": "anticuerpo monoclonal",
+      "fr": "anticorps monoclonal",
+      "ja": "モノクローナル抗体, (syn.) 単クローン抗体",
+      "ko": "단일클론  항체",
+      "pt": "anticorpo monoclonal",
+      "ru": "моноклональное антитело",
+      "zh": "单克隆抗体"
+    }
+  },
+  "morbidity": {
+    "syn": "",
+    "descr": "Level of health and well-being of an individual.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةضارم",
+      "de": "Morbidität",
+      "es": "morbilidad",
+      "fr": "morbidité",
+      "ja": "罹患",
+      "ko": "이환율",
+      "pt": "morbidade",
+      "ru": "морбидность",
+      "zh": "罹病率"
+    }
+  },
+  "nasopharyngeal swab test": {
+    "syn": "",
+    "descr": "Method of collecting a specimen of nasal secretions for diagnostic purposes by inserting a swab into each nostril, extending it back into the nasopharynx, leaving it in place for a few seconds, and slowly withdrawing it with a rotating motion.",
+    "tag": "MEDI, Diagnostic equipment &amp; procedures",
+    "i18n": {
+      "ar": "ةحسمةيموعلبةيفنأ",
+      "de": "Nasen-Rachen-Abstrich",
+      "es": "hisopado nasofaríngeo",
+      "fr": "prélèvement nasopharyngé",
+      "ja": "鼻咽頭スワブ",
+      "ko": "비인두  면봉  검사, (syn.) 비인두면봉",
+      "pt": "esfregaço nasofaríngeo, (syn.) exsudado nasofaríngeo",
+      "ru": "мазок из носоглотки",
+      "zh": "鼻咽拭子法"
+    }
+  },
+  "pandemic": {
+    "syn": "(syn.) pandemic disease",
+    "descr": "Epidemic disease that has spread to different countries and continents.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةحئاج",
+      "de": "Pandemie",
+      "es": "pandemia",
+      "fr": "pandémie",
+      "ja": "世界的大流行, (syn.) パンデミック",
+      "ko": "대유행, (syn.) 범유행",
+      "pt": "pandemia",
+      "ru": "пандемия",
+      "zh": "大流行"
+    }
+  },
+  "pandemic preparedness": {
+    "syn": "",
+    "descr": "Ability of a public body to deal with a threat to human health caused by a pandemic by ensuring that appropriate response plans are in place.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "بهأتةحئاجل",
+      "de": "Pandemievorbereitung",
+      "es": "preparación para pandemias",
+      "fr": "préparation à une pandémie",
+      "ja": "世界的大流行への備え",
+      "ko": "대유행대비",
+      "pt": "preparação para pandemia",
+      "ru": "готовность к пандемии",
+      "zh": "大流行应对准备"
+    }
+  },
+  "pharmacoepidemiology": {
+    "syn": "",
+    "descr": "Study of the use and effects of drugs in large numbers of people, the aim of which is to estimate the probability of positive or negative effects of a drug.",
+    "tag": "MEDI, Pharmacology",
+    "i18n": {
+      "ar": "ةلديصةيئابو",
+      "de": "Pharmakoepidemiologie",
+      "es": "farmacoepidemiología",
+      "fr": "pharmaco-épidémiologie",
+      "ja": "薬剤疫学",
+      "ko": "약물역학",
+      "pt": "farmacoepidemiologia",
+      "ru": "фармакоэпидемиология",
+      "zh": "药物流行病学"
+    }
+  },
+  "portal of entry": {
+    "syn": "",
+    "descr": "Anatomical site at which an infectious agent enters a host.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ناكملوخد",
+      "de": "Eintrittspforte",
+      "es": "puerta de entrada",
+      "fr": "porte d'entrée",
+      "ja": "侵入門戸",
+      "ko": "입구",
+      "pt": "porta de entrada, (syn.) via de entrada",
+      "ru": "входные ворота инфекции",
+      "zh": "侵入门户"
+    }
+  },
+  "portal of exit": {
+    "syn": "",
+    "descr": "Anatomical site at which an infectious agent leaves a host.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ناكمجورخ",
+      "de": "Austrittspforte",
+      "es": "puerta de salida",
+      "fr": "porte de sortie",
+      "ja": "排出門戸",
+      "ko": "출구",
+      "pt": "porta de saída, (syn.) via de saída",
+      "ru": "выходные ворота инфекции",
+      "zh": "出口"
+    }
+  },
+  "pre-symptomatic transmission": {
+    "syn": "",
+    "descr": "Mode of transmission of an infectious disease to another person from an infected person who has not yet developed symptoms.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "لاقتنانمباصملبقروهظضارعأ",
+      "de": "präsymptomatische Übertragung",
+      "es": "transmisión presintomática",
+      "fr": "transmission pré-symptomatique",
+      "ja": "発症前感染",
+      "ko": "잠복기  전염",
+      "pt": "transmissão pré-sintomática",
+      "ru": "предсимптомная передача",
+      "zh": "症状前传播, (syn.) 潜伏期传播"
+    }
+  },
+  "probable case": {
+    "syn": "",
+    "descr": "Case that is compatible with a clinical case definition and for whom there is strong epidemiological evidence of disease, e.g. the person is a contact of a confirmed case but no laboratory test confirmation is available.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةلاحةلمتحم",
+      "de": "wahrscheinlicher Fall",
+      "es": "caso probable",
+      "fr": "cas probable",
+      "ja": "可能性例",
+      "ko": "추정환자",
+      "pt": "caso provável",
+      "ru": "вероятный случай",
+      "zh": "可能病例"
+    }
+  },
+  "public health": {
+    "syn": "",
+    "descr": "Science of protecting and improving the health of people through the organized efforts of society by promoting a healthy lifestyle, preventing injuries, and preventing, detecting and responding to infectious diseases.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةحصةماع،(syn.) ةحصةيمومع",
+      "de": "öffentliches Gesundheitswesen",
+      "es": "salud pública",
+      "fr": "santé publique",
+      "ja": "公衆衛生",
+      "ko": "공중  보건",
+      "pt": "saúde pública",
+      "ru": "общественное здоровье",
+      "zh": "公共卫生"
+    }
+  },
+  "public health surveillance": {
+    "syn": "",
+    "descr": "Ongoing systematic collection, analysis, and dissemination of health data to help guide public health decision making and action.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةبقارمةحصلاةماعلا",
+      "de": "epidemiologische Überwachung",
+      "es": "vigilancia de la salud pública",
+      "fr": "surveillance épidémiologique, (syn.) surveillance de santé publique",
+      "ja": "公衆衛生サーベイランス",
+      "ko": "역학  감시",
+      "pt": "vigilância sanitária pública, (syn.) vigilância em saúde pública",
+      "ru": "санитарно-эпидемиологический надзор",
+      "zh": "公共卫生监测"
+    }
+  },
+  "quarantine": {
+    "syn": "",
+    "descr": "Strategy adopted by a public body to keep apart from the general population for a certain period of time all individuals suspected of having contact with a person affected by an infectious disease or coming from an affected area, until it is confirmed that they have not contracted the disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "رجحيحص",
+      "de": "Quarantäne",
+      "es": "cuarentena",
+      "fr": "quarantaine",
+      "ja": "検疫, (syn.) 隔離",
+      "ko": "검역",
+      "pt": "quarentena",
+      "ru": "карантин",
+      "zh": "检疫"
+    }
+  },
+  "reservoir": {
+    "syn": "",
+    "descr": "Natural habitat in which an infectious agent normally lives, grows, and multiplies.",
+    "tag": "SCIE, BiologyCIE, Biology",
+    "i18n": {
+      "ar": "عدوتسم،(syn.) نزاخ",
+      "de": "Reservoir",
+      "es": "reservorio",
+      "fr": "réservoir",
+      "ja": "病原巣, (syn.) レゼルボア",
+      "ko": "병원소",
+      "pt": "reservatório",
+      "ru": "резервуар",
+      "zh": "病原储库"
+    }
+  },
+  "respiratory disease": {
+    "syn": "",
+    "descr": "Disease affecting the airways and the lungs and hindering normal breathing, which may be caused by, e.g., infection, air pollution, or exposure to noxious substances.",
+    "tag": "MEDI, Pathologyogy",
+    "i18n": {
+      "ar": "ضرميسفنت",
+      "de": "Atemwegserkrankung",
+      "es": "enfermedad respiratoria",
+      "fr": "maladie respiratoire",
+      "ja": "呼吸器疾患",
+      "ko": "호흡기  질환",
+      "pt": "doença respiratória",
+      "ru": "заболевание органов дыхания, (syn.) респираторное заболевание",
+      "zh": "呼吸系统疾病"
+    }
+  },
+  "respiratory hygiene": {
+    "syn": "(syn.) cough etiquette",
+    "descr": "Set of practices and behaviours adopted by an individual with the aim of preventing the spread of respiratory diseases.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةفاظنةيسفنت",
+      "de": "Husten-Nies-Etikette",
+      "es": "higiene respiratoria",
+      "fr": "hygiène respiratoire",
+      "ja": "呼吸器衛生",
+      "ko": "호흡기  위생, (syn.) 기침예절",
+      "pt": "higiene respiratória",
+      "ru": "респираторная гигиена",
+      "zh": "呼吸道卫生, (syn.) 咳嗽礼仪"
+    }
+  },
+  "risk factor": {
+    "syn": "",
+    "descr": "Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "لماعرطخ،(syn.) لماعةروطخ",
+      "de": "Risikofaktor",
+      "es": "factor de riesgo",
+      "fr": "facteur de risque",
+      "ja": "危険因子, (syn.) リスク因子",
+      "ko": "위험인자",
+      "pt": "fator de risco",
+      "ru": "фактор риска",
+      "zh": "风险因素"
+    }
+  },
+  "ribonucleic acid": {
+    "syn": "(syn.) RNA",
+    "descr": "Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil.",
+    "tag": "SCIE, Biochemistry",
+    "i18n": {
+      "ar": "ضمحيوونيزوبير،(syn.) انر",
+      "de": "Ribonukleinsäure, (syn.) RNA, RNS",
+      "es": "ácido ribonucleico, (syn.) ARN",
+      "fr": "acide ribonucléique, (syn.) ARN",
+      "ja": "リボ核酸, (syn.) RNA",
+      "ko": "리보핵산",
+      "pt": "ácido ribonucleico, (syn.) RNA, ARN",
+      "ru": "рибонуклеиновая кислота, (syn.) РНК",
+      "zh": "核糖核酸,(syn.) RNA"
+    }
+  },
+  "self-isolation": {
+    "syn": "(syn.) self-quarantine",
+    "descr": "Measure taken by an individual in order to avoid contact with other people and thus help to prevent the spread of an infectious disease.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "لزعيتاذ",
+      "de": "Selbst-Isolation",
+      "es": "aislamiento voluntario",
+      "fr": "isolement",
+      "ja": "自主隔離",
+      "ko": "자가격리, (syn.) 자가검역",
+      "pt": "autoisolamento, (syn.) auto-isolamento",
+      "ru": "самоизоляция",
+      "zh": "自我隔离"
+    }
+  },
+  "sepsis": {
+    "syn": "",
+    "descr": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ناتنإ،(syn.) مخج",
+      "de": "Sepsis",
+      "es": "sepsis",
+      "fr": "sepsis",
+      "ja": "敗血症",
+      "ko": "패혈증",
+      "pt": "sepsis, (syn.) sepse",
+      "ru": "cепсис",
+      "zh": "脓毒症"
+    }
+  },
+  "septic shock": {
+    "syn": "",
+    "descr": "Class of sepsis in which abnormalities of circulation, i.e. persistent hypotension despite fluid resuscitation, and/or of cellular metabolism are serious enough to increase mortality substantially.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ةمدصةيناتنإ",
+      "de": "septischer Schock",
+      "es": "choque séptico",
+      "fr": "choc septique",
+      "ja": "敗血症性ショック",
+      "ko": "패혈성  쇽, (syn.) 패혈쇼크",
+      "pt": "choque séptico, (syn.) choque sético (pt-PT)",
+      "ru": "септический шок",
+      "zh": "感染性休克"
+    }
+  },
+  "severe acute respiratory syndrome": {
+    "syn": "(syn.) SARS",
+    "descr": "Infectious disease caused by SARS-CoV-1.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ةمزلاتمةيسفنتةداحةميخو،(syn.)ةمزلاتمباهتللاايوئرلاداحلاميخولا، سراس",
+      "de": "schweres akutes Atemnotsyndrom, (syn.) schweres akutes Atemwegssyndrom, SARS",
+      "es": "síndrome respiratorio agudo grave, (syn.) SRAG",
+      "fr": "syndrome respiratoire aigu sévère, (syn.) SRAS",
+      "ja": "重症急性呼吸器症候群, (syn.) SARS",
+      "ko": "중증급성호흡기증후군, (syn.) 사스",
+      "pt": "síndrome respiratória aguda grave, (syn.) síndrome respiratória aguda severa, SARS",
+      "ru": "тяжелый острый респираторный синдром, (syn.)ТОРС",
+      "zh": "严重急性呼吸系统综合征, (syn.)非典型肺炎, SARS"
+    }
+  },
+  "severe acute respiratory syndrome coronavirus 2": {
+    "syn": "(syn.) SARS-CoV-2",
+    "descr": "Coronavirus that causes COVID-19.",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "سراس-فوك-2",
+      "de": "schweres akutes respiratorisches Syndrom-Coronavirus-2, (syn.) SARS-CoV-2",
+      "es": "coronavirus del síndrome respiratorio agudo grave 2, (syn.) coronavirus 2 del síndrome respiratorio agudo grave, SARS-CoV-2",
+      "fr": "SARS-CoV-2",
+      "ja": "新型コロナウイルス, (syn.) SARS-CoV-2",
+      "ko": "SARS CoV-2",
+      "pt": "coronavírus da síndrome respiratória aguda grave 2, (syn.) coronavírus 2 da síndrome respiratória aguda grave, SARS-CoV-2",
+      "ru": "второй коронавирус тяжелого острого респираторного синдрома, (syn.) SARS-CoV-2",
+      "zh": "严重急性呼吸综合征冠状病毒  2, (syn.) SARS-CoV-2"
+    }
+  },
+  "spike glycoprotein": {
+    "syn": "(syn.) spike",
+    "descr": "Glycoprotein complex made up of three protomers and located on the envelope of coronaviruses, which enables the virus to bind to the receptor site of the host cells.",
+    "tag": "SCIE, Biochemistry",
+    "i18n": {
+      "ar": "نيتوربةكسح",
+      "de": "Spike-Glykoprotein, (syn.) Spike",
+      "es": "glicoproteína de la espícula, (syn.) espícula",
+      "fr": "glycoprotéine de spicule, (syn.) spicule",
+      "ja": "スパイク糖タンパク質, (syn.) スパイク",
+      "ko": "스파이크  당단백질",
+      "pt": "glicoproteína de espícula, (syn.) espícula",
+      "ru": "гликопротеин шиповидных отростков",
+      "zh": "刺突糖蛋白"
+    }
+  },
+  "super-spreader": {
+    "syn": "",
+    "descr": "Person affected by an infectious disease who transmits the disease to a significantly higher number of people than does the average infected person.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "رشانىودعقئاف",
+      "de": "Superverbreiter",
+      "es": "supercontagiador",
+      "fr": "super-propagateur",
+      "ja": "スーパースプレッダー",
+      "ko": "슈퍼  전파자",
+      "pt": "supercontagiador",
+      "ru": "суперраспространитель",
+      "zh": "超级传播者"
+    }
+  },
+  "suspected case": {
+    "syn": "",
+    "descr": "Case that is compatible with a clinical case definition but there is no laboratory test confirmation or strong epidemiological evidence, e.g. the person is not a contact of a confirmed case.",
+    "tag": "MEDI, Public health &amp; hygiene",
+    "i18n": {
+      "ar": "ةلاحهبتشماهب،(syn.) ةلاحةهبتشم",
+      "de": "Verdachtsfall",
+      "es": "caso sospechoso",
+      "fr": "cas possible",
+      "ja": "疑い例",
+      "ko": "의사  환자",
+      "pt": "caso suspeito",
+      "ru": "предположительный случай",
+      "zh": "疑似病例"
+    }
+  },
+  "symptom": {
+    "syn": "",
+    "descr": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign).",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ضرع",
+      "de": "Symptom",
+      "es": "síntoma",
+      "fr": "symptôme",
+      "ja": "症状",
+      "ko": "증상",
+      "pt": "sintoma",
+      "ru": "симптом",
+      "zh": "症状"
+    }
+  },
+  "symptomatic transmission": {
+    "syn": "",
+    "descr": "Mode of transmission to another person of an infectious disease from an infected person who has developed symptoms.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "لاقتنانمباصمضارعأب",
+      "de": "symptomatische Übertragung",
+      "es": "trasmisión sintomática",
+      "fr": "transmission symptomatique",
+      "ja": "症候性感染",
+      "ko": "유증상  전파",
+      "pt": "transmissão sintomática",
+      "ru": "симптомная передача",
+      "zh": "有症状传播"
+    }
+  },
+  "systemic inflammatory response syndrome": {
+    "syn": "(syn.) SIRS",
+    "descr": "Condition characterized by a disproportionate inflammatory response to a variety of severe clinical phenomena, including relating to body temperature (&gt;38°C or &lt;36°C), heart rate (&gt;90 beats per minute), respiratory rate (&gt;20 breaths per minute or PaCO2 &lt;32 mmHg), and white blood cell count (&gt;12,000/cu mm, &lt;4,000/cu mm, or &gt;10% immature band forms).",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ةمزلاتمةباجتسلااةيباهتللااةيزاهجلا",
+      "de": "systemisches inflammatorisches Response-Syndrom, (syn.) SIRS",
+      "es": "síndrome de respuesta inflamatoria sistémica, (syn.) SRIS",
+      "fr": "syndrome de réponse inflammatoire systémique, (syn.) SIRS",
+      "ja": "全身性炎症反応症候群, (syn.) SIRS",
+      "ko": "전신성  염증  반응  증후군",
+      "pt": "síndrome da resposta inflamatória sistémica, (syn.) SIRS",
+      "ru": "синдром системной воспалительной реакции, (syn.) ССВР",
+      "zh": "全身炎症反应综合征, (syn.) SIRS"
+    }
+  },
+  "triage": {
+    "syn": "",
+    "descr": "Process of sorting patients or casualties to determine priority of need and proper place of treatment.",
+    "tag": "MEDI, Medical care",
+    "i18n": {
+      "ar": "زرف",
+      "de": "Triage",
+      "es": "triaje",
+      "fr": "triage",
+      "ja": "トリアージ",
+      "ko": "중증도  분류",
+      "pt": "triagem",
+      "ru": "медицинская сортировка",
+      "zh": "分诊"
+    }
+  },
+  "urgent care": {
+    "syn": "",
+    "descr": "Medical care provided for illnesses or injuries that require prompt attention but are typically not so serious as to require the services of an emergency room.",
+    "tag": "MEDI, Medical care",
+    "i18n": {
+      "ar": "ةياعرةلجاع",
+      "de": "Bagatell-Notfall",
+      "es": "atención de urgencias menores",
+      "fr": "soins non programmés",
+      "ja": "初期救急",
+      "ko": "긴급  치료",
+      "pt": "pronto atendimento, (syn.) serviço de urgência básica, serviço de atendimento permanente, SAP, SUB",
+      "ru": "неотложная помощь, (syn.) неотложная медицинская помощь",
+      "zh": "急诊护理"
+    }
+  },
+  "urgent care facility": {
+    "syn": "(syn.) urgent care center",
+    "descr": "A walk-in clinic led by qualified medical professionals, i.e. doctors and nurses, in which urgent care is delivered.",
+    "tag": "MEDI, Medical care",
+    "i18n": {
+      "ar": "قفرمةياعرةلجاع",
+      "de": "Notfallpraxis",
+      "es": "dispensario de urgencias menores",
+      "fr": "centre de soins non programmés, (syn.) service d'accueil médical non programmé",
+      "ja": "初期救急施設, (syn.) 急病診療所",
+      "ko": "긴급  치료  시설",
+      "pt": "unidade de pronto atendimento, (syn.) centro de saúde, UPA",
+      "ru": "отделение неотложной медицинской помощи, (syn.) кабинет неотложной помощи",
+      "zh": "急诊护理中心"
+    }
+  },
+  "vaccine": {
+    "syn": "",
+    "descr": "Therapeutic preparation containing an antigen, i.e. a virus or a segment of a virus or a toxin generated by bacteria, that may have been attenuated, inactivated or killed and which is able to trigger the immune response and generate immunity in an organism.",
+    "tag": "MEDI, Therapeutics",
+    "i18n": {
+      "ar": "حاقل",
+      "de": "Impfstoff, (syn.) Vakzine",
+      "es": "vacuna",
+      "fr": "vaccin",
+      "ja": "ワクチン",
+      "ko": "백신",
+      "pt": "vacina",
+      "ru": "вакцина",
+      "zh": "疫苗"
+    }
+  },
+  "vector": {
+    "syn": "",
+    "descr": "Living organism that indirectly transmits an infectious disease to a susceptible host either by carrying the infectious agent on its body (mechanical vector) or by providing an environment in which the infectious agent can reproduce and survive (biological vector).",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "لقان",
+      "de": "Vektor",
+      "es": "vector",
+      "fr": "vecteur",
+      "ja": "媒介者, (syn.) ベクター",
+      "ko": "매개체",
+      "pt": "vetor",
+      "ru": "переносчик",
+      "zh": "病媒"
+    }
+  },
+  "viral load": {
+    "syn": "",
+    "descr": "Amount of viral particles present in a millilitre of a fluid sample, e.g. blood.",
+    "tag": "MEDI, Diagnostic equipment &amp; procedures",
+    "i18n": {
+      "ar": "حلميسوريف",
+      "de": "Viruslast",
+      "es": "carga viral",
+      "fr": "charge virale",
+      "ja": "ウイルス量",
+      "ko": "바이러스  부하",
+      "pt": "carga viral",
+      "ru": "вирусная нагрузка",
+      "zh": "病毒载量"
+    }
+  },
+  "viral vector": {
+    "syn": "",
+    "descr": "Virus that has been genetically modified for use in gene therapy.",
+    "tag": "SCIE, Genetics",
+    "i18n": {
+      "ar": "لقانيسوريف",
+      "de": "viraler Vektor",
+      "es": "vector viral",
+      "fr": "vecteur viral",
+      "ja": "ウイルスベクター",
+      "ko": "바이러스  매개체",
+      "pt": "vetor viral",
+      "ru": "вирусный вектор",
+      "zh": "病毒载体"
+    }
+  },
+  "virus": {
+    "syn": "",
+    "descr": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid.",
+    "tag": "SCIE, Biology",
+    "i18n": {
+      "ar": "سوريف",
+      "de": "Virus",
+      "es": "virus",
+      "fr": "virus",
+      "ja": "ウイルス",
+      "ko": "바이러스",
+      "pt": "vírus",
+      "ru": "вирус",
+      "zh": "病毒"
+    }
+  },
+  "zoonosis": {
+    "syn": "",
+    "descr": "Infectious disease that is transmissible under natural conditions from vertebrate animals to humans.",
+    "tag": "MEDI, Pathology",
+    "i18n": {
+      "ar": "ضرميناويحردصملا",
+      "de": "Zoonose",
+      "es": "zoonosis",
+      "fr": "zoonose",
+      "ja": "人獣共通感染症, (syn.) 動物由来感染症",
+      "ko": "인수공통전염병",
+      "pt": "zoonose",
+      "ru": "зооноз",
+      "zh": "人畜共患病"
+    }
+  }
+}

@@ -1,0 +1,5451 @@
+Termo: micrograma
+Explicação: a milionésima parte de um grama
+
+Termo: perioral
+Explicação: à volta da boca
+
+Termo: periorbital
+Explicação: à volta da órbita
+
+Termo: perivascular
+Explicação: à volta dos vasos sanguíneos
+
+Termo: depressão
+Explicação: abaixamento, abatimento, prostração
+
+Termo: abcesso
+Explicação: abcesso, tumor
+
+Termo: empiema
+Explicação: abcesso; acumulação de pus
+
+Termo: perfuração
+Explicação: abertura; orifício
+
+Termo: extracção
+Explicação: ablação
+
+Termo: castração
+Explicação: ablação dos órgãos sexuais, capação, eviração, emasculação
+
+Termo: anastomose
+Explicação: abocamento
+
+Termo: aborto
+Explicação: abortamento, desmancho
+
+Termo: ressorção
+Explicação: absorção de água e de solutos por células vivas
+
+Termo: absorção
+Explicação: absorvimento, absorvência
+
+Termo: hipótese
+Explicação: abstracção, suposição
+
+Termo: escabiose
+Explicação: acaríase sarcóptica, sarna
+
+Termo: catálise
+Explicação: acção de certos corpos sobre outros
+
+Termo: oxidação
+Explicação: acção de enferrujar
+
+Termo: aspiração
+Explicação: acção de inalar, extracção de líquidos ou gases
+
+Termo: micção
+Explicação: acção de urinar, urinação
+
+Termo: taquicardia
+Explicação: aceleração da frequência cardíaca
+
+Termo: secundário
+Explicação: acessório, anexo, indesejável
+
+Termo: acidez
+Explicação: acidade, azedume
+
+Termo: aminoácido
+Explicação: ácido aninado
+
+Termo: adaptação
+Explicação: acomodação
+
+Termo: concomitante
+Explicação: acompanhante
+
+Termo: habitual
+Explicação: acostumado
+
+Termo: reconstituição
+Explicação: lesionada; retorno à forma líquida do soro ou plasma sanguíneo previamente dessecado
+
+Termo: potenciação
+Explicação: activação de uma droga por outra
+
+Termo: potencialização
+Explicação: activação de uma droga por outra
+
+Termo: adrenérgico
+Explicação: activado por adrenalina
+
+Termo: actividade
+Explicação: actividade
+
+Termo: hipertiroidismo
+Explicação: actividade excessiva da tiróide
+
+Termo: hipotiroidismo
+Explicação: actividade insuficiente da tiróide
+
+Termo: largo espectro
+Explicação: activo com vários grupos de germes
+
+Termo: anamnésia
+Explicação: acto de relembrar os antecedentes do doente
+
+Termo: protrombina
+Explicação: actor II da coagulação sanguínea; trombogénio
+
+Termo: uremia
+Explicação: acumulação de ureia no sangue; urinemia
+
+Termo: esteatose
+Explicação: acumulação excessiva de glóbulos gordos nos tecidos
+
+Termo: acumulação
+Explicação: acumulamento
+
+Termo: cumulativo
+Explicação: acumulativo
+
+Termo: acomodação
+Explicação: adaptação
+
+Termo: aderência
+Explicação: adesão, união viciosa das superfícies orgânicas
+
+Termo: prémedicação
+Explicação: administração de medicamentos como sedativos antes de uma anestesia gera
+
+Termo: sensibilização
+Explicação: administração de um antigénio para induzir uma resposta imunitária
+
+Termo: aplicação
+Explicação: administração de um medicamento ou emprego de uma medida física
+
+Termo: instilação
+Explicação: administração gota-a-gota (solução oftálmica)
+
+Termo: parenteral
+Explicação: administrado por via não oral
+
+Termo: adulto
+Explicação: adulto
+
+Termo: ventilação
+Explicação: aeragem, arejamento, aeração
+
+Termo: cirrose
+Explicação: afecção do fígado
+
+Termo: regulação
+Explicação: afinação, ajustamento
+
+Termo: prolapso
+Explicação: afundamento ou queda (ex.: útero, recto, cordão umbilical)
+
+Termo: mediador
+Explicação: agente intermediário, substância química que transmite algo
+
+Termo: mucolítico
+Explicação: agente que destrói ou dissolve a mucina
+
+Termo: ceratolítico
+Explicação: agente que dissolve a parte córnea da pele
+
+Termo: uricossúrico
+Explicação: agente que promove a secreção urinária do ácido úrico
+
+Termo: relaxante
+Explicação: agente que reduz a tensão
+
+Termo: agravação
+Explicação: agravamento, pioramento, piora
+
+Termo: agregação
+Explicação: agregado, associação
+
+Termo: agressividade
+Explicação: agressividade
+
+Termo: acuidade
+Explicação: agudez(a)
+
+Termo: agudo
+Explicação: agudo
+
+Termo: alcoolismo
+Explicação: alcoolismo
+
+Termo: alergia cruzada
+Explicação: alergia a substâncias similares
+
+Termo: idiossincrasia
+Explicação: alergia a uma substância específica
+
+Termo: alérgico
+Explicação: alérgico
+
+Termo: atópico
+Explicação: alérgico
+
+Termo: demência
+Explicação: alienação mental, desarranjo mental, loucura
+
+Termo: nutriente
+Explicação: alimentar, alimentício, nutritivo, nutrício, substancial
+
+Termo: alimentar
+Explicação: alimentício
+
+Termo: alcalose
+Explicação: alteração da relação ácido-base no sangue
+
+Termo: acidose
+Explicação: alteração do equilíbrio ácido básico do sangue e líquidos teciduais
+
+Termo: lipodistrofia
+Explicação: pernas)
+
+Termo: disgeusia
+Explicação: alteração do paladar
+
+Termo: lesão
+Explicação: alteração mórbida na função ou estrutura de um órgão
+
+Termo: modificar
+Explicação: alterar
+
+Termo: alternativo
+Explicação: alternativo
+
+Termo: alucinação
+Explicação: alucinação
+
+Termo: cavidade
+Explicação: alvéolo, recesso, buraco
+
+Termo: ambulante
+Explicação: ambulatório
+
+Termo: osteomalacia
+Explicação: amolecimento dos ossos
+
+Termo: convalescença
+Explicação: analepsia; restabelecimento das forças (depois de uma doença)
+
+Termo: idêntico
+Explicação: análogo
+
+Termo: escarlatina
+Explicação: anasarca, febre petequial, elefância
+
+Termo: anatómico
+Explicação: anatómico
+
+Termo: sonambulismo
+Explicação: andar dormindo, em sonhos
+
+Termo: tonsilite
+Explicação: angina (tonsilar), amigdalite, esquinência, antiadite, inflamação das amígdalas
+
+Termo: angina de peito
+Explicação: angina de peito, esternalgia
+
+Termo: linfangite
+Explicação: angioleucite, inflamação dos vasos linfáticos
+
+Termo: ansiedade
+Explicação: angústia
+
+Termo: enurese
+Explicação: aniscuria, incontinência de urina
+
+Termo: aberrante
+Explicação: anormal
+
+Termo: anormal
+Explicação: anormal
+
+Termo: pré-natal
+Explicação: antes do nascimento, durante a evolução da gravidez
+
+Termo: anticorpo
+Explicação: anti-soma, anti-substância, corpo imune, antítropo
+
+Termo: antialérgico
+Explicação: antialérgico
+
+Termo: antineoplástico
+Explicação: anticanceroso
+
+Termo: revulsivo
+Explicação: antiléptico, contra-irritante, que provoca uma irritação destinada a aliviar outra
+
+Termo: antipruriginoso
+Explicação: antiprurítico, antipruritoso
+
+Termo: anúria
+Explicação: anurese, que não urina
+
+Termo: furunculose
+Explicação: aparecimento de furúnculos
+
+Termo: leucoplasia
+Explicação: nesse órgão
+
+Termo: apneia
+Explicação: apneustia; ausência de respiração
+
+Termo: indicar
+Explicação: apontar
+
+Termo: pós-parto
+Explicação: após o parto
+
+Termo: pós-prandial
+Explicação: após uma refeição
+
+Termo: apresentação
+Explicação: apresentação do feto em relação ao colo uterino
+
+Termo: adequado
+Explicação: apropriado, próprio
+
+Termo: aproximado
+Explicação: aproximado
+
+Termo: predisposição
+Explicação: aptidão do organismo para contrair certas doenças; vocação
+
+Termo: opistótono
+Explicação: arqueamento posterior da cabeça e membros inferiores
+
+Termo: eructação
+Explicação: arroto
+
+Termo: inalação
+Explicação: aspiração de gases e vapores
+
+Termo: identificação
+Explicação: assimilação inconsciente com outra pessoa
+
+Termo: insulto
+Explicação: ataque
+
+Termo: inibição
+Explicação: atenuação, supressão ou bloqueamento de uma função ou reacção
+
+Termo: pulverizador
+Explicação: atomizador, vaporizador, aparelho de pulverizar
+
+Termo: hipotrofia
+Explicação: atraso de desenvolvimento
+
+Termo: peroral
+Explicação: através da boca (ingestão de remédios, por exemplo)
+
+Termo: percutâneo
+Explicação: através da pele
+
+Termo: transcutâneo
+Explicação: através da pele intacta
+
+Termo: pico do débito
+Explicação: auge ou pico do fluxo, do débito
+
+Termo: diabetes
+Explicação: aumento anormal da diurese; doença caracterizada pela presença de açúcar na origina)
+
+Termo: fibrose
+Explicação: aumento anormal do tecido conjuntivo
+
+Termo: hiperceratose
+Explicação: aumento da espessura da capa córnea da pele
+
+Termo: hipertricose
+Explicação: aumento da espessura do pêlo do corpo
+
+Termo: hiperbárico
+Explicação: aumento da pressão de O2 no sangue
+
+Termo: hiperestesia
+Explicação: aumento da sensibilidade nervosa
+
+Termo: hipertermia
+Explicação: aumento da temperatura, acaloramento
+
+Termo: hipertensão
+Explicação: aumento da tensão
+
+Termo: hipertonia
+Explicação: aumento da tensão no olho
+
+Termo: eosinofilia
+Explicação: aumento das células eosinófilas no sangue
+
+Termo: hiperlipidemia
+Explicação: aumento de lípidos no sangue
+
+Termo: hipercapnia
+Explicação: aumento de O2 no sangue
+
+Termo: hiperuricemia
+Explicação: aumento do ácido úrico
+
+Termo: hiperplasia
+Explicação: aumento do desenvolvimento
+
+Termo: hepatomegalia
+Explicação: aumento do fígado
+
+Termo: leucocitose
+Explicação: aumento do número de glóbulos brancos em circulação
+
+Termo: cardiomegália
+Explicação: aumento do tamanho do coração
+
+Termo: hipervolemia
+Explicação: aumento dos fluidos no organismo
+
+Termo: ginecomastia
+Explicação: aumento dos peitos
+
+Termo: trombocitose
+Explicação: aumento exagerado do número de plaquetas no sangue
+
+Termo: átrio
+Explicação: aurículo
+
+Termo: auscultação
+Explicação: auscultar (os ruídos produzidos no interior de um organismo) com o estetoscópio
+
+Termo: acinesia
+Explicação: ausência de movimento, acinese
+
+Termo: amenorreia
+Explicação: ausência de períodos menstruais
+
+Termo: atonia
+Explicação: ausência o deficiência da tensão de um tecido ou órgão
+
+Termo: replicação
+Explicação: autoduplicação, réplica
+
+Termo: automatismo
+Explicação: automatismo
+
+Termo: assistir
+Explicação: auxiliar, presenciar, ajudar
+
+Termo: avaliação
+Explicação: avaliação
+
+Termo: pirose
+Explicação: azia, sensação de calor no estômago
+
+Termo: hipotermia
+Explicação: baixa de temperatura
+
+Termo: jacto
+Explicação: banho por duche
+
+Termo: ascite
+Explicação: barriga de água, hidropisia da cavidade abdominal, hidroperitoneu
+
+Termo: abdómen
+Explicação: barriga, ventre
+
+Termo: substrato
+Explicação: base, substância básica
+
+Termo: experimental
+Explicação: baseado em ensaios
+
+Termo: empírico
+Explicação: baseado na experiência
+
+Termo: pulsação
+Explicação: batimento cardíaco ou o fluxo do sangue nas artérias
+
+Termo: recipiente
+Explicação: beneficiário
+
+Termo: varíola bovina
+Explicação: bexigas da vaca
+
+Termo: biológico
+Explicação: biológico
+
+Termo: bloqueio
+Explicação: bloqueio
+
+Termo: ampola
+Explicação: bolha, pequeno tumor
+
+Termo: âmnio
+Explicação: bolsa membranosa que contém o líquido amniótico onde flutua o bebé
+
+Termo: esclerótica
+Explicação: branco do olho
+
+Termo: bronquial
+Explicação: brônquico, dos brônquios
+
+Termo: brônquio
+Explicação: brônquio
+
+Termo: hidrocefalia
+Explicação: cabeça de água
+
+Termo: taquiarritmia
+Explicação: cadência rápida do ritmo do coração; arritmia rápida
+
+Termo: calciúria
+Explicação: cálcio nas urinas
+
+Termo: nefrólito
+Explicação: cálculo renal, cálculo do rim
+
+Termo: neuroléptico
+Explicação: calmante do sistema nervoso
+
+Termo: sedativo
+Explicação: calmante, anódino, paregórico
+
+Termo: neoplástico
+Explicação: canceroso, neoplásico
+
+Termo: mielomatose
+Explicação: cancro da medula do osso, doença de Kahler
+
+Termo: endotélio
+Explicação: capa interna que reveste as cavidades cardíacas e os vasos sanguíneos e linfáticos
+
+Termo: contractibilidade
+Explicação: capacidade de contracção
+
+Termo: tolerância
+Explicação: capacidade de suportar doses elevadas de uma droga tóxica
+
+Termo: variabilidade
+Explicação: capacidade de variação
+
+Termo: reactividade
+Explicação: capacidade para apresentar reacções
+
+Termo: específico
+Explicação: característico de uma espécie ou de uma doença
+
+Termo: nodoso
+Explicação: caracterizado por pequenos nós sólidos
+
+Termo: cardiológico
+Explicação: cardiológico
+
+Termo: alopecia
+Explicação: careca, calvície, calva
+
+Termo: deficiência
+Explicação: carência
+
+Termo: gânglio
+Explicação: caroço
+
+Termo: adenite
+Explicação: caroço inflamado, inflamação das glândulas
+
+Termo: gastrite
+Explicação: catarro gástrico
+
+Termo: enterite
+Explicação: catarro intestinal, colite
+
+Termo: alérgeno
+Explicação: causa alergia
+
+Termo: factor
+Explicação: causa, agente, meio; número
+
+Termo: causal
+Explicação: causal
+
+Termo: lúmen
+Explicação: cavidade ou canal dentro de um órgão em forma de tubo
+
+Termo: cefalalgia
+Explicação: cefaleia, dor de cabeça
+
+Termo: hemeralopia
+Explicação: cegueira diurna
+
+Termo: químio-receptor
+Explicação: célula capaz de receber substâncias químicas
+
+Termo: recombinante
+Explicação: célula com nova combinação genética, não herdada dos pais
+
+Termo: mastócito
+Explicação: célula de Mast
+
+Termo: cerúmen
+Explicação: cera dos ouvidos
+
+Termo: menopausa
+Explicação: cessação da menstruação na mulher
+
+Termo: úlcera
+Explicação: chaga, ferida
+
+Termo: odor
+Explicação: cheiro
+
+Termo: aromático
+Explicação: cheiroso
+
+Termo: quelóide
+Explicação: cicatriz defeituosa
+
+Termo: cicatrização
+Explicação: cicatrização
+
+Termo: periódico
+Explicação: cíclico, regular
+
+Termo: anovulatório
+Explicação: ciclo sem óvulo
+
+Termo: cicloderma
+Explicação: cicloderma
+
+Termo: farmacocinética
+Explicação: ciência que se ocupa do efeito exercido pelo organismo sobre o medicamento
+
+Termo: circulação
+Explicação: circulação
+
+Termo: indicação
+Explicação: circunstância que indica a utilização de uma terapia
+
+Termo: cirúrgico
+Explicação: cirúrgico, relativo a uma operação
+
+Termo: classificação
+Explicação: classificação
+
+Termo: enema
+Explicação: clister, irrigação
+
+Termo: trombose
+Explicação: coagulação do sangue numa artéria ou veia, com bloqueio da circulação
+
+Termo: trombo
+Explicação: coágulo de sangue num vaso sanguíneo
+
+Termo: co-enzima
+Explicação: coenzima, co-factor
+
+Termo: dispareunia
+Explicação: coito doloroso
+
+Termo: colo do útero
+Explicação: colo do útero
+
+Termo: cianose
+Explicação: coloração azulada da pele e das mucosas
+
+Termo: melanose
+Explicação: coloração obscura superficial da pele ou das mucosas
+
+Termo: buloso
+Explicação: com bolhas ou ampolas
+
+Termo: aniónico
+Explicação: com carga negativa
+
+Termo: bilateral
+Explicação: com dois lados, relativo a dois lados
+
+Termo: escamoso
+Explicação: com escamas
+
+Termo: tubular
+Explicação: com forma de tubo; tubuloso
+
+Termo: análogo
+Explicação: com função semelhante mas diferente origem (diz-se de estruturas anatómicas)
+
+Termo: hipotenso
+Explicação: com tensão ou pressão baixa
+
+Termo: normotenso
+Explicação: com tensão ou pressão normal
+
+Termo: antianginoso
+Explicação: combate as anginas
+
+Termo: antitoxina
+Explicação: combate as toxinas bacterianas
+
+Termo: combinação
+Explicação: combinação
+
+Termo: lipoproteína
+Explicação: combinação de uma gordura e uma proteína
+
+Termo: síntese
+Explicação: combinação; formação de substâncias in vitro por meios artificiais
+
+Termo: prurido
+Explicação: comichão
+
+Termo: choque
+Explicação: comoção, abalo, golpe
+
+Termo: compensação
+Explicação: compensação
+
+Termo: competitivo
+Explicação: competitivo
+
+Termo: adicional
+Explicação: complementar
+
+Termo: complemento
+Explicação: complemento
+
+Termo: síndroma
+Explicação: complexo mórbido, conjunto de sintomas
+
+Termo: sequela
+Explicação: complicação mais ou menos tardia de uma doença, doença consecutiva
+
+Termo: complicação
+Explicação: complicação, agravamento
+
+Termo: amina
+Explicação: composto químico relacionado com o amoníaco
+
+Termo: complexo
+Explicação: composto, grupo
+
+Termo: fístula
+Explicação: comunicação anormal entre dois órgãos entre si ou com o exterior
+
+Termo: anastomose
+Explicação: comunicação natural ou artificial entre dois vasos ou nervos
+
+Termo: osmolalidade
+Explicação: concentração de partículas osmoticamente activas em solução
+
+Termo: osmolaridade
+Explicação: concentração de partículas osmoticamente activas em solução
+
+Termo: concreto
+Explicação: concreto
+
+Termo: estado
+Explicação: condição, situação; crise ou ponto culminante
+
+Termo: canal
+Explicação: conduto
+
+Termo: electrólito
+Explicação: condutor de segunda classe, ácido para acumuladores
+
+Termo: confusão
+Explicação: confusão
+
+Termo: enfarte
+Explicação: congestão e bloqueamento de um vaso sanguíneo; infarto, infartação
+
+Termo: conjugação
+Explicação: conjugação
+
+Termo: flora intestinal
+Explicação: conjunto de bactérias no intestino grosso
+
+Termo: metabolismo
+Explicação: conjunto de reacções bioquímicas dentro do organismo
+
+Termo: tirotoxicose
+Explicação: conjunto de sintomas devido a um excesso de hormonas tiróides
+
+Termo: herpes simplex
+Explicação: conjunto de vesículas inflamadas à volta da boca
+
+Termo: conselho
+Explicação: conselho, aviso
+
+Termo: conserva
+Explicação: conserva
+
+Termo: integridade
+Explicação: conservação inalterada
+
+Termo: retenção
+Explicação: conservação, dentro do corpo, de materiais ou líquidos que se excretam normalmente
+
+Termo: maculopapular
+Explicação: consistente em manchas e pápulas, borbulhas
+
+Termo: tricíclico
+Explicação: constituído por três anéis entrelaçados
+
+Termo: deplecção
+Explicação: consumo anormal de substâncias pelo próprio corpo
+
+Termo: infecção
+Explicação: contágio mútuo entre duas pessoas por doenças infecciosas diferentes
+
+Termo: séptico
+Explicação: contaminado por germes, podre
+
+Termo: simultâneo
+Explicação: contemporâneo
+
+Termo: progressivo
+Explicação: continuado, que avança lentamente
+
+Termo: anti-helmíntico
+Explicação: contra as lombrigas, contra as bichas
+
+Termo: antiemético
+Explicação: contra os vómitos
+
+Termo: contra-indicação
+Explicação: contra-indicação
+
+Termo: contracção
+Explicação: contracção
+
+Termo: fasciculação
+Explicação: contracção de grupos de músculos
+
+Termo: broncoconstricção
+Explicação: contracção dos brônquios
+
+Termo: retracção
+Explicação: contracção, retraimento, encolhimento de um órgão ou tecido
+
+Termo: fibrilação
+Explicação: contracções desordenadas e ineficientes do coração
+
+Termo: convulsão
+Explicação: contracções involuntárias desordenadas de músculos
+
+Termo: contracepção
+Explicação: contraconcepção, anticoncepção
+
+Termo: espasticidade
+Explicação: contractura muscular
+
+Termo: paradoxal
+Explicação: contraditório, inabitual
+
+Termo: antídoto
+Explicação: contraveneno
+
+Termo: vigilância
+Explicação: controlo ou supervisão com ajuda de um monitor
+
+Termo: convencional
+Explicação: convencional
+
+Termo: eclampsia
+Explicação: convulsões e queda da tensão nas mulheres grávidas
+
+Termo: coordenação
+Explicação: coordenação
+
+Termo: coito
+Explicação: cópula, acto sexual
+
+Termo: livedo
+Explicação: cor avermelhada da pele
+
+Termo: acrocianose
+Explicação: cor azulada das extremidades (mãos-pés)
+
+Termo: imobilização
+Explicação: corpo em repouso, ou alguma das suas partes
+
+Termo: corpo lúteo
+Explicação: corpo que se forma no ovário após a ovulação
+
+Termo: físico
+Explicação: corporal, que se percebe pelos sentidos
+
+Termo: partícula
+Explicação: corpúsculo, parte elementar
+
+Termo: lóquios
+Explicação: corrimento após o parto
+
+Termo: leucorreia
+Explicação: corrimento mucoso de cor branca oriundo da vagina; flores-brancas
+
+Termo: rinorreia
+Explicação: corrimento nasal
+
+Termo: cáustico
+Explicação: corrosivo
+
+Termo: incisão
+Explicação: corte
+
+Termo: osteotomia
+Explicação: corte cirúrgico do osso
+
+Termo: episiotomia
+Explicação: corte vaginal para facilitar o parto
+
+Termo: ressecção
+Explicação: corte, extirpação cirúrgica parcial ou total de um órgão
+
+Termo: rágade
+Explicação: corte, fissura
+
+Termo: córtice
+Explicação: córtex, cortiça; camada exterior distinta de um órgão
+
+Termo: corticosteróide
+Explicação: corticóide; hormonas essenciais à vida formada no córtex das glândulas supra-renais
+
+Termo: claudicação
+Explicação: coxeadura
+
+Termo: estabilização
+Explicação: criação de um estado estável
+
+Termo: epilepsia
+Explicação: crises convulsivas
+
+Termo: vítreo
+Explicação: cristalino
+
+Termo: esputo
+Explicação: cuspo, cuspe, saliva, escarro
+
+Termo: homogéneo
+Explicação: da mesma categoria, da mesma espécie, de estrutura igual; que tem as mesmas funções
+
+Termo: coloidal
+Explicação: da natureza da cola de gelatina
+
+Termo: cutâneo
+Explicação: da pele
+
+Termo: lacrimal
+Explicação: das lágrimas
+
+Termo: idiopático
+Explicação: de causa desconhecida, primário, espontâneo
+
+Termo: crónico
+Explicação: de desenvolvimento lento, de longa duração
+
+Termo: equivalente
+Explicação: de igual valor
+
+Termo: nocturno
+Explicação: de noite, da noite
+
+Termo: benigno
+Explicação: de pouca gravidade
+
+Termo: repetitivo
+Explicação: de repetição
+
+Termo: exócrino
+Explicação: de secreção externa
+
+Termo: monocomponente
+Explicação: de um só componente
+
+Termo: unilateral
+Explicação: de um só lado
+
+Termo: veia varicosa
+Explicação: de varicose, isto é, inflamação provocada por varizes; varicosidade
+
+Termo: ocasional
+Explicação: de vez em quando
+
+Termo: decoro
+Explicação: decência; pundonor; coisa preventiva
+
+Termo: análise
+Explicação: decomposição
+
+Termo: ictiose
+Explicação: defeito hereditário da pele; pele de peixe
+
+Termo: fibrose cística
+Explicação: defeito hereditário de muitas glândulas
+
+Termo: leucopenia
+Explicação: deficiência de glóbulos brancos no sangue
+
+Termo: défice
+Explicação: deficiência, falta
+
+Termo: malformação
+Explicação: deformação
+
+Termo: osteodistrofia
+Explicação: deformação, distrofia, dos ossos
+
+Termo: calcificação
+Explicação: degenerescência calcária, infiltração calcária
+
+Termo: ingestão
+Explicação: deglutição de alimentos ou outras substâncias para o interior do tubo digestivo
+
+Termo: degradação
+Explicação: degradação
+
+Termo: catabolismo
+Explicação: degradação das substâncias alimentares no organismo
+
+Termo: involução
+Explicação: das estruturas envolventes após o parto
+
+Termo: supino
+Explicação: deitado de costas
+
+Termo: decúbito
+Explicação: prolongada na cama
+
+Termo: mania
+Explicação: delírio maníaco, delírio furioso
+
+Termo: paranóia
+Explicação: delírio, loucura raciocinante, monomania
+
+Termo: excessivo
+Explicação: demasiado
+
+Termo: intraindividual
+Explicação: dentro do indivíduo
+
+Termo: dependência
+Explicação: dependência de drogas
+
+Termo: dependente
+Explicação: dependente
+
+Termo: pós-operativo
+Explicação: depois de uma operação
+
+Termo: pós-natal
+Explicação: depois do nascimento
+
+Termo: cálculo
+Explicação: depósito calcário (nos dentes)
+
+Termo: ateromatose
+Explicação: depósito de gorduras nas artérias
+
+Termo: sedimentação
+Explicação: depósito de partículas sólidas de uma solução no fundo de um recipiente
+
+Termo: tofo
+Explicação: depósito nos tecidos, principalmente de ácido úrico e seus sais, característico da gota
+
+Termo: sedimento
+Explicação: depósito, assento, lia, pé, borra(s)
+
+Termo: reservatório
+Explicação: depósito, cavidade que serve de armazém
+
+Termo: derivado
+Explicação: derivado
+
+Termo: microssómico
+Explicação: derivado dos microssomas
+
+Termo: eczema
+Explicação: dermatite; inflamação da pele
+
+Termo: efusão
+Explicação: derrame
+
+Termo: extravasação
+Explicação: derrame do fluido de um vaso para os tecidos circundantes devido a uma lesão
+
+Termo: equimose
+Explicação: derrame sanguíneo na pele traumatizada; contusão
+
+Termo: agitação
+Explicação: desassossego, inquietação, excitação
+
+Termo: pitiríase
+Explicação: descamação da pele
+
+Termo: esfoliação
+Explicação: descamação, escamação
+
+Termo: detecção
+Explicação: descoberta, revelação
+
+Termo: disforia
+Explicação: desconforto psíquico, mal-estar, indisposição
+
+Termo: dissociação
+Explicação: desdobramento; descomposição de uma célula
+
+Termo: tenesmo
+Explicação: desejo doloroso e ineficaz de urinar ou defecar
+
+Termo: líbido
+Explicação: desejo sexual
+
+Termo: de(s)compensação
+Explicação: desengano (do doente da gravidade do seu mal)
+
+Termo: evolução
+Explicação: desenvolvimento
+
+Termo: atraso
+Explicação: desenvolvimento atrasado
+
+Termo: aplasia
+Explicação: desenvolvimento defeituoso
+
+Termo: hirsutismo
+Explicação: desenvolvimento exagerado do sistema piloso
+
+Termo: displasia
+Explicação: desenvolvimento histológico anormal
+
+Termo: prejudicial
+Explicação: desfavorável, adverso
+
+Termo: esfoladela
+Explicação: desgaste, raspagem, erosão de origem químico-física
+
+Termo: erosão
+Explicação: desgaste; destruição ou ulceração de um tecido
+
+Termo: anisocoria
+Explicação: desigualdade do diâmetro das pupilas
+
+Termo: anti-séptico
+Explicação: desinfectante, que mata os micróbios ou fungos
+
+Termo: deslocação
+Explicação: deslocação (de um osso, por exemplo)
+
+Termo: luxação
+Explicação: deslocação dos ossos de uma articulação
+
+Termo: protrusão
+Explicação: deslocação para a frente de um órgão
+
+Termo: desorientação
+Explicação: desorientação
+
+Termo: de(s)polarização
+Explicação: despolarização
+
+Termo: ovulação
+Explicação: desprendimento natural do óvulo
+
+Termo: destilar
+Explicação: destilar, separar (por destilação)
+
+Termo: artrose
+Explicação: destruição das articulações
+
+Termo: fungicida
+Explicação: destruição de fungos
+
+Termo: osteólise
+Explicação: destruição dos ossos
+
+Termo: estrabismo
+Explicação: desvio de um olho da sua direcção normal
+
+Termo: perversão
+Explicação: desvio sexual
+
+Termo: detergente
+Explicação: detergente
+
+Termo: cárie
+Explicação: deterioração dentária
+
+Termo: biopsia
+Explicação: diagnóstico através da remoção de uma porção do tecido vivo para exame
+
+Termo: curva
+Explicação: diagrama
+
+Termo: diâmetro
+Explicação: diâmetro
+
+Termo: hemofilia
+Explicação: dificuldade de coagulação do sangue
+
+Termo: obstipação
+Explicação: dificuldade de expelir os excrementos, prisão de ventre
+
+Termo: dispneia
+Explicação: dificuldade de respirar
+
+Termo: disúria
+Explicação: dificuldade em urinar
+
+Termo: disfagia
+Explicação: dificuldade na deglutição
+
+Termo: discinesia
+Explicação: dificuldade nos movimentos voluntários
+
+Termo: diálise
+Explicação: difusão selectiva mediante uma membrana que serve como filtro molecular
+
+Termo: broncodilatação
+Explicação: dilação dos brônquios
+
+Termo: dilatação pupilar
+Explicação: dilatação das pupilas
+
+Termo: telangiectasia
+Explicação: dilatação de vasos terminais, sobretudo na cara
+
+Termo: vasodilatação
+Explicação: dilatação dos vasos sanguíneos
+
+Termo: bronquectasia
+Explicação: dilatação patológica dos brônquios
+
+Termo: surdez
+Explicação: diminuição da audição
+
+Termo: oliguria
+Explicação: diminuição da produção de urina
+
+Termo: desintoxicação
+Explicação: diminuição das propriedades nocivas de um veneno
+
+Termo: hipoxemie
+Explicação: diminuição de O2 no sangue
+
+Termo: hipoxia
+Explicação: diminuição de O2 no sangue
+
+Termo: hipocalemia
+Explicação: diminuição de potássio no sangue
+
+Termo: isquemia
+Explicação: tecidular ainda reversível
+
+Termo: pacitopenia
+Explicação: diminuição de todos os glóbulos brancos
+
+Termo: oligomenorreia
+Explicação: diminuição do fluxo menstrual
+
+Termo: hipoglicemia
+Explicação: diminuição do nível de glicose no sangue
+
+Termo: trombocitopenia
+Explicação: diminuição do número de plaquetas no sangue
+
+Termo: hipovolemia
+Explicação: diminuição do sangue circulante
+
+Termo: hiperventilação
+Explicação: diminuição do volume de ar que entra nos pulmões; respiração lenta e superficial
+
+Termo: granulopenia
+Explicação: diminuição dos glóbulos brancos
+
+Termo: remissão
+Explicação: diminuição temporal dos sintomas de uma doença
+
+Termo: directo
+Explicação: directo
+
+Termo: anterógrado
+Explicação: dirigido para a frente
+
+Termo: disgenesia
+Explicação: disgenese: desenvolvimento embrionário defeituoso
+
+Termo: difuso
+Explicação: disperso
+
+Termo: disposição
+Explicação: disposição
+
+Termo: alastrar
+Explicação: dispsersão da infecção; alastramento
+
+Termo: solvente
+Explicação: dissolvente
+
+Termo: emulsionar
+Explicação: dissolver uma substância noutra
+
+Termo: proptose
+Explicação: proptoma
+
+Termo: distribuição
+Explicação: distribuição
+
+Termo: mitose
+Explicação: divisão cinética, cariocinese, divisão celular indirecta
+
+Termo: cronotrópico
+Explicação: diz respeito à regularidade e frequência de um ritmo cardíaco
+
+Termo: oportunista
+Explicação: diz-se do microrganismo que produz doenças unicamente em determinadas circunstâncias
+
+Termo: documento
+Explicação: documento
+
+Termo: pênfigo
+Explicação: doença bulhosa da pele
+
+Termo: micose
+Explicação: doença causada por fungos
+
+Termo: dermatose
+Explicação: doença da pele
+
+Termo: psoríase
+Explicação: doença da pele caracterizada por descamação
+
+Termo: dermatomicose
+Explicação: doença da pele causada pelos fungos
+
+Termo: dermatofitia
+Explicação: doença da pele causada pelos fungos do grupo dos dermatófitos
+
+Termo: neurodermatite
+Explicação: doença da pele derivada de causas emocionais
+
+Termo: eritrasma
+Explicação: doença da pele que aparece sobretudo na face interna das coxas, virilhas e axilas
+
+Termo: artropatia
+Explicação: doença das articulações
+
+Termo: raquitismo
+Explicação: doença de Glisson, nodosidade das articulações
+
+Termo: púrpura
+Explicação: hemorragias subcutâneas
+
+Termo: colopatia
+Explicação: doença do cólon
+
+Termo: cor pulmonar
+Explicação: doença do coração causada por perturbações pulmonares
+
+Termo: cardiopatia
+Explicação: doença do coração, enfermidade do coração
+
+Termo: otosclerose
+Explicação: doença do labirinto ósseo do ouvido
+
+Termo: hemopatia
+Explicação: doença do sangue
+
+Termo: pneumopatia
+Explicação: doença dos pulmões
+
+Termo: toxoplasmose
+Explicação: doença infecciosa causada por Toxoplasma gondi
+
+Termo: tracoma
+Explicação: doença infecciosa da conjuntiva e da córnea do olho
+
+Termo: disenteria
+Explicação: doença intestinal que causa a diarreia
+
+Termo: iatorgénico
+Explicação: doença provocada pelos médicos ou pelo tratamento
+
+Termo: encefalopatia
+Explicação: doença que afecta o funcionamento do cérebro
+
+Termo: leucemia
+Explicação: glóbulos brancos em circulação
+
+Termo: nefropatia
+Explicação: doença renal
+
+Termo: glumerolonefrite
+Explicação: doença renal com inflamação dos glomérulos
+
+Termo: varicela
+Explicação: doença viral; bexigas loucas
+
+Termo: paciente
+Explicação: doente
+
+Termo: cefaleia
+Explicação: dor de cabeça, enxaqueca
+
+Termo: gastralgia
+Explicação: dor do estômago, gastrodinia, cardialgia
+
+Termo: coxalgia
+Explicação: dor na articulação da coxa
+
+Termo: epigastralgia
+Explicação: dor na boca do estômago
+
+Termo: glossodinia
+Explicação: dor na língua
+
+Termo: lumbago
+Explicação: dor na parte inferior da coluna vertebral
+
+Termo: artralgia
+Explicação: dor nas articulações
+
+Termo: mastodinia
+Explicação: dor nos peitos
+
+Termo: overdosagem
+Explicação: dosagem excessiva
+
+Termo: dose
+Explicação: dose
+
+Termo: overdose
+Explicação: dose excessiva
+
+Termo: dose de ataque
+Explicação: dose inicial
+
+Termo: dose única
+Explicação: dose única
+
+Termo: dose-padrão
+Explicação: dose-padrão
+
+Termo: dosagem
+Explicação: dose, doseamento, dosificação
+
+Termo: analéptico
+Explicação: droga estimulante do sistema nervoso
+
+Termo: midriático
+Explicação: droga que dilata a pupila
+
+Termo: ecografia
+Explicação: ecografia
+
+Termo: efeito de ressonância
+Explicação: efeito de ressonância
+
+Termo: taquifilaxia
+Explicação: efeito decrescente de um medicamento
+
+Termo: toxicidade
+Explicação: efeito nocivo de uma substância química
+
+Termo: tremulação
+Explicação: efeito ondulatório, flutuação
+
+Termo: efeito
+Explicação: efeito secundário indesejado de uma medida terapêutica ou medicamento
+
+Termo: efectivo
+Explicação: eficaz, eficiente
+
+Termo: eficaz
+Explicação: eficiente
+
+Termo: ejaculação
+Explicação: ejaculação
+
+Termo: biossíntese
+Explicação: elaboração de um produto por um organismo vivo
+
+Termo: elástico
+Explicação: elástico
+
+Termo: polipeptídeo
+Explicação: peptídicas
+
+Termo: depuração
+Explicação: eliminação de certas substâncias do sangue
+
+Termo: poliúria
+Explicação: eliminação de grandes quantidades de urina por dia
+
+Termo: galactorreia
+Explicação: eliminação espontânea do leite
+
+Termo: excreção
+Explicação: eliminação prlo próprio organismo; eliminação de um medicamento sem substituição
+
+Termo: eliminação
+Explicação: eliminação; remoção
+
+Termo: comatoso
+Explicação: em coma, que se acompanha de coma
+
+Termo: discóide
+Explicação: em forma de disco
+
+Termo: papilar
+Explicação: em forma de papila ou verruga
+
+Termo: sigmóide
+Explicação: em forma de sigma, da letra S
+
+Termo: vesicular
+Explicação: em forma de vesícula, vesiculado
+
+Termo: in vitro
+Explicação: em laboratório
+
+Termo: quiescente
+Explicação: em repouso
+
+Termo: inactivo
+Explicação: em repouso, anérgico
+
+Termo: perianal
+Explicação: em volta do ânus
+
+Termo: embolismo
+Explicação: embolia
+
+Termo: letargia
+Explicação: embriaguez, sonolência
+
+Termo: diarreia
+Explicação: emissão frequente de fezes líquidas
+
+Termo: emocional
+Explicação: emocional
+
+Termo: maceração
+Explicação: extracção a frio
+
+Termo: emulsão
+Explicação: emulsão
+
+Termo: induração
+Explicação: endurecimento anormal de um tecido
+
+Termo: liquenificação
+Explicação: endurecimento da pele
+
+Termo: esclerose
+Explicação: endurecimento ou dureza
+
+Termo: ambliopia
+Explicação: enfraquecimento da vista
+
+Termo: aerofagia
+Explicação: engolir ar
+
+Termo: prova
+Explicação: ensaio, experiência, análise
+
+Termo: inteligência
+Explicação: entendimento, intelecto, mente
+
+Termo: glote
+Explicação: entrada da faringe para a via aérea principal
+
+Termo: intercostal
+Explicação: entre as costelas
+
+Termo: intervertebral
+Explicação: entre as vértebras
+
+Termo: intersticial
+Explicação: entre duas partes, isto é, no tecido conjuntivo
+
+Termo: interindividual
+Explicação: entre indivíduos
+
+Termo: obstrução
+Explicação: entupimento
+
+Termo: intoxicação
+Explicação: envenenamento
+
+Termo: renina
+Explicação: enzima (hormona) produzida pelos rins
+
+Termo: enzima
+Explicação: enzima
+
+Termo: penicilinase
+Explicação: enzima encontrada nos organismos penicilino-resistentes
+
+Termo: protéase
+Explicação: enzima proteolítica, enzina que destrói as proteínas
+
+Termo: transaminase
+Explicação: enzimas hepáticas (do fígado)
+
+Termo: epidemia
+Explicação: epidemia
+
+Termo: grande mal
+Explicação: epilepsia generalizada
+
+Termo: episódio
+Explicação: episódio
+
+Termo: discrasia
+Explicação: equilíbrio defeituoso dos quatro humores; composição alterada do líquido corporal
+
+Termo: priapismo
+Explicação: erecção anormal e persistente
+
+Termo: urticária
+Explicação: erupção cutânea caracterizada pelo aparecimento de manchas vermelhas e prurido intenso
+
+Termo: enantema
+Explicação: erupção nas mucosas
+
+Termo: exantema
+Explicação: erupção vermelha da pele
+
+Termo: esfoliação
+Explicação: escamação, descamação
+
+Termo: hemoptise
+Explicação: escarros de sangue, hemorragia pulmonar
+
+Termo: numular
+Explicação: escarros em forma de moeda nas tuberculoses pulmonares
+
+Termo: despigmentação
+Explicação: escassez ou carência total de pigmentação da pele
+
+Termo: arteriosclerose
+Explicação: esclerose das artérias
+
+Termo: drenagem
+Explicação: escoamento, despejo
+
+Termo: oculto
+Explicação: escondido, secrecto
+
+Termo: estruma(s)
+Explicação: escrófula(s), bócio, engrossamento dos tiróides
+
+Termo: pertosse
+Explicação: esgana, coqueluche, tosse convuls(iv)a
+
+Termo: espasmo
+Explicação: espasmo
+
+Termo: bronco-espasmo
+Explicação: espasmo dos brônquios, asma
+
+Termo: trismo
+Explicação: espasmo dos músculos mandibulares; tétano
+
+Termo: contratura
+Explicação: espasmo, contracção persistente e involuntária de um ou mais
+
+Termo: espástico
+Explicação: espasmódico, convulsivo
+
+Termo: espasmódico
+Explicação: espástico, convulsivo
+
+Termo: espécie
+Explicação: espécie; preparação terapêutica, mistura de ervas
+
+Termo: amnésia
+Explicação: esquecimento, perda de memória
+
+Termo: estabilidade
+Explicação: estabilidade
+
+Termo: preeclampsia
+Explicação: estado antenatal que precede as convulsões eclâmpticas
+
+Termo: tetania
+Explicação: estado caracterizado por cãibras e convulsões musculares
+
+Termo: vigilância
+Explicação: estado de alerta ou observação
+
+Termo: homeostase
+Explicação: estado de equilíbrio orgânico
+
+Termo: imaturidade
+Explicação: estado de quem não alcançou o seu pleno desenvolvimento
+
+Termo: pirexia
+Explicação: estado febril
+
+Termo: condição
+Explicação: estado geral, capacidade física de um indivíduo
+
+Termo: hemostasia
+Explicação: estancamento do sangue
+
+Termo: estase
+Explicação: estancamento do sangue ou de qualquer outro líquido orgânico
+
+Termo: normalização
+Explicação: estandardização, padronização, unificação
+
+Termo: hermético
+Explicação: estanque (ao ar), impermeável (ao ar)
+
+Termo: estatístico
+Explicação: estatístico
+
+Termo: assepsia
+Explicação: esterilização, ausência de micróbios
+
+Termo: asséptico
+Explicação: esterilizado, sem germes
+
+Termo: hiperestimulação
+Explicação: estimulação excessiva
+
+Termo: activar
+Explicação: estimular ou acelerar, reactivar
+
+Termo: irritação
+Explicação: estímulo, estimulação, excitação
+
+Termo: distensão
+Explicação: estiramento excessivo de um músculo
+
+Termo: estenose
+Explicação: estreitamento de um conduto, aperto, constrição
+
+Termo: vasoconstrição
+Explicação: estreitamento dos vasos sanguíneos; angiostenose
+
+Termo: estrutural
+Explicação: estrutural
+
+Termo: etiologia
+Explicação: estudo da origem de uma doença
+
+Termo: antibiograma
+Explicação: estudo da sensibilidade de um micróbio a vários antibióticos
+
+Termo: otorrinolaringologia
+Explicação: estudo das doenças do ouvido, nariz e garganta
+
+Termo: observação
+Explicação: estudo de um fenómeno
+
+Termo: farmacodinâmica
+Explicação: estudo do efeito de um medicamento sobre o organismo
+
+Termo: paracentese
+Explicação: esvaziamento por punção
+
+Termo: evacuação
+Explicação: evacuação
+
+Termo: defecação
+Explicação: evacuação dos excrementos
+
+Termo: passagem
+Explicação: evacuação intestinal
+
+Termo: erupção
+Explicação: evacuação súbita de sangue, pus, etc.
+
+Termo: antioxidante
+Explicação: evita a deterioração de um produto por oxidação
+
+Termo: gonioscopia
+Explicação: exame do ângulo da câmara interna do olho
+
+Termo: cistoscopia
+Explicação: exame do interior da bexiga com o cistoscópio
+
+Termo: electrocardiografia
+Explicação: exame e inscrição em registo dos movimentos cardíacos
+
+Termo: endoscopia
+Explicação: exame interno por via directa com o endoscópio
+
+Termo: hiperuricemia
+Explicação: excesso de ácido úrico no sangue
+
+Termo: ceto-acidose
+Explicação: excesso de ácidos e corpos cetónicos no sangue
+
+Termo: hipercenesia
+Explicação: excesso de actividade motriz
+
+Termo: menorragia
+Explicação: excesso de fluxo de sangue na menstruação
+
+Termo: hiperglicemia
+Explicação: excesso de glicose no sangue
+
+Termo: esteatorreia
+Explicação: excesso de gordura nas fezes; estearreia, seborreia
+
+Termo: papiloedema
+Explicação: excesso de líquido nos tecidos (edema) do disco óptico, da papila
+
+Termo: edema
+Explicação: excesso de líquido nos tecidos sob a pele; inchaço
+
+Termo: obesidade
+Explicação: excesso de peso corporal por acumulação de gordura
+
+Termo: hipercalemia
+Explicação: excesso de potássio no sangue
+
+Termo: hiperemia
+Explicação: excesso de sangue nos vasos de órgão
+
+Termo: congestão
+Explicação: excesso de sangue numa parte do organismo
+
+Termo: hipervitaminose
+Explicação: excesso de vitaminas no organismo
+
+Termo: estimulante
+Explicação: excitante
+
+Termo: natriurese
+Explicação: excreção de quantidades anormais de sódio na urina
+
+Termo: seborreia
+Explicação: excreção excessiva de substâncias gordas
+
+Termo: condiloma
+Explicação: excrescência similar à verruga
+
+Termo: potencial
+Explicação: existente mas não activo
+
+Termo: dilatação
+Explicação: expansão de um órgão; alargamento
+
+Termo: ensaio
+Explicação: experiência, análise
+
+Termo: expiração
+Explicação: expiração
+
+Termo: mímica
+Explicação: expressão de ideias ou pensamentos por meio de gestos
+
+Termo: hiperidrose
+Explicação: exsudação excessiva
+
+Termo: manifestação
+Explicação: exteriorização de uma doença
+
+Termo: externo
+Explicação: externo, estranho
+
+Termo: microscópico
+Explicação: extremamente pequeno
+
+Termo: produção
+Explicação: fabricação, geração
+
+Termo: factor de risco
+Explicação: factor de risco
+
+Termo: motilidade
+Explicação: faculdade de se mover espontaneamente
+
+Termo: arritmia
+Explicação: falata de ritmo regular, pulsação irregular
+
+Termo: pseudo-tumor
+Explicação: falso tumor
+
+Termo: anergia
+Explicação: falta de acção, inactividade
+
+Termo: desidratação
+Explicação: falta de água no corpo
+
+Termo: anosmia
+Explicação: falta de cheiro
+
+Termo: instabilidade
+Explicação: falta de equilíbrio
+
+Termo: miastenia
+Explicação: falta de força, fraqueza muscular
+
+Termo: anoxia
+Explicação: falta de oxigénio no organismo por respiração deficiente
+
+Termo: anemia
+Explicação: falta de sangue
+
+Termo: insónia
+Explicação: falta de sono, insonolência
+
+Termo: privação
+Explicação: falta ou carência
+
+Termo: agalactia
+Explicação: falta ou diminuição da secreção do leite
+
+Termo: psicoléptico
+Explicação: fármaco com efeito sedente
+
+Termo: antiácido
+Explicação: fármaco com o excesso de acidez do estômago
+
+Termo: antiácido
+Explicação: fármaco com o excesso de acidez do estômago
+
+Termo: bio-equivalente
+Explicação: fármaco com potência e efeito similares a outra
+
+Termo: antibiótico
+Explicação: fármaco para tratar infecções
+
+Termo: anticoagulante
+Explicação: fármaco que impede a coagulação do sangue
+
+Termo: reconvalescença
+Explicação: fase de recuperação
+
+Termo: hiperpirexia
+Explicação: febre elevada
+
+Termo: concepção
+Explicação: fecundação
+
+Termo: impregnação
+Explicação: fecundação do óvulo;
+
+Termo: ligamento
+Explicação: feixe fibroso entre dos ossos numa articulação
+
+Termo: fissura
+Explicação: fenda
+
+Termo: laceração
+Explicação: ferida irregular
+
+Termo: contusão
+Explicação: ferida; lesão interna por golpe, compressão ou choque
+
+Termo: fertilidade
+Explicação: fertilidade
+
+Termo: embrião
+Explicação: feto
+
+Termo: melena
+Explicação: fezes negras pela presença de sangue
+
+Termo: validez
+Explicação: fiabilidade de um processo de prova
+
+Termo: fibrina
+Explicação: fibrina
+
+Termo: hemodiálise
+Explicação: filtragem da circulação do sangue
+
+Termo: filtração
+Explicação: filtragem, filtramento
+
+Termo: terminal
+Explicação: final, último
+
+Termo: fixação
+Explicação: outra pessoa
+
+Termo: angiite
+Explicação: flebite, inflamação de uma veia
+
+Termo: flexão
+Explicação: flexão
+
+Termo: humor
+Explicação: fluido corporal
+
+Termo: corrimento
+Explicação: flúor branco
+
+Termo: variação
+Explicação: flutuação, oscilação; alteração, mudança, modificação das propriedades
+
+Termo: refluxo
+Explicação: fluxo de retorno
+
+Termo: microcirculação
+Explicação: fluxo de sangue em todo o sistema de vasos minúsculos
+
+Termo: extracelular
+Explicação: fora das células
+
+Termo: periférico
+Explicação: fora do centro, fora do sistema nervoso central
+
+Termo: extracorporal
+Explicação: fora do corpo
+
+Termo: microvilosidade
+Explicação: forma de velosidade à superfície de uma célula
+
+Termo: coagulação
+Explicação: formação de coágulos no sangue
+
+Termo: cristalização
+Explicação: formação de cristais
+
+Termo: cristalúria
+Explicação: formação de cristais na urina
+
+Termo: eritropoiese
+Explicação: formação de glóbulos vermelhos
+
+Termo: lactação
+Explicação: formação de leite
+
+Termo: supuração
+Explicação: formação de pus
+
+Termo: ossificação
+Explicação: formação do osso ou de substância óssea
+
+Termo: diurese
+Explicação: formação e excreção de urina
+
+Termo: (d)escamação
+Explicação: formação excessiva de escamas na pele
+
+Termo: anemia aplástica
+Explicação: formação insuficiente das células do sangue
+
+Termo: micrografia
+Explicação: fotografia como através do microscópio; análise com o microscópio
+
+Termo: fracção de ejecção
+Explicação: fracção de ejecção
+
+Termo: fractura
+Explicação: fractura, rotura, quebra
+
+Termo: sequestro
+Explicação: fragmento de tecido morto separado do tecido são
+
+Termo: lassitude
+Explicação: fraqueza, cansaço
+
+Termo: astenia
+Explicação: fraqueza, cansaço físico intenso
+
+Termo: 'blister'
+Explicação: frasco de X comprimidos recobertos de plástico
+
+Termo: flácido
+Explicação: frouxo, mole, languido
+
+Termo: pediculose
+Explicação: ftiríase, doença pedicular, infestação por piolhos
+
+Termo: função
+Explicação: função
+
+Termo: insuficiência
+Explicação: função inadequada de um órgão ou sistema
+
+Termo: fundamental
+Explicação: fundamental
+
+Termo: fungo
+Explicação: fungo, tumor em forma de fungo
+
+Termo: disartria
+Explicação: gaguez
+
+Termo: doença de Raynaud
+Explicação: gangrena simétrica das extremidades
+
+Termo: difteria
+Explicação: garrotilho
+
+Termo: flatulência
+Explicação: gases no estômago ou no intestino, ventosidade, aerenterectasia
+
+Termo: microspório
+Explicação: género de fungos ascomicetes, parasitas no homem
+
+Termo: procriação
+Explicação: geração, reprodução, propagação
+
+Termo: ginecológico
+Explicação: ginecológico
+
+Termo: glicose
+Explicação: glicose
+
+Termo: glicósido
+Explicação: glicósido
+
+Termo: leucócito
+Explicação: glóbulo branco
+
+Termo: lípido
+Explicação: gordura ou substância idêntica
+
+Termo: gradual
+Explicação: gradual
+
+Termo: hiperalgesia
+Explicação: grande sensibilidade à dor
+
+Termo: maciço
+Explicação: grande, amplo
+
+Termo: gangrena
+Explicação: grangrena, esfacelo
+
+Termo: viscosidade
+Explicação: grau de fluidez das substâncias em estado líquido ou gasoso
+
+Termo: intensidade
+Explicação: grau de força ou tensão
+
+Termo: concentração
+Explicação: grau, riqueza
+
+Termo: gestação
+Explicação: gravidez
+
+Termo: gravidez
+Explicação: gravidez
+
+Termo: influenza
+Explicação: gripe violenta e epidémica
+
+Termo: citocrómio
+Explicação: grupo de opostos aparentados com a hemoglobina do sangue
+
+Termo: hemólise
+Explicação: hematólise, globulólise, desintegração das células sanguíneas
+
+Termo: epistaxe
+Explicação: hemorragia nasal
+
+Termo: hematoma
+Explicação: hemorragia para dentro dos tecidos
+
+Termo: metrorragia
+Explicação: hemorragia sanguínea uterina não menstrual
+
+Termo: hereditariedade
+Explicação: hereditariedade
+
+Termo: hidratação
+Explicação: hidratação
+
+Termo: carboidrato
+Explicação: hidrato de carbono
+
+Termo: hidroxilação
+Explicação: hidroxilação
+
+Termo: higiénico
+Explicação: higiénico
+
+Termo: alergia
+Explicação: hipersensibilidade
+
+Termo: hiperostose
+Explicação: hipertrofia de um osso
+
+Termo: esplenomegalia
+Explicação: hipertrofia do baço, aumento de tamanho ou volume do baço
+
+Termo: prostatismo
+Explicação: hipertrofia e obstrução da próstata
+
+Termo: miopia
+Explicação: hipometropia, visão curta, vista-curta
+
+Termo: mineralocorticóide
+Explicação: hormonas mineralocorticosteróides
+
+Termo: ACTH
+Explicação: hormônio adreno-córticotrófico, corticotrofina
+
+Termo: somatrotopina
+Explicação: hormônio do crescimento
+
+Termo: progestogeno
+Explicação: hormônio que prepara o útero para a recepção e desenvolvimento do óvulo fecundado
+
+Termo: icterícia
+Explicação: icterícia
+
+Termo: obsessão
+Explicação: ideia fixa
+
+Termo: diagnóstico
+Explicação: identificação ou reconhecimento das doenças
+
+Termo: homólogo
+Explicação: igual
+
+Termo: distorção
+Explicação: imagem deformada, torção
+
+Termo: fungistático
+Explicação: impede a multiplicação de fungos
+
+Termo: nidação
+Explicação: implantação do óvulo na cavidade uterina
+
+Termo: inserção
+Explicação: implantação; ponto de união entre um músculo e um osso
+
+Termo: implicação
+Explicação: implicação
+
+Termo: relevante
+Explicação: importante
+
+Termo: inércia
+Explicação: inactividade, incapacidade de se mover espontaneamente
+
+Termo: inorgânico
+Explicação: inanimado, sem vida
+
+Termo: anorexia
+Explicação: inapetência, falta de apetite
+
+Termo: inerente
+Explicação: inato, implantado naturalmente
+
+Termo: incompetência
+Explicação: incapacidade
+
+Termo: esterilidade
+Explicação: incapacidade de fecundar ou conceber
+
+Termo: impotência
+Explicação: incapacidade de realização do coito; falta de virilidade; anandria, assinodia
+
+Termo: intolerância
+Explicação: incapacidade de suportar um medicamento
+
+Termo: acatisia
+Explicação: incapacidade em permanecer sentado
+
+Termo: incarceração
+Explicação: incarceração
+
+Termo: angioedema
+Explicação: inchaço sem inflamação
+
+Termo: incidência
+Explicação: incidência
+
+Termo: incidental
+Explicação: incidental
+
+Termo: tendência
+Explicação: inclinação, propensão
+
+Termo: inclusivo
+Explicação: incluso
+
+Termo: nictúria
+Explicação: incontinência das urinas durante a noite
+
+Termo: mineralização
+Explicação: incorporação de substâncias minerais por meio de tecidos do organismo
+
+Termo: fagocitose
+Explicação: incorporação e digestão de partículas no interior de uma célula
+
+Termo: investigação
+Explicação: indagação, pesquisa
+
+Termo: autónomo
+Explicação: independente, fora do controlo consciente
+
+Termo: instrução
+Explicação: indicações
+
+Termo: indicativo
+Explicação: indicativo
+
+Termo: apatia
+Explicação: indiferença, aversão
+
+Termo: individual
+Explicação: individual
+
+Termo: angioneurótico
+Explicação: indivíduo com eretismo do aparelho vascular e vasomotor, de origem nervosa
+
+Termo: teratogénico
+Explicação: indutor de malformações fetais
+
+Termo: agranulocitose
+Explicação: inexistência de glóbulos no sangue, doença de Pfeiffer
+
+Termo: infecção
+Explicação: infecção
+
+Termo: gonorreia
+Explicação: esquentamento
+
+Termo: pioderma
+Explicação: infecção da pele
+
+Termo: impetigo
+Explicação: infecção das camadas exteriores da pele; impetigem
+
+Termo: iridociclite
+Explicação: infecção de um dos anexos da vista
+
+Termo: osteomielite
+Explicação: infecção dos ossos
+
+Termo: erisipela
+Explicação: infecção grave e contagiosa da pele por estreptococos
+
+Termo: intertrigo
+Explicação: infecção na pele das dobras
+
+Termo: candidíase
+Explicação: infecção por fungo do género Candida
+
+Termo: piogénico
+Explicação: infeccioso, que produz pus
+
+Termo: infiltração
+Explicação: infiltração
+
+Termo: invalidar
+Explicação: infirmar
+
+Termo: inflamação
+Explicação: inflamação
+
+Termo: pielonefrite
+Explicação: inflamação conjunta do rim e da pélvis renal
+
+Termo: celulite
+Explicação: inflamação crónica do tecido celular
+
+Termo: mastoidite
+Explicação: inflamação da apófise mastóide no ouvido
+
+Termo: cistite
+Explicação: inflamação da bexiga
+
+Termo: conjuntivite
+Explicação: inflamação da conjuntiva
+
+Termo: ceratite
+Explicação: inflamação da córnea
+
+Termo: ceratoconjuntivite
+Explicação: inflamação da córnea e da conjuntiva do olho
+
+Termo: peritonite
+Explicação: inflamação da envoltura do abdominal
+
+Termo: pericardite
+Explicação: inflamação da envoltura do coração
+
+Termo: faringite
+Explicação: inflamação da garganta
+
+Termo: balanite
+Explicação: inflamação da glande do pénis
+
+Termo: parotidite
+Explicação: inflamação da glândula salivar; papeira
+
+Termo: paniculite
+Explicação: inflamação da gordura abdominal
+
+Termo: irite
+Explicação: inflamação da íris
+
+Termo: laringite
+Explicação: inflamação da laringe
+
+Termo: glossite
+Explicação: inflamação da língua
+
+Termo: endocardite
+Explicação: inflamação da membrana de revestimento interno do coração
+
+Termo: catarro
+Explicação: inflamação da membrana mucosa do nariz
+
+Termo: estomatite
+Explicação: inflamação da mucosa da boca
+
+Termo: dermatite
+Explicação: inflamação da pele
+
+Termo: pielite
+Explicação: inflamação da pélvis renal
+
+Termo: prostatite
+Explicação: inflamação da próstata
+
+Termo: traqueíte
+Explicação: inflamação da traqueia
+
+Termo: salpingite
+Explicação: inflamação da trompa uterina, da trompa auditiva
+
+Termo: uretrite
+Explicação: inflamação da uretra
+
+Termo: uveíte
+Explicação: inflamação da úvea
+
+Termo: colecistite
+Explicação: inflamação da vesícula biliar
+
+Termo: artrite
+Explicação: inflamação das articulações
+
+Termo: meningite
+Explicação: inflamação das meninges
+
+Termo: blefarite
+Explicação: inflamação das pálpebras
+
+Termo: flebite
+Explicação: inflamação das paredes de uma veia
+
+Termo: espondilite
+Explicação: inflamação das vértebras
+
+Termo: colangite
+Explicação: inflamação das vias biliares
+
+Termo: foliculite
+Explicação: inflamação de um ou mais folículos pilosos
+
+Termo: tendinite
+Explicação: inflamação de um tendão
+
+Termo: tenossinovite
+Explicação: inflamação de um tendão e da sua veia; tecite
+
+Termo: orquite
+Explicação: inflamação de um testículo
+
+Termo: bursite
+Explicação: inflamação de uma bolsa
+
+Termo: sinusite
+Explicação: inflamação de uma bolsa ou cavidade, especialmente dos ossos do crânio
+
+Termo: sinovite
+Explicação: inflamação de uma membrana sinovial
+
+Termo: tromboflebite
+Explicação: inflamação de uma veia com obstrução por um coágulo sanguíneo
+
+Termo: fleimão
+Explicação: inflamação difusa
+
+Termo: encefalite
+Explicação: inflamação do cérebro
+
+Termo: paroníquia
+Explicação: inflamação do dedo perto da unha; panarício
+
+Termo: epicondilite
+Explicação: inflamação do epicôndilo (tuberosidade exterior do útero)
+
+Termo: esofagite
+Explicação: inflamação do esófago
+
+Termo: gastrenterite
+Explicação: inflamação do estômago e do intestino delgado
+
+Termo: hepatite
+Explicação: inflamação do fígado
+
+Termo: ileite
+Explicação: inflamação do íleo (última parte do intestino delgado), doença de Crohen
+
+Termo: colite
+Explicação: inflamação do intestino grosso, catarro intestinal, enterite
+
+Termo: miocardite
+Explicação: inflamação do miocárdio
+
+Termo: rinite
+Explicação: inflamação do nariz, nasite, defluxo, constipação (nasal), catarro nasal
+
+Termo: pancreatite
+Explicação: inflamação do pâncreas
+
+Termo: proctite
+Explicação: inflamação do recto
+
+Termo: nefrite
+Explicação: inflamação do rim
+
+Termo: bronquite
+Explicação: inflamação dos brônquios
+
+Termo: enterocolite
+Explicação: inflamação dos intestinos delgado e grosso
+
+Termo: vulvovaginite
+Explicação: inflamação dos órgãos genitais externos femininos, incluindo a vagina
+
+Termo: vasculite
+Explicação: inflamação dos pequenos vasos sanguíneos
+
+Termo: periartrite
+Explicação: inflamação dos tecidos que rodeiam uma articulação
+
+Termo: otite
+Explicação: inflamação no ouvido
+
+Termo: poliartrite
+Explicação: inflamação simultânea de várias articulações
+
+Termo: gengivite
+Explicação: inflamação superficial da gengivas
+
+Termo: anexite
+Explicação: inflamações dos ovários e da trompa
+
+Termo: inotrópico
+Explicação: influencia a actividade do coração
+
+Termo: infundir
+Explicação: infundir
+
+Termo: infusão
+Explicação: infusão
+
+Termo: componente
+Explicação: ingrediente
+
+Termo: mielossupressão
+Explicação: inibição da actividade da medula
+
+Termo: pacemaker
+Explicação: iniciador do ritmo do coração; regulador cardíaco
+
+Termo: inicial
+Explicação: inicial
+
+Termo: injecção
+Explicação: injecção
+
+Termo: injecção bolus
+Explicação: injecção rápida
+
+Termo: contaminação
+Explicação: inquinamento, poluição
+
+Termo: anestesia
+Explicação: insensibilidade à dor
+
+Termo: frigidez
+Explicação: insensibilidade sexual, anafrodisia
+
+Termo: inspiração
+Explicação: inspiração
+
+Termo: lábil
+Explicação: instável, facilmente alterável
+
+Termo: pessário
+Explicação: instrumento que se coloca na vagina como dispositivo contraceptivo; supositório vaginal
+
+Termo: neutropenia
+Explicação: insuficiência de glóbulos brancos
+
+Termo: intacto
+Explicação: intacto
+
+Termo: interno
+Explicação: interior
+
+Termo: intermediário
+Explicação: intermediário
+
+Termo: hospitalização
+Explicação: internar num hospital
+
+Termo: interpretação
+Explicação: interpretação
+
+Termo: intervalo
+Explicação: interstício, espaço; entremeio
+
+Termo: intrínseco
+Explicação: intimamente relacionado com uma porção
+
+Termo: salicismo
+Explicação: intoxicação com aspirina
+
+Termo: ergotismo
+Explicação: intoxicação crónica pelo uso alimentar do centeio atacado de cravagem
+
+Termo: septicémia
+Explicação: intoxicação do sangue por microrganismos
+
+Termo: toxemia
+Explicação: intoxicação do sangue; toxinemia
+
+Termo: intubação
+Explicação: introdução de um tubo num órgão oco
+
+Termo: cateterismo
+Explicação: introdução de uma sonda numa cavidade
+
+Termo: ionograma
+Explicação: ionograma
+
+Termo: atípico
+Explicação: irregular, anormal
+
+Termo: anomalia
+Explicação: irregularidade
+
+Termo: excitação
+Explicação: irritação, estímulo, estimulação
+
+Termo: isolar
+Explicação: isolar
+
+Termo: abstinência
+Explicação: jejum
+
+Termo: adolescente
+Explicação: jovem
+
+Termo: lateral
+Explicação: lateral
+
+Termo: irrigação
+Explicação: lavagem com eliminação do líquido utilizado
+
+Termo: bradicinesia
+Explicação: lentidão dos movimentos
+
+Termo: alveolite
+Explicação: lesão dos alvéolos pulmonares
+
+Termo: retinopatia
+Explicação: lesão patológica que afecta a retina
+
+Termo: fatal
+Explicação: letal, letífero, mortífero
+
+Termo: linear
+Explicação: linear
+
+Termo: liposoma
+Explicação: liposoma
+
+Termo: exsudado
+Explicação: líquido que aparece numa superfície inflamada
+
+Termo: estria
+Explicação: lista, raia; fibras nervosas cerebrais
+
+Termo: lobo
+Explicação: lóbulo
+
+Termo: tópico
+Explicação: local
+
+Termo: loco-regional
+Explicação: local e regional
+
+Termo: locomotor
+Explicação: locomotor
+
+Termo: capacidade
+Explicação: lotação, potência
+
+Termo: dispepsia
+Explicação: má digestão
+
+Termo: hipertrofia
+Explicação: maior crescimento de um tecido por aumento, sem multiplicação, das suas células
+
+Termo: indisposição
+Explicação: mal-estar
+
+Termo: mastite
+Explicação: mamite, inflamação dos peitos
+
+Termo: cloasma
+Explicação: manchas irregulares que aparecem geralmente na cara
+
+Termo: hipomania
+Explicação: mania ligeira
+
+Termo: fenómeno
+Explicação: manifestação, sinal, sintoma
+
+Termo: mecanismo
+Explicação: maquinismo, órgão, artifício, dispositivo
+
+Termo: virilização
+Explicação: masculinização
+
+Termo: tálamo
+Explicação: massa importante de núcleos cinzentos
+
+Termo: massagem
+Explicação: massagem
+
+Termo: substância
+Explicação: matéria
+
+Termo: pigmentação
+Explicação: matéria orgânica corante da pele
+
+Termo: fezes
+Explicação: matérias fecais, excrementos
+
+Termo: útero
+Explicação: matriz
+
+Termo: pernicioso
+Explicação: mau, grave, maligno
+
+Termo: máximo (adj)
+Explicação: máximo
+
+Termo: máximo (subst)
+Explicação: máximo, limite superior
+
+Termo: mediar
+Explicação: mediar, interpor
+
+Termo: médico
+Explicação: medical, medicinal
+
+Termo: medicinal
+Explicação: medical, médico; que tem qualidades curativas
+
+Termo: medicação
+Explicação: medicamentação; aplicação de medicamentos
+
+Termo: fármaco
+Explicação: medicamento
+
+Termo: antifúngico
+Explicação: medicamento com os cogumelos ou leveduras parasitas no homem
+
+Termo: antiepiléptico
+Explicação: medicamento contra a epilepsia
+
+Termo: placebo
+Explicação: medicamento destinado mais a agradar do que a beneficiar o
+
+Termo: colírio
+Explicação: medicamento para cuidar dos olhos
+
+Termo: antiarrítmico
+Explicação: medicamento para tratamento da irregularidade da pulsação cardíaca
+
+Termo: laxativo
+Explicação: medicamento purgante
+
+Termo: quimioterápico
+Explicação: medicamento que ataca os micróbios parasitas ou as células de um cancro
+
+Termo: opiato
+Explicação: medicamento que contém ópio (droga)
+
+Termo: alcalina
+Explicação: medicamento que contém um álcali
+
+Termo: tuberculostático
+Explicação: medicamento que inibe o crescimento do bacilo da tuberculose
+
+Termo: espasmolítico
+Explicação: medicamento que serve para resolver os espasmos
+
+Termo: tranquilizante
+Explicação: medicamento que serve para tranquilizar; calmante
+
+Termo: profilaxia
+Explicação: medicina preventiva
+
+Termo: bio-disponibilidade
+Explicação: medida de actividade de um medicamento ingerido
+
+Termo: prevenção
+Explicação: medidas destinadas a evitar doenças ou acidentes
+
+Termo: mediano
+Explicação: médio
+
+Termo: fobia
+Explicação: medo despropositado persistente
+
+Termo: megaloblástico
+Explicação: megaloblástico
+
+Termo: megacolo
+Explicação: megalócon, cólon anormalmente dilatado, doença de Hirschsprung
+
+Termo: meio de contraste
+Explicação: meio para visualização radiográfica
+
+Termo: membrana
+Explicação: membrana
+
+Termo: membrana celular
+Explicação: membrana de uma célula
+
+Termo: tímpano
+Explicação: membrana ou cavidade do ouvido médio
+
+Termo: dura-máter
+Explicação: membrana que envolve o sistema nervoso central
+
+Termo: pénis
+Explicação: membro viril, falo, pene, verga
+
+Termo: extremidade
+Explicação: membros superior e inferior
+
+Termo: psíquico
+Explicação: mental
+
+Termo: indução
+Explicação: método de aplicação de uma anestesia geral; provocação de um processo
+
+Termo: procedimento
+Explicação: método, processo
+
+Termo: micobactéria
+Explicação: micobactéria
+
+Termo: microrganismo
+Explicação: micróbio
+
+Termo: saprófito
+Explicação: não causa doenças
+
+Termo: metastase
+Explicação: migração de doença, aparecimento de um cancro à distância
+
+Termo: miosite
+Explicação: miíte, inflamação de um músculo voluntário
+
+Termo: mínimo (adj)
+Explicação: mínimo, ínfimo
+
+Termo: mínimo (subst)
+Explicação: mínimo, limite inferior
+
+Termo: mialgia
+Explicação: miodinia, dor muscular
+
+Termo: açúcar invertido
+Explicação: mistura de glicose e frutose
+
+Termo: fontanela
+Explicação: molarinha do recém-nascido
+
+Termo: hipotonia
+Explicação: moleza
+
+Termo: mononucleose
+Explicação: mononucleose
+
+Termo: patológico
+Explicação: mórbido, relacionado com uma doença determinada
+
+Termo: necrose
+Explicação: morte celular, esfacelo, gangrena
+
+Termo: propulsivo
+Explicação: motor
+
+Termo: peristaltismo
+Explicação: movimento automático do intestino
+
+Termo: extensão
+Explicação: movimento de endireitar uma articulação
+
+Termo: difusão
+Explicação: concentração; dispersão
+
+Termo: tique
+Explicação: movimento involuntário que se produz repetidamente
+
+Termo: nistagmo
+Explicação: movimento reflexo do globo ocular (dos olhos)
+
+Termo: coreia
+Explicação: movimentos bruscos incontrolados nas crianças
+
+Termo: atetose
+Explicação: movimentos descontrolados, atesia, doença de Hammond
+
+Termo: mucociliar
+Explicação: mucociliar
+
+Termo: mucosa
+Explicação: mucosa
+
+Termo: muco
+Explicação: mucosidade; pituíta, monco, ranho
+
+Termo: transformação
+Explicação: mudança de forma ou estrutura, alteração
+
+Termo: seroconversão
+Explicação: mudança de um prova serológica de negativa para positiva
+
+Termo: mutação
+Explicação: mudança do material genético
+
+Termo: mutismo
+Explicação: mudez
+
+Termo: selectivo
+Explicação: muito exigente quanto à indicação
+
+Termo: nulípara
+Explicação: mulher que nunca deu à luz
+
+Termo: esfíncter
+Explicação: músculo constritor, que aperta
+
+Termo: agonista
+Explicação: maneira natural
+
+Termo: antagonista
+Explicação: acção de outra
+
+Termo: epigástrico
+Explicação: na boca do estômago
+
+Termo: passivo
+Explicação: não activo
+
+Termo: incompatível
+Explicação: não adequado para administração simultânea
+
+Termo: inadequado
+Explicação: não apropriado
+
+Termo: exceptuado
+Explicação: não compreendido, sem contar
+
+Termo: esporádico
+Explicação: não epidérmico ou não amplamente difundido; ocasional
+
+Termo: inespecífico
+Explicação: não específico, não característico
+
+Termo: artificial
+Explicação: não natural
+
+Termo: incontinência
+Explicação: não segura as fezes ou as urinas
+
+Termo: atóxico
+Explicação: não tóxico, não venenoso, não nocivo
+
+Termo: rinofaringite
+Explicação: nasofaringite, retrofaringite, angina retronasal
+
+Termo: hipovitaminose
+Explicação: necessidade de uma ou várias vitaminas essenciais
+
+Termo: nervosidade
+Explicação: nervosismo
+
+Termo: polinevrite
+Explicação: neurite múltipla; inflamação de muitos nervos um por cada vez
+
+Termo: papilite
+Explicação: neuropapilite, inflamação de uma papila
+
+Termo: ciática
+Explicação: nevralgia ciática
+
+Termo: neuralgia
+Explicação: nevralgia, dor viva que se sente no trajecto dos nervos
+
+Termo: neurite
+Explicação: nevrite, inflamação de um nervo
+
+Termo: neuropatia
+Explicação: nevropatia, doença nervosa
+
+Termo: neurótico
+Explicação: nevrótico, neuropático, nevropático
+
+Termo: implantação
+Explicação: nidação do embrião na mucosa do útero da mãe, cerca de seis dias após a concepção
+
+Termo: niilidade
+Explicação: niilismo, isto é, sensação de falta de esperança por parte do homem; nada
+
+Termo: calcemia
+Explicação: nível de cálcio no sangue
+
+Termo: intravascular
+Explicação: no interior de um vaso sanguíneo
+
+Termo: intraocular
+Explicação: no interior do globo ocular
+
+Termo: intramuscular
+Explicação: no interior do músculo
+
+Termo: in situ
+Explicação: no seu lugar
+
+Termo: mielotóxico
+Explicação: nocivo para a medula do osso
+
+Termo: fisiológico
+Explicação: normal, não devido a uma doença; relativo ao estudo das funções dos organismos vivos
+
+Termo: estandardizar
+Explicação: normalizar, unificar, padronizar
+
+Termo: reinfecção
+Explicação: nova infecção num mesmo agente, depois de ter curado a primeira
+
+Termo: superinfecção
+Explicação: nova infecção que surge como complicação de outra já existente
+
+Termo: frequência
+Explicação: número de períodos
+
+Termo: fracção
+Explicação: número fraccionário (número) quebrado; porção, parte
+
+Termo: trófico
+Explicação: nutritivo
+
+Termo: nadir
+Explicação: o ponto mais baixo
+
+Termo: oclusão
+Explicação: obliteração, fecho, de um canal ou de uma abertura natural
+
+Termo: prisão de ventre
+Explicação: obstipação
+
+Termo: barreira
+Explicação: obstrução
+
+Termo: tromboembolismo
+Explicação: obstrução de um vaso sanguíneo com material trombótico
+
+Termo: imunização
+Explicação: obtenção da imunidade pelo organismo
+
+Termo: ocitócico
+Explicação: ocitócito, agente que faz acelerar parto estimulando o útero
+
+Termo: íleo
+Explicação: oclusão intestinal
+
+Termo: oculomucocutâneo
+Explicação: oculomucocutâneo
+
+Termo: exoftalmia
+Explicação: olhos salientes
+
+Termo: complexo QRS
+Explicação: onda rápida, ondas iniciais do complexo ventricular
+
+Termo: catarata
+Explicação: opacidade do cristalino do olho
+
+Termo: intervenção
+Explicação: operação
+
+Termo: histerectomia
+Explicação: operação cirúrgica do útero
+
+Termo: bacilo
+Explicação: organismo microscópico em forma de filamento recto ou curvo
+
+Termo: protozoário
+Explicação: organismos unicelulares
+
+Termo: orientação
+Explicação: orientação
+
+Termo: ânus
+Explicação: orifício de saída do intestino, cu
+
+Termo: orofacial
+Explicação: orofacial
+
+Termo: ortopédico
+Explicação: ortopédico
+
+Termo: osteoartrite
+Explicação: osteoartrose; inflamação articular que atinge também o osso
+
+Termo: paciente de risco
+Explicação: paciente de risco
+
+Termo: punção
+Explicação: paracentese, puntura
+
+Termo: assistolia
+Explicação: paragem cardíaco
+
+Termo: paralelo
+Explicação: paralelo
+
+Termo: doença de Parkinson
+Explicação: paralisia agitante
+
+Termo: cicloplegia
+Explicação: paralisia da pupila do globo ocular
+
+Termo: paraplegia
+Explicação: paralisia das pernas e parte inferior do corpo
+
+Termo: hemiplegia
+Explicação: paralisia de um lado do corpo
+
+Termo: paresia
+Explicação: paralisia incompleta, parcial
+
+Termo: poliomielite
+Explicação: paralisia infantil
+
+Termo: parâmetro
+Explicação: parâmetro, critério
+
+Termo: parasítico
+Explicação: parasitário; referente aos organismos que vivem à custa de outros organismos
+
+Termo: opalescente
+Explicação: parecido com o ópalo ou que tem cores como ele
+
+Termo: afinidade
+Explicação: parentesco, analogia, semelhança
+
+Termo: paroxísmico
+Explicação: paroxístico, agudo
+
+Termo: córnea
+Explicação: parte anterior transparente do olho
+
+Termo: citoplasma
+Explicação: parte da célula não ocupada pelo núcleo
+
+Termo: estomatológico
+Explicação: parte da medicina que estuda a boca e suas doenças
+
+Termo: obstetrício
+Explicação: parte da medicina que se ocupa da gravidez, parto e puerpério; obstétrico, tocológico
+
+Termo: segmento
+Explicação: parte de um organismo ou órgão
+
+Termo: região
+Explicação: parte do corpo
+
+Termo: jejuno
+Explicação: parte do intestino delgado desde o duodeno até ao íleo
+
+Termo: parênquima
+Explicação: parte funcional de um órgão
+
+Termo: duodeno
+Explicação: parte inicial do intestino delgado
+
+Termo: suspensão
+Explicação: partículas existentes na água que não foram por ela dissolvidas
+
+Termo: parto
+Explicação: parto
+
+Termo: antecedente
+Explicação: passado do paciente
+
+Termo: transitório
+Explicação: passageiro
+
+Termo: trânsito
+Explicação: passagem
+
+Termo: transferência
+Explicação: passagem de um sintoma ou doença para outro(a)
+
+Termo: patógeno
+Explicação: patogénico, que causa doença
+
+Termo: cálculo
+Explicação: pedra
+
+Termo: película líquida
+Explicação: película líquida
+
+Termo: piloerecção
+Explicação: pelos ou cabelos em pé, erecção do pelo ou cabelo
+
+Termo: adsorção
+Explicação: penetração pela pele ou pelas mucosas, consumo
+
+Termo: penetração
+Explicação: penetração, perfuração
+
+Termo: incisivo
+Explicação: penetrante
+
+Termo: reflexivo
+Explicação: pensativo, reflexivo
+
+Termo: vial
+Explicação: pequena ampola, frasco
+
+Termo: pápula
+Explicação: pequena elevação sólida e circunscrita da pele
+
+Termo: petéquias
+Explicação: pequenas manchas avermelhado-rouxas na pele
+
+Termo: Petit mal; epilepsia menor
+Explicação: pequeno mal, epilepsia com ataques pouco intensos
+
+Termo: ossículo
+Explicação: pequeno osso; ossinho
+
+Termo: óvulo
+Explicação: pequeno ovo
+
+Termo: mecela
+Explicação: pequenos fragmentos presentes em dispersão coloidal
+
+Termo: ataxia
+Explicação: perca da coordenação muscular
+
+Termo: percepção
+Explicação: percepção
+
+Termo: objectivo
+Explicação: perceptível aos sentidos externos; meta
+
+Termo: afasia
+Explicação: perda da capacidade de comunicar
+
+Termo: escotoma
+Explicação: perda da faculdade visual em zonas bem circunscritas do campo visual; escotomia
+
+Termo: despersonalização
+Explicação: perda da própria personalidade
+
+Termo: hemorragia
+Explicação: perda de sangue
+
+Termo: spotting
+Explicação: perda de sangue pela vagina
+
+Termo: caquexia
+Explicação: perda do peso e enfraquecimento físico
+
+Termo: ausência
+Explicação: perda momentânea do conhecimento
+
+Termo: estupor
+Explicação: perda parcial ou quase total da consciência; obnubilação, torpor
+
+Termo: síncope
+Explicação: perda súbita da consciência por descida da pressão sanguínea no cérebro; desmaio
+
+Termo: hemoperfusão
+Explicação: perfusão no sangue
+
+Termo: perfusão
+Explicação: perfusão; transfusão
+
+Termo: distal
+Explicação: periférico, distante do tronco
+
+Termo: ciclo
+Explicação: período
+
+Termo: perioperativo
+Explicação: período de hospitalização aquando de uma operação
+
+Termo: puberdade
+Explicação: período de maturidade sexual
+
+Termo: puerpério
+Explicação: período de restabelecimento após o parto
+
+Termo: fase
+Explicação: período dentro de uma evolução constante
+
+Termo: incubação
+Explicação: período entre o contágio e a manifestação da doença; choco
+
+Termo: permanente
+Explicação: permanente
+
+Termo: perene
+Explicação: perpétuo
+
+Termo: persistente
+Explicação: perseverante
+
+Termo: contínuo
+Explicação: persistente
+
+Termo: cinético
+Explicação: pertencente a ou que produz o movimento
+
+Termo: anogenital
+Explicação: pertencente à região do anus e dos órgãos genitais
+
+Termo: inguinal
+Explicação: pertencente à virilha
+
+Termo: capilar
+Explicação: pertencente ao cabelo, filiforme
+
+Termo: coclear
+Explicação: pertencente ao caracol ósseo do ouvido interno
+
+Termo: intratecal
+Explicação: pertencente ao lúmen de uma bainha ou canal
+
+Termo: femoral
+Explicação: pertencente ao osso da coxa
+
+Termo: sintomático
+Explicação: pertencente aos sintomas
+
+Termo: interferência
+Explicação: perturbação
+
+Termo: distrofia
+Explicação: perturbação da nutrição de vários tecidos do organismo
+
+Termo: disfunção
+Explicação: perturbação do funcionamento de um órgão; alteração de função
+
+Termo: delírio
+Explicação: perturbação mental por traumatismo, febre, envenenamento, etc. com confusão mental
+
+Termo: dador
+Explicação: pessoa que oferece um órgão, sangue, etc
+
+Termo: pH
+Explicação: pH
+
+Termo: crise
+Explicação: pioramento repentino, ataque
+
+Termo: exacerbação
+Explicação: pioramento, gravamento
+
+Termo: placenta
+Explicação: placenta
+
+Termo: pleurisia
+Explicação: pleurite, inflamação da membrana que reveste os pulmões e a cavidade torácica
+
+Termo: polivalente
+Explicação: plurivalente, multivalente
+
+Termo: broncopneumonia
+Explicação: pneumonia dos brônquios
+
+Termo: potência
+Explicação: poder; capacidade sexual; poder de um medicamento produzir efeitos
+
+Termo: orgasmo
+Explicação: ponto mais elevado da excitação sexual
+
+Termo: população
+Explicação: população
+
+Termo: acidental
+Explicação: por acaso, sem importância
+
+Termo: sublingual
+Explicação: por baixo da língua, hipoglosso
+
+Termo: exógeno
+Explicação: por causas externas; introduzido no corpo do exterior
+
+Termo: supraventricular
+Explicação: por cima de uma pequena cavidade
+
+Termo: rotineiramente
+Explicação: por rotina, por hábito
+
+Termo: retrobulbar
+Explicação: por trás do bolbo raquiano, por trás do globo ocular
+
+Termo: retroesternal
+Explicação: por trás do esterno
+
+Termo: mobilidade
+Explicação: possibilidade de realizar movimentos activos, por ex., uma articulação
+
+Termo: subagudo
+Explicação: pouco agudo
+
+Termo: perinatal
+Explicação: pouco antes ou depois do nascimento
+
+Termo: hipoplasia
+Explicação: pouco desenvolvido
+
+Termo: pré-carga
+Explicação: pré-carga
+
+Termo: precipitação
+Explicação: precipitado, depósito
+
+Termo: plasminogénio
+Explicação: precursor inactivo da plasmina
+
+Termo: vagotonia
+Explicação: predominância do vago
+
+Termo: dominância
+Explicação: predomínio de um gene ou de um carácter
+
+Termo: prepúcio
+Explicação: prega de pele que recobre a glande do pénis ou o clítoris
+
+Termo: válvula
+Explicação: prega existente num canal permitindo o fluxo num único sentido
+
+Termo: hipocondria
+Explicação: preocupação indevida de uma pessoa pela sua saúde
+
+Termo: extracto
+Explicação: preparação concentrada de uma droga
+
+Termo: grânulos
+Explicação: preparação farmacológica em forma de grânulos
+
+Termo: galénico
+Explicação: preparado a partir de drogas vegetais em vez de substâncias químicas
+
+Termo: didralcoólico
+Explicação: preparado com alcool diluído
+
+Termo: solução
+Explicação: preparado líquido que contém várias substâncias químicas solúveis; soluto, licor; meio
+
+Termo: cosmético
+Explicação: preparado para a higiene e beleza
+
+Termo: preparação
+Explicação: preparado, confecção, solução, fabricação
+
+Termo: bacteriemia
+Explicação: presença de bactérias no sangue
+
+Termo: creatinemia
+Explicação: presença de creatina no sangue
+
+Termo: glicosúria
+Explicação: presença de glicose nas urinas
+
+Termo: presença de pedras nas condutas biliares, litíase biliar (pop) , colelitíase
+Explicação: cianose
+
+Termo: diverticulite
+Explicação: diverticulose
+
+Termo: enfisema
+Explicação: presença excessiva de ar nos pulmões ou tecidos corporais
+
+Termo: congénito
+Explicação: presente desde a nascença, mas não necessariamente hereditário
+
+Termo: tensão
+Explicação: pressão
+
+Termo: glaucoma
+Explicação: pressão anormal no globo ocular
+
+Termo: hipotensão
+Explicação: pressão sanguínea anormalmente baixa
+
+Termo: menarca
+Explicação: primeira menstruação
+
+Termo: primeira vacinação
+Explicação: primeira vacina
+
+Termo: primeira passagem
+Explicação: primeiro passo
+
+Termo: primário
+Explicação: primeiro, principal, originário
+
+Termo: paralisia
+Explicação: privação ou diminuição considerável do movimento voluntário e da sensibilidade
+
+Termo: esterilização
+Explicação: procedimento que torna um indivíduo incapaz de reproduzir
+
+Termo: biodegração
+Explicação: procedimento que transforma sistemas vivos em substâncias químicas nocivas
+
+Termo: ulceração
+Explicação: processo de formação de uma úlcera; helcose
+
+Termo: espermatogénese
+Explicação: processo de formação dos espermatozóides
+
+Termo: mobilização
+Explicação: processo de tornar móvel uma parte fixa ou uma substância presa
+
+Termo: metaplasia
+Explicação: processo de transformação de células ou tecidos noutros distintos
+
+Termo: ionização
+Explicação: processo pelo qual são produzidos iões numa substância
+
+Termo: neutralização
+Explicação: processo pelo qual uma coisa perde eficácia
+
+Termo: diatermia
+Explicação: produção de calor num tecido por correntes eléctricas de alta frequência
+
+Termo: produtivo , que produz tecido novo (diz-se de uma inflamação); que produz escarros e
+Explicação: supra-renal
+
+Termo: aditivo
+Explicação: produto acrescentado
+
+Termo: produto liofilizado
+Explicação: produto preparado mediante congelação e desidratação
+
+Termo: morfinomimético
+Explicação: produtos com efeito idêntico ao da morfina
+
+Termo: micótico
+Explicação: produzido por fungos
+
+Termo: semi-sintético
+Explicação: produzido por manipulação química de substâncias naturais
+
+Termo: prognose
+Explicação: prognóstico
+
+Termo: endometriose
+Explicação: proliferação da mucosa uterina fora do seu lugar habitual
+
+Termo: transmissão
+Explicação: propagação
+
+Termo: reprodução
+Explicação: propagação, multiplicação; cópia
+
+Termo: proporcional
+Explicação: proporcional
+
+Termo: permeabilidade
+Explicação: propriedade de uma membrana deixar passar as substâncias
+
+Termo: constitucional
+Explicação: próprio à constituição de um indivíduo
+
+Termo: endémico
+Explicação: próprio a uma região ou população específica
+
+Termo: glúten
+Explicação: proteína de diversos cereais
+
+Termo: proteína plasmática
+Explicação: proteína do plasma
+
+Termo: albumina
+Explicação: proteína principal no sangue
+
+Termo: colagénio
+Explicação: proteína que constitui o principal componente do tecido conjuntivo
+
+Termo: proteína
+Explicação: prótido
+
+Termo: aneurisma
+Explicação: protuberância num ponto fraco de uma artéria
+
+Termo: duplamente cego
+Explicação: prova dita duplamente cego
+
+Termo: paravenoso
+Explicação: próximo de uma veia
+
+Termo: prurítico
+Explicação: pruriginoso, que faz comichão
+
+Termo: pseudomembranoso
+Explicação: pseudomenbranoso
+
+Termo: psicológico
+Explicação: psicológico
+
+Termo: psicose
+Explicação: psicopatia, alienação (mental), doença mental
+
+Termo: esquizofrenia
+Explicação: si mesmo
+
+Termo: mental
+Explicação: psíquico
+
+Termo: pneumonia
+Explicação: pulmonia, inflamação dos pulmões e brônquios respiratórios
+
+Termo: extra-sístole
+Explicação: pulsação fora do tempo
+
+Termo: purgativo
+Explicação: purgante, que produz evacuação do intestino
+
+Termo: antraz
+Explicação: pústula maligna, baceira, mal-do-baço, mal-do-sangue
+
+Termo: pustuloso
+Explicação: pustulento, com formação de pústulas
+
+Termo: organismo
+Explicação: qualquer coisa viva individual
+
+Termo: miopatia
+Explicação: qualquer doença muscular
+
+Termo: hidrófilo
+Explicação: que absorve a água, é atraído pela água
+
+Termo: prematuro
+Explicação: que acontece antes do tempo (normal)
+
+Termo: subclínico
+Explicação: que acontece sem manifestação de sintomas
+
+Termo: anabólico
+Explicação: que activa o desenvolvimento fisiológico
+
+Termo: indirecto
+Explicação: que actua através de um agente intermédio
+
+Termo: colinérgico
+Explicação: que actua por intermédio da acetilcolina
+
+Termo: vasomotor
+Explicação: que afecta o calibre dos vasos
+
+Termo: cervical
+Explicação: que afecta o colo ou o colo de um órgão
+
+Termo: sistémico
+Explicação: que afecta o corpo de forma total; geral, generalizado
+
+Termo: psicotrópico
+Explicação: que afecta o estado mental
+
+Termo: mastigatório
+Explicação: que afecta os músculos da mastigação; que deve mastigar-se
+
+Termo: cerebrovascular
+Explicação: que afecta os vasos cerebrais
+
+Termo: sinergético
+Explicação: que age simultaneamente com outra coisa
+
+Termo: cardiosselectivo
+Explicação: que age só no coração
+
+Termo: vasoactivo
+Explicação: que age sobre os vasos sanguíneos
+
+Termo: diurético
+Explicação: que ajuda a aumentar o fluxo de urina
+
+Termo: analgésico
+Explicação: que alivia a dor
+
+Termo: paliativo
+Explicação: que alivia as dores mas não cura
+
+Termo: demulcente
+Explicação: que alivia as zonas inflamadas; suavizante
+
+Termo: emoliente
+Explicação: que amolece a pele
+
+Termo: preliminar
+Explicação: que antecede o principal ou que o prepara
+
+Termo: adstringente
+Explicação: que aperta os tecidos, secura da pele
+
+Termo: polimorfo
+Explicação: que apresenta diversas formas
+
+Termo: anafiláctico
+Explicação: que aumenta a sensibilidade do organismo para um veneno
+
+Termo: arritmogénico
+Explicação: que causa arritmia, pulsão irregular
+
+Termo: pirogénico
+Explicação: que causa febre
+
+Termo: imunogénico
+Explicação: que causa imunidade
+
+Termo: anxiolítico
+Explicação: que combate a ansiedade, tranquilizante
+
+Termo: antitumor
+Explicação: que combate a formação de tumores
+
+Termo: anti-infeccioso
+Explicação: que combate a infecção
+
+Termo: antiflogístico
+Explicação: que combate a inflamação, anti-inflamatório
+
+Termo: transruretal
+Explicação: que conduz através da uretra ou a atravessa
+
+Termo: mucopurulento
+Explicação: que contém muco e pus
+
+Termo: purulento
+Explicação: que contém ou produz pus
+
+Termo: quaternário
+Explicação: que contém quatro elementos
+
+Termo: vasopressor
+Explicação: que contrai os vasos sanguíneos
+
+Termo: curativo
+Explicação: que cura, terapêutico
+
+Termo: retrógrado
+Explicação: que degenera, retrógrado, regressivo, retrocedente
+
+Termo: desinfectante
+Explicação: que desinfecta
+
+Termo: antibacteriano
+Explicação: que destrói as bactérias
+
+Termo: oncolítico
+Explicação: que destrói as células cancerosas
+
+Termo: antiviral
+Explicação: que destrói ou impede o desenvolvimento de vírus
+
+Termo: proteolítico
+Explicação: que digere ou hidrolisa as proteínas
+
+Termo: imunossupressor
+Explicação: que diminui a defesa do organismo
+
+Termo: fibrinolítico
+Explicação: que dissolve a fibrina
+
+Termo: lipofílico
+Explicação: que dissolve as gorduras; que pode tornar-se obeso
+
+Termo: trombolítico
+Explicação: que dissolve ou desintegra um trombo
+
+Termo: miorrelaxante
+Explicação: que distende os músculos
+
+Termo: cardiogénico
+Explicação: que é consequência de uma deficiência do coração
+
+Termo: citotóxico
+Explicação: que é tóxico para as células; detém o crescimento dos tecidos
+
+Termo: multidose
+Explicação: que encerra muitas doses
+
+Termo: corresponder
+Explicação: que equivale
+
+Termo: extremo
+Explicação: que está afastado
+
+Termo: in vivo
+Explicação: que está situado ou ocorre num corpo vivo
+
+Termo: gonadotrópico
+Explicação: que estimula as glândulas sexuais
+
+Termo: cardiotónico
+Explicação: que estimula o coração
+
+Termo: tensioactivo
+Explicação: que exerce efeito sobre a tensão superficial
+
+Termo: oculogiro
+Explicação: que faz girar os olhos
+
+Termo: fotofobia
+Explicação: que foge da luz (que tem aversão à luz)
+
+Termo: ulcerogénico
+Explicação: que gera úlceras
+
+Termo: antiexudativo
+Explicação: que impede a exsudação, a transpiração
+
+Termo: antitrombótico
+Explicação: que impede a formação de coágulos no sangue e dissolve-os
+
+Termo: contraceptivo
+Explicação: que impede a gravidez
+
+Termo: anti-inflamatório
+Explicação: que impede a inflamação
+
+Termo: antimicótico
+Explicação: que impede a reprodução dos fungos
+
+Termo: bacteriostático
+Explicação: que impede o desenvolvimento das bactérias
+
+Termo: antimicrobiano
+Explicação: que impede o desenvolvimento de micróbios
+
+Termo: antiestrogénico
+Explicação: que impede ou contraria o efeito das hormonas estrogénicas
+
+Termo: positivo
+Explicação: que indica a presença de um transtorno
+
+Termo: salúrico
+Explicação: que induz a eliminação de sal pela urina
+
+Termo: mutagénico
+Explicação: que induz mutações genéticas
+
+Termo: vagolítico
+Explicação: que inibe o nervo vago
+
+Termo: bactericida
+Explicação: que mata as bactérias
+
+Termo: espermicida
+Explicação: que mata os espermatozóides
+
+Termo: motor
+Explicação: que move, motriz
+
+Termo: antiproliferativo
+Explicação: que não deixa as células multiplicarem-se
+
+Termo: atrofia
+Explicação: que não desenvolveu
+
+Termo: antidiurético
+Explicação: que não faz urinar
+
+Termo: resistente
+Explicação: que não reage a determinados medicamentos
+
+Termo: inoperável
+Explicação: que não se pode curar com operação cirúrgica
+
+Termo: anidro
+Explicação: que não tem água
+
+Termo: azospermia
+Explicação: que não tem espermatóides
+
+Termo: Gram-negativo
+Explicação: que não toma o corante de Gram
+
+Termo: pré-clínico
+Explicação: que ocorre antes da doença ser clinicamente reconhecível
+
+Termo: pré-menstrual
+Explicação: que ocorre antes da menstruação
+
+Termo: pós-menopáusico
+Explicação: que ocorre após a menopausa
+
+Termo: pós-traumático
+Explicação: que ocorre depois de um traumatismo
+
+Termo: intermitente
+Explicação: que ocorre em intervalos
+
+Termo: citostático
+Explicação: que pára a multiplicação das células
+
+Termo: transdérmico
+Explicação: que passa através da pele
+
+Termo: invasivo
+Explicação: que penatra, que invade
+
+Termo: neurovegetativo
+Explicação: que pertence ou é relativo ao sistema nervoso vegetativo
+
+Termo: reversível
+Explicação: que pode desaparecer totalmente com a supressão da causa
+
+Termo: compatível
+Explicação: que pode ser administrado juntamente com outro medicamento
+
+Termo: pré-operatório
+Explicação: que precede uma operação
+
+Termo: precursor
+Explicação: que precede, dianteiro
+
+Termo: degenerativo
+Explicação: que produz degeneração
+
+Termo: tónico
+Explicação: que produz e restabelece o tom normal; que se caracteriza por tensão contínua
+
+Termo: soporífico
+Explicação: que produz sono, soporífero
+
+Termo: produtivo
+Explicação: tosse)
+
+Termo: protectivo
+Explicação: que protege, protector
+
+Termo: letal
+Explicação: que provoca a morte
+
+Termo: carcinogénico
+Explicação: que provoca o cancro, cancerígeno
+
+Termo: antipirético
+Explicação: que reduz a febre, antitérmico, febrífugo, antifebril
+
+Termo: complacente
+Explicação: que se compadece com os males ou desventuras de outrem; simpático
+
+Termo: endógeno
+Explicação: que se desenvolve ou surge num organismo
+
+Termo: pré-sinático
+Explicação: que se encontra adiante da zona de contacto entre dois neuronas
+
+Termo: ectópico
+Explicação: que se encontra ou produz fora do lugar habitual
+
+Termo: miscível
+Explicação: que se pode misturar
+
+Termo: diurno
+Explicação: que se produz durante o dia
+
+Termo: sedentário
+Explicação: que se senta habitualmente; de hábitos inactivos
+
+Termo: trivalente
+Explicação: que se une com três átomos de hidrogénio ou os substitui
+
+Termo: endócrino
+Explicação: que secreta hormonas
+
+Termo: sistemático
+Explicação: que segue um sistema, um método
+
+Termo: integumentário
+Explicação: que serve de cobertura, como a pele; integumental
+
+Termo: terapêutico
+Explicação: que serve para curar
+
+Termo: antitússico
+Explicação: que suprime ou combate a tosse
+
+Termo: isotónico
+Explicação: que tem a mesma tensão ou concentração
+
+Termo: neutrófilo
+Explicação: que tem afinidade com corantes neutros
+
+Termo: bifásico
+Explicação: que tem duas fases
+
+Termo: ferropénico
+Explicação: que tem falta de ferro
+
+Termo: febril
+Explicação: que tem febre, pirético
+
+Termo: hidrófobo
+Explicação: que tem horror à água ou foge dela
+
+Termo: psicogénico
+Explicação: que tem origem emocional ou psicológica
+
+Termo: psicossomático
+Explicação: que tem sintomas corporais de origem psíquica, emocional e mental
+
+Termo: multípara
+Explicação: que teve vários filhos
+
+Termo: anestésico
+Explicação: que tira a sensibilidade
+
+Termo: Gram-positivo
+Explicação: que toma o corante de Gram
+
+Termo: antimitótico
+Explicação: que trava a divisão e crescimento das células
+
+Termo: aeróbio
+Explicação: que vive no ar
+
+Termo: anaeróbio
+Explicação: que vive sem ar
+
+Termo: recorrente
+Explicação: que volta à sua origem
+
+Termo: ptose
+Explicação: queda de um órgão
+
+Termo: colapso
+Explicação: queda rápida da tensão arterial; enfraquecimento de um órgão
+
+Termo: quelação
+Explicação: quelante
+
+Termo: químico
+Explicação: químico
+
+Termo: radioactividade
+Explicação: radioactividade
+
+Termo: radiografia
+Explicação: radiografia
+
+Termo: arteriografia
+Explicação: radiografia das artérias
+
+Termo: flebografia
+Explicação: radiografia das veias
+
+Termo: colangiografia
+Explicação: radiografia de contraste das condutas biliares
+
+Termo: urografia
+Explicação: radiografia de uma parte do aparelho urinário
+
+Termo: tomografia
+Explicação: radiografia de uma secção do corpo ou de um órgão
+
+Termo: radiológico
+Explicação: radiológico
+
+Termo: dendrítico
+Explicação: ramificado, relativo às dendrites (fibras nervosas)
+
+Termo: osteoporose
+Explicação: rarefacção dos minerais nos ossos; desmineralização esquelética
+
+Termo: curetagem
+Explicação: raspagem
+
+Termo: reabsorção
+Explicação: reabsorção cutânea, dental
+
+Termo: reacção
+Explicação: reacção
+
+Termo: resposta
+Explicação: reacção a um estímulo
+
+Termo: auto-imune
+Explicação: reacção anormal do organismo contra um dos seus próprios tecidos
+
+Termo: hidrólise
+Explicação: reacção de desdobramento de uma molécula por acção da água
+
+Termo: dermografia
+Explicação: reacção local da pele a uma irritação mecânica ou efeito de pressão
+
+Termo: activo
+Explicação: reactivo, eficaz
+
+Termo: reagente
+Explicação: reactivo, substância utilizada para produzir uma reacção química
+
+Termo: ressuscitação
+Explicação: reanimação de doentes que pareciam mortos, como após afogamento, etc.
+
+Termo: reavaliação
+Explicação: reavaliação
+
+Termo: refractário
+Explicação: rebelde, que não cede facilmente com o tratamento
+
+Termo: prescrição
+Explicação: receita
+
+Termo: receptor
+Explicação: receptor
+
+Termo: recuperação
+Explicação: recuperação, aproveitamento
+
+Termo: plexo
+Explicação: rede de vasos linfáticos, nervos ou veias
+
+Termo: minimizar
+Explicação: reduzir (ao mínimo), limitar
+
+Termo: micronizar
+Explicação: reduzir a pó fino
+
+Termo: referência
+Explicação: referência
+
+Termo: entero-hepático
+Explicação: referente ao intestino e ao fígado
+
+Termo: colorectal
+Explicação: referente ao intestino grosso e à sua parte final
+
+Termo: urogenital
+Explicação: referente aos órgãos urinários e genitais; geniturinário
+
+Termo: vascular
+Explicação: referente aos vasos sanguíneos
+
+Termo: oftálmico
+Explicação: referente ou pertencente ao olho ou à vista
+
+Termo: reflexo
+Explicação: reflexo
+
+Termo: hiper-reflexia
+Explicação: reflexos aumentados
+
+Termo: posologia
+Explicação: regime de administração do medicamento
+
+Termo: regional
+Explicação: regional
+
+Termo: electroencefalografia
+Explicação: registo das ondas cerebrais (para detecção de tumores)
+
+Termo: critério
+Explicação: regra
+
+Termo: menstruação
+Explicação: regras
+
+Termo: retroacção
+Explicação: regulação
+
+Termo: termorregulação
+Explicação: regulação do calor ou da temperatura
+
+Termo: recidivista
+Explicação: reincidente, pessoa que repete os actos delinquentes depois de receber tratamento
+
+Termo: interacção
+Explicação: relação entre dois elementos
+
+Termo: correlação
+Explicação: relação recíproca ou mútua
+
+Termo: sistólico
+Explicação: relacionado com a contracção músculo cardíaco
+
+Termo: lombar
+Explicação: relacionado com a parte inferior da coluna vertebral
+
+Termo: postural
+Explicação: relacionado com a postura ou a posição
+
+Termo: lenticular
+Explicação: relacionado com o cristalino
+
+Termo: anginoso
+Explicação: relativo a angina
+
+Termo: coronário
+Explicação: relativo a artérias e veias do coração
+
+Termo: aural
+Explicação: relativo à aura, percebido pelo ouvido
+
+Termo: bucofaríngeo
+Explicação: relativo à boca e à garganta
+
+Termo: bucal
+Explicação: relativo à boca, oral
+
+Termo: oral
+Explicação: relativo à boca, pela boca
+
+Termo: epifisário
+Explicação: relativo à cabeça de um osso largo
+
+Termo: facial
+Explicação: relativo à cara
+
+Termo: orbital
+Explicação: relativo à cavidade óssea que contém o globo ocular; orbitário
+
+Termo: microbiológico
+Explicação: relativo à ciência dos microrganismos (organismos minúsculos)
+
+Termo: toxicológico
+Explicação: relativo à ciência que estuda os venenos
+
+Termo: farmacológico
+Explicação: relativo à ciência que investiga os medicamentos
+
+Termo: teratológico
+Explicação: congénitas
+
+Termo: clínico
+Explicação: relativo à clínica; baseado na observação e no tratamento
+
+Termo: espinal
+Explicação: relativo à coluna vertebral
+
+Termo: neuromuscular
+Explicação: relativo à correlação entre os nervos e os músculos
+
+Termo: osmótico
+Explicação: relativo à difusão de um líquido através de uma membrana
+
+Termo: digestivo
+Explicação: relativo à digestão
+
+Termo: péptico
+Explicação: relativo à digestão; úlcera gástrica
+
+Termo: diastólico
+Explicação: relativo à disástole (fase de relaxamento do músculo cardíaco)
+
+Termo: miótico
+Explicação: relativo à divisão dos cromossomas e replicação das células
+
+Termo: electrofisiológico
+Explicação: eléctricas)
+
+Termo: energético
+Explicação: relativo à energia
+
+Termo: farmacêutico
+Explicação: relativo à farmácia
+
+Termo: físico-químico
+Explicação: relativo à física e à química
+
+Termo: androgénico
+Explicação: relativo à geração do homem
+
+Termo: paratiróide
+Explicação: relativo à glândula paratiróide
+
+Termo: hematológico
+Explicação: relativo à hematologia (estudo do sangue e das suas afecções)
+
+Termo: hipofisário
+Explicação: relativo à hipófice
+
+Termo: histológico
+Explicação: relativo à histologia (parte da anatomia que trata dos tecidos orgânicos)
+
+Termo: infantil
+Explicação: relativo à infância
+
+Termo: mamário
+Explicação: relativo à mama
+
+Termo: geriátrico
+Explicação: relativo à medicina que trata as doenças dos velhos
+
+Termo: medular
+Explicação: relativo à medula de qualquer tipo
+
+Termo: micológico
+Explicação: relativo à micologia (estudo dos cogumelos)
+
+Termo: auricular
+Explicação: relativo à orelha; relativo a uma das câmaras superiores do coração
+
+Termo: palpebral
+Explicação: relativo à pálpebra
+
+Termo: parietal
+Explicação: relativo à parede de uma cavidade; relativo ao osso frontal
+
+Termo: oftalmológico
+Explicação: relativo à parte da medicina que estuda os olhos
+
+Termo: pediátrico
+Explicação: relativo à parte da medicina que trata das crianças
+
+Termo: glomerular
+Explicação: relativo à parte filtrante dos rins
+
+Termo: pélvico
+Explicação: relativo à parte inferior do tronco do corpo
+
+Termo: lítico
+Explicação: relativo à pedra, que rompe, que influi na destruição da célula
+
+Termo: dermatológico
+Explicação: relativo à pele
+
+Termo: epidérmico
+Explicação: relativo à pele
+
+Termo: ortostático
+Explicação: relativo à posição do pé ou causado por ele
+
+Termo: psiquiátrico
+Explicação: relativo à psiquiatria
+
+Termo: qualitativo
+Explicação: relativo à qualidade
+
+Termo: quantitativo
+Explicação: relativo à quantidade
+
+Termo: bioquímico
+Explicação: relativo à química dos processos vitais e organismos vivos
+
+Termo: perineal
+Explicação: relativo à região limitada pelo escroto-ânus, no homem, e pela vulva-ânus, na mulher
+
+Termo: respiratório
+Explicação: relativo à respiração
+
+Termo: retinal
+Explicação: relativo à retina
+
+Termo: cíclico
+Explicação: relativo a um ciclo, que passa por etapas sucessivas
+
+Termo: traumático
+Explicação: relativo a um trauma ou traumatismo, ou causado por ele
+
+Termo: vestibular
+Explicação: relativo a um vestíbulo ou que se dirige para ele
+
+Termo: artério-venoso
+Explicação: relativo a uma artéria e a uma veia
+
+Termo: sinusal
+Explicação: relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração
+
+Termo: límbico
+Explicação: relativo a uma borda ou margem
+
+Termo: atrial
+Explicação: relativo a uma câmara superior do coração
+
+Termo: atrioventricular
+Explicação: relativo a uma câmara superior e a um ventrículo do coração
+
+Termo: nefrótico
+Explicação: relativo a uma doença dos rins ou causado por ela
+
+Termo: maníaco
+Explicação: relativo a uma mania
+
+Termo: ventricular
+Explicação: relativo a uma pequena cavidade
+
+Termo: visceral
+Explicação: relativo a uma víscera
+
+Termo: vaginal
+Explicação: relativo à vagina
+
+Termo: biliar
+Explicação: relativo à vesícula biliar e ao fígado
+
+Termo: visual
+Explicação: relativo à visão
+
+Termo: óptico
+Explicação: relativo à vista ou ao nervo ótptico
+
+Termo: sináptico
+Explicação: relativo à zona de contacto entre dois neuronas
+
+Termo: anal
+Explicação: relativo ao ânus
+
+Termo: anorectal
+Explicação: relativo ao anus e ao intestino grosso
+
+Termo: bulbar
+Explicação: relativo ao bolbo (raquidiano)
+
+Termo: oncótico
+Explicação: relativo ao cancro
+
+Termo: cerebelar
+Explicação: relativo ao cerebelo
+
+Termo: cerebral
+Explicação: relativo ao cérebro
+
+Termo: cerebrospinal
+Explicação: relativo ao cérebro e à medula espinal, cefalorraquídeo
+
+Termo: clitórico
+Explicação: relativo ao clítoris
+
+Termo: cognitivo
+Explicação: relativo ao conhecimento; intelectivo
+
+Termo: venéreo
+Explicação: relativo ao contacto sexual ou transmitido por ele
+
+Termo: cardíaco
+Explicação: relativo ao coração
+
+Termo: cardiorespiratório
+Explicação: relativo ao coração e à respiração
+
+Termo: cardiopulmonar
+Explicação: relativo ao coração e pulmões
+
+Termo: cardiovascular
+Explicação: relativo ao coração e vasos sanguíneos
+
+Termo: somático
+Explicação: relativo ao corpo: desenvolvimento somático, por exemplo
+
+Termo: cortical
+Explicação: relativo ao córtex
+
+Termo: craniano
+Explicação: relativo ao crânio
+
+Termo: vegetativo
+Explicação: reprodução assexual
+
+Termo: cromossómico
+Explicação: relativo ao cromossoma
+
+Termo: dorsal
+Explicação: relativo ao dorso, às costas
+
+Termo: esquelético
+Explicação: relativo ao esqueleto, magro
+
+Termo: gastro-esofágico
+Explicação: relativo ao estômago e ao esófago
+
+Termo: gastroduodenal
+Explicação: relativo ao estômago e ao intestino delgado
+
+Termo: gastrintestinal
+Explicação: relativo ao estômago e aos intestinos
+
+Termo: serológico
+Explicação: relativo ao estudo da imunidade pelo soro
+
+Termo: epidemiológico
+Explicação: relativo ao estudo da propagação das doenças
+
+Termo: bacteriológico
+Explicação: relativo ao estudo das bactérias
+
+Termo: hemopoiético
+Explicação: relativo ao fabrico de glóbulos vermelhos
+
+Termo: fetal
+Explicação: relativo ao feto
+
+Termo: hepático
+Explicação: relativo ao fígado
+
+Termo: hepatobiliar
+Explicação: relativo ao fígado e às condutas biliares
+
+Termo: nosocomial
+Explicação: relativo ao hospital e às doenças que ali se tratam, hospitalar
+
+Termo: fetoplacentário
+Explicação: relativo ao intercâmbio entre o feto e placenta
+
+Termo: intestinal
+Explicação: relativo ao intestino
+
+Termo: juvenil
+Explicação: relativo ao jovem
+
+Termo: sinovial
+Explicação: relativo ao líquido secretado pela membrana sinovial ou que o secreta
+
+Termo: fálico
+Explicação: relativo ao membro viril
+
+Termo: mesentérico
+Explicação: relativo ao mesentério, membrana que contém os vasos sanguíneos mesentéricos
+
+Termo: muscular
+Explicação: relativo ao músculo; com musculatura bem desenvolvida
+
+Termo: nasal
+Explicação: relativo ao nariz
+
+Termo: nasolacrimal
+Explicação: relativo ao nariz e ao aparelho lacrimal
+
+Termo: vagal
+Explicação: relativo ao nervo vago, décimo nervo craniano
+
+Termo: ocular
+Explicação: relativo ao olho ou à vista
+
+Termo: auditivo
+Explicação: relativo ao ouvido e à audição
+
+Termo: ovárico
+Explicação: relativo ao ovário
+
+Termo: neonatal
+Explicação: relativo ao primeiro mês de vida
+
+Termo: rectal
+Explicação: relativo ao recto, ânos
+
+Termo: renal
+Explicação: relativo ao rim
+
+Termo: imune
+Explicação: relativo ao sistema imunitário; insensível
+
+Termo: neurológico
+Explicação: relativo ao sistema nervoso ou à neurologia
+
+Termo: torácico
+Explicação: relativo ao tórax ou que o afecta
+
+Termo: umeral
+Explicação: relativo ao úmero (osso do braço - do ombro até ao cotovelo)
+
+Termo: ventral
+Explicação: relativo ao ventre; abdominal
+
+Termo: broncopulmonar
+Explicação: relativo aos brônquios e pulmões
+
+Termo: psicomotor
+Explicação: relativo aos efeitos motores da actividade cerebral ou psíquica
+
+Termo: humoral
+Explicação: relativo aos fluidos corporais
+
+Termo: genético
+Explicação: relativo aos genes
+
+Termo: linfocítico
+Explicação: relativo aos linfócitos, células com núcleo redondo
+
+Termo: neural
+Explicação: relativo aos nervos; situado na região da coluna vertebral
+
+Termo: geniturinário
+Explicação: relativo aos órgãos genitais e urinários
+
+Termo: genital
+Explicação: relativo aos órgãos sexuais
+
+Termo: vulvar
+Explicação: relativo aos órgãos sexuais externos da mulher
+
+Termo: maxilar
+Explicação: relativo aos ossos da cara onde se encontram fixados os dentes
+
+Termo: pulmonar
+Explicação: relativo aos pulmões
+
+Termo: imunológico
+Explicação: relativo aos sistema imunitário
+
+Termo: testicular
+Explicação: relativo aos testículos
+
+Termo: viral
+Explicação: relativo aos vírus ou causado por eles
+
+Termo: arterial
+Explicação: relativo às artérias
+
+Termo: articular
+Explicação: relativo às articulações
+
+Termo: hepatocelular
+Explicação: relativo às células do fígado
+
+Termo: endotóxico
+Explicação: relativo às endotoxinas
+
+Termo: fecal
+Explicação: relativo às fezes
+
+Termo: gonádico
+Explicação: relativo às glândulas sexuais
+
+Termo: hormonal
+Explicação: relativo às hormonas
+
+Termo: molecular
+Explicação: relativo às moléculas ou composto por elas
+
+Termo: mucocutâneo
+Explicação: relativo às mucosas e à pele ou que as afecta
+
+Termo: neuronal
+Explicação: relativo às neuronas
+
+Termo: arteriolar
+Explicação: relativo às pequenas artérias
+
+Termo: sensorial
+Explicação: relativo às sensações
+
+Termo: venoso
+Explicação: relativo às veias, provido de veias
+
+Termo: vertebral
+Explicação: relativo às vértebras
+
+Termo: caudal
+Explicação: relativo ou em direcção da cauda
+
+Termo: antiasmático
+Explicação: remédio contra a asma
+
+Termo: expectorante
+Explicação: remédio para desprender o muco dos pulmões e facilitar a tosse
+
+Termo: medicamento
+Explicação: remédio, medicina
+
+Termo: ooforectomia
+Explicação: remoção cirúrgica de um ovário
+
+Termo: regeneração
+Explicação: renovação ou preparação de tecidos ou de partes desaparecidas
+
+Termo: renovascular
+Explicação: renovascular
+
+Termo: abrupto
+Explicação: repentino, brusco
+
+Termo: intervalo QT
+Explicação: representa a duração total da sístole eléctrica ventricular
+
+Termo: proliferação
+Explicação: reprodução, multiplicação
+
+Termo: resistência cruzada
+Explicação: resistência a antibióticos similares
+
+Termo: imunidade
+Explicação: resistência natural às infecções
+
+Termo: rigidez
+Explicação: resistência, robustez
+
+Termo: hiperventilação
+Explicação: respiração difícil, rápida e profunda; aumento do volume de ar que entra nos pulmões
+
+Termo: responder
+Explicação: responder
+
+Termo: desfibrilhação
+Explicação: restabelecimento da pulsação cardíaca
+
+Termo: residual
+Explicação: restante, que deposita
+
+Termo: reactivação
+Explicação: restauração da actividade num corpo inactivo
+
+Termo: reidratação
+Explicação: restauração da água ou do conteúdo líquido num organismo
+
+Termo: localização
+Explicação: restrição a uma área determinada
+
+Termo: local
+Explicação: restricto, não geral
+
+Termo: efeito
+Explicação: resultado
+
+Termo: retardamento
+Explicação: retardo, atraso no desenvolvimento de determinada actividade
+
+Termo: colestase
+Explicação: retenção de fel nas condutas
+
+Termo: azotemia
+Explicação: retenção no sangue de produtos azotados
+
+Termo: retracção
+Explicação: retirada, supressão
+
+Termo: redução
+Explicação: retorno à forma inicial ou normal
+
+Termo: regressão
+Explicação: anormal; involução
+
+Termo: revestimento intestinal
+Explicação: revestimento intestinal
+
+Termo: bradicardia
+Explicação: ritmo cardíaco lento
+
+Termo: bradipneia
+Explicação: ritmo respiratório lento
+
+Termo: dentição
+Explicação: rompimento dos dentes
+
+Termo: torção
+Explicação: rotação de um órgão em torno de si mesmo
+
+Termo: rotatividade
+Explicação: rotatividade
+
+Termo: rouquidão
+Explicação: rouquidão
+
+Termo: rubor
+Explicação: ruborização
+
+Termo: eritema
+Explicação: ruborização, inflamação da pele
+
+Termo: borborigmo
+Explicação: ruído no ventre pela deslocação de gases
+
+Termo: ronco
+Explicação: ruído respiratório anormal; ressono
+
+Termo: maligno
+Explicação: ruim; de evolução fatal
+
+Termo: rotura
+Explicação: ruptura, fractura dos tecidos ou de um órgão
+
+Termo: cloaca
+Explicação: saco terminal do tubo digestivo (aves e répteis)
+
+Termo: comoção
+Explicação: sacudidela violenta, golpe violento, pressão violenta
+
+Termo: piloro
+Explicação: saída do estômago
+
+Termo: salino
+Explicação: salgado, que contém sais
+
+Termo: hematúria
+Explicação: sangue nas urinas, emissão de sangue pelas vias urinárias
+
+Termo: rubéola
+Explicação: sarampo alemão
+
+Termo: secreção
+Explicação: secreção
+
+Termo: salivação
+Explicação: secreção de saliva, ptialismo, sialorreia, polissialia, fluxo salivar
+
+Termo: diaforese
+Explicação: secreção de suor
+
+Termo: hipersecreção
+Explicação: secreção excessiva de uma glândula
+
+Termo: xerostomia
+Explicação: secura ocular
+
+Termo: xeroftalmia
+Explicação: secura, ulceração da córnea por falta de vitamina A
+
+Termo: polidipsia
+Explicação: sede excessiva persistente; sintoma de diabetes mellitus descompensada
+
+Termo: electivo
+Explicação: selectivo
+
+Termo: agamaglobulinémia
+Explicação: sem gamoglobinas
+
+Termo: conservador
+Explicação: sem intervenção cirúrgica
+
+Termo: negativo
+Explicação: sem resultado, não positivo, abaixo da linha zero
+
+Termo: irreversível
+Explicação: sem retorno
+
+Termo: assintomático
+Explicação: sem sintomas
+
+Termo: aquoso
+Explicação: semelhante à água
+
+Termo: reumatóide
+Explicação: semelhante ao reumatismo
+
+Termo: euforia
+Explicação: sensação anormal de bem-estar
+
+Termo: palpitação
+Explicação: sensação de batimentos cardíacos rápidos e irregulares
+
+Termo: pernas sem repouso
+Explicação: sensação de formigueiro profundo em ambas as pernas
+
+Termo: parestesia
+Explicação: sensação de formigueiro, picadelas
+
+Termo: aura
+Explicação: sensação no início de um acesso de doença
+
+Termo: vertigem
+Explicação: sensação rotatória associada a náusea; tontura de cabeça
+
+Termo: fotossensibilidade
+Explicação: sensibilidade à luz, resposta normal da pele à luz
+
+Termo: hipersensibilidade
+Explicação: sensibilidade excessiva, alergia
+
+Termo: fotossensibilização
+Explicação: sensibilização à luz, reacção normal da pele à luz
+
+Termo: necrólise
+Explicação: separação e esfoliação do tecido por morte celular
+
+Termo: comensal
+Explicação: ser vivo que convive com outro organismo hóspede
+
+Termo: luético
+Explicação: sifilítico
+
+Termo: significante
+Explicação: significativo
+
+Termo: conjugado
+Explicação: simultâneo
+
+Termo: sintoma
+Explicação: sinal
+
+Termo: mácula
+Explicação: sinal, mancha, cicatriz, estigma
+
+Termo: sintomatologia
+Explicação: sintomas combinados de uma doença
+
+Termo: musculatura
+Explicação: sistema muscular do corpo ou das suas partes
+
+Termo: estado de equilíbrio
+Explicação: situação em que uma variável se mantém imutável
+
+Termo: intravenoso
+Explicação: situado dentro de uma veia
+
+Termo: precordial
+Explicação: situado diante do coração
+
+Termo: peridual
+Explicação: situado em torno da envoltura do sistema nervoso central
+
+Termo: extrapiramidal
+Explicação: situado fora da via piramidal
+
+Termo: extravascular
+Explicação: situado fora de um vaso
+
+Termo: extra-renal
+Explicação: situado fora dos rins
+
+Termo: basal
+Explicação: situado junto de uma base, normal
+
+Termo: próximo
+Explicação: situado mais perto do centro do tronco
+
+Termo: hipotalámico
+Explicação: situado na metade inferior do cérebro; relativo ao hipotálamo
+
+Termo: subaracnóide
+Explicação: situado ou produzido por baixo da aracnóide
+
+Termo: subcapsular
+Explicação: situado por baixo de uma cápsula
+
+Termo: subcutâneo
+Explicação: sob a pele, hipodérmico
+
+Termo: epidural
+Explicação: sobre ou por fora da dura-mater
+
+Termo: aerossol
+Explicação: solução de um produto destinado à inalação
+
+Termo: licor
+Explicação: solução, soluto
+
+Termo: soluço
+Explicação: soluço, singulto
+
+Termo: cateter
+Explicação: sonda, algália
+
+Termo: hipnótico
+Explicação: sonífero
+
+Termo: narcótico
+Explicação: sonífero; agente que produz insensibilidade, estupor ou anestesia
+
+Termo: sonolência
+Explicação: sonolência
+
+Termo: soro
+Explicação: soro
+
+Termo: hipogonadismo
+Explicação: sub-desenvolvimento dos órgãos sexuais
+
+Termo: subconjuntival
+Explicação: subconjuntival
+
+Termo: hipodérmico
+Explicação: subcutâneo
+
+Termo: subjectivo
+Explicação: subjectivo; reacção específica, pessoal
+
+Termo: curarizar
+Explicação: submeter o curativo a cura; substância que afecta os músculos
+
+Termo: agente
+Explicação: substância activa
+
+Termo: antígeno
+Explicação: substância considerada estranha pelo organismo
+
+Termo: metabolito
+Explicação: substância derivada de um medicamento dentro do organismo
+
+Termo: excipiente
+Explicação: substância inerte num preparado farmacológico
+
+Termo: colesterol
+Explicação: substância lipóide que se encontra na maior parte dos tecidos
+
+Termo: oligoelemento
+Explicação: substância mineral em quantidades mínimas da dieta alimentar
+
+Termo: alcalóide
+Explicação: substância orgânica azotada com propriedades alcalinas
+
+Termo: descongestionante
+Explicação: substância que alivia a congestão nasal
+
+Termo: antidepressivo
+Explicação: substância que alivia a depressão
+
+Termo: anticolinérgico
+Explicação: substância que bloqueia os nervos parassimpáticos
+
+Termo: anti-histamina
+Explicação: substância que combate a acção da histamina
+
+Termo: antispasmódico
+Explicação: substância que combate as contraturas, cãibras e convulsões
+
+Termo: adjuvante
+Explicação: substância que contribui para a auxiliar
+
+Termo: correcção
+Explicação: substância que corrige a acção ou o sabor de um medicamento; compensação, rectificação
+
+Termo: germicida
+Explicação: substância que destrói os germes
+
+Termo: anti-hipertensivo
+Explicação: substância que diminui a pressão sanguínea
+
+Termo: parassimpaticomimétrico
+Explicação: substância que estimula directamente o sistema colinérgico ou parassimpático
+
+Termo: simpaticomimético
+Explicação: substância que estimula o sistema nervoso simpático
+
+Termo: anticonvulsivante
+Explicação: substância que evita as convulsões
+
+Termo: colerético
+Explicação: substância que favorece a produção de fel
+
+Termo: base
+Explicação: superfície ou parte inferior de um órgão
+
+Termo: betamimético
+Explicação: substância que imita a acção dos receptores adrenérgicos B
+
+Termo: tirostático
+Explicação: substância que inibe a biossíntese e/ou a secreção de hormonas tiróides
+
+Termo: adrenolítico
+Explicação: substância que inibe a resposta à adrenalina
+
+Termo: emético
+Explicação: substância que provoca vómitos
+
+Termo: antidiabético
+Explicação: substância que reduz a concentração de açúcar no sangue
+
+Termo: expansor plasmático
+Explicação: substância que se injecta para aumentar o volume sanguíneo
+
+Termo: neurotransmissor
+Explicação: substância que transmite impulsos nervosos por via química
+
+Termo: alcilação
+Explicação: substância radical alquil por um átomo de H num composto cíclico
+
+Termo: modulador
+Explicação: substância reguladora
+
+Termo: prostaglandina(s)
+Explicação: substâncias derivadas de ácidos gordos
+
+Termo: prótese
+Explicação: substituição artificial de um órgão; anaplerose
+
+Termo: substituição
+Explicação: substituição, troca
+
+Termo: alternar
+Explicação: sucessão de duas ou mais acções ou administrações de medicamentos
+
+Termo: complementar
+Explicação: suplementar, adicional, auxiliar
+
+Termo: suplemento
+Explicação: suplemento, adicional
+
+Termo: supositório
+Explicação: supositório
+
+Termo: supressivo
+Explicação: supressivo
+
+Termo: inervação
+Explicação: suprimento nervoso ou a condução de impulsos nervosos de um local para outro
+
+Termo: otorreia
+Explicação: supuração, corrimento do ouvido
+
+Termo: surdez
+Explicação: surdez
+
+Termo: septo
+Explicação: tabique de separação
+
+Termo: tardio
+Explicação: tardio
+
+Termo: placa dentária
+Explicação: tártaro
+
+Termo: morbidez(a)
+Explicação: taxa de doentes numa população
+
+Termo: mortalidade
+Explicação: taxa de falecimentos de uma população
+
+Termo: epitélio
+Explicação: tecido de cobertura ou de revestimento interior; pele ou mucosas
+
+Termo: neuroleptanalgesia
+Explicação: técnica de preparação dos doentes para operações cirúrgicas
+
+Termo: período de latência
+Explicação: tempo de espera
+
+Termo: diátese
+Explicação: tendência para um determinado tipo de doença
+
+Termo: tono
+Explicação: tensão
+
+Termo: stress
+Explicação: tensão, vida [moderna] agitada
+
+Termo: teórico
+Explicação: teórico
+
+Termo: monoterapia
+Explicação: terapia com um medicamento de cada vez
+
+Termo: dessensibilização
+Explicação: terapia destinada a reduzir uma alergia
+
+Termo: politerapia
+Explicação: terapia múltipla
+
+Termo: termal
+Explicação: térmico, que faz referência ao calor ou à temperatura
+
+Termo: erecção
+Explicação: tesão; entumescimento do pénis
+
+Termo: tétano
+Explicação: tétano
+
+Termo: meteorismo
+Explicação: timpanismo, timpanite, dilatação do ventre (devido a gases)
+
+Termo: tinea pedis
+Explicação: tinha do pé; pé-de-atleta.
+
+Termo: clássico
+Explicação: típico, característico
+
+Termo: esteróide
+Explicação: tipo de composto químico
+
+Termo: estrogénio
+Explicação: tipo de hormona sexual feminina
+
+Termo: xantoma
+Explicação: tipo de tumor benigno da pele; xantelasma
+
+Termo: distonia
+Explicação: tonicidade anormal dos tecidos
+
+Termo: contacto
+Explicação: toque; indivíduo que esteve em relação com pessoa portadora de doença contagiosa
+
+Termo: torsade de pointes
+Explicação: torsade de pointes
+
+Termo: torcicolo
+Explicação: torticolo
+
+Termo: cardiotóxico
+Explicação: tóxico para o coração
+
+Termo: fetotóxico
+Explicação: tóxico para o feto/embrião
+
+Termo: hepatotóxico
+Explicação: tóxico para o fígado
+
+Termo: ototóxico
+Explicação: tóxico para o órgão auditivo
+
+Termo: neurotóxico
+Explicação: tóxico para os nervos
+
+Termo: nefrotóxico
+Explicação: tóxico para os rins
+
+Termo: toxicomania
+Explicação: toxicodependência (dependência de uma droga)
+
+Termo: antipsicótico
+Explicação: tranquilizante
+
+Termo: transformação de uma substância noutra durante o metabolismo (pop) , metabolização
+Explicação: orgânicas
+
+Termo: biotransformação
+Explicação: transformação química de um composto no organismo
+
+Termo: conversão
+Explicação: transformação; transformação das emoções em manifestações corporais
+
+Termo: transfusão
+Explicação: transfusão
+
+Termo: condução
+Explicação: transmissão
+
+Termo: diaforese
+Explicação: transpiração, (secreção de) suor
+
+Termo: transplantação
+Explicação: transplante
+
+Termo: veículo
+Explicação: transportador; excipiente
+
+Termo: oxigenação
+Explicação: transporte e saturação de oxigénio
+
+Termo: cardiomiopatia
+Explicação: transtorno crónico que afecta o músculo cardíaco
+
+Termo: mal-absorção
+Explicação: transtorno da absorção intestinal de nutrientes
+
+Termo: dismenorreia
+Explicação: transtorno da menstruação
+
+Termo: porfíria
+Explicação: transtorno do metabolismo das porfirinas
+
+Termo: posterior
+Explicação: traseiro
+
+Termo: antibioterapia
+Explicação: tratamento com antibióticos
+
+Termo: terapia
+Explicação: tratamento das doenças, terapêutica
+
+Termo: digitalização
+Explicação: tratamento de uma doença com digital
+
+Termo: quimioterapia
+Explicação: tratamento do cancro com substâncias químicas
+
+Termo: radioterapia
+Explicação: tratamento por radiações; curieterapia
+
+Termo: tremor
+Explicação: tremor
+
+Termo: tremor
+Explicação: tremor que aparece ao efectuar um movimento voluntário coordenado
+
+Termo: tubercular
+Explicação: tubercular
+
+Termo: tracto (gastrintestinal)
+Explicação: ânos e glândulas anexas (vesícula biliar e pâncreas)
+
+Termo: cânula
+Explicação: tubo utilizado em cirurgia
+
+Termo: tubo
+Explicação: tubo, cano
+
+Termo: quisto
+Explicação: tumefacção anormal com conteúdo líquido; ciste
+
+Termo: linfadenopatia
+Explicação: tumefacção de um ou mais gânglios linfáticos
+
+Termo: adenoma
+Explicação: tumor benigno
+
+Termo: epitelioma
+Explicação: tumor da pele ou da mucosa
+
+Termo: sarcoma
+Explicação: tumor maligno
+
+Termo: mieloma
+Explicação: tumor maligno das células da medula do osso; cancro do sangue
+
+Termo: linfoma
+Explicação: tumor maligno gerado no tecido linfóide
+
+Termo: carcinoma
+Explicação: tumor maligno, cancro, câncer
+
+Termo: hérnia
+Explicação: tumor mole com abertura de membrana
+
+Termo: melanona
+Explicação: tumor pigmentado, geralmente maligno, da pele ou das mucosas
+
+Termo: úlcera péptica
+Explicação: úlcera causada pela acção do suco gástrico; úlcera duodenal
+
+Termo: úlcera crural
+Explicação: úlcera da perna
+
+Termo: umeroscapular
+Explicação: umeroscapular
+
+Termo: coloníquia
+Explicação: unha em forma de colher
+
+Termo: incorporação
+Explicação: união de uma substância no interior do organismo
+
+Termo: associação
+Explicação: união, acoplamento, coordenação
+
+Termo: uniforme
+Explicação: uniforme
+
+Termo: urgência
+Explicação: urgência
+
+Termo: urinário
+Explicação: urinário
+
+Termo: vacina
+Explicação: vacina
+
+Termo: vacinação
+Explicação: vacina
+
+Termo: título
+Explicação: valor, grau, proporção
+
+Termo: diferenciação
+Explicação: variação; desenvolvimento de células e tecidos em diversos sentidos
+
+Termo: múltiplo
+Explicação: variado
+
+Termo: comedão
+Explicação: variedade de acne
+
+Termo: tumor
+Explicação: vegetação, excrescência, neoplasma
+
+Termo: hemorróides
+Explicação: veias distendidas na junção do recto e do canal anal; almorróidas, almorródias
+
+Termo: senilidade
+Explicação: velhice
+
+Termo: toxina
+Explicação: veneno
+
+Termo: tóxico
+Explicação: venenoso
+
+Termo: abdominal
+Explicação: ventral
+
+Termo: sopro
+Explicação: vibração audível por auscultação, ruído
+
+Termo: supervisão
+Explicação: vigilância, inspecção, controlo
+
+Termo: alerta
+Explicação: vigilante
+
+Termo: (herpes) zóster
+Explicação: vírus instalado à volta das células sensitivas
+
+Termo: visão
+Explicação: visão
+
+Termo: xantopsia
+Explicação: visão amarelada
+
+Termo: diplopia
+Explicação: visão dupla
+
+Termo: manifesto
+Explicação: visível
+
+Termo: regurgitação
+Explicação: voltar à boca [por exemplo, alimentos sólidos que...]
+
+Termo: capacidade vital
+Explicação: volume de gás que pode expulsar-se dos pulmões
+
+Termo: voluntário
+Explicação: voluntário
+
+Termo: emésis
+Explicação: vómito
+
+Termo: vómito
+Explicação: vómito
+
+Termo: hematémese
+Explicação: vómitos de sangue
+
+Termo: hiperémese
+Explicação: vómitos excessivos
+
+Termo: náusea
+Explicação: vontade de vomitar; enjoo; repugnância, sentimento de repulsão
+
+Termo: espectro
+Explicação: zona de actividade de um antibiótico
+
+Termo: zona de pressão
+Explicação: zona de excitabilidade aumentada (trigger zone)
+
+Termo: tinitus (aurium)
+Explicação: zumbido do ouvido
+

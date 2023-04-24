@@ -1,0 +1,4857 @@
+[
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "12",
+        "descr": "Geral",
+        "position": null
+      },
+      "ANATOMIA GERAL": {
+        "id": "1",
+        "descr": "",
+        "position": {
+          "top": "98",
+          "left": "517"
+        }
+      },
+      "PARTES DO CORPO HUMANO": {
+        "id": "2",
+        "descr": "",
+        "position": null
+      },
+      "Cabeça.": {
+        "id": "3",
+        "descr": "",
+        "position": null
+      },
+      "Fronte.": {
+        "id": "4",
+        "descr": "Parte anterior da cabeça. A",
+        "position": {
+          "top": "146",
+          "left": "114"
+        }
+      },
+      "Occipital.": {
+        "id": "5",
+        "descr": "Parte posterior da cabeça (nuca). B",
+        "position": {
+          "top": "122",
+          "left": "312"
+        }
+      },
+      "Têmpora.": {
+        "id": "6",
+        "descr": "A",
+        "position": {
+          "top": "122",
+          "left": "214"
+        }
+      },
+      "Orelha.": {
+        "id": "7",
+        "descr": "",
+        "position": null
+      },
+      "Face.": {
+        "id": "8",
+        "descr": "A",
+        "position": {
+          "top": "146",
+          "left": "114"
+        }
+      },
+      "Olho.": {
+        "id": "9",
+        "descr": "",
+        "position": null
+      },
+      "Bochecha.": {
+        "id": "10",
+        "descr": "C",
+        "position": {
+          "top": "157",
+          "left": "456"
+        }
+      },
+      "Nariz.": {
+        "id": "11",
+        "descr": "",
+        "position": null
+      },
+      "Boca.": {
+        "id": "12",
+        "descr": "",
+        "position": null
+      },
+      "Mento.": {
+        "id": "13",
+        "descr": "",
+        "position": {
+          "top": "57",
+          "left": "485"
+        }
+      },
+      "Pescoço.": {
+        "id": "14",
+        "descr": "Seu limite superior passa por uma linha ao longo da margem inferior da mandí-bula, processo mastóide, linha nucal superior, até a protuberância occipital externa; seu limi-te inferior estende-se da margem superior do manúbrio do esterno, ao longo da clavícula, ao acrômio e à espinha da escápula, até o processo espinhoso de C VII. A, B",
+        "position": {
+          "top": "164",
+          "left": "354"
+        }
+      },
+      "Tronco.": {
+        "id": "15",
+        "descr": "A, B, C",
+        "position": null
+      },
+      "Tórax.": {
+        "id": "16",
+        "descr": "Parte do tronco, entre o pescoço e o abdo-me. Sua estrutura básica é a caixa torácica. Seu limite inferior é a abertura torácica inferior e o diafragma. A",
+        "position": {
+          "top": "255",
+          "left": "164"
+        }
+      },
+      "Peito.": {
+        "id": "17",
+        "descr": "C",
+        "position": {
+          "top": "237",
+          "left": "484"
+        }
+      },
+      "Abdome.": {
+        "id": "18",
+        "descr": "Parte do tronco entre o tórax, a mar-gem superior do sacro, o ligamento inguinal e a sínfi se púbica. A, C",
+        "position": {
+          "top": "332",
+          "left": "456"
+        }
+      },
+      "Pelve.": {
+        "id": "19",
+        "descr": "Parte do tronco entre o abdome e o soalho da pelve. A pelve maior e a pelve menor são se-paradas pela linha terminal.",
+        "position": null
+      },
+      "Dorso.": {
+        "id": "20",
+        "descr": "Parte posterior do tronco. B",
+        "position": {
+          "top": "299",
+          "left": "312"
+        }
+      },
+      "Membro superior.": {
+        "id": "21",
+        "descr": "Constituído pelo cíngulo do membro superior e pela extremidade livre.",
+        "position": null
+      },
+      "Cíngulo do membro superior.": {
+        "id": "22",
+        "descr": "Sua estrutura óssea básica é formada pela escápula e pela clavícula. A, B",
+        "position": {
+          "top": "238",
+          "left": "273"
+        }
+      },
+      "Axila.": {
+        "id": "23",
+        "descr": "Cavidade axilar. Espaço de união entre o membro superior e a parede lateral do tórax. C",
+        "position": {
+          "top": "212",
+          "left": "424"
+        }
+      },
+      "Braço.": {
+        "id": "24",
+        "descr": "A",
+        "position": {
+          "top": "137",
+          "left": "433"
+        }
+      },
+      "Cotovelo.": {
+        "id": "25",
+        "descr": "",
+        "position": null
+      },
+      "Antebraço.": {
+        "id": "26",
+        "descr": "A",
+        "position": {
+          "top": "371",
+          "left": "233"
+        }
+      },
+      "Mão.": {
+        "id": "27",
+        "descr": "",
+        "position": null
+      },
+      "Carpo.": {
+        "id": "28",
+        "descr": "A",
+        "position": {
+          "top": "413",
+          "left": "124"
+        }
+      },
+      "Metacarpo.": {
+        "id": "29",
+        "descr": "A",
+        "position": {
+          "top": "432",
+          "left": "124"
+        }
+      },
+      "Palma.": {
+        "id": "30",
+        "descr": "A",
+        "position": {
+          "top": "432",
+          "left": "124"
+        }
+      },
+      "Dorso da mão.": {
+        "id": "31",
+        "descr": "",
+        "position": null
+      },
+      "Dedos da mão.": {
+        "id": "32",
+        "descr": "",
+        "position": null
+      },
+      "Membro inferior.": {
+        "id": "33",
+        "descr": "Constituído pelo cíngulo do membro inferior e pela extremidade livre.",
+        "position": null
+      },
+      "Cíngulo do membro inferior.": {
+        "id": "34",
+        "descr": "Sua estrutura óssea básica é formada pelo osso do quadril. C",
+        "position": {
+          "top": "374",
+          "left": "433"
+        }
+      },
+      "Nádegas.": {
+        "id": "35",
+        "descr": "B",
+        "position": {
+          "top": "416",
+          "left": "285"
+        }
+      },
+      "Quadril.": {
+        "id": "36",
+        "descr": "Região de união da pelve com a extre-midade livre do membro inferior. C",
+        "position": {
+          "top": "389",
+          "left": "433"
+        }
+      },
+      "Fêmur.": {
+        "id": "37",
+        "descr": "A, B",
+        "position": {
+          "top": "483",
+          "left": "280"
+        }
+      },
+      "Joelho.": {
+        "id": "38",
+        "descr": "C",
+        "position": {
+          "top": "545",
+          "left": "456"
+        }
+      },
+      "Região poplítea.": {
+        "id": "39",
+        "descr": "Fossa superfi cial do joelho. C",
+        "position": {
+          "top": "539",
+          "left": "386"
+        }
+      },
+      "Perna.": {
+        "id": "40",
+        "descr": "A",
+        "position": {
+          "top": "606",
+          "left": "141"
+        }
+      },
+      "Sura.": {
+        "id": "41",
+        "descr": "Panturrilha. B, C",
+        "position": {
+          "top": "576",
+          "left": "404"
+        }
+      },
+      "Pé": {
+        "id": "42",
+        "descr": "",
+        "position": null
+      },
+      "Tarso.": {
+        "id": "43",
+        "descr": "A",
+        "position": {
+          "top": "666",
+          "left": "182"
+        }
+      },
+      "Calcanhar.": {
+        "id": "44",
+        "descr": "B",
+        "position": {
+          "top": "677",
+          "left": "329"
+        }
+      },
+      "Metatarso.": {
+        "id": "45",
+        "descr": "A",
+        "position": {
+          "top": "690",
+          "left": "182"
+        }
+      },
+      "Planta.": {
+        "id": "46",
+        "descr": "B",
+        "position": {
+          "top": "704",
+          "left": "284"
+        }
+      },
+      "Dorso do pé.": {
+        "id": "47",
+        "descr": "C",
+        "position": {
+          "top": "662",
+          "left": "448"
+        }
+      },
+      "Dedos do pé.": {
+        "id": "48",
+        "descr": "",
+        "position": null
+      },
+      "Cavidades.": {
+        "id": "49",
+        "descr": "",
+        "position": null
+      },
+      "Cavidade do crânio.": {
+        "id": "50",
+        "descr": "",
+        "position": null
+      },
+      "Cavidade torácica.": {
+        "id": "51",
+        "descr": "",
+        "position": null
+      },
+      "Cavidade abdominopélvica.": {
+        "id": "52",
+        "descr": "Cavidade conjunta do abdome e da pelve.",
+        "position": null
+      },
+      "Cavidade abdominal.": {
+        "id": "53",
+        "descr": "",
+        "position": null
+      },
+      "Cavidade pélvica.": {
+        "id": "54",
+        "descr": "",
+        "position": null
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-2_1.png",
+        "position": {
+          "top": "94",
+          "left": "58",
+          "width": "428",
+          "height": "643"
+        }
+      },
+      {
+        "name": "anatomia geral-2_2.png",
+        "position": {
+          "top": "213",
+          "left": "103",
+          "width": "55",
+          "height": "18"
+        }
+      },
+      {
+        "name": "anatomia geral-2_3.png",
+        "position": {
+          "top": "204",
+          "left": "236",
+          "width": "60",
+          "height": "72"
+        }
+      },
+      {
+        "name": "anatomia geral-2_4.png",
+        "position": {
+          "top": "352",
+          "left": "402",
+          "width": "63",
+          "height": "113"
+        }
+      }
+    ],
+    "ids": {
+      "13": {
+        "top": "57",
+        "left": "485"
+      },
+      "1": {
+        "top": "98",
+        "left": "517"
+      },
+      "6": {
+        "top": "122",
+        "left": "214"
+      },
+      "4": {
+        "top": "146",
+        "left": "114"
+      },
+      "8": {
+        "top": "146",
+        "left": "114"
+      },
+      "14": {
+        "top": "164",
+        "left": "354"
+      },
+      "22": {
+        "top": "238",
+        "left": "273"
+      },
+      "16": {
+        "top": "255",
+        "left": "164"
+      },
+      "18": {
+        "top": "332",
+        "left": "456"
+      },
+      "24": {
+        "top": "137",
+        "left": "433"
+      },
+      "28": {
+        "top": "413",
+        "left": "124"
+      },
+      "26": {
+        "top": "371",
+        "left": "233"
+      },
+      "29": {
+        "top": "432",
+        "left": "124"
+      },
+      "30": {
+        "top": "432",
+        "left": "124"
+      },
+      "37": {
+        "top": "483",
+        "left": "280"
+      },
+      "40": {
+        "top": "606",
+        "left": "141"
+      },
+      "43": {
+        "top": "666",
+        "left": "182"
+      },
+      "45": {
+        "top": "690",
+        "left": "182"
+      },
+      "44": {
+        "top": "677",
+        "left": "329"
+      },
+      "46": {
+        "top": "704",
+        "left": "284"
+      },
+      "41": {
+        "top": "576",
+        "left": "404"
+      },
+      "5": {
+        "top": "122",
+        "left": "312"
+      },
+      "20": {
+        "top": "299",
+        "left": "312"
+      },
+      "35": {
+        "top": "416",
+        "left": "285"
+      },
+      "39": {
+        "top": "539",
+        "left": "386"
+      },
+      "38": {
+        "top": "545",
+        "left": "456"
+      },
+      "47": {
+        "top": "662",
+        "left": "448"
+      },
+      "34": {
+        "top": "374",
+        "left": "433"
+      },
+      "36": {
+        "top": "389",
+        "left": "433"
+      },
+      "23": {
+        "top": "212",
+        "left": "424"
+      },
+      "17": {
+        "top": "237",
+        "left": "484"
+      },
+      "10": {
+        "top": "157",
+        "left": "456"
+      }
+    }
+  },
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "14",
+        "descr": "Geral",
+        "position": null
+      },
+      "TERMOS GERAIS.": {
+        "id": "1",
+        "descr": "",
+        "position": {
+          "top": "98",
+          "left": "517"
+        }
+      },
+      "Vertical.": {
+        "id": "2",
+        "descr": "",
+        "position": null
+      },
+      "Horizontal.": {
+        "id": "3",
+        "descr": "A",
+        "position": {
+          "top": "272",
+          "left": "317"
+        }
+      },
+      "Mediano.": {
+        "id": "4",
+        "descr": "Situado no plano mediano. A",
+        "position": {
+          "top": "279",
+          "left": "427"
+        }
+      },
+      "Coronal.": {
+        "id": "5",
+        "descr": "Situado no plano da sutura coronal. A",
+        "position": {
+          "top": "163",
+          "left": "348"
+        }
+      },
+      "Sagital.": {
+        "id": "6",
+        "descr": "Situado no plano da sutura sagital, ou situado em direção dorsal-ventral. A",
+        "position": {
+          "top": "282",
+          "left": "453"
+        }
+      },
+      "Direito.": {
+        "id": "7",
+        "descr": "",
+        "position": null
+      },
+      "Esquerdo.": {
+        "id": "8",
+        "descr": "",
+        "position": null
+      },
+      "Intermédio.": {
+        "id": "9",
+        "descr": "Situado entre duas estruturas.*",
+        "position": null
+      },
+      "Medial.": {
+        "id": "10",
+        "descr": "Situado próximo do plano mediano.",
+        "position": null
+      },
+      "Lateral.": {
+        "id": "11",
+        "descr": "Situado afastado do plano mediano.",
+        "position": null
+      },
+      "Anterior.": {
+        "id": "12",
+        "descr": "Situado à frente de.",
+        "position": null
+      },
+      "Posterior.": {
+        "id": "13",
+        "descr": "Situado atrás de.",
+        "position": null
+      },
+      "Ventral.": {
+        "id": "14",
+        "descr": "Situado em direção ao ventre.",
+        "position": null
+      },
+      "Dorsal.": {
+        "id": "15",
+        "descr": "Situado em direção ao dorso.",
+        "position": {
+          "top": "57",
+          "left": "485"
+        }
+      },
+      "Frontal.": {
+        "id": "16",
+        "descr": "Pertencente à fronte (testa); situado paralelamente à fronte (testa). A",
+        "position": {
+          "top": "112",
+          "left": "274"
+        }
+      },
+      "Occipital.": {
+        "id": "17",
+        "descr": "Pertencente ao occipício (nuca); si-tuado em direção ao occipício (nuca).",
+        "position": null
+      },
+      "Superior.": {
+        "id": "18",
+        "descr": "Situado em direção à cabeça.",
+        "position": null
+      },
+      "Inferior.": {
+        "id": "19",
+        "descr": "Situado em direção à cauda (cóccix).",
+        "position": null
+      },
+      "Cranial.": {
+        "id": "20",
+        "descr": "Pertencente ao crânio; situado em dire-ção do crânio.",
+        "position": null
+      },
+      "Caudal.": {
+        "id": "21",
+        "descr": "Situado em direção à cauda.",
+        "position": null
+      },
+      "Rostral.": {
+        "id": "22",
+        "descr": "Situado em direção ao rostro do corpo caloso.",
+        "position": null
+      },
+      "Apical.": {
+        "id": "23",
+        "descr": "Pertencente ao ápice; em direção ao ápice.",
+        "position": null
+      },
+      "Basal.": {
+        "id": "24",
+        "descr": "Pertencente à base; em direção à base.",
+        "position": null
+      },
+      "Basilar.": {
+        "id": "25",
+        "descr": "Pertencente à base do crânio; em dire-ção à base do crânio.",
+        "position": null
+      },
+      "Médio.": {
+        "id": "26",
+        "descr": "Meio; situado entre (no meio de) duas estruturas.**",
+        "position": null
+      },
+      "Transverso.": {
+        "id": "27",
+        "descr": "",
+        "position": null
+      },
+      "Transversal.": {
+        "id": "28",
+        "descr": "Situado transversalmente.",
+        "position": null
+      },
+      "Longitudinal.": {
+        "id": "29",
+        "descr": "Situado longitudinalmente.",
+        "position": null
+      },
+      "Axial.": {
+        "id": "30",
+        "descr": "Situado na direção de um eixo. Pertencente ao áxis, a segunda vértebra cervical.",
+        "position": null
+      },
+      "Externo.": {
+        "id": "31",
+        "descr": "Situado em direção ao lado de fora; exterior.",
+        "position": null
+      },
+      "Interno.": {
+        "id": "32",
+        "descr": "Situado em direção ao lado de dentro; interior.",
+        "position": null
+      },
+      "Luminal.": {
+        "id": "33",
+        "descr": "Pertencente ao lume (vaso); situado em direção ao lume (vaso).",
+        "position": null
+      },
+      "Superﬁ cial.": {
+        "id": "34",
+        "descr": "Situado na superfície.",
+        "position": null
+      },
+      "Profundo.": {
+        "id": "35",
+        "descr": "Situado na profundidade.",
+        "position": null
+      },
+      "Proximal.": {
+        "id": "36",
+        "descr": "Situado próximo do tronco. B",
+        "position": {
+          "top": "498",
+          "left": "79"
+        }
+      },
+      "Distal.": {
+        "id": "37",
+        "descr": "Situado afastado do tronco. B",
+        "position": {
+          "top": "528",
+          "left": "79"
+        }
+      },
+      "Central.": {
+        "id": "38",
+        "descr": "Situado no ponto médio.",
+        "position": null
+      },
+      "Periférico.": {
+        "id": "39",
+        "descr": "Situado afastado do centro.",
+        "position": null
+      },
+      "Radial.": {
+        "id": "40",
+        "descr": "Pertencente ao rádio; situado em dire-ção ao rádio. B",
+        "position": {
+          "top": "298",
+          "left": "201"
+        }
+      },
+      "Ulnar.": {
+        "id": "41",
+        "descr": "Pertencente à ulna; situado em direção à ulna. B",
+        "position": {
+          "top": "321",
+          "left": "201"
+        }
+      },
+      "Fibular.": {
+        "id": "42",
+        "descr": "Pertencente à fíbula; situado em dire-ção à fíbula. B",
+        "position": {
+          "top": "590",
+          "left": "128"
+        }
+      },
+      "Tibial.": {
+        "id": "43",
+        "descr": "Pertencente à tíbia; situado em direção à tíbia. B",
+        "position": {
+          "top": "567",
+          "left": "127"
+        }
+      },
+      "Palmar.": {
+        "id": "44",
+        "descr": "Pertencente à palma; situado em dire-ção à palma. B",
+        "position": {
+          "top": "391",
+          "left": "212"
+        }
+      },
+      "Plantar.": {
+        "id": "45",
+        "descr": "Pertencente à planta; situado em dire-ção à planta. B",
+        "position": {
+          "top": "698",
+          "left": "119"
+        }
+      },
+      "Flexor.": {
+        "id": "46",
+        "descr": "",
+        "position": null
+      },
+      "Extensor.": {
+        "id": "47",
+        "descr": "",
+        "position": null
+      },
+      "LINHAS, PLANOS E REGIÕES.": {
+        "id": "48",
+        "descr": "",
+        "position": null
+      },
+      "Linha mediana anterior.": {
+        "id": "49",
+        "descr": "Linha vertical mediana através do tronco. C",
+        "position": {
+          "top": "633",
+          "left": "298"
+        }
+      },
+      "Linha esternal.": {
+        "id": "50",
+        "descr": "Situada na margem lateral do esterno. C",
+        "position": {
+          "top": "560",
+          "left": "296"
+        }
+      },
+      "Linha paraesternal.": {
+        "id": "51",
+        "descr": "Linha vertical entre a linha esternal e a linha medioclavicular. C",
+        "position": {
+          "top": "572",
+          "left": "390"
+        }
+      },
+      "Linha medioclavicular.": {
+        "id": "52",
+        "descr": "Linha vertical através do ponto médio da clavícula. C",
+        "position": {
+          "top": "638",
+          "left": "390"
+        }
+      },
+      "Linha mamilar.": {
+        "id": "53",
+        "descr": "O mesmo que linha medioclavi-cular. C",
+        "position": {
+          "top": "638",
+          "left": "390"
+        }
+      },
+      "Linha axilar anterior.": {
+        "id": "54",
+        "descr": "Situada na prega axilar anterior. C",
+        "position": {
+          "top": "516",
+          "left": "391"
+        }
+      },
+      "Linha axilar média.": {
+        "id": "55",
+        "descr": "Situada no centro da axila, entre a linha axilar anterior e a linha axilar pos-terior. C",
+        "position": {
+          "top": "524",
+          "left": "475"
+        }
+      },
+      "Linha axilar posterior.": {
+        "id": "56",
+        "descr": "Situada na prega axilar posterior. B, C",
+        "position": {
+          "top": "541",
+          "left": "475"
+        }
+      },
+      "Linha escapular.": {
+        "id": "57",
+        "descr": "Linha vertical através do ân-gulo inferior da escápula. B",
+        "position": {
+          "top": "191",
+          "left": "154"
+        }
+      },
+      "Linha paravertebral.": {
+        "id": "58",
+        "descr": "Linha vertical através das extremidades dos processos transversos, visível apenas em radiografi as. B",
+        "position": {
+          "top": "275",
+          "left": "133"
+        }
+      },
+      "Linha mediana posterior.": {
+        "id": "59",
+        "descr": "Linha vertical media-na através do tronco.",
+        "position": {
+          "top": "126",
+          "left": "72"
+        }
+      },
+      "Planos frontais.": {
+        "id": "60",
+        "descr": "Situados paralelamente à su-perfície da fronte (testa), perpendiculares ao plano mediano e a um plano horizontal. A",
+        "position": {
+          "top": "122",
+          "left": "274"
+        }
+      },
+      "Planos horizontais.": {
+        "id": "61",
+        "descr": "Planos transversais situa-dos perpendicularmente ao plano mediano e a um plano frontal. A",
+        "position": {
+          "top": "272",
+          "left": "317"
+        }
+      },
+      "Planos sagitais.": {
+        "id": "62",
+        "descr": "Planos paralelos à sutura sa-gital, situados perpendicularmente aos planos frontal e horizontal. A",
+        "position": {
+          "top": "289",
+          "left": "422"
+        }
+      },
+      "Plano mediano.": {
+        "id": "63",
+        "descr": "Plano sagital mediano ou plano de simetria. Este plano divide o corpo humano em duas metades iguais. A",
+        "position": {
+          "top": "299",
+          "left": "422"
+        }
+      },
+      "Planos paramedianos.": {
+        "id": "64",
+        "descr": "Situam-se paralelamente ao plano mediano. A  *  N. de T.  Uma estrutura deve ser medial e a outra, lateral. **  N. de T.  Uma estrutura deve ser anterior ou superior e a outra, posterior ou inferior.",
+        "position": {
+          "top": "292",
+          "left": "448"
+        }
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-4_1.png",
+        "position": {
+          "top": "414",
+          "left": "253",
+          "width": "236",
+          "height": "282"
+        }
+      },
+      {
+        "name": "anatomia geral-4_2.png",
+        "position": {
+          "top": "97",
+          "left": "61",
+          "width": "169",
+          "height": "638"
+        }
+      },
+      {
+        "name": "anatomia geral-4_3.png",
+        "position": {
+          "top": "135",
+          "left": "84",
+          "width": "96",
+          "height": "87"
+        }
+      },
+      {
+        "name": "anatomia geral-4_4.png",
+        "position": {
+          "top": "128",
+          "left": "288",
+          "width": "111",
+          "height": "169"
+        }
+      },
+      {
+        "name": "anatomia geral-4_5.png",
+        "position": {
+          "top": "128",
+          "left": "345",
+          "width": "80",
+          "height": "166"
+        }
+      }
+    ],
+    "ids": {
+      "15": {
+        "top": "57",
+        "left": "485"
+      },
+      "1": {
+        "top": "98",
+        "left": "517"
+      },
+      "36": {
+        "top": "498",
+        "left": "79"
+      },
+      "37": {
+        "top": "528",
+        "left": "79"
+      },
+      "40": {
+        "top": "298",
+        "left": "201"
+      },
+      "41": {
+        "top": "321",
+        "left": "201"
+      },
+      "58": {
+        "top": "275",
+        "left": "133"
+      },
+      "44": {
+        "top": "391",
+        "left": "212"
+      },
+      "45": {
+        "top": "698",
+        "left": "119"
+      },
+      "57": {
+        "top": "191",
+        "left": "154"
+      },
+      "56": {
+        "top": "541",
+        "left": "475"
+      },
+      "43": {
+        "top": "567",
+        "left": "127"
+      },
+      "42": {
+        "top": "590",
+        "left": "128"
+      },
+      "59": {
+        "top": "126",
+        "left": "72"
+      },
+      "55": {
+        "top": "524",
+        "left": "475"
+      },
+      "54": {
+        "top": "516",
+        "left": "391"
+      },
+      "51": {
+        "top": "572",
+        "left": "390"
+      },
+      "50": {
+        "top": "560",
+        "left": "296"
+      },
+      "49": {
+        "top": "633",
+        "left": "298"
+      },
+      "52": {
+        "top": "638",
+        "left": "390"
+      },
+      "53": {
+        "top": "638",
+        "left": "390"
+      },
+      "16": {
+        "top": "112",
+        "left": "274"
+      },
+      "60": {
+        "top": "122",
+        "left": "274"
+      },
+      "3": {
+        "top": "272",
+        "left": "317"
+      },
+      "61": {
+        "top": "272",
+        "left": "317"
+      },
+      "4": {
+        "top": "279",
+        "left": "427"
+      },
+      "62": {
+        "top": "289",
+        "left": "422"
+      },
+      "63": {
+        "top": "299",
+        "left": "422"
+      },
+      "6": {
+        "top": "282",
+        "left": "453"
+      },
+      "64": {
+        "top": "292",
+        "left": "448"
+      },
+      "5": {
+        "top": "163",
+        "left": "348"
+      }
+    }
+  },
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "16",
+        "descr": "Geral",
+        "position": {
+          "top": "313",
+          "left": "380"
+        }
+      },
+      "Planos transversos.": {
+        "id": "1",
+        "descr": "Planos horizontais. Planos horizontais especiais são descritos a seguir. A",
+        "position": {
+          "top": "98",
+          "left": "517"
+        }
+      },
+      "Plano transpilórico.": {
+        "id": "2",
+        "descr": "Plano transverso através do ponto médio da distância entre a margem supe-rior da sínfi se púbica e a margem superior do manúbrio do esterno. A",
+        "position": {
+          "top": "241",
+          "left": "237"
+        }
+      },
+      "Plano subcostal.": {
+        "id": "3",
+        "descr": "Plano transverso através da margem inferior da décima cartilagem costal. A",
+        "position": {
+          "top": "252",
+          "left": "237"
+        }
+      },
+      "Plano supracristal.": {
+        "id": "4",
+        "descr": "Plano transverso através do ponto mais superior das cristas ilíacas. Atra-vessa a coluna vertebral na altura do processo espinhoso da quarta vértebra lombar. A",
+        "position": {
+          "top": "284",
+          "left": "237"
+        }
+      },
+      "Plano intertubercular.": {
+        "id": "5",
+        "descr": "Plano transverso através dos tubérculos ilíacos. A",
+        "position": {
+          "top": "298",
+          "left": "237"
+        }
+      },
+      "Plano interespinal.": {
+        "id": "6",
+        "descr": "Plano transverso através das espinhas ilíacas ântero-superiores. A",
+        "position": {
+          "top": "311",
+          "left": "237"
+        }
+      },
+      "Regiões da cabeça.": {
+        "id": "7",
+        "descr": "Regiões topográfi cas da ca-beça.",
+        "position": null
+      },
+      "Região frontal.": {
+        "id": "8",
+        "descr": "Região da fronte (testa). B",
+        "position": {
+          "top": "265",
+          "left": "376"
+        }
+      },
+      "Região parietal.": {
+        "id": "9",
+        "descr": "Região sobre o osso parietal. B, C",
+        "position": {
+          "top": "485",
+          "left": "159"
+        }
+      },
+      "Região occipital.": {
+        "id": "10",
+        "descr": "Região sobre o osso occipital. B, C",
+        "position": {
+          "top": "543",
+          "left": "137"
+        }
+      },
+      "Região temporal.": {
+        "id": "11",
+        "descr": "Região sobre o osso temporal. B, C",
+        "position": {
+          "top": "529",
+          "left": "210"
+        }
+      },
+      "Região auricular.": {
+        "id": "12",
+        "descr": "Região da orelha. A",
+        "position": {
+          "top": "365",
+          "left": "426"
+        }
+      },
+      "Região mastóidea.": {
+        "id": "13",
+        "descr": "Região sobre o processo mastóideo. B, C",
+        "position": {
+          "top": "585",
+          "left": "194"
+        }
+      },
+      "Região facial.": {
+        "id": "14",
+        "descr": "Região da face.",
+        "position": null
+      },
+      "Sulco suprapalpebral.": {
+        "id": "15",
+        "descr": "Sulco acima da pálpebra superior. B",
+        "position": {
+          "top": "288",
+          "left": "406"
+        }
+      },
+      "Região orbital.": {
+        "id": "16",
+        "descr": "Região que envolve a órbita. B",
+        "position": {
+          "top": "313",
+          "left": "380"
+        }
+      },
+      "Sulco infrapalpebral.": {
+        "id": "17",
+        "descr": "Sulco abaixo da pálpebra inferior. B",
+        "position": {
+          "top": "270",
+          "left": "306"
+        }
+      },
+      "Região infra-orbital.": {
+        "id": "18",
+        "descr": "Região abaixo da órbita. B",
+        "position": {
+          "top": "318",
+          "left": "351"
+        }
+      },
+      "Região da bochecha.": {
+        "id": "19",
+        "descr": "Região da bochecha. B",
+        "position": {
+          "top": "367",
+          "left": "354"
+        }
+      },
+      "Região parotideomassetérica.": {
+        "id": "20",
+        "descr": "Região sobre a glândula parótida e o m. masseter. B",
+        "position": {
+          "top": "370",
+          "left": "389"
+        }
+      },
+      "[[Fossa retromandibular]].": {
+        "id": "21",
+        "descr": "Ao longo do ramo da mandíbula, estende-se de medial para posterior até a articulação temporomandibular. Contém a glândula parótida e as veias.",
+        "position": null
+      },
+      "Região zigomática.": {
+        "id": "22",
+        "descr": "Região sobre o zigomático. B",
+        "position": {
+          "top": "336",
+          "left": "383"
+        }
+      },
+      "Região nasal.": {
+        "id": "23",
+        "descr": "Região que envolve o nariz. B",
+        "position": {
+          "top": "299",
+          "left": "323"
+        }
+      },
+      "Sulco nasolabial.": {
+        "id": "24",
+        "descr": "Sulco da asa do nariz até o ân-gulo da boca. B",
+        "position": {
+          "top": "343",
+          "left": "353"
+        }
+      },
+      "Região oral.": {
+        "id": "25",
+        "descr": "Região ao redor da rima da boca. B",
+        "position": {
+          "top": "351",
+          "left": "325"
+        }
+      },
+      "Sulco mentolabial.": {
+        "id": "26",
+        "descr": "Sulco entre o lábio inferior e o queixo. B",
+        "position": {
+          "top": "326",
+          "left": "267"
+        }
+      },
+      "Região mentual.": {
+        "id": "27",
+        "descr": "Região do queixo. B",
+        "position": {
+          "top": "351",
+          "left": "294"
+        }
+      },
+      "Regiões cervicais.": {
+        "id": "28",
+        "descr": "Regiões topográfi cas do pes-coço. B",
+        "position": null
+      },
+      "Região cervical anterior (trígono cervical ante-": {
+        "id": "29",
+        "descr": "rior).  Trígono entre a linha mediana do pesco-ço, a margem anterior do m. esternocleidomas-tóideo e a margem da base da mandíbula.",
+        "position": null
+      },
+      "Trígono submandibular.": {
+        "id": "30",
+        "descr": "Trígono entre os ventres do m. digástrico e a margem da base da mandí-bula. B",
+        "position": {
+          "top": "401",
+          "left": "338"
+        }
+      },
+      "Trígono carótico.": {
+        "id": "31",
+        "descr": "Trígono entre o m. esternoclei-domastóideo, o ventre posterior do m. digástrico e o ventre superior do m. omo-hióideo. B",
+        "position": {
+          "top": "423",
+          "left": "354"
+        }
+      },
+      "Trígono muscular.": {
+        "id": "32",
+        "descr": "Trígono entre a linha mediana do pescoço, a margem anterior do m. esterno-cleidomastóideo e o ventre superior do m. omo-hióideo. B",
+        "position": {
+          "top": "443",
+          "left": "322"
+        }
+      },
+      "Trígono submentual.": {
+        "id": "33",
+        "descr": "Trígono abaixo do queixo, entre o hióide e o ventre anterior de ambos os mm. digástricos. B",
+        "position": {
+          "top": "386",
+          "left": "299"
+        }
+      },
+      "Região esternocleidomastóidea.": {
+        "id": "34",
+        "descr": "Região sobre o m. esternocleidomastóideo. B",
+        "position": {
+          "top": "455",
+          "left": "364"
+        }
+      },
+      "Fossa supraclavicular menor.": {
+        "id": "35",
+        "descr": "Depressão entre as origens esternal e clavicular do m. esternoclei-domastóideo. B",
+        "position": {
+          "top": "496",
+          "left": "346"
+        }
+      },
+      "Região cervical lateral (trígono cervical late-": {
+        "id": "36",
+        "descr": "ral).  Trígono entre a clavícula, a margem ante-rior do m. trapézio e a margem posterior do m. esternocleidomastóideo. B",
+        "position": {
+          "top": "464",
+          "left": "398"
+        }
+      },
+      "Trígono omoclavicular.": {
+        "id": "37",
+        "descr": "Trígono entre a clavícula, a margem posterior do m. esternocleidomastói-deo e o ventre inferior do m. omo-hióideo. B",
+        "position": {
+          "top": "493",
+          "left": "374"
+        }
+      },
+      "Fossa supraclavicular maior.": {
+        "id": "38",
+        "descr": "Depressão cutânea sobre o trígono omoclavicular. B",
+        "position": {
+          "top": "493",
+          "left": "374"
+        }
+      },
+      "Região cervical posterior.": {
+        "id": "39",
+        "descr": "A região da nuca (re-gião posterior do pescoço). C",
+        "position": {
+          "top": "626",
+          "left": "150"
+        }
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-6_1.png",
+        "position": {
+          "top": "473",
+          "left": "61",
+          "width": "184",
+          "height": "228"
+        }
+      },
+      {
+        "name": "anatomia geral-6_2.png",
+        "position": {
+          "top": "473",
+          "left": "61",
+          "width": "184",
+          "height": "228"
+        }
+      },
+      {
+        "name": "anatomia geral-6_3.png",
+        "position": {
+          "top": "252",
+          "left": "255",
+          "width": "236",
+          "height": "258"
+        }
+      },
+      {
+        "name": "anatomia geral-6_4.png",
+        "position": {
+          "top": "252",
+          "left": "255",
+          "width": "236",
+          "height": "258"
+        }
+      },
+      {
+        "name": "anatomia geral-6_5.png",
+        "position": {
+          "top": "94",
+          "left": "61",
+          "width": "196",
+          "height": "288"
+        }
+      },
+      {
+        "name": "anatomia geral-6_6.png",
+        "position": {
+          "top": "261",
+          "left": "97",
+          "width": "123",
+          "height": "102"
+        }
+      }
+    ],
+    "ids": {
+      "17": {
+        "top": "270",
+        "left": "306"
+      },
+      "1": {
+        "top": "98",
+        "left": "517"
+      },
+      "2": {
+        "top": "241",
+        "left": "237"
+      },
+      "3": {
+        "top": "252",
+        "left": "237"
+      },
+      "4": {
+        "top": "284",
+        "left": "237"
+      },
+      "5": {
+        "top": "298",
+        "left": "237"
+      },
+      "6": {
+        "top": "311",
+        "left": "237"
+      },
+      "8": {
+        "top": "265",
+        "left": "376"
+      },
+      "15": {
+        "top": "288",
+        "left": "406"
+      },
+      "11": {
+        "top": "529",
+        "left": "210"
+      },
+      "9": {
+        "top": "485",
+        "left": "159"
+      },
+      "16": {
+        "top": "313",
+        "left": "380"
+      },
+      "23": {
+        "top": "299",
+        "left": "323"
+      },
+      "18": {
+        "top": "318",
+        "left": "351"
+      },
+      "27": {
+        "top": "351",
+        "left": "294"
+      },
+      "26": {
+        "top": "326",
+        "left": "267"
+      },
+      "25": {
+        "top": "351",
+        "left": "325"
+      },
+      "12": {
+        "top": "365",
+        "left": "426"
+      },
+      "22": {
+        "top": "336",
+        "left": "383"
+      },
+      "24": {
+        "top": "343",
+        "left": "353"
+      },
+      "19": {
+        "top": "367",
+        "left": "354"
+      },
+      "20": {
+        "top": "370",
+        "left": "389"
+      },
+      "33": {
+        "top": "386",
+        "left": "299"
+      },
+      "30": {
+        "top": "401",
+        "left": "338"
+      },
+      "32": {
+        "top": "443",
+        "left": "322"
+      },
+      "31": {
+        "top": "423",
+        "left": "354"
+      },
+      "34": {
+        "top": "455",
+        "left": "364"
+      },
+      "36": {
+        "top": "464",
+        "left": "398"
+      },
+      "13": {
+        "top": "585",
+        "left": "194"
+      },
+      "10": {
+        "top": "543",
+        "left": "137"
+      },
+      "37": {
+        "top": "493",
+        "left": "374"
+      },
+      "38": {
+        "top": "493",
+        "left": "374"
+      },
+      "35": {
+        "top": "496",
+        "left": "346"
+      },
+      "39": {
+        "top": "626",
+        "left": "150"
+      }
+    }
+  },
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "18",
+        "descr": "Geral",
+        "position": null
+      },
+      "Regiões torácicas anteriores e laterais.": {
+        "id": "1",
+        "descr": "",
+        "position": {
+          "top": "98",
+          "left": "517"
+        }
+      },
+      "Região pré-esternal.": {
+        "id": "2",
+        "descr": "Região anterior ao esterno. C",
+        "position": {
+          "top": "287",
+          "left": "423"
+        }
+      },
+      "Fossa infraclavicular.": {
+        "id": "3",
+        "descr": "[[Fossa de Morenheim]]. De pressão cutânea sobre o trígono clavipeitoral. C",
+        "position": {
+          "top": "236",
+          "left": "392"
+        }
+      },
+      "Trígono clavipeitoral.": {
+        "id": "4",
+        "descr": "Trígono entre os múscu-los deltóide, peitoral maior e a clavícula. C",
+        "position": {
+          "top": "236",
+          "left": "392"
+        }
+      },
+      "Região peitoral.": {
+        "id": "5",
+        "descr": "Região sobre o músculo peito-ral maior. C",
+        "position": {
+          "top": "280",
+          "left": "394"
+        }
+      },
+      "Região peitoral lateral.": {
+        "id": "6",
+        "descr": "Parte lateral das regiões mamária e inframamária. C",
+        "position": {
+          "top": "326",
+          "left": "188"
+        }
+      },
+      "Região mamária.": {
+        "id": "7",
+        "descr": "Região que compreende a glân-dula mamária. C",
+        "position": {
+          "top": "304",
+          "left": "367"
+        }
+      },
+      "Região inframamária.": {
+        "id": "8",
+        "descr": "Região abaixo da região mamária. C",
+        "position": {
+          "top": "332",
+          "left": "385"
+        }
+      },
+      "Região axilar.": {
+        "id": "9",
+        "descr": "Região entre as duas pregas axi-lares. A",
+        "position": {
+          "top": "147",
+          "left": "276"
+        }
+      },
+      "Fossa axilar.": {
+        "id": "10",
+        "descr": "Fossa central da axila. A",
+        "position": {
+          "top": "168",
+          "left": "265"
+        }
+      },
+      "Regiões abdominais.": {
+        "id": "11",
+        "descr": "",
+        "position": null
+      },
+      "Hipocôndrio.": {
+        "id": "12",
+        "descr": "Região lateral à linha medioclavi-cular, entre a região peitoral e o plano subcostal. C",
+        "position": {
+          "top": "360",
+          "left": "372"
+        }
+      },
+      "Epigástrio (fossa epigástrica).": {
+        "id": "13",
+        "descr": "Região abaixo das regiões peitorais, entre as duas linhas me-dioclaviculares e o plano subcostal. C",
+        "position": {
+          "top": "348",
+          "left": "420"
+        }
+      },
+      "Região lateral.": {
+        "id": "14",
+        "descr": "Região lateral à linha mediocla-vicular, entre o plano subcostal e o plano supra-cristal. C",
+        "position": {
+          "top": "403",
+          "left": "372"
+        }
+      },
+      "Região umbilical (umbigo).": {
+        "id": "15",
+        "descr": "Região entre as duas linhas medioclavi culares, o plano subcos-tal e o plano supracristal. C",
+        "position": {
+          "top": "389",
+          "left": "420"
+        }
+      },
+      "Região inguinal.": {
+        "id": "16",
+        "descr": "Região lateral à linha medio-clavicular, entre o plano supracristal e o liga-mento inguinal. C",
+        "position": {
+          "top": "447",
+          "left": "382"
+        }
+      },
+      "Região púbica (hipogástrio).": {
+        "id": "17",
+        "descr": "Região entre as duas linhas mediocla viculares, o plano supra-cristal e o liga mento inguinal. C",
+        "position": {
+          "top": "460",
+          "left": "423"
+        }
+      },
+      "Regiões dorsais.": {
+        "id": "18",
+        "descr": "",
+        "position": null
+      },
+      "Região vertebral.": {
+        "id": "19",
+        "descr": "Região em faixa sobre a colu-na vertebral. B",
+        "position": {
+          "top": "310",
+          "left": "117"
+        }
+      },
+      "Região sacral.": {
+        "id": "20",
+        "descr": "Região sobre o sacro. B",
+        "position": {
+          "top": "428",
+          "left": "119"
+        }
+      },
+      "Fovéola coccígea.": {
+        "id": "21",
+        "descr": "Fosseta sobre o cóccix.",
+        "position": null
+      },
+      "Região escapular.": {
+        "id": "22",
+        "descr": "Região sobre a escápula. B",
+        "position": {
+          "top": "281",
+          "left": "164"
+        }
+      },
+      "Região infra-escapular.": {
+        "id": "23",
+        "descr": "Região entre a região escapular e a região lombar. B",
+        "position": {
+          "top": "343",
+          "left": "161"
+        }
+      },
+      "Região lombar.": {
+        "id": "24",
+        "descr": "Região entre a crista ilíaca e a região infra-escapular. B",
+        "position": {
+          "top": "383",
+          "left": "154"
+        }
+      },
+      "Região perineal.": {
+        "id": "25",
+        "descr": "",
+        "position": null
+      },
+      "Região anal.": {
+        "id": "26",
+        "descr": "Região ao redor do ânus. É limi-tada anteriormente por uma linha imaginária através dos dois túberes isquiáticos. D",
+        "position": {
+          "top": "665",
+          "left": "265"
+        }
+      },
+      "Região urogenital.": {
+        "id": "27",
+        "descr": "Região perineal à frente da linha que une os dois túberes isquiáticos. D",
+        "position": {
+          "top": "633",
+          "left": "274"
+        }
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-8_1.png",
+        "position": {
+          "top": "212",
+          "left": "59",
+          "width": "197",
+          "height": "358"
+        }
+      },
+      {
+        "name": "anatomia geral-8_2.png",
+        "position": {
+          "top": "212",
+          "left": "59",
+          "width": "197",
+          "height": "358"
+        }
+      },
+      {
+        "name": "anatomia geral-8_3.png",
+        "position": {
+          "top": "212",
+          "left": "298",
+          "width": "190",
+          "height": "370"
+        }
+      },
+      {
+        "name": "anatomia geral-8_4.png",
+        "position": {
+          "top": "212",
+          "left": "298",
+          "width": "190",
+          "height": "370"
+        }
+      },
+      {
+        "name": "anatomia geral-8_5.png",
+        "position": {
+          "top": "592",
+          "left": "185",
+          "width": "190",
+          "height": "117"
+        }
+      },
+      {
+        "name": "anatomia geral-8_6.png",
+        "position": {
+          "top": "592",
+          "left": "185",
+          "width": "190",
+          "height": "117"
+        }
+      },
+      {
+        "name": "anatomia geral-8_7.png",
+        "position": {
+          "top": "94",
+          "left": "159",
+          "width": "220",
+          "height": "124"
+        }
+      },
+      {
+        "name": "anatomia geral-8_8.png",
+        "position": {
+          "top": "94",
+          "left": "159",
+          "width": "220",
+          "height": "124"
+        }
+      }
+    ],
+    "ids": {
+      "19": {
+        "top": "310",
+        "left": "117"
+      },
+      "1": {
+        "top": "98",
+        "left": "517"
+      },
+      "9": {
+        "top": "147",
+        "left": "276"
+      },
+      "10": {
+        "top": "168",
+        "left": "265"
+      },
+      "7": {
+        "top": "304",
+        "left": "367"
+      },
+      "8": {
+        "top": "332",
+        "left": "385"
+      },
+      "3": {
+        "top": "236",
+        "left": "392"
+      },
+      "4": {
+        "top": "236",
+        "left": "392"
+      },
+      "2": {
+        "top": "287",
+        "left": "423"
+      },
+      "5": {
+        "top": "280",
+        "left": "394"
+      },
+      "22": {
+        "top": "281",
+        "left": "164"
+      },
+      "23": {
+        "top": "343",
+        "left": "161"
+      },
+      "24": {
+        "top": "383",
+        "left": "154"
+      },
+      "20": {
+        "top": "428",
+        "left": "119"
+      },
+      "12": {
+        "top": "360",
+        "left": "372"
+      },
+      "14": {
+        "top": "403",
+        "left": "372"
+      },
+      "13": {
+        "top": "348",
+        "left": "420"
+      },
+      "15": {
+        "top": "389",
+        "left": "420"
+      },
+      "17": {
+        "top": "460",
+        "left": "423"
+      },
+      "16": {
+        "top": "447",
+        "left": "382"
+      },
+      "27": {
+        "top": "633",
+        "left": "274"
+      },
+      "26": {
+        "top": "665",
+        "left": "265"
+      },
+      "6": {
+        "top": "326",
+        "left": "188"
+      }
+    }
+  },
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "20",
+        "descr": "Geral",
+        "position": {
+          "top": "345",
+          "left": "292"
+        }
+      },
+      "": {
+        "id": "1",
+        "descr": "Regiões do membro superior.",
+        "position": {
+          "top": "98",
+          "left": "517"
+        }
+      },
+      "Região deltóidea.": {
+        "id": "2",
+        "descr": "Região sobre o músculo del-tóide. A, B",
+        "position": {
+          "top": "149",
+          "left": "345"
+        }
+      },
+      "Região braquial.": {
+        "id": "3",
+        "descr": "Região do braço.",
+        "position": null
+      },
+      "Região braquial anterior.": {
+        "id": "4",
+        "descr": "Face anterior do braço. B",
+        "position": {
+          "top": "233",
+          "left": "343"
+        }
+      },
+      "Região braquial posterior.": {
+        "id": "7",
+        "descr": "Face posterior do bra-ço. A",
+        "position": {
+          "top": "219",
+          "left": "207"
+        }
+      },
+      "Região cubital.": {
+        "id": "8",
+        "descr": "Região do cotovelo.",
+        "position": null
+      },
+      "Região cubital anterior.": {
+        "id": "9",
+        "descr": "Face anterior do cotovelo. B",
+        "position": {
+          "top": "261",
+          "left": "338"
+        }
+      },
+      "Fossa cubital.": {
+        "id": "10",
+        "descr": "Fossa do cotovelo. B 11 Região cubital posterior.  Face posterior do coto-velo. A",
+        "position": {
+          "top": "256",
+          "left": "299"
+        }
+      },
+      "Região antebraquial.": {
+        "id": "12",
+        "descr": "Região do antebraço. 13 Região antebraquial anterior.  Face anterior do an-tebraço. B 14 Região antebraquial posterior.  Face posterior do ante braço. A 15 Margem radial. Margem lateral. 16 Margem ulnar. Margem medial.",
+        "position": null
+      },
+      "Região da mão.": {
+        "id": "17",
+        "descr": "",
+        "position": null
+      },
+      "Região carpal.": {
+        "id": "18",
+        "descr": "Região do punho. 19 Região carpal anterior.  Face anterior ou fl exora do punho. A",
+        "position": null
+      },
+      "Região carpal posterior.": {
+        "id": "20",
+        "descr": "Face posterior ou extenso-ra do punho. B 21 Região dorsal da mão.  Região do dorso da mão. B 22 Palma.  Face palmar da mão. A 23 Eminência tenar.  Saliência palmar do polegar. 24 Eminência hipotenar.  Saliência palmar do dedo mínimo. 25 Região metacarpal.  Região da mão entre o pu-nho e os dedos. 26 Dedos da mão.*",
+        "position": {
+          "top": "345",
+          "left": "292"
+        }
+      },
+      "Polegar.": {
+        "id": "27",
+        "descr": "O primeiro dedo da mão (I).",
+        "position": null
+      },
+      "Indicador.": {
+        "id": "28",
+        "descr": "O segundo dedo da mão (II).",
+        "position": null
+      },
+      "Dedo médio.": {
+        "id": "29",
+        "descr": "O terceiro dedo da mão (III).",
+        "position": null
+      },
+      "Dedo anular.": {
+        "id": "30",
+        "descr": "O quarto dedo da mão (IV).",
+        "position": null
+      },
+      "Dedo mínimo.": {
+        "id": "31",
+        "descr": "O quinto dedo da mão (V).",
+        "position": null
+      },
+      "Face palmar dos dedos.": {
+        "id": "32",
+        "descr": "Face fl exora dos dedos da mão.",
+        "position": null
+      },
+      "Face dorsal dos dedos.": {
+        "id": "33",
+        "descr": "Face extensora dos dedos da mão.",
+        "position": null
+      },
+      "Regiões do membro inferior.": {
+        "id": "34",
+        "descr": "Regiões topográfi -cas do membro inferior.",
+        "position": null
+      },
+      "Região glútea.": {
+        "id": "35",
+        "descr": "Região sobre a musculatura glú-tea. A 36 Fenda interglútea. Sulco entre as duas nádegas.",
+        "position": {
+          "top": "328",
+          "left": "155"
+        }
+      },
+      "Sulco infraglúteo.": {
+        "id": "37",
+        "descr": "Sulco que passa sobre o mús-culo glúteo máximo e separa as nádegas da coxa, quando a arti culação do quadril é esten-dida. A",
+        "position": {
+          "top": "412",
+          "left": "85"
+        }
+      },
+      "Região do quadril.": {
+        "id": "38",
+        "descr": "",
+        "position": null
+      },
+      "Região da coxa.": {
+        "id": "39",
+        "descr": "40 Região femoral anterior.  Face anterior da coxa. B",
+        "position": null
+      },
+      "Trígono femoral.": {
+        "id": "41",
+        "descr": "Trígono entre o ligamento in-guinal, o m. sartório e o m. grácil. B 42 Região femoral posterior.  Face posterior da coxa. A",
+        "position": {
+          "top": "364",
+          "left": "403"
+        }
+      },
+      "Região do joelho.": {
+        "id": "43",
+        "descr": "44 Região genicular anterior. Face ante rior do joelho. B 45 Região genicular posterior. Face pos terior do joe-lho. A",
+        "position": null
+      },
+      "Fossa poplítea.": {
+        "id": "46",
+        "descr": "Cavidade posterior do joelho. A",
+        "position": {
+          "top": "505",
+          "left": "141"
+        }
+      },
+      "Região crural.": {
+        "id": "47",
+        "descr": "Região da perna. 48 Região crural anterior.  Região anterior da perna. B 49 Região crural posterior.  Região posterior da per-na. A",
+        "position": null
+      },
+      "Região sural.": {
+        "id": "50",
+        "descr": "Região da panturri lha. A 51 Região talocrural anterior. Região anterior do tor-nozelo. B",
+        "position": {
+          "top": "549",
+          "left": "148"
+        }
+      },
+      "Região talocrural posterior.": {
+        "id": "52",
+        "descr": "Região posterior do tornozelo. A",
+        "position": {
+          "top": "632",
+          "left": "135"
+        }
+      },
+      "Região retromaleolar lateral.": {
+        "id": "53",
+        "descr": "Região posterior ao maléolo lateral. A",
+        "position": {
+          "top": "644",
+          "left": "180"
+        }
+      },
+      "Região retromaleolar medial.": {
+        "id": "54",
+        "descr": "Região posterior ao maléolo medial.  *  N. de T.  Embora não-ofi cial, é comum a denominação de quirodáctilos para os dedos da mão.",
+        "position": null
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-10_1.png",
+        "position": {
+          "top": "94",
+          "left": "309",
+          "width": "183",
+          "height": "589"
+        }
+      },
+      {
+        "name": "anatomia geral-10_2.png",
+        "position": {
+          "top": "94",
+          "left": "61",
+          "width": "188",
+          "height": "617"
+        }
+      }
+    ],
+    "ids": {
+      "21": {
+        "top": "359",
+        "left": "319"
+      },
+      "1": {
+        "top": "98",
+        "left": "517"
+      },
+      "2": {
+        "top": "149",
+        "left": "345"
+      },
+      "7": {
+        "top": "219",
+        "left": "207"
+      },
+      "11": {
+        "top": "265",
+        "left": "213"
+      },
+      "14": {
+        "top": "331",
+        "left": "292"
+      },
+      "19": {
+        "top": "349",
+        "left": "226"
+      },
+      "22": {
+        "top": "365",
+        "left": "232"
+      },
+      "13": {
+        "top": "299",
+        "left": "327"
+      },
+      "9": {
+        "top": "261",
+        "left": "338"
+      },
+      "5": {
+        "top": "199",
+        "left": "304"
+      },
+      "4": {
+        "top": "233",
+        "left": "343"
+      },
+      "6": {
+        "top": "213",
+        "left": "304"
+      },
+      "10": {
+        "top": "256",
+        "left": "299"
+      },
+      "35": {
+        "top": "328",
+        "left": "155"
+      },
+      "42": {
+        "top": "426",
+        "left": "151"
+      },
+      "45": {
+        "top": "505",
+        "left": "141"
+      },
+      "46": {
+        "top": "505",
+        "left": "141"
+      },
+      "50": {
+        "top": "549",
+        "left": "148"
+      },
+      "49": {
+        "top": "591",
+        "left": "142"
+      },
+      "52": {
+        "top": "632",
+        "left": "135"
+      },
+      "53": {
+        "top": "644",
+        "left": "180"
+      },
+      "37": {
+        "top": "412",
+        "left": "85"
+      },
+      "20": {
+        "top": "345",
+        "left": "292"
+      },
+      "41": {
+        "top": "364",
+        "left": "403"
+      },
+      "40": {
+        "top": "394",
+        "left": "379"
+      },
+      "44": {
+        "top": "469",
+        "left": "399"
+      },
+      "48": {
+        "top": "566",
+        "left": "402"
+      },
+      "51": {
+        "top": "621",
+        "left": "411"
+      }
+    }
+  },
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "22",
+        "descr": "Geral",
+        "position": null
+      },
+      "Regiões do pé.": {
+        "id": "1",
+        "descr": "",
+        "position": {
+          "top": "98",
+          "left": "517"
+        }
+      },
+      "Região calcânea.": {
+        "id": "2",
+        "descr": "Calcanhar.",
+        "position": null
+      },
+      "Dorso do pé.": {
+        "id": "3",
+        "descr": "Região do dorso do pé.",
+        "position": null
+      },
+      "Planta": {
+        "id": "4",
+        "descr": "Região da planta do pé.",
+        "position": null
+      },
+      "Margem lateral do pé.": {
+        "id": "5",
+        "descr": "Margem fi bular.",
+        "position": null
+      },
+      "Margem medial do pé.": {
+        "id": "6",
+        "descr": "Margem tibial.",
+        "position": null
+      },
+      "Arco longitudinal do pé.": {
+        "id": "7",
+        "descr": "Arco longitudinal na margem lateral do pé. Consiste em duas partes.",
+        "position": null
+      },
+      "Parte lateral.": {
+        "id": "8",
+        "descr": "Estende-se da tuberosidade do cal-câneo, sobre o cubóide, até a cabeça dos IV-V ossos metatarsais. C",
+        "position": {
+          "top": "498",
+          "left": "423"
+        }
+      },
+      "Parte medial.": {
+        "id": "9",
+        "descr": "Estende-se da tuberosidade do cal-câneo, sobre o tálus, o navicular e os três cunei-formes, até a cabeça dos I-III ossos metatarsais. C",
+        "position": {
+          "top": "496",
+          "left": "369"
+        }
+      },
+      "Arco transverso proximal do pé.": {
+        "id": "10",
+        "descr": "Arco transversal na região média do pé, formado pelo navicular, cuneiformes e cubóide. Arco mais elevado abai-xo dos cuneiformes I, II e III. A",
+        "position": null
+      },
+      "Arco transverso distal do pé.": {
+        "id": "11",
+        "descr": "Arco transversal na região anterior do pé, formado pelos I-V ossos metatarsais. B",
+        "position": null
+      },
+      "Região tarsal.": {
+        "id": "12",
+        "descr": "Anatômica: região da raiz do pé (tornozelo). Clínica: região posterior do pé, que corresponde ao tálus e calcâneo, região média do pé, com os demais ossos tarsais, e suas res-pectivas partes moles. C",
+        "position": {
+          "top": "583",
+          "left": "482"
+        }
+      },
+      "Região metatarsal.": {
+        "id": "13",
+        "descr": "Anatômica: região média do pé. Clínica: região anterior do pé, que corres-ponde aos ossos metatarsais, às falanges e suas respectivas partes moles. C",
+        "position": {
+          "top": "431",
+          "left": "481"
+        }
+      },
+      "Dedos do pé.*": {
+        "id": "14",
+        "descr": "C",
+        "position": {
+          "top": "309",
+          "left": "481"
+        }
+      },
+      "Hálux.": {
+        "id": "15",
+        "descr": "O primeiro dedo do pé (I). Dedo grande do pé.",
+        "position": null
+      },
+      "Segundo (II), terceiro (III) e quarto (IV) dedos do pé.": {
+        "id": "16",
+        "descr": "",
+        "position": null
+      },
+      "Dedo mínimo.": {
+        "id": "17",
+        "descr": "O quinto dedo do pé (V).",
+        "position": null
+      },
+      "Face plantar dos dedos.": {
+        "id": "18",
+        "descr": "Face inferior dos dedos do pé.",
+        "position": null
+      },
+      "Face dorsal dos dedos.": {
+        "id": "19",
+        "descr": "Face superior dos dedos do pé.",
+        "position": null
+      },
+      "ANATOMIA SISTÊMICA.": {
+        "id": "20",
+        "descr": "",
+        "position": null
+      },
+      "": {
+        "id": "21",
+        "descr": "SISTEMA ESQUELÉTICO. Ossos.",
+        "position": null
+      },
+      "Parte óssea.": {
+        "id": "22",
+        "descr": "Parte óssea do esqueleto.",
+        "position": null
+      },
+      "Substância cortical.": {
+        "id": "23",
+        "descr": "Camada superfi cial formada pelas lamelas principais mais externas do osso.",
+        "position": {
+          "top": "57",
+          "left": "485"
+        }
+      },
+      "Substância compacta.": {
+        "id": "24",
+        "descr": "Substância óssea densa formada por osteônios.",
+        "position": null
+      },
+      "Substância esponjosa.": {
+        "id": "25",
+        "descr": "Substância óssea frouxa em cujos espaços intersticiais se situa a medula óssea.",
+        "position": null
+      },
+      "Parte cartilagínea.": {
+        "id": "26",
+        "descr": "Parte cartilaginosa do esque-leto.",
+        "position": null
+      },
+      "Parte membranácea.": {
+        "id": "27",
+        "descr": "Parte fi brosa do esqueleto.",
+        "position": null
+      },
+      "Periósteo.": {
+        "id": "28",
+        "descr": "Revestimento externo do osso. Con-siste em duas lâminas que envolvem o tecido ósseo, a mais interna serve para a fi xação de tendões e ligamentos, e a mais externa, para o suprimento ósseo.",
+        "position": null
+      },
+      "Pericôndrio.": {
+        "id": "29",
+        "descr": "Revestimento externo da cartila-gem. Ele estende-se sobre a cartilagem, sem limites precisos.",
+        "position": null
+      },
+      "Esqueleto axial.": {
+        "id": "30",
+        "descr": "Esqueleto do tronco.",
+        "position": null
+      },
+      "Esqueleto apendicular.": {
+        "id": "31",
+        "descr": "Esqueleto dos mem-bros.",
+        "position": null
+      },
+      "Osso longo.": {
+        "id": "32",
+        "descr": "Osso longo como, por exemplo, a fíbula.",
+        "position": null
+      },
+      "Osso curto.": {
+        "id": "33",
+        "descr": "Osso curto como, por exemplo, os ossos carpais.",
+        "position": null
+      },
+      "Osso plano.": {
+        "id": "34",
+        "descr": "Osso plano como, por exemplo, o parietal.",
+        "position": null
+      },
+      "Osso irregular.": {
+        "id": "35",
+        "descr": "Osso complexo como, por exem-plo, o esfenóide.",
+        "position": null
+      },
+      "Osso pneumático.": {
+        "id": "36",
+        "descr": "Osso com células aéreas como, por exemplo, o etmóide.",
+        "position": null
+      },
+      "Osso sesamóide.": {
+        "id": "37",
+        "descr": "Ossos inseridos em tendões ou ligamentos, para distribuir a pressão.",
+        "position": null
+      },
+      "Diáﬁ se.": {
+        "id": "38",
+        "descr": "Parte média do osso.",
+        "position": null
+      },
+      "Epíﬁ se.": {
+        "id": "39",
+        "descr": "Extremidade óssea temporariamente envolvida no cresci mento.",
+        "position": null
+      },
+      "Cartilagem epiﬁ sial.": {
+        "id": "40",
+        "descr": "Cartilagem da epífi se.",
+        "position": null
+      },
+      "Lâmina epiﬁ sial.": {
+        "id": "41",
+        "descr": "Zona cartilaginosa entre a diá-fi se e a epífi se. Permite o crescimento longitudi-nal do osso.",
+        "position": null
+      },
+      "Linha epiﬁ sial.": {
+        "id": "42",
+        "descr": "Linha, visível em radiografi as e secções de osso, que assinala o local onde havia a cartilagem epifi sial.",
+        "position": null
+      },
+      "Metáﬁ se.": {
+        "id": "43",
+        "descr": "Zona de crescimento da diáfi se opos-ta à epífi se.",
+        "position": null
+      },
+      "Apóﬁ se.": {
+        "id": "44",
+        "descr": "Embriologicamente, parte de uma epí-fi se originada de um centro de ossifi cação pró-prio como, por exemplo, o trocanter maior.  *  N. de T.  Embora não-ofi cial, é comum a denominação de pododáctilos para os dedos do pé.",
+        "position": null
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-12_1.png",
+        "position": {
+          "top": "227",
+          "left": "318",
+          "width": "160",
+          "height": "449"
+        }
+      },
+      {
+        "name": "anatomia geral-12_2.png",
+        "position": {
+          "top": "105",
+          "left": "70",
+          "width": "208",
+          "height": "165"
+        }
+      },
+      {
+        "name": "anatomia geral-12_3.png",
+        "position": {
+          "top": "105",
+          "left": "70",
+          "width": "208",
+          "height": "165"
+        }
+      },
+      {
+        "name": "anatomia geral-12_4.png",
+        "position": {
+          "top": "354",
+          "left": "58",
+          "width": "232",
+          "height": "83"
+        }
+      }
+    ],
+    "ids": {
+      "23": {
+        "top": "57",
+        "left": "485"
+      },
+      "1": {
+        "top": "98",
+        "left": "517"
+      },
+      "9": {
+        "top": "496",
+        "left": "369"
+      },
+      "8": {
+        "top": "498",
+        "left": "423"
+      },
+      "14": {
+        "top": "309",
+        "left": "481"
+      },
+      "13": {
+        "top": "431",
+        "left": "481"
+      },
+      "12": {
+        "top": "583",
+        "left": "482"
+      }
+    }
+  },
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "24",
+        "descr": "Geral"
+      },
+      "Túber.": {
+        "id": "1",
+        "descr": "Saliência óssea arredondada como, por exemplo, o túber isquiático."
+      },
+      "Tubérculo.": {
+        "id": "2",
+        "descr": "Pequena saliência óssea como, por exemplo, o tubérculo menor."
+      },
+      "Tuberosidade.": {
+        "id": "3",
+        "descr": "Rugosidade na superfície exter-na de um osso como, por exemplo, a tuberosida-de massetérica. 4. Eminência. Saliência óssea linear como, por exemplo, a eminência cruciforme do occipital."
+      },
+      "Processo.": {
+        "id": "5",
+        "descr": "Projeção óssea como, por exemplo, o processo transverso."
+      },
+      "Côndilo.": {
+        "id": "6",
+        "descr": "Saliência articular como, por exemplo, o côndilo do úmero."
+      },
+      "Epicôndilo.": {
+        "id": "7",
+        "descr": "Origem óssea do côndilo como, por exemplo, o epicôndilo medial do úmero."
+      },
+      "Crista.": {
+        "id": "8",
+        "descr": "Faixa ou margem óssea como, por exem-plo, a crista ilíaca."
+      },
+      "Linha.": {
+        "id": "9",
+        "descr": "Linha ou fi ta óssea como, por exemplo, a linha áspera."
+      },
+      "Incisura.": {
+        "id": "10",
+        "descr": "Entalhe escavado como, por exemplo, a incisura do acetábulo."
+      },
+      "Fossa.": {
+        "id": "11",
+        "descr": "Depressão como, por exemplo, a fossa cubital."
+      },
+      "Sulco.": {
+        "id": "12",
+        "descr": "Canal raso como, por exemplo, o sulco carótico."
+      },
+      "Face articular.": {
+        "id": "43",
+        "descr": ""
+      },
+      "Cavidade medular.": {
+        "id": "14",
+        "descr": ""
+      },
+      "Endósteo.": {
+        "id": "15",
+        "descr": "Revestimento da cavidade medular, semelhante ao periósteo."
+      },
+      "Medula óssea amarela.": {
+        "id": "16",
+        "descr": "Medula óssea adiposa."
+      },
+      "Medula óssea vermelha.": {
+        "id": "17",
+        "descr": "Medula óssea hemato-poética."
+      },
+      "Forame nutrício.": {
+        "id": "18",
+        "descr": "Abertura do canal nutrício na superfície óssea."
+      },
+      "Canal nutrício.": {
+        "id": "19",
+        "descr": "Canal para os vasos que nutrem o osso."
+      },
+      "Centro de ossiﬁ cação.": {
+        "id": "20",
+        "descr": "Local do início da ossifi -cação nos ossos de origem cartilagínea (ossifi ca-ção endocondral)."
+      },
+      "Primário.": {
+        "id": "21",
+        "descr": "O início da ossifi cação em um elemen-to cartilagíneo como, por exemplo, na diáfi se dos ossos longos. Inicialmente, a epífi se perma-nece cartilagínea."
+      },
+      "Secundário.": {
+        "id": "22",
+        "descr": "Origina-se de um centro primário como, por exemplo, as epífi ses dos ossos lon-gos."
+      },
+      "": {
+        "id": "23",
+        "descr": "SISTEMA ARTICULAR.  Ligações (articulações) en-tre elementos ósseos."
+      },
+      "Articulações ósseas.": {
+        "id": "24",
+        "descr": ""
+      },
+      "Sinartrose.": {
+        "id": "25",
+        "descr": "Ligação de ossos por meio de tecido conectivo fi broso denso ou cartilagem."
+      },
+      "Articulação ﬁ brosa.": {
+        "id": "26",
+        "descr": "Ligação entre dois ossos, em geral por meio de tecido conectivo fi broso denso e, mais raramente, por meio de fi bras elásticas."
+      },
+      "Articulação cartilagínea.": {
+        "id": "37",
+        "descr": "Ligação entre ossos por meio de cartilagem."
+      },
+      "Sinostose.": {
+        "id": "41",
+        "descr": "Fusão óssea entre ossos adjacentes como, por exemplo, o osso do quadril."
+      },
+      "Articulação sinovial.": {
+        "id": "42",
+        "descr": "Articulação entre ossos com uma cavidade articular revestida internamente."
+      },
+      "Cavidade articular.": {
+        "id": "44",
+        "descr": ""
+      },
+      "Fossa articular.": {
+        "id": "45",
+        "descr": ""
+      },
+      "Cabeça articular.": {
+        "id": "46",
+        "descr": ""
+      },
+      "Lábio articular.": {
+        "id": "47",
+        "descr": "Faixa de cartilagem fi brosa  na margem de uma articulação esferóide."
+      },
+      "Cápsula articular.": {
+        "id": "48",
+        "descr": ""
+      }
+    }
+  },
+  {
+    "terms": {
+      "Disco articular.": {
+        "id": "6",
+        "descr": "Estrutura que divi de a cavidade articular em duas câmaras separadas."
+      },
+      "Menisco articular.": {
+        "id": "7",
+        "descr": "Disco articular em forma de anel como, por exemplo, na articulação do joelho."
+      },
+      "Ligamentos.": {
+        "id": "8",
+        "descr": ""
+      },
+      "Recesso articular.": {
+        "id": "12",
+        "descr": "Evaginações do espaço articular como, por exemplo, o recesso subpoplíteo.*"
+      },
+      "Articulação simples.": {
+        "id": "13",
+        "descr": "Articulação elementar somen-te entre dois ossos como, por exemplo, a articula-ção do quadril."
+      },
+      "Articulação composta.": {
+        "id": "14",
+        "descr": "Articulação  envolvendo mais de dois os sos como, por exemplo, a articu-lação radiocarpal."
+      },
+      "Articulação plana.": {
+        "id": "15",
+        "descr": "Articulação com faces articulares quase lisas como, por exemplo, as articulações dos processos articulares (coluna vertebral)."
+      },
+      "Articulação cilíndrica.": {
+        "id": "16",
+        "descr": "Termo genérico que, segun-do o eixo de rotação, abrange as articulações des-critas a seguir."
+      },
+      "Articulação bicondilar.": {
+        "id": "19",
+        "descr": "Articulação com um eixo principal transversal e um eixo secundário lon-gitudinal acompanhando uma parte do esqueleto como, por exemplo, a articulação do joelho."
+      },
+      "Articulação selar.": {
+        "id": "20",
+        "descr": "Arti culação com dois eixos como, por exemplo, a articulação metacarpofalângica do polegar."
+      },
+      "Articulação elipsóidea.": {
+        "id": "21",
+        "descr": "Articulação com dois eixos como, por exemplo, a arti culação da mão."
+      },
+      "Articulação esferóidea.": {
+        "id": "22",
+        "descr": "Articulação com vários eixos como, por exemplo, a articula ção do ombro."
+      },
+      "Anﬁ artrose.": {
+        "id": "24",
+        "descr": "Articulação pouco móvel devido a uma cápsula articular e ligamentos mais tensos como, por exemplo, a articulação sacroilíaca."
+      },
+      "Abdução.": {
+        "id": "25",
+        "descr": "Movimento em direção lateral, afas-tando-se do corpo."
+      },
+      "Adução.": {
+        "id": "26",
+        "descr": "Movimento em direção medial, aproxi-mando-se do corpo."
+      },
+      "Rotação lateral.": {
+        "id": "27",
+        "descr": "Movimento de rotação em dire-ção externa ao redor de um eixo longitudinal."
+      },
+      "Rotação medial.": {
+        "id": "28",
+        "descr": "Movimento de rotação em dire-ção interna ao redor de um eixo longitudinal."
+      },
+      "Circundução.": {
+        "id": "29",
+        "descr": "Movimento circular como, por exemplo, do braço na articulação do ombro."
+      },
+      "Flexão.": {
+        "id": "30",
+        "descr": "Flexão (curvatura) do tronco ou dos membros."
+      },
+      "Extensão.": {
+        "id": "31",
+        "descr": "Extensão (estiramento) do tronco ou dos membros."
+      },
+      "Pronação.": {
+        "id": "32",
+        "descr": "Movimento de rotação do antebraço de tal maneira que o dorso da mão se direciona supe-riormente.** Elevação da margem lateral do pé."
+      },
+      "Supinação.": {
+        "id": "33",
+        "descr": "Movimento de rotação do antebraço de tal maneira que a palma se direciona superiormen-te.*** Elevação da margem medial do pé."
+      },
+      "Oposição.": {
+        "id": "34",
+        "descr": "Movimento que direciona o polegar contra os demais dedos. Restrito também ao dedo mínimo."
+      },
+      "Reposição.": {
+        "id": "35",
+        "descr": "Movimento de retorno à posição ou situação de partida."
+      },
+      "": {
+        "id": "36",
+        "descr": "SISTEMA MUSCULAR. Os músculos."
+      },
+      "Cabeça.": {
+        "id": "37",
+        "descr": ""
+      },
+      "Ventre.": {
+        "id": "38",
+        "descr": ""
+      },
+      "Inserção.": {
+        "id": "39",
+        "descr": "Fixação de um músculo."
+      },
+      "[[Origem]].": {
+        "id": "40",
+        "descr": "Início de um músculo."
+      },
+      "Ponto ﬁ xo.": {
+        "id": "41",
+        "descr": "Elemento esquelético imóvel."
+      },
+      "Ponto móvel.": {
+        "id": "42",
+        "descr": "Elemento esquelético móvel."
+      },
+      "Músculo fusiforme.": {
+        "id": "43",
+        "descr": "Músculo em forma de fuso."
+      },
+      "Músculo plano.": {
+        "id": "44",
+        "descr": "Músculo em forma de lâmina."
+      },
+      "Músculo reto.": {
+        "id": "45",
+        "descr": "Músculo longitudinal."
+      },
+      "Músculo triangular.": {
+        "id": "46",
+        "descr": "Músculo em forma de triân-gulo."
+      },
+      "Músculo quadrado.": {
+        "id": "47",
+        "descr": "Músculo em forma retangu-lar."
+      },
+      "Músculo biventre.": {
+        "id": "48",
+        "descr": "Músculo com dois ventres."
+      },
+      "Músculo bíceps.": {
+        "id": "49",
+        "descr": "Músculo com duas cabeças."
+      },
+      "Músculo tríceps.": {
+        "id": "50",
+        "descr": "Músculo com três cabeças."
+      },
+      "Músculo quadríceps.": {
+        "id": "51",
+        "descr": "Músculo com quatro cabe-ças. **  N. de T. Na posição anatômica, em direção posterior. *** N. de T. Na posição anatômica, em direção anterior.  *  N. de T.  Estes termos, que constam da edição da Termino-logia Anatômica Internacional, não foram traduzidos para a língua portuguesa."
+      }
+    }
+  },
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "26",
+        "descr": "Geral"
+      },
+      "Músculo semipeniforme.": {
+        "id": "1",
+        "descr": "Músculo em forma de meia pena (fi bras musculares fi xadas em um dos lados do tendão)."
+      },
+      "Músculo peniforme.": {
+        "id": "2",
+        "descr": "Mús culo em forma de pena (fi bras musculares fi xadas nos dois lados do tendão)."
+      },
+      "Músculo multipeniforme.": {
+        "id": "3",
+        "descr": "Músculo em forma de leque (fi bras musculares fi xadas em vários lados do tendão)."
+      },
+      "Músculo orbicular.": {
+        "id": "4",
+        "descr": "Músculo em forma circular."
+      },
+      "Músculo cutâneo.": {
+        "id": "5",
+        "descr": "Músculo dérmico (fi xado na pele)."
+      },
+      "Músculo abdutor.": {
+        "id": "6",
+        "descr": "Músculo que causa abdução."
+      },
+      "Músculo adutor.": {
+        "id": "7",
+        "descr": "Músculo que causa adução."
+      },
+      "Músculo rotador.": {
+        "id": "8",
+        "descr": "Músculo que causa rotação."
+      },
+      "Músculo ﬂ exor.": {
+        "id": "9",
+        "descr": "Músculo que causa fl exão."
+      },
+      "Músculo extensor.": {
+        "id": "10",
+        "descr": "Músculo que causa exten-são."
+      },
+      "Músculo pronador.": {
+        "id": "11",
+        "descr": "Músculo que causa prona-ção."
+      },
+      "Músculo supinador.": {
+        "id": "12",
+        "descr": "Músculo que causa supina-ção."
+      },
+      "Músculo oponente.": {
+        "id": "13",
+        "descr": "Músculo que causa oposi-ção."
+      },
+      "Músculo esﬁ ncter.": {
+        "id": "14",
+        "descr": "Músculo que causa constri-ção."
+      },
+      "Músculo dilatador.": {
+        "id": "15",
+        "descr": "Músculo que causa dilata-ção."
+      },
+      "Compartimento.": {
+        "id": "16",
+        "descr": "Espaço envolvido por fáscia. Geralmente inclui grupos musculares e está li-mitado por estruturas osteofi brosas."
+      },
+      "Fáscia.": {
+        "id": "17",
+        "descr": "Termo genérico para toda condensação externa de tecido conectivo, que também recobre e pode dar forma."
+      },
+      "Fáscia da cabeça e do pescoço.": {
+        "id": "18",
+        "descr": ""
+      },
+      "Fáscia do tronco.": {
+        "id": "19",
+        "descr": "Integra os cinco tipos de fáscia descritos a seguir."
+      },
+      "Fáscia parietal.": {
+        "id": "20",
+        "descr": "Termo genérico para o tecido co-nectivo que, situado sob a lâmina parietal de uma serosa, reveste a parede de uma cavidade corporal. Pode se desenvolver como uma estru-tura própria como, por exemplo, a fáscia endo-torácica."
+      },
+      "Fáscia extra-serosal.": {
+        "id": "21",
+        "descr": "Termo genérico para toda estrutura de tecido conectivo que se situa inter-namente à fáscia parietal e externamente à fás-cia visceral. Aparece geralmente na pelve como ligamentos como, por exemplo, o ligamento transverso do colo do útero."
+      },
+      "Fáscia visceral.": {
+        "id": "22",
+        "descr": "Termo genérico para o tecido co-nectivo que se situa diretamente sob a lâmina visceral de uma serosa. Pode também constituir uma parte distinta da tela subserosa como, por exemplo, se contiver tecido adiposo."
+      },
+      "Fáscia dos membros.": {
+        "id": "23",
+        "descr": ""
+      },
+      "Fáscia dos músculos.": {
+        "id": "24",
+        "descr": ""
+      },
+      "Epimísio.": {
+        "id": "27",
+        "descr": "Tecido conectivo que envolve a super-fície de um músculo."
+      },
+      "Perimísio.": {
+        "id": "28",
+        "descr": "Tecido conectivo que envolve feixes de fi bras musculares."
+      },
+      "Endomísio.": {
+        "id": "29",
+        "descr": "Tecido conectivo que envolve uma fi bra muscular isolada, a qual está acondiciona-da pelo sarcolema."
+      },
+      "Tendão.": {
+        "id": "30",
+        "descr": ""
+      },
+      "Tendão intermédio.": {
+        "id": "31",
+        "descr": ""
+      },
+      "Interseção tendínea.": {
+        "id": "32",
+        "descr": "Tendão intermédio do m. reto do abdome."
+      },
+      "Aponeurose.": {
+        "id": "33",
+        "descr": "Tendão plano."
+      },
+      "Arco tendíneo.": {
+        "id": "34",
+        "descr": "Serve como origem de fi bras musculares."
+      },
+      "Tróclea muscular.": {
+        "id": "35",
+        "descr": "Es trutura que desvia um ten-dão, alterando sua direção de tração como, por exemplo, o sustentáculo do tálus para o ten dão do músculo fl exor longo do hálux."
+      },
+      "Bolsa sinovial.": {
+        "id": "36",
+        "descr": "Saco com líquido sinovial que permite o movimento de deslizamento de um músculo sobre (ou ao redor de) um osso.*"
+      },
+      "": {
+        "id": "37",
+        "descr": "BAINHAS TENDÍNEAS E BOLSAS."
+      },
+      "Bolsa subcutânea.": {
+        "id": "38",
+        "descr": "Bolsa sinovial situada dire-tamente sob a pele."
+      },
+      "Bolsa submuscular.": {
+        "id": "39",
+        "descr": "Bolsa sinovial situada sob um músculo."
+      },
+      "Bolsa subfascial.": {
+        "id": "40",
+        "descr": "Bolsa sinovial situada sob uma fáscia."
+      },
+      "Bolsa subtendínea.": {
+        "id": "41",
+        "descr": "Bolsa sinovial situada sob um tendão."
+      },
+      "Bainha do tendão": {
+        "id": "42",
+        "descr": ".  Estrutura que, aprofundan-do um tendão, resiste à fricção, permitindo seu deslizamento."
+      },
+      "Estrato ﬁ broso.": {
+        "id": "43",
+        "descr": "Parte fi brosa da bainha do ten-dão."
+      },
+      "Estrato sinovial.": {
+        "id": "44",
+        "descr": "Camada interna isolada, lubrifi -cante, da bainha do tendão."
+      },
+      "Mesotendão.": {
+        "id": "45",
+        "descr": "Ligação semelhan te ao mesentério entre o tendão e sua bai nha. Transporta vasos sanguíneos.  *  N. de T.  Segundo a Terminologia Anatômica Internacio-nal, na seqüência, não está assinalado o termo bainha sinovial."
+      }
+    }
+  },
+  {
+    "terms": {
+      "": {
+        "id": "1",
+        "descr": "SISTEMA CIRCULATÓRIO."
+      },
+      "Vaso sangüíneo.": {
+        "id": "2",
+        "descr": ""
+      },
+      "Anastomose arteriolovenular.": {
+        "id": "3",
+        "descr": "Ligação transver-sal entre uma arteríola e uma vênula."
+      },
+      "Artéria.": {
+        "id": "4",
+        "descr": ""
+      },
+      "Artéria nutrícia.": {
+        "id": "5",
+        "descr": "Arté ria para o suprimento teci-dual."
+      },
+      "Arteríola.": {
+        "id": "6",
+        "descr": "Pequena artéria diretamente antes do capilar."
+      },
+      "Círculo arterial.": {
+        "id": "7",
+        "descr": "Ligação circular de artérias."
+      },
+      "Círculo vascular.": {
+        "id": "8",
+        "descr": "Ligação circular de vasos."
+      },
+      "Cisterna.": {
+        "id": "9",
+        "descr": "Dilatação de um vaso lin fático."
+      },
+      "Sangue.": {
+        "id": "10",
+        "descr": ""
+      },
+      "Plexo vascular.": {
+        "id": "11",
+        "descr": "Rede de vasos."
+      },
+      "Plexo venoso.": {
+        "id": "12",
+        "descr": "Rede de veias."
+      },
+      "Plexo arterial.": {
+        "id": "13",
+        "descr": "Rede de artérias."
+      },
+      "Rede admirável": {
+        "id": "14",
+        "descr": ".  Duas redes capi lares situadas uma após a outra."
+      },
+      "Plexo vascular articular.": {
+        "id": "15",
+        "descr": "Rede de vasos san-guíneos ao redor de uma articu lação como, por exemplo, a rede articular do joelho."
+      },
+      "Rede venosa.": {
+        "id": "16",
+        "descr": "Rede de veias."
+      },
+      "Seio venoso.": {
+        "id": "17",
+        "descr": "Segmento veno so sem parede típi-ca como, por exemplo, o seio sagital."
+      },
+      "Túnica externa.": {
+        "id": "18",
+        "descr": "Camada externa da parede de um vaso."
+      },
+      "Túnica íntima.": {
+        "id": "19",
+        "descr": "Camada interna da parede de um vaso."
+      },
+      "Túnica média.": {
+        "id": "20",
+        "descr": "Ca mada média da parede de um vaso."
+      },
+      "Valva.": {
+        "id": "21",
+        "descr": "Como, por exemplo, a valva atrioventri-cular esquerda."
+      },
+      "Válvula.": {
+        "id": "22",
+        "descr": "Pequena valva. Lâmina em forma semi-lunar de um sistema valvar como, por exemplo, as válvula semilunares."
+      },
+      "Cúspide.*": {
+        "id": "23",
+        "descr": "Lâmina pontiaguda de um sistema valvar como, por exemplo, a cúspide anterior."
+      },
+      "Válvula venosa.": {
+        "id": "24",
+        "descr": "Válvula de uma veia."
+      },
+      "Vaso anastomótico.": {
+        "id": "25",
+        "descr": "Vaso transversal de liga-ção."
+      },
+      "Vaso capilar.": {
+        "id": "26",
+        "descr": ""
+      },
+      "Vaso colateral.": {
+        "id": "27",
+        "descr": "Vaso que se desvia do vaso ori-ginal."
+      },
+      "Vaso sinusóide.": {
+        "id": "28",
+        "descr": "Segmento especial de um vaso, de parede fi na e grande lume."
+      },
+      "Vasos dos vasos.": {
+        "id": "29",
+        "descr": "Vasos sanguí neos que suprem a parede do vaso."
+      },
+      "Vasos dos nervos.": {
+        "id": "30",
+        "descr": "Vasos que suprem o nervo."
+      },
+      "Veia.": {
+        "id": "31",
+        "descr": ""
+      },
+      "Veia acompanhante.": {
+        "id": "32",
+        "descr": "Seu trajeto a liga funcio-nalmente a uma artéria."
+      },
+      "Veia cutânea.": {
+        "id": "33",
+        "descr": "Veia da pele."
+      },
+      "Veia emissária.": {
+        "id": "34",
+        "descr": "Veia que, atravessando os os-sos, se direciona para fora do crânio."
+      },
+      "Veia nutrícia.": {
+        "id": "35",
+        "descr": "Vaso para o suprimento tecidual."
+      },
+      "Veia profunda.": {
+        "id": "36",
+        "descr": "Veia situada sob a fáscia."
+      },
+      "Veia superﬁ cial.": {
+        "id": "37",
+        "descr": "Veia da pele que se situa sobre a fáscia dos mem bros."
+      },
+      "Vênula.": {
+        "id": "38",
+        "descr": "Pequena veia diretamente após o capi-lar."
+      },
+      "Vaso linfático.": {
+        "id": "39",
+        "descr": ""
+      },
+      "Vaso linfático superﬁ cial.": {
+        "id": "40",
+        "descr": "Vaso linfático que se situa sobre a fáscia dos membros."
+      },
+      "Vaso linfático profundo.": {
+        "id": "41",
+        "descr": "Vaso linfático que se si-tua sob a fáscia dos membros e geralmente tem curso com os vasos sangüíneos."
+      },
+      "Plexo linfático.": {
+        "id": "42",
+        "descr": "Rede profunda de capilares linfá-ticos como, por exemplo, na derme da pele e sob ela."
+      },
+      "Válvula linfática.": {
+        "id": "43",
+        "descr": "Válvula de um vaso linfático."
+      },
+      "Linfa.": {
+        "id": "44",
+        "descr": ""
+      },
+      "Capilar linfático.": {
+        "id": "45",
+        "descr": "Sua extremidade inicial é fe-chada, e sua parede é permeável."
+      },
+      "Rede linfática.": {
+        "id": "46",
+        "descr": "Rede de capilares linfáticos perto de sua origem."
+      },
+      "SISTEMA NERVOSO.": {
+        "id": "47",
+        "descr": ""
+      },
+      "Neuroﬁ bra.": {
+        "id": "48",
+        "descr": "Fibra nervosa (axônio)."
+      },
+      "Neurônio.": {
+        "id": "49",
+        "descr": "Célula nervosa."
+      },
+      "Pericário.": {
+        "id": "50",
+        "descr": "Corpo celular do neurônio."
+      },
+      "Sinapse.": {
+        "id": "51",
+        "descr": "Local de contato de uma célula nervo-sa com outra célula nervosa ou com outro tipo de célula."
+      },
+      "Neuróglia.": {
+        "id": "52",
+        "descr": "Tecido intersticial do sistema ner-voso."
+      },
+      "PARTE CENTRAL DO SISTEMA NERVOSO.": {
+        "id": "53",
+        "descr": ""
+      },
+      "Substância cinzenta.": {
+        "id": "54",
+        "descr": "O conjunto das células nervosas."
+      },
+      "Núcleo.": {
+        "id": "55",
+        "descr": "Acúmulo de neurônios fora do córtex."
+      },
+      "Núcleo dos nervos cranianos.": {
+        "id": "56",
+        "descr": ""
+      },
+      "Coluna.": {
+        "id": "59",
+        "descr": "Acúmulo de neurônios em forma de co-luna como, por exemplo, na medula espinal."
+      },
+      "Lâmina.": {
+        "id": "60",
+        "descr": "Camada de tecido nervoso em forma de placa como, por exemplo, os estratos do isocór-tex (lâminas do neocórtex).  *  N. de T.  Na Terminologia Anatômica Internacional, este termo foi retirado e seu signifi cado foi incorporado ao ter-mo válvula, passando as cúspides a se chamarem também válvulas."
+      }
+    }
+  },
+  {
+    "terms": {
+      "Anatomia": {
+        "id": "28",
+        "descr": "Geral"
+      },
+      "Substância branca.": {
+        "id": "1",
+        "descr": "Conjunto das fi bras nervo-sas mielínicas."
+      },
+      "Funículo.": {
+        "id": "2",
+        "descr": "Estrutura de tecido nervoso em forma tubular. Via nervosa."
+      },
+      "Trato.": {
+        "id": "3",
+        "descr": "Acúmulo de fi bras nervosas com origem e término comuns. Nele também podem transitar outras fi bras nervosas."
+      },
+      "Fascículo.": {
+        "id": "4",
+        "descr": "Acúmulo bem delimitado de fi bras nervosas. O fascículo pode conter mais de um trato."
+      },
+      "Comissura.": {
+        "id": "5",
+        "descr": "Feixe delimitado de fi bras nervosas que une entre si áreas semelhantes de cada he-misfério cerebral."
+      },
+      "Lemnisco.": {
+        "id": "6",
+        "descr": "Termo específi co para fi bras nervosas sensitivas ascendentes no tronco encefálico."
+      },
+      "Fibra.": {
+        "id": "7",
+        "descr": "Axônio mielínico."
+      },
+      "Fibra de associação.": {
+        "id": "8",
+        "descr": "Une áreas corticais do mes-mo hemisfério."
+      },
+      "Fibra comissural.": {
+        "id": "9",
+        "descr": "Une áreas corticais de ambos os hemisférios."
+      },
+      "Fibra de projeção.": {
+        "id": "10",
+        "descr": "Une áreas corticais com áreas subcorticais. Fibras nervosas corticopetais e cor-ticofugais."
+      },
+      "Decussação.": {
+        "id": "11",
+        "descr": "Via nervosa cruzada. No seu curso, suas fi bras nervosas cruzam a linha mediana."
+      },
+      "Estria.": {
+        "id": "12",
+        "descr": "Durante o desenvolvimento dos hemisfé-rios, seus neurônios crescem mais rapidamente e separam áreas celulares preexistentes. Tomam a aparência de uma fi ta."
+      },
+      "Formação reticular.": {
+        "id": "13",
+        "descr": "Células nervosas dispersas, fi bras nervosas e sinapses, com apenas poucos centros. Infl uencia, entre outros, os movimen-tos, a circulação, a respiração e o ritmo circadia-no (ritmo sono-vigília)."
+      },
+      "Epêndima.": {
+        "id": "14",
+        "descr": "Revestimento celular das cavidades do sistema ner voso central (sistema ventricu-lar)."
+      },
+      "CEREBELO.": {
+        "id": "15",
+        "descr": ""
+      },
+      "Fissuras do cerebelo.": {
+        "id": "16",
+        "descr": "Sulcos ramifi cados situa-dos profundamente entre giros do cerebelo."
+      },
+      "Folhas do cerebelo.": {
+        "id": "17",
+        "descr": "Giros do cerebelo separados por fi ssuras."
+      },
+      "Hemisfério do cerebelo (H II-H X).": {
+        "id": "18",
+        "descr": "Cada uma das metades do cerebelo."
+      },
+      "Valécula do cerebelo.": {
+        "id": "19",
+        "descr": "Sulco inferior mediano profundo situado entre os hemisférios direito e esquerdo. Nela se encaixa o bulbo."
+      },
+      "Verme do cerebelo (I-X).": {
+        "id": "20",
+        "descr": "Parte ímpar do cerebe-lo, entre os hemisférios. Parte fi logenética anti-ga.*"
+      },
+      "Telencéfalo. O CÉREBRO.**": {
+        "id": "21",
+        "descr": "Deriva do prosencé-falo."
+      },
+      "Pálio.": {
+        "id": "23",
+        "descr": "O córtex cerebral. A parte dos hemisférios cerebrais que envolve a maior parte do tronco encefálico."
+      },
+      "Giros do cérebro.": {
+        "id": "24",
+        "descr": "Circunvoluções cerebrais, com aproximadamente 1 cm de largura."
+      },
+      "Lobos do cérebro.": {
+        "id": "25",
+        "descr": "As quatro divisões*** (lobos) do telencéfalo: lobos frontal, parietal, temporal e occipital."
+      },
+      "Sulcos do cérebro.": {
+        "id": "26",
+        "descr": "Fendas entre os giros do cé-rebro."
+      },
+      "Fissura longitudinal do cérebro.": {
+        "id": "27",
+        "descr": "Fenda mediana, longa e profunda, situada entre os hemisférios direito e esquerdo do cérebro. Contém a foice do cérebro."
+      },
+      "Fissura transversa do cérebro [[Fissura teledien-": {
+        "id": "28",
+        "descr": "cefálica]].  Fenda situada sob o corpo caloso e o fórnice, assim como sobre o tálamo e o teto do terceiro ventrículo."
+      },
+      "Fossa lateral do cérebro.": {
+        "id": "29",
+        "descr": "Espaço na profundida-de do sulco lateral."
+      },
+      "Margem superior.": {
+        "id": "30",
+        "descr": "Margem superior de um hemisfério, entre a face súpero-lateral e a face inferior."
+      },
+      "Margem ínfero-medial.": {
+        "id": "31",
+        "descr": "Margem inferior e late-ral de um hemisfério, entre a face súpero-lateral e a face inferior."
+      },
+      "Margem ínfero-lateral.": {
+        "id": "32",
+        "descr": "Margem inferior e me-dial de um hemisfério, entre a face inferior e a face medial."
+      },
+      "PARTE PERIFÉRICA DO SISTEMA NERVOSO.": {
+        "id": "33",
+        "descr": "Inicia-se na superfície do encéfalo e na superfície da medula espinal."
+      },
+      "Gânglio.": {
+        "id": "34",
+        "descr": "Acúmulo de corpos de células nervo-sas e, portanto, um espessamento macroscópico de um nervo."
+      },
+      "Cápsula do gânglio.": {
+        "id": "35",
+        "descr": "Tecido conectivo externo (en-voltório) de um gânglio."
+      },
+      "Estroma do gânglio.": {
+        "id": "36",
+        "descr": "Tecido conectivo interno de um gânglio."
+      },
+      "Gânglio craniospinal sensitivo.": {
+        "id": "37",
+        "descr": "Termo coletivo para os dois gânglios descritos a seguir."
+      },
+      "Gânglio sensitivo de nervo espinal.": {
+        "id": "38",
+        "descr": "Gânglio perten-cente à raiz posterior."
+      },
+      "Gânglio sensitivo de nervo craniano.": {
+        "id": "39",
+        "descr": "Gânglio, equivalente ao espinal, dos nervos cranianos.  *  N. de T.  Segundo a Terminologia Anatômica Internacio-nal, na seqüência, não estão assinalados os seguintes termos: cerebelo vestibular, cerebelo espinal, cerebelo cor-tical, arquicerebelo, paleocerebelo e neocerebelo.  ** N. de T.  Na realidade, a maior parte do cérebro. A outra parte, menor, é o diencéfalo. *** N. de T.  Na realidade, há ainda dois outros lobos profun-dos, o lobo insular e o lobo límbico. Neste caso, o autor se refere apenas aos lobos visíveis externamente."
+      }
+    }
+  },
+  {
+    "terms": {
+      "Gânglio visceral.": {
+        "id": "1",
+        "descr": "Gânglio do sistema nervoso autônomo."
+      },
+      "Fibras nervosas pré-ganglionares.": {
+        "id": "2",
+        "descr": "Fibras nervosas mielínicas que se dirigem para os gânglios dos ner vos viscerais."
+      },
+      "Fibras nervosas pós-ganglionares.": {
+        "id": "3",
+        "descr": "Fibras nervosas amielínicas dos gânglios viscerais que se diri-gem para as vísceras."
+      },
+      "Gânglio simpático.": {
+        "id": "4",
+        "descr": "Representado, entre outros, principalmente pelo tronco simpático."
+      },
+      "Gânglio parassimpático.": {
+        "id": "5",
+        "descr": "Como, por exemplo, o gânglio ciliar."
+      },
+      "Nervo.": {
+        "id": "6",
+        "descr": ""
+      },
+      "Endoneuro.": {
+        "id": "7",
+        "descr": "Tecido conectivo frouxo que se es-tende entre as membranas basais dos neuritos."
+      },
+      "Perineuro.": {
+        "id": "8",
+        "descr": "Tecido conectivo que envolve os fei-xes de neuritos de um nervo periférico, que con-siste em lamelas concêntricas de células epiteli-óides de tecido conectivo. Barreira de difusão."
+      },
+      "Epineuro.": {
+        "id": "9",
+        "descr": "Tecido conectivo que envolve externa-mente um nervo."
+      },
+      "Fibras nervosas aferentes.": {
+        "id": "10",
+        "descr": "Fibras nervosas que penetram no sistema nervoso central."
+      },
+      "Fibras nervosas eferentes.": {
+        "id": "11",
+        "descr": "Fibras nervosas que saem do sistema nervoso central."
+      },
+      "Fibras nervosas somáticas.": {
+        "id": "12",
+        "descr": "São opostas aos ner-vos do sistema nervoso autônomo, isto é, aos nervos viscerais."
+      },
+      "Fibras nervosas viscerais.": {
+        "id": "13",
+        "descr": "Fibras dos nervos visce-rais."
+      },
+      "Nervo motor.": {
+        "id": "14",
+        "descr": "Nervo que tem fi bras  nervosas apenas para a musculatura. Fibras nervosas aferentes, por exemplo, dos fusos musculares, não são consideradas nesta denominação."
+      },
+      "Nervo sensitivo.": {
+        "id": "15",
+        "descr": "Contém fi bras nervosas aferen-tes que se dirigem ao sistema nervoso central partindo das terminações nervosas. Na língua alemã, a habitual diferença entre sensitivo e sensorial não aparece na Terminologia Anatô-mica. O termo sensorial, em alemão, refere-se à aferência de áreas restritas como, por exemplo, nariz, olho, orelha e áreas gustativas.*"
+      },
+      "Nervo misto.": {
+        "id": "16",
+        "descr": "Nervo com fi bras motoras e sen-sitivas. Mas o termo pode também signifi car nervo com parte somáti ca e parte visceral."
+      },
+      "Ramo cutâneo.": {
+        "id": "17",
+        "descr": "Nervo ou ramo que se dirige para a pele."
+      },
+      "Ramo articular.": {
+        "id": "18",
+        "descr": "Nervo ou ramo que se dirige para uma articulação."
+      },
+      "Ramo muscular.": {
+        "id": "19",
+        "descr": "Nervo ou ramo que se dirige para os músculos."
+      },
+      "Nervo espinal.": {
+        "id": "20",
+        "descr": "Origina-se da união de uma raiz anterior e uma raiz posterior."
+      },
+      "Radículas.": {
+        "id": "21",
+        "descr": "Delgadas fi bras nervosas eferentes e aferentes da medula espinal: reúnem-se para formar, respectivamente, as raízes anterior e posterior de um nervo espinal."
+      },
+      "Raiz anterior.": {
+        "id": "22",
+        "descr": "Raiz motora."
+      },
+      "Raiz posterior.": {
+        "id": "23",
+        "descr": "Raiz sensitiva."
+      },
+      "Tronco do nervo espinal.": {
+        "id": "24",
+        "descr": "Parte entre a união das duas raízes e a emergência do primeiro ramo."
+      },
+      "Ramo meníngeo.": {
+        "id": "25",
+        "descr": "Origina-se anteriormente no nervo espinal e, através do forame interverte-bral, se volta em direção da meninge espinal, onde se une com outros ramos meníngeos para formar uma rede. É sensitivo e simpático."
+      },
+      "Ramo comunicante.": {
+        "id": "26",
+        "descr": "Ramo de ligação entre o ner-vo espinal e o tronco simpático."
+      },
+      "Ramo anterior.": {
+        "id": "27",
+        "descr": "Ramo mais espesso do nervo espinal. Com outros segmentos adjacentes, ele pode formar um plexo. Na região torácica, origi-na os nervos intercostais."
+      },
+      "Ramo posterior.": {
+        "id": "28",
+        "descr": "Ramo mais delgado para a pele e para a musculatura do dorso."
+      },
+      "Cauda eqüina.": {
+        "id": "29",
+        "descr": "Conjunto das raízes descenden-tes dos nervos espinais, a partir de L1 ou L2, com o fi lamento terminal."
+      },
+      "Plexo nervoso espinal.": {
+        "id": "30",
+        "descr": "Rede nervosa presente nas regiões cervical, lombar e sacral, da qual se ori-ginam os nervos para os membros."
+      },
+      "Nervo craniano.": {
+        "id": "31",
+        "descr": ""
+      },
+      "Nervo visceral.": {
+        "id": "32",
+        "descr": "Nervo para o suprimento das vísceras."
+      },
+      "Ramo visceral.": {
+        "id": "33",
+        "descr": "Ramo nervoso para o suprimen-to das vísceras."
+      },
+      "Plexo autônomo.**": {
+        "id": "34",
+        "descr": ""
+      },
+      "Plexo visceral.": {
+        "id": "35",
+        "descr": "Plexo do sistema nervoso autô-nomo."
+      },
+      "Plexo vascular.": {
+        "id": "36",
+        "descr": "Rede de vasos com fi bras nervo-sas sensitivas e viscerais."
+      },
+      "Plexo periarterial.": {
+        "id": "37",
+        "descr": "Rede de nervos situada na tú-nica externa (adventícia) das artérias."
+      },
+      "Nervos dos vasos.": {
+        "id": "38",
+        "descr": "**  N. de T.  Este termo, embora assinalado na Terminologia Anatômica Internacional, não consta na tradução para a língua portuguesa.  *  N. de T.  Em Neurociência, existe diferença entre sensiti-vo (sensibilidade somática ou visceral geral) e sensorial (sensibilidade somática ou visceral especial), cujos sig-nifi cados devem ser distinguidos e utilizados. Na língua portuguesa, os dois termos são sinônimos."
+      }
+    }
+  },
+  {
+    "terms": {
+      "Ossos": {
+        "id": "30",
+        "descr": "",
+        "position": {
+          "top": "638",
+          "left": "86"
+        }
+      },
+      "ANATOMIA SISTÊMICA.": {
+        "id": "1",
+        "descr": "",
+        "position": null
+      },
+      "SISTEMA ESQUELÉTICO": {
+        "id": "2",
+        "descr": ". Ossos.",
+        "position": {
+          "top": "128",
+          "left": "517"
+        }
+      },
+      "CRÂNIO.": {
+        "id": "3",
+        "descr": "",
+        "position": null
+      },
+      "Neurocrânio.": {
+        "id": "4",
+        "descr": "Parte do crânio que contém o en-céfalo.",
+        "position": null
+      },
+      "Viscerocrânio.": {
+        "id": "5",
+        "descr": "Parte do crânio que contém a face. O limite com o neurocrânio é uma linha que inicia na raiz do nariz, passa sobre a mar-gem superior da órbita e atinge o poro acústico externo.",
+        "position": null
+      },
+      "Condrocrânio.": {
+        "id": "6",
+        "descr": "Embriologicamente, parte carti-lagínea do crânio, a futura base do crânio.",
+        "position": null
+      },
+      "Desmocrânio.": {
+        "id": "7",
+        "descr": "Conjunto dos ossos do crânio que se formam por meio de ossifi cação direta.",
+        "position": null
+      },
+      "Periósteo externo do crânio.": {
+        "id": "8",
+        "descr": "Periósteo da super-fície externa do crânio.",
+        "position": null
+      },
+      "Norma frontal.": {
+        "id": "9",
+        "descr": "Vista anterior do crânio. A",
+        "position": null
+      },
+      "Fronte.": {
+        "id": "10",
+        "descr": "Testa A, F",
+        "position": {
+          "top": "118",
+          "left": "104"
+        }
+      },
+      "Násio.": {
+        "id": "11",
+        "descr": "Ponto médio da interseção do frontal e o osso nasal. A, F",
+        "position": {
+          "top": "148",
+          "left": "104"
+        }
+      },
+      "Norma vertical.": {
+        "id": "12",
+        "descr": "Vista superior do crânio. C",
+        "position": null
+      },
+      "Occipício.": {
+        "id": "13",
+        "descr": "Nuca C, F",
+        "position": {
+          "top": "148",
+          "left": "472"
+        }
+      },
+      "Vértice.": {
+        "id": "14",
+        "descr": "Ponto mediano mais elevado da calvá-ria. F",
+        "position": {
+          "top": "416",
+          "left": "283"
+        }
+      },
+      "Bregma.": {
+        "id": "15",
+        "descr": "Ponto de encontro das suturas sagital e coronal. C",
+        "position": {
+          "top": "151",
+          "left": "379"
+        }
+      },
+      "Norma occipital.": {
+        "id": "16",
+        "descr": "Vista posterior do crânio. B",
+        "position": null
+      },
+      "Lambda.": {
+        "id": "17",
+        "descr": "Ponto de encontro das suturas lamb-dóidea e sagital. B",
+        "position": {
+          "top": "149",
+          "left": "255"
+        }
+      },
+      "Ínio.": {
+        "id": "18",
+        "descr": "Ponto mais saliente da protu berância occi-pital externa. Ponto de medida antropométrica. B, F",
+        "position": null
+      },
+      "Norma lateral.": {
+        "id": "19",
+        "descr": "Vista lateral do crânio. F",
+        "position": null
+      },
+      "Ptério.": {
+        "id": "20",
+        "descr": "Área de encontro dos ossos frontal, pa-rietal, temporal e esfenóide. F",
+        "position": {
+          "top": "450",
+          "left": "280"
+        }
+      },
+      "Astério.": {
+        "id": "21",
+        "descr": "Ponto de encontro das suturas lamb-dóidea, parietomastóidea e occipitomastóidea. F",
+        "position": {
+          "top": "477",
+          "left": "292"
+        }
+      },
+      "Gônio.": {
+        "id": "22",
+        "descr": "Ponto no ângulo da mandíbula localiza-do mais inferior, posterior e lateralmente.",
+        "position": null
+      },
+      "Fossa temporal.": {
+        "id": "23",
+        "descr": "Fossa rasa situada na parede lateral do crânio, das linhas temporais até o ní-vel da crista infratemporal e, lateralmente, até a margem inferior do arco zigomático. F",
+        "position": {
+          "top": "488",
+          "left": "252"
+        }
+      },
+      "Arco zigomático.": {
+        "id": "24",
+        "descr": "Formado pela união do pro-cesso zigo mático do temporal com o processo temporal do zigomático. F",
+        "position": {
+          "top": "508",
+          "left": "249"
+        }
+      },
+      "Fossa infratemporal.": {
+        "id": "25",
+        "descr": "Continuação inferior da fossa temporal, que se estende medialmente até o processo pterigóide. É preenchida pela parte inferior do músculo temporal, músculo pterigói-deo lateral, vasos e nervos. F",
+        "position": {
+          "top": "512",
+          "left": "276"
+        }
+      },
+      "Fossa pterigopalatina.": {
+        "id": "26",
+        "descr": "Continuação medial da fossa infratemporal, entre o túber da maxila, a lâmina perpendicular do palatino e o processo pterigóideo. Inferiormente, a fossa pterigopa-latina se estreita para formar o canal palatino maior. F, G, H",
+        "position": {
+          "top": "466",
+          "left": "477"
+        }
+      },
+      "Fissura pterigomaxilar.": {
+        "id": "27",
+        "descr": "Variável, geralmente é uma ligação entre a fossa infratemporal e a fossa pterigopalatina, estando limitada pelo tú-ber da maxila e pela lâmi na lateral do processo pterigóide. G, H",
+        "position": {
+          "top": "448",
+          "left": "373"
+        }
+      },
+      "Fontículos do crânio.": {
+        "id": "28",
+        "descr": "Lacunas obliteradas por membrana entre os ossos do crânio infantil. J, K",
+        "position": null
+      },
+      "Fontículo anterior": {
+        "id": "29",
+        "descr": "Lacuna romboidal localizada anterior mente na sutura sagital entre os esbo-ços dos ossos temporal e frontal. Oblitera-se no",
+        "position": {
+          "top": "576",
+          "left": "175"
+        }
+      },
+      "Fontículo posterior.": {
+        "id": "30",
+        "descr": "Lacuna triangular na união das suturas sagital e lambdóidea, e também entre os temporais e o occipital. Oblitera-se por volta do 3o mês após o nascimento. J, K",
+        "position": {
+          "top": "638",
+          "left": "86"
+        }
+      },
+      "Fontículo ântero-lateral.": {
+        "id": "31",
+        "descr": "Lacuna lateral no crâ-nio, entre os ossos frontal, parietal, temporal e esfenóide. J",
+        "position": {
+          "top": "698",
+          "left": "179"
+        }
+      },
+      "Fontículo póstero-lateral.": {
+        "id": "32",
+        "descr": "Lacuna lateral entre os ossos parietal, occipi tal e temporal. J",
+        "position": {
+          "top": "698",
+          "left": "131"
+        }
+      },
+      "Calvária.": {
+        "id": "33",
+        "descr": "Longitudinal e transversalmente, o teto abobadado do crânio. É formada pela es-cama frontal, ossos parietais e parte superior da escama occipital. D",
+        "position": null
+      },
+      "Lâmina externa.": {
+        "id": "34",
+        "descr": "Lâmina externa da calvária, que corresponde à substância compacta. D, E",
+        "position": {
+          "top": "270",
+          "left": "197"
+        }
+      },
+      "Díploe.": {
+        "id": "35",
+        "descr": "Parte óssea que corresponde à substân-cia esponjosa, entre as lâminas externa e inter-na, especialmen te nos ossos do crânio. D, E",
+        "position": {
+          "top": "332",
+          "left": "61"
+        }
+      },
+      "Canais diplóicos.": {
+        "id": "36",
+        "descr": "Largos canais venosos na dí-ploe. E",
+        "position": {
+          "top": "270",
+          "left": "230"
+        }
+      },
+      "Lâmina interna.": {
+        "id": "37",
+        "descr": "Lâmina interna da calvária que corresponde à substância compacta. D, E",
+        "position": {
+          "top": "370",
+          "left": "174"
+        }
+      },
+      "Sulco do seio sagital superior.": {
+        "id": "38",
+        "descr": "Sulco raso para o seio. D, E",
+        "position": {
+          "top": "370",
+          "left": "220"
+        }
+      },
+      "Fovéolas granulares (Pacchioni).": {
+        "id": "39",
+        "descr": "Fossetas ocupadas pelas granulações aracnóideas. D, E",
+        "position": {
+          "top": "370",
+          "left": "123"
+        }
+      },
+      "Sulcos venosos.": {
+        "id": "40",
+        "descr": "Sulcos ocasionais para o percur-so de veias, na parede interna do parietal.",
+        "position": null
+      },
+      "Sulcos arteriais.": {
+        "id": "41",
+        "descr": "Sulcos na parede interna do crâ-nio, em especial aqueles para a artéria menín-gea média e seus ramos. D",
+        "position": {
+          "top": "265",
+          "left": "401"
+        }
+      },
+      "Osso sutural. Osso articular inconstante nas suturas": {
+        "id": "42",
+        "descr": "do crânio.",
+        "position": null
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-20_1.png",
+        "position": {
+          "top": "251",
+          "left": "350",
+          "width": "140",
+          "height": "101"
+        }
+      },
+      {
+        "name": "anatomia geral-20_2.png",
+        "position": {
+          "top": "406",
+          "left": "208",
+          "width": "144",
+          "height": "137"
+        }
+      },
+      {
+        "name": "anatomia geral-20_3.png",
+        "position": {
+          "top": "406",
+          "left": "208",
+          "width": "144",
+          "height": "137"
+        }
+      },
+      {
+        "name": "anatomia geral-20_4.png",
+        "position": {
+          "top": "401",
+          "left": "374",
+          "width": "114",
+          "height": "141"
+        }
+      },
+      {
+        "name": "anatomia geral-20_5.png",
+        "position": {
+          "top": "401",
+          "left": "374",
+          "width": "114",
+          "height": "141"
+        }
+      },
+      {
+        "name": "anatomia geral-20_6.png",
+        "position": {
+          "top": "602",
+          "left": "289",
+          "width": "134",
+          "height": "98"
+        }
+      },
+      {
+        "name": "anatomia geral-20_7.png",
+        "position": {
+          "top": "420",
+          "left": "69",
+          "width": "84",
+          "height": "106"
+        }
+      },
+      {
+        "name": "anatomia geral-20_8.png",
+        "position": {
+          "top": "591",
+          "left": "103",
+          "width": "132",
+          "height": "102"
+        }
+      },
+      {
+        "name": "anatomia geral-20_9.png",
+        "position": {
+          "top": "94",
+          "left": "60",
+          "width": "107",
+          "height": "146"
+        }
+      },
+      {
+        "name": "anatomia geral-20_10.png",
+        "position": {
+          "top": "94",
+          "left": "201",
+          "width": "112",
+          "height": "117"
+        }
+      },
+      {
+        "name": "anatomia geral-20_11.png",
+        "position": {
+          "top": "105",
+          "left": "350",
+          "width": "138",
+          "height": "102"
+        }
+      },
+      {
+        "name": "anatomia geral-20_12.png",
+        "position": {
+          "top": "105",
+          "left": "350",
+          "width": "138",
+          "height": "102"
+        }
+      },
+      {
+        "name": "anatomia geral-20_13.png",
+        "position": {
+          "top": "294",
+          "left": "74",
+          "width": "244",
+          "height": "69"
+        }
+      }
+    ],
+    "ids": {
+      "31": {
+        "top": "698",
+        "left": "179"
+      },
+      "2": {
+        "top": "128",
+        "left": "517"
+      },
+      "41": {
+        "top": "265",
+        "left": "401"
+      },
+      "39": {
+        "top": "370",
+        "left": "123"
+      },
+      "38": {
+        "top": "370",
+        "left": "220"
+      },
+      "29": {
+        "top": "576",
+        "left": "175"
+      },
+      "30": {
+        "top": "638",
+        "left": "86"
+      },
+      "23": {
+        "top": "488",
+        "left": "252"
+      },
+      "24": {
+        "top": "508",
+        "left": "249"
+      },
+      "25": {
+        "top": "512",
+        "left": "276"
+      },
+      "26": {
+        "top": "466",
+        "left": "477"
+      },
+      "20": {
+        "top": "450",
+        "left": "280"
+      },
+      "21": {
+        "top": "477",
+        "left": "292"
+      },
+      "11": {
+        "top": "148",
+        "left": "104"
+      },
+      "10": {
+        "top": "118",
+        "left": "104"
+      },
+      "14": {
+        "top": "416",
+        "left": "283"
+      },
+      "13": {
+        "top": "148",
+        "left": "472"
+      },
+      "32": {
+        "top": "698",
+        "left": "131"
+      },
+      "17": {
+        "top": "149",
+        "left": "255"
+      },
+      "15": {
+        "top": "151",
+        "left": "379"
+      },
+      "34": {
+        "top": "270",
+        "left": "197"
+      },
+      "35": {
+        "top": "332",
+        "left": "61"
+      },
+      "37": {
+        "top": "370",
+        "left": "174"
+      },
+      "36": {
+        "top": "270",
+        "left": "230"
+      },
+      "27": {
+        "top": "448",
+        "left": "373"
+      }
+    }
+  },
+  {
+    "terms": {
+      "Ossos": {
+        "id": "32",
+        "descr": "",
+        "position": null
+      },
+      "Base do crânio.": {
+        "id": "1",
+        "descr": "A, B",
+        "position": null
+      },
+      "Base interna do crânio.": {
+        "id": "2",
+        "descr": "Face interna da base do crânio. A",
+        "position": {
+          "top": "128",
+          "left": "517"
+        }
+      },
+      "Fossa anterior do crânio.": {
+        "id": "3",
+        "descr": "Estende-se da parede do frontal até a asa menor do esfenóide. A",
+        "position": {
+          "top": "132",
+          "left": "168"
+        }
+      },
+      "Impressões dos giros.": {
+        "id": "4",
+        "descr": "Sulcos planos que correspon dem aos giros do cérebro. A",
+        "position": {
+          "top": "147",
+          "left": "75"
+        }
+      },
+      "Fossa média do crânio.": {
+        "id": "5",
+        "descr": "Estende-se da asa menor do esfenóide até a margem superior da parte pe-trosa do temporal. A",
+        "position": {
+          "top": "217",
+          "left": "132"
+        }
+      },
+      "Fossa posterior do crânio.": {
+        "id": "6",
+        "descr": "Estende-se da margem superior da parte petrosa do temporal até a pa-rede do occipital. A",
+        "position": {
+          "top": "312",
+          "left": "158"
+        }
+      },
+      "Fissura esfenopetrosa.": {
+        "id": "8",
+        "descr": "Continuação medial da fi s-sura petroescamosa. Sua extensão forma o fo-rame lacerado. Passagem para o nervo petroso menor. Emergência craniana da corda do tímpa-no. A, B",
+        "position": {
+          "top": "240",
+          "left": "75"
+        }
+      },
+      "Fissura petroccipital.": {
+        "id": "9",
+        "descr": "Localiza-se medialmente, continuando o forame jugular, entre a parte pe-trosa do temporal e o occipital. A, B",
+        "position": {
+          "top": "247",
+          "left": "268"
+        }
+      },
+      "Base externa do crânio.": {
+        "id": "10",
+        "descr": "Face externa da base do crânio. B",
+        "position": null
+      },
+      "Forame jugular.": {
+        "id": "11",
+        "descr": "Orifício coberto com tecido fi bro-so, dividido entre o occipital e a parte petrosa do temporal. Desembocadura do seio sigmóideo e do seio petroso infe rior. Passagem para a veia jugular interna e para os nervos IX, X e XI. A, B",
+        "position": {
+          "top": "265",
+          "left": "70"
+        }
+      },
+      "Forame lacerado": {
+        "id": "12",
+        "descr": "Orifício de limites irregulares, coberto com cartilagem fi brosa, situado no meio da fossa do crânio, entre o ápice da parte petro-sa do temporal e o esfenóide. Passagem para os nervos petroso profundo e petroso maior. A, B",
+        "position": {
+          "top": "226",
+          "left": "70"
+        }
+      },
+      "Palato ósseo.": {
+        "id": "13",
+        "descr": "B, C",
+        "position": {
+          "top": "520",
+          "left": "147"
+        }
+      },
+      "Canal palatino maior.": {
+        "id": "14",
+        "descr": "Canal para a artéria palati-na descendente e o nervo palatino maior, forma-do pelo palatino e pela maxila. B, C",
+        "position": {
+          "top": "550",
+          "left": "238"
+        }
+      },
+      "Forame palatino maior.": {
+        "id": "15",
+        "descr": "Localiza-se próximo à margem posterior do palato ósseo, entre o pa-latino e a maxila. Término do canal palatino maior. B, C",
+        "position": {
+          "top": "550",
+          "left": "238"
+        }
+      },
+      "Forames palatinos menores.": {
+        "id": "16",
+        "descr": "Desembocaduras dos canais palatinos menores. C",
+        "position": {
+          "top": "578",
+          "left": "166"
+        }
+      },
+      "Fossa incisiva.": {
+        "id": "17",
+        "descr": "Fosseta do tamanho da cabeça de um pali to de fósforo, obliterada por uma lâmi-na epitelial, na qual desemboca o canal incisivo com seu forame incisivo. C",
+        "position": null
+      },
+      "Canal incisivo.": {
+        "id": "18",
+        "descr": "Inicia-se no soalho da cavidade nasal, ao lado do processo vaginal do esfenóide, e desemboca no teto da cavidade oral, na fossa incisiva. C",
+        "position": null
+      },
+      "Forames incisivos.": {
+        "id": "19",
+        "descr": "De dois a quatro orifícios de desembocadura dos canais incisivos. C",
+        "position": null
+      },
+      "Toro palatino.": {
+        "id": "20",
+        "descr": "Elevação longitudinal inconstante, na linha mediana do palato duro, que se projeta em direção à cavidade oral. C",
+        "position": {
+          "top": "505",
+          "left": "253"
+        }
+      },
+      "Canal palatovaginal.": {
+        "id": "21",
+        "descr": "Canal estreito entre o proces-so vaginal do esfe nóide e o processo esfenoidal do palatino, para a passagem de um ramo da ar-téria maxi lar e para o ramo faríngeo do gânglio pterigopalatino. Ver pág. 40.8",
+        "position": null
+      },
+      "Canal vomerovaginal.": {
+        "id": "22",
+        "descr": "Canal estreito entre o pro-cesso vaginal do esfe nóide e o vômer, para a passagem de um ramo da artéria esfenopalati-na. Ver pág. 40.9",
+        "position": null
+      },
+      "Canal vomerorrostral.": {
+        "id": "23",
+        "descr": "Canalículo entre o vômer e o rostro esfenoidal.",
+        "position": null
+      },
+      "Órbita.": {
+        "id": "24",
+        "descr": "Cavidade óssea com o bulbo do olho e suas estruturas acessórias.",
+        "position": null
+      },
+      "Cavidade orbital.": {
+        "id": "25",
+        "descr": "Cavidade da órbita. D",
+        "position": null
+      },
+      "Ádito orbital.": {
+        "id": "26",
+        "descr": "Abertura anterior da órbita. D",
+        "position": null
+      },
+      "Margem orbital.": {
+        "id": "27",
+        "descr": "Margem da órbita.",
+        "position": null
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-22_1.png",
+        "position": {
+          "top": "94",
+          "left": "297",
+          "width": "177",
+          "height": "294"
+        }
+      },
+      {
+        "name": "anatomia geral-22_2.png",
+        "position": {
+          "top": "94",
+          "left": "297",
+          "width": "177",
+          "height": "294"
+        }
+      },
+      {
+        "name": "anatomia geral-22_3.png",
+        "position": {
+          "top": "458",
+          "left": "330",
+          "width": "138",
+          "height": "135"
+        }
+      },
+      {
+        "name": "anatomia geral-22_4.png",
+        "position": {
+          "top": "94",
+          "left": "92",
+          "width": "164",
+          "height": "289"
+        }
+      },
+      {
+        "name": "anatomia geral-22_5.png",
+        "position": {
+          "top": "94",
+          "left": "92",
+          "width": "164",
+          "height": "289"
+        }
+      },
+      {
+        "name": "anatomia geral-22_6.png",
+        "position": {
+          "top": "460",
+          "left": "101",
+          "width": "132",
+          "height": "133"
+        }
+      }
+    ],
+    "ids": {
+      "33": {
+        "top": "57",
+        "left": "485"
+      },
+      "2": {
+        "top": "128",
+        "left": "517"
+      },
+      "16": {
+        "top": "578",
+        "left": "166"
+      },
+      "31": {
+        "top": "471",
+        "left": "482"
+      },
+      "28": {
+        "top": "435",
+        "left": "404"
+      },
+      "30": {
+        "top": "496",
+        "left": "308"
+      },
+      "29": {
+        "top": "578",
+        "left": "418"
+      },
+      "13": {
+        "top": "520",
+        "left": "147"
+      },
+      "14": {
+        "top": "550",
+        "left": "238"
+      },
+      "15": {
+        "top": "550",
+        "left": "238"
+      },
+      "7": {
+        "top": "239",
+        "left": "206"
+      },
+      "12": {
+        "top": "226",
+        "left": "70"
+      },
+      "8": {
+        "top": "240",
+        "left": "75"
+      },
+      "9": {
+        "top": "247",
+        "left": "268"
+      },
+      "11": {
+        "top": "265",
+        "left": "70"
+      },
+      "4": {
+        "top": "147",
+        "left": "75"
+      },
+      "3": {
+        "top": "132",
+        "left": "168"
+      },
+      "5": {
+        "top": "217",
+        "left": "132"
+      },
+      "6": {
+        "top": "312",
+        "left": "158"
+      },
+      "20": {
+        "top": "505",
+        "left": "253"
+      }
+    }
+  },
+  {
+    "terms": {
+      "Ossos": {
+        "id": "34",
+        "descr": "",
+        "position": null
+      },
+      "Parede superior.": {
+        "id": "1",
+        "descr": "Teto da órbita. A",
+        "position": {
+          "top": "125",
+          "left": "280"
+        }
+      },
+      "Parede inferior.": {
+        "id": "2",
+        "descr": "Soalho da órbita. A",
+        "position": {
+          "top": "200",
+          "left": "275"
+        }
+      },
+      "Parede lateral.": {
+        "id": "3",
+        "descr": "Parede lateral da órbita. A",
+        "position": {
+          "top": "184",
+          "left": "231"
+        }
+      },
+      "Parede medial.": {
+        "id": "4",
+        "descr": "Parede medial da órbita. A",
+        "position": {
+          "top": "171",
+          "left": "297"
+        }
+      },
+      "Forame etmoidal anterior.": {
+        "id": "5",
+        "descr": "Orifício anterior na parede medial da órbita, entre o frontal e o et-móide, para a pas sagem do nervo e dos vasos etmoidais anteriores provenientes da fossa an-terior do crânio. A",
+        "position": {
+          "top": "98",
+          "left": "323"
+        }
+      },
+      "Forame etmoidal posterior.": {
+        "id": "6",
+        "descr": "Orifício posterior na parede medial da órbita, entre o frontal e o et-móide, para a passagem do nervo e dos vasos etmoidais posteriores. A",
+        "position": {
+          "top": "98",
+          "left": "292"
+        }
+      },
+      "Sulco lacrimal.": {
+        "id": "7",
+        "descr": "Início em forma de sulco do canal lacrimonasal. A",
+        "position": {
+          "top": "165",
+          "left": "373"
+        }
+      },
+      "Fossa do saco lacrimal.": {
+        "id": "8",
+        "descr": "Depressão para o saco la-crimal no início do canal lacrimonasal. A",
+        "position": {
+          "top": "177",
+          "left": "373"
+        }
+      },
+      "Fissura orbital superior.": {
+        "id": "9",
+        "descr": "Fenda superior da órbi-ta, entre as asas maior e menor do esfenóide, ligando a fossa anterior do crânio à órbita. Através dela passam: os nervos oftálmi co, ocu-lomotor, troclear e abducente e a veia oftálmica superior. A",
+        "position": {
+          "top": "142",
+          "left": "263"
+        }
+      },
+      "Fissura orbital inferior.": {
+        "id": "10",
+        "descr": "Fenda entre a asa maior do esfenóide e a face orbital da maxila, para a passagem do nervo zigomático e do nervo infra-orbital, acompanhado pelos respectivos vasos. A",
+        "position": {
+          "top": "240",
+          "left": "217"
+        }
+      },
+      "Canal lacrimonasal.": {
+        "id": "11",
+        "descr": "Canal para o ducto lacri-monasal, que desemboca no meato nasal infe-rior. A",
+        "position": {
+          "top": "216",
+          "left": "293"
+        }
+      },
+      "Cavidade nasal óssea.": {
+        "id": "12",
+        "descr": "Parte óssea da cavidade nasal. A, B",
+        "position": {
+          "top": "230",
+          "left": "324"
+        }
+      },
+      "Septo nasal ósseo.": {
+        "id": "13",
+        "descr": "Formado pelo vômer e pela lâmina perpendicular do etmóide. A",
+        "position": {
+          "top": "210",
+          "left": "380"
+        }
+      },
+      "Abertura piriforme.": {
+        "id": "14",
+        "descr": "Contorno da abertura nasal anterior no crânio ósseo, em forma de pêra. A, B",
+        "position": {
+          "top": "523",
+          "left": "373"
+        }
+      },
+      "Meato nasal superior.": {
+        "id": "15",
+        "descr": "Espaço acima da concha nasal média. B",
+        "position": {
+          "top": "450",
+          "left": "271"
+        }
+      },
+      "Meato nasal médio.": {
+        "id": "16",
+        "descr": "Espaço entre as conchas na-sais média e infe rior. B",
+        "position": {
+          "top": "486",
+          "left": "297"
+        }
+      },
+      "Meato nasal Inferior.": {
+        "id": "17",
+        "descr": "Espaço abaixo da concha nasal inferior. B",
+        "position": {
+          "top": "532",
+          "left": "296"
+        }
+      },
+      "Óstio do canal lacrimonasal.": {
+        "id": "18",
+        "descr": "Orifício do canal la-crimonasal no meato nasal inferior. A",
+        "position": {
+          "top": "240",
+          "left": "293"
+        }
+      },
+      "Meato nasal comum.": {
+        "id": "19",
+        "descr": "Parte da cavidade nasal en-tre as conchas nasais e o septo nasal.",
+        "position": null
+      },
+      "Recesso esfenoetmoidal.": {
+        "id": "20",
+        "descr": "Espaço, em forma de fenda, acima da concha nasal superior. B",
+        "position": null
+      },
+      "Meato nasofaríngeo.": {
+        "id": "21",
+        "descr": "Parte da cavidade nasal que se estende da mar gem posterior das conchas na-sais até os cóanos. B",
+        "position": {
+          "top": "506",
+          "left": "214"
+        }
+      },
+      "Cóano.": {
+        "id": "22",
+        "descr": "Abertura nasal posterior. As duas aber-turas entre a cavidade nasal e a parte nasal da faringe. B",
+        "position": {
+          "top": "502",
+          "left": "171"
+        }
+      },
+      "Forame esfenopalatino.": {
+        "id": "23",
+        "descr": "Orifício superior na fossa pterigopalatina que conduz à cavidade nasal. A maior parte é formada pelo palatino, e a menor, pelo esfenóide. B",
+        "position": null
+      }
+    },
+    "imgs": [
+      {
+        "name": "anatomia geral-24_1.png",
+        "position": {
+          "top": "94",
+          "left": "183",
+          "width": "195",
+          "height": "193"
+        }
+      },
+      {
+        "name": "anatomia geral-24_2.png",
+        "position": {
+          "top": "353",
+          "left": "151",
+          "width": "252",
+          "height": "255"
+        }
+      }
+    ],
+    "ids": {
+      "35": {
+        "top": "57",
+        "left": "485"
+      },
+      "2": {
+        "top": "200",
+        "left": "275"
+      },
+      "6": {
+        "top": "98",
+        "left": "292"
+      },
+      "5": {
+        "top": "98",
+        "left": "323"
+      },
+      "10": {
+        "top": "240",
+        "left": "217"
+      },
+      "4": {
+        "top": "171",
+        "left": "297"
+      },
+      "3": {
+        "top": "184",
+        "left": "231"
+      },
+      "8": {
+        "top": "177",
+        "left": "373"
+      },
+      "11": {
+        "top": "216",
+        "left": "293"
+      },
+      "7": {
+        "top": "165",
+        "left": "373"
+      },
+      "9": {
+        "top": "142",
+        "left": "263"
+      },
+      "1": {
+        "top": "125",
+        "left": "280"
+      },
+      "13": {
+        "top": "210",
+        "left": "380"
+      },
+      "14": {
+        "top": "523",
+        "left": "373"
+      },
+      "12": {
+        "top": "230",
+        "left": "324"
+      },
+      "18": {
+        "top": "240",
+        "left": "293"
+      },
+      "22": {
+        "top": "502",
+        "left": "171"
+      },
+      "21": {
+        "top": "506",
+        "left": "214"
+      },
+      "16": {
+        "top": "486",
+        "left": "297"
+      },
+      "17": {
+        "top": "532",
+        "left": "296"
+      },
+      "15": {
+        "top": "450",
+        "left": "271"
+      }
+    }
+  }
+]

@@ -1,0 +1,10412 @@
+{
+  "doctor/physician": {
+    "i18n": {
+      "es": "Médico, Doctor"
+    }
+  },
+  "attending physician": {
+    "i18n": {
+      "es": "Médico de Planta"
+    }
+  },
+  "intern": {
+    "i18n": {
+      "es": "Interno, residente de primer año"
+    }
+  },
+  "medical doctor (mo)": {
+    "i18n": {
+      "es": "Doctor en Medicina"
+    }
+  },
+  "medical fellow": {
+    "i18n": {
+      "es": "Médico Investigador"
+    }
+  },
+  "medical student": {
+    "i18n": {
+      "es": "Estudiante de Medicina"
+    }
+  },
+  "osteopathic doctor (do)": {
+    "i18n": {
+      "es": "Doctor en Osteopatía"
+    }
+  },
+  "resident": {
+    "i18n": {
+      "es": "Residente"
+    }
+  },
+  "specialist": {
+    "i18n": {
+      "es": "Especialista"
+    }
+  },
+  "emergency medical technician": {
+    "i18n": {
+      "es": "Técnico en Emergencias Médicas"
+    }
+  },
+  "home care attendant": {
+    "i18n": {
+      "es": "Asistente de Apoyo, Domiciliario"
+    }
+  },
+  "laboratory technician": {
+    "i18n": {
+      "es": "Técnico de Laboratorio"
+    }
+  },
+  "midwife": {
+    "i18n": {
+      "es": "Partera, comadrona"
+    }
+  },
+  "nurse": {
+    "i18n": {
+      "es": "Enfermero/a"
+    }
+  },
+  "nurse’s aide": {
+    "i18n": {
+      "es": "Asistente de enfermería"
+    }
+  },
+  "personnel": {
+    "i18n": {
+      "es": "Personal"
+    }
+  },
+  "physician's assistant (pa)": {
+    "i18n": {
+      "es": "Asistente Médico Especializado"
+    }
+  },
+  "physical therapist": {
+    "i18n": {
+      "es": "Fisioterapueta"
+    }
+  },
+  "occupational therapist": {
+    "i18n": {
+      "es": "Terapeuta ocupacional"
+    }
+  },
+  "social worker": {
+    "i18n": {
+      "es": "Trabajador Social, Asistente Social"
+    }
+  },
+  "clinical social worker (msw)": {
+    "i18n": {
+      "es": "Trabajador Social especializado en psicoterapia"
+    }
+  },
+  "technician": {
+    "i18n": {
+      "es": "Técnico"
+    }
+  },
+  "account representative": {
+    "i18n": {
+      "es": "Representante de cuentas"
+    }
+  },
+  "admissions": {
+    "i18n": {
+      "es": "Admisiones, ingresos"
+    }
+  },
+  "admit a patient": {
+    "i18n": {
+      "es": "Internar // hospitalizar // admitir a un paciente"
+    }
+  },
+  "appointment": {
+    "i18n": {
+      "es": "Cita"
+    }
+  },
+  "bill": {
+    "i18n": {
+      "es": "Cuenta, factura; volante; billete"
+    }
+  },
+  "birth date": {
+    "i18n": {
+      "es": "Fecha de nacimiento"
+    }
+  },
+  "business card": {
+    "i18n": {
+      "es": "Tarjeta de presentación"
+    }
+  },
+  "card": {
+    "i18n": {
+      "es": "Tarjeta"
+    }
+  },
+  "cashier": {
+    "i18n": {
+      "es": "Cajero"
+    }
+  },
+  "children": {
+    "i18n": {
+      "es": "Niños/as"
+    }
+  },
+  "clinic": {
+    "i18n": {
+      "es": "Clínica"
+    }
+  },
+  "confidential": {
+    "i18n": {
+      "es": "Confidencial"
+    }
+  },
+  "confidentiality": {
+    "i18n": {
+      "es": "Confidencialidad"
+    }
+  },
+  "consult": {
+    "i18n": {
+      "es": "Consultar"
+    }
+  },
+  "consultation": {
+    "i18n": {
+      "es": "Consulta"
+    }
+  },
+  "discharge (a patient)": {
+    "i18n": {
+      "es": "Dar de alta (a un paciente)"
+    }
+  },
+  "doctor’s office": {
+    "i18n": {
+      "es": "Consultorio/oficina del médico, del doctor"
+    }
+  },
+  "elevator": {
+    "i18n": {
+      "es": "Ascensor"
+    }
+  },
+  "ethics committee": {
+    "i18n": {
+      "es": "Comité ético"
+    }
+  },
+  "exit": {
+    "i18n": {
+      "es": "Salida"
+    }
+  },
+  "faith": {
+    "i18n": {
+      "es": "Fe"
+    }
+  },
+  "to have faith": {
+    "i18n": {
+      "es": "Tener Fe"
+    }
+  },
+  "family": {
+    "i18n": {
+      "es": "Familia"
+    }
+  },
+  "fill out (forms)": {
+    "i18n": {
+      "es": "Rellenar/llenar (formularios)"
+    }
+  },
+  "follow-up appointment": {
+    "i18n": {
+      "es": "Cita de seguimiento o de control"
+    }
+  },
+  "friends": {
+    "i18n": {
+      "es": "Amigos/as"
+    }
+  },
+  "front desk": {
+    "i18n": {
+      "es": "Mesa del frente, mesa principal, mostrador"
+    }
+  },
+  "funeral home": {
+    "i18n": {
+      "es": "Funeraria"
+    }
+  },
+  "god": {
+    "i18n": {
+      "es": "Dios"
+    }
+  },
+  "health care proxy": {
+    "i18n": {
+      "es": "Poder médico, de salud, Reglamento de la"
+    }
+  },
+  "health insurance": {
+    "i18n": {
+      "es": "Seguro médico, seguro de salud"
+    }
+  },
+  "health maintenance organization (hmo)": {
+    "i18n": {
+      "es": "HMO (Organización para la Administración de la"
+    }
+  },
+  "height": {
+    "i18n": {
+      "es": "Estatura"
+    }
+  },
+  "history": {
+    "i18n": {
+      "es": "Historia, historial"
+    }
+  },
+  "hospice": {
+    "i18n": {
+      "es": "Hospicio especializado en cuidado terminal o"
+    }
+  },
+  "hospital": {
+    "i18n": {
+      "es": "Hospital"
+    }
+  },
+  "intensive care unit": {
+    "i18n": {
+      "es": "Unidad de cuidados intensivos"
+    }
+  },
+  "interpreter": {
+    "i18n": {
+      "es": "Intérprete"
+    }
+  },
+  "informed consent": {
+    "i18n": {
+      "es": "Consentimiento Informado"
+    }
+  },
+  "to consent": {
+    "i18n": {
+      "es": "Consentir"
+    }
+  },
+  "inpatient care": {
+    "i18n": {
+      "es": "Cuidado/Atención de pacientes Internos"
+    }
+  },
+  "insurance card": {
+    "i18n": {
+      "es": "Tarjeta del seguro"
+    }
+  },
+  "insurance company": {
+    "i18n": {
+      "es": "Compañía de seguros"
+    }
+  },
+  "job": {
+    "i18n": {
+      "es": "Trabajo, empleo"
+    }
+  },
+  "kilogram": {
+    "i18n": {
+      "es": "Kilo, Kilogramo"
+    }
+  },
+  "knowledge": {
+    "i18n": {
+      "es": "Conocimiento, sabiduría"
+    }
+  },
+  "labor and industry": {
+    "i18n": {
+      "es": "Trabajo e Industria"
+    }
+  },
+  "laboratory": {
+    "i18n": {
+      "es": "Laboratorio"
+    }
+  },
+  "living will": {
+    "i18n": {
+      "es": "Testamento"
+    }
+  },
+  "lobby": {
+    "i18n": {
+      "es": "Recepción, vestíbulo"
+    }
+  },
+  "managed care": {
+    "i18n": {
+      "es": "Sistema de administración de salud"
+    }
+  },
+  "meal": {
+    "i18n": {
+      "es": "Comida"
+    }
+  },
+  "medical chart": {
+    "i18n": {
+      "es": "Récord, archivo o historial médico/Tabla médica"
+    }
+  },
+  "medical history": {
+    "i18n": {
+      "es": "Historial médico"
+    }
+  },
+  "medical records": {
+    "i18n": {
+      "es": "Informes/archivos Médicos"
+    }
+  },
+  "mental hospital": {
+    "i18n": {
+      "es": "Hospital Mental, Hospital Psiquiátrico"
+    }
+  },
+  "morgue": {
+    "i18n": {
+      "es": "Morgue, mortuorio"
+    }
+  },
+  "next of kin": {
+    "i18n": {
+      "es": "Parientes más Cercanos, parientes más"
+    }
+  },
+  "nursing home": {
+    "i18n": {
+      "es": "Asilo, ancianato, hogar de ancianos donde se"
+    }
+  },
+  "outpatient care": {
+    "i18n": {
+      "es": "Cuidado/atención a pacientes externos"
+    }
+  },
+  "pamphlet": {
+    "i18n": {
+      "es": "Panfleto, folleto"
+    }
+  },
+  "patient": {
+    "i18n": {
+      "es": "Paciente"
+    }
+  },
+  "patient advocate": {
+    "i18n": {
+      "es": "Abogado, Defensor or Representante del"
+    }
+  },
+  "patient's bill of rights": {
+    "i18n": {
+      "es": "Carta de Declaración de los Derechos del"
+    }
+  },
+  "payment": {
+    "i18n": {
+      "es": "Pago"
+    }
+  },
+  "personal": {
+    "i18n": {
+      "es": "Personal"
+    }
+  },
+  "please": {
+    "i18n": {
+      "es": "Por Favor; complacer (Vb.)"
+    }
+  },
+  "privacy": {
+    "i18n": {
+      "es": "Privacidad"
+    }
+  },
+  "procedure consent form": {
+    "i18n": {
+      "es": "Formulario de Consentimiento de Procedimiento"
+    }
+  },
+  "psychiatric ward": {
+    "i18n": {
+      "es": "Sala de Psiquiatría"
+    }
+  },
+  "relatives": {
+    "i18n": {
+      "es": "Parientes"
+    }
+  },
+  "restroom": {
+    "i18n": {
+      "es": "Cuarto de baño"
+    }
+  },
+  "shelter": {
+    "i18n": {
+      "es": "Asilo, amparo, refugio, abrigo"
+    }
+  },
+  "toilet": {
+    "i18n": {
+      "es": "Sevicio, baño, cuarto de baño, aseo, W.C."
+    }
+  },
+  "waiting room": {
+    "i18n": {
+      "es": "Sala de Espera"
+    }
+  },
+  "walk-in clinic": {
+    "i18n": {
+      "es": "Ambulatorio, Clínica de Urgencias"
+    }
+  },
+  "welfare": {
+    "i18n": {
+      "es": "Bienestar o Asistencia Social"
+    }
+  },
+  "worker’s compensation": {
+    "i18n": {
+      "es": "Compensación a los Trabajadores"
+    }
+  },
+  "work related injury": {
+    "i18n": {
+      "es": "Accidente laboral, accidente de trabajo"
+    }
+  },
+  "work release": {
+    "i18n": {
+      "es": "Relevo del trabajo/exención del trabajo"
+    }
+  },
+  "workforce": {
+    "i18n": {
+      "es": "Personal, plantilla, mano de obra; población"
+    }
+  },
+  "external": {
+    "i18n": {
+      "es": "Externas"
+    }
+  },
+  "cheek": {
+    "i18n": {
+      "es": "Mejilla, cachete, moflete, carrillo"
+    }
+  },
+  "chin": {
+    "i18n": {
+      "es": "Barbilla"
+    }
+  },
+  "cornea": {
+    "i18n": {
+      "es": "Córnea"
+    }
+  },
+  "cranium": {
+    "i18n": {
+      "es": "Cráneo"
+    }
+  },
+  "dentine": {
+    "i18n": {
+      "es": "Dentina, marfil"
+    }
+  },
+  "ear (internal/external)": {
+    "i18n": {
+      "es": "Oreja, oído"
+    }
+  },
+  "eardrum": {
+    "i18n": {
+      "es": "Tímpano"
+    }
+  },
+  "ear canal": {
+    "i18n": {
+      "es": "Canal del oído"
+    }
+  },
+  "ear lobe": {
+    "i18n": {
+      "es": "Lóbulo del oído"
+    }
+  },
+  "eye": {
+    "i18n": {
+      "es": "Ojo"
+    }
+  },
+  "eyelash": {
+    "i18n": {
+      "es": "Pestaña"
+    }
+  },
+  "eyebrows": {
+    "i18n": {
+      "es": "Cejas"
+    }
+  },
+  "eyelids": {
+    "i18n": {
+      "es": "Párpados"
+    }
+  },
+  "forehead": {
+    "i18n": {
+      "es": "Frente"
+    }
+  },
+  "gums": {
+    "i18n": {
+      "es": "Encías"
+    }
+  },
+  "hair": {
+    "i18n": {
+      "es": "Pelo, cabello"
+    }
+  },
+  "incisor": {
+    "i18n": {
+      "es": "Incisivo"
+    }
+  },
+  "jaw": {
+    "i18n": {
+      "es": "Mandíbula"
+    }
+  },
+  "lip": {
+    "i18n": {
+      "es": "Labio"
+    }
+  },
+  "lower lip": {
+    "i18n": {
+      "es": "Labio inferior"
+    }
+  },
+  "molar": {
+    "i18n": {
+      "es": "Muela, molar"
+    }
+  },
+  "mouth": {
+    "i18n": {
+      "es": "Boca"
+    }
+  },
+  "nape": {
+    "i18n": {
+      "es": "Cogote, nuca"
+    }
+  },
+  "nose": {
+    "i18n": {
+      "es": "Nariz"
+    }
+  },
+  "nose-bridge": {
+    "i18n": {
+      "es": "Puente nasal, de la nariz"
+    }
+  },
+  "nostril": {
+    "i18n": {
+      "es": "Ventana o agujero de la nariz"
+    }
+  },
+  "orthodontia": {
+    "i18n": {
+      "es": "Ortodoncia"
+    }
+  },
+  "palate": {
+    "i18n": {
+      "es": "Paladar"
+    }
+  },
+  "roof of mouth": {
+    "i18n": {
+      "es": "Paladar"
+    }
+  },
+  "scalp": {
+    "i18n": {
+      "es": "Cuero cabelludo"
+    }
+  },
+  "sputum": {
+    "i18n": {
+      "es": "Saliva, esputo"
+    }
+  },
+  "taste buds": {
+    "i18n": {
+      "es": "Papilas gustativas"
+    }
+  },
+  "teeth": {
+    "i18n": {
+      "es": "Dientes"
+    }
+  },
+  "throat": {
+    "i18n": {
+      "es": "Garganta"
+    }
+  },
+  "tongue": {
+    "i18n": {
+      "es": "Lengua"
+    }
+  },
+  "temple": {
+    "i18n": {
+      "es": "Sien"
+    }
+  },
+  "upper lip": {
+    "i18n": {
+      "es": "Labio superior"
+    }
+  },
+  "uvula": {
+    "i18n": {
+      "es": "Úvula"
+    }
+  },
+  "wisdom tooth": {
+    "i18n": {
+      "es": "Muela del juicio, muela cordal"
+    }
+  },
+  "abdomen": {
+    "i18n": {
+      "es": "Abdomen"
+    }
+  },
+  "abdominal": {
+    "i18n": {
+      "es": "Abdominal"
+    }
+  },
+  "armpit": {
+    "i18n": {
+      "es": "Axila, sobaco"
+    }
+  },
+  "back": {
+    "i18n": {
+      "es": "Espalda"
+    }
+  },
+  "navel/belly button": {
+    "i18n": {
+      "es": "Ombligo"
+    }
+  },
+  "bust": {
+    "i18n": {
+      "es": "Busto, pecho"
+    }
+  },
+  "chest": {
+    "i18n": {
+      "es": "Pecho"
+    }
+  },
+  "crotch": {
+    "i18n": {
+      "es": "Entrepierna, bragadura"
+    }
+  },
+  "elbow": {
+    "i18n": {
+      "es": "Codo"
+    }
+  },
+  "finger": {
+    "i18n": {
+      "es": "Dedo (de la mano)"
+    }
+  },
+  "fingernail": {
+    "i18n": {
+      "es": "Uña (de la mano)"
+    }
+  },
+  "flank": {
+    "i18n": {
+      "es": "Flanco, lado, costado"
+    }
+  },
+  "hand": {
+    "i18n": {
+      "es": "Mano"
+    }
+  },
+  "hips": {
+    "i18n": {
+      "es": "Caderas"
+    }
+  },
+  "hip joint": {
+    "i18n": {
+      "es": "Articulación/Coyuntura de la cadera"
+    }
+  },
+  "limb": {
+    "i18n": {
+      "es": "Miembro,e Extremidad"
+    }
+  },
+  "nipple": {
+    "i18n": {
+      "es": "Pezón"
+    }
+  },
+  "organ": {
+    "i18n": {
+      "es": "Órgano"
+    }
+  },
+  "palm": {
+    "i18n": {
+      "es": "Palma"
+    }
+  },
+  "quadrant": {
+    "i18n": {
+      "es": "Cuadrante"
+    }
+  },
+  "shoulder": {
+    "i18n": {
+      "es": "Hombro"
+    }
+  },
+  "shoulder joint": {
+    "i18n": {
+      "es": "Articulación/Coyuntura del hombro"
+    }
+  },
+  "side": {
+    "i18n": {
+      "es": "Costado, lado"
+    }
+  },
+  "skin": {
+    "i18n": {
+      "es": "Piel"
+    }
+  },
+  "thumb": {
+    "i18n": {
+      "es": "Pulgar"
+    }
+  },
+  "waist": {
+    "i18n": {
+      "es": "Cintura"
+    }
+  },
+  "wrist": {
+    "i18n": {
+      "es": "Muñeca"
+    }
+  },
+  "ankle": {
+    "i18n": {
+      "es": "Tobillo"
+    }
+  },
+  "anus": {
+    "i18n": {
+      "es": "Ano"
+    }
+  },
+  "arch of foot": {
+    "i18n": {
+      "es": "Arco del pie"
+    }
+  },
+  "ball of foot": {
+    "i18n": {
+      "es": "Antepié"
+    }
+  },
+  "buttock": {
+    "i18n": {
+      "es": "Nalga"
+    }
+  },
+  "calf/calves": {
+    "i18n": {
+      "es": "Pantorrilla/s"
+    }
+  },
+  "knee": {
+    "i18n": {
+      "es": "Rodilla"
+    }
+  },
+  "genital area": {
+    "i18n": {
+      "es": "Area/Zona genital"
+    }
+  },
+  "genitalia": {
+    "i18n": {
+      "es": "Genitales"
+    }
+  },
+  "groin": {
+    "i18n": {
+      "es": "Ingle"
+    }
+  },
+  "heel of foot": {
+    "i18n": {
+      "es": "Talón"
+    }
+  },
+  "inguinal region": {
+    "i18n": {
+      "es": "Ingles, región inguinal"
+    }
+  },
+  "lower back/lumbar": {
+    "i18n": {
+      "es": "Lumbares, zona inferior de la espalda"
+    }
+  },
+  "pelvis": {
+    "i18n": {
+      "es": "Pelvis"
+    }
+  },
+  "perineum": {
+    "i18n": {
+      "es": "Perineo"
+    }
+  },
+  "rectum": {
+    "i18n": {
+      "es": "Recto"
+    }
+  },
+  "shin": {
+    "i18n": {
+      "es": "Espinilla"
+    }
+  },
+  "thigh": {
+    "i18n": {
+      "es": "Muslo"
+    }
+  },
+  "toe": {
+    "i18n": {
+      "es": "Dedo del pie"
+    }
+  },
+  "toenail": {
+    "i18n": {
+      "es": "Uña (del pie)"
+    }
+  },
+  "internal": {
+    "i18n": {
+      "es": "Interno"
+    }
+  },
+  "brain fissure": {
+    "i18n": {
+      "es": "Cisura cerebral"
+    }
+  },
+  "brain stem": {
+    "i18n": {
+      "es": "Tronco cerebral"
+    }
+  },
+  "cerebral-spinal fluid": {
+    "i18n": {
+      "es": "Líquido cefalorraquídeo, líquido cerebro-"
+    }
+  },
+  "conjunctiva (of eye)": {
+    "i18n": {
+      "es": "Conjuntiva (del ojo)"
+    }
+  },
+  "epiglottis": {
+    "i18n": {
+      "es": "Epiglotis"
+    }
+  },
+  "gland": {
+    "i18n": {
+      "es": "Glándula"
+    }
+  },
+  "hypothalamus": {
+    "i18n": {
+      "es": "Hipotálamo"
+    }
+  },
+  "iris": {
+    "i18n": {
+      "es": "Iris"
+    }
+  },
+  "larynx": {
+    "i18n": {
+      "es": "Laringe"
+    }
+  },
+  "lens of eye": {
+    "i18n": {
+      "es": "Cristalino; lente del ojo"
+    }
+  },
+  "mucus": {
+    "i18n": {
+      "es": "Moco"
+    }
+  },
+  "optic nerve": {
+    "i18n": {
+      "es": "Nervio óptico"
+    }
+  },
+  "phlegm": {
+    "i18n": {
+      "es": "Flema, gargajo"
+    }
+  },
+  "pharynx": {
+    "i18n": {
+      "es": "Faringe"
+    }
+  },
+  "pituitary gland": {
+    "i18n": {
+      "es": "Glándula pituitaria"
+    }
+  },
+  "pupil of eye": {
+    "i18n": {
+      "es": "Pupila"
+    }
+  },
+  "retina": {
+    "i18n": {
+      "es": "Retina"
+    }
+  },
+  "saliva": {
+    "i18n": {
+      "es": "Saliva"
+    }
+  },
+  "salivary gland": {
+    "i18n": {
+      "es": "Glándula salivar"
+    }
+  },
+  "sinus": {
+    "i18n": {
+      "es": "Senos"
+    }
+  },
+  "skull": {
+    "i18n": {
+      "es": "Cráneo"
+    }
+  },
+  "tear duct": {
+    "i18n": {
+      "es": "Conducto lacrimal"
+    }
+  },
+  "tear gland": {
+    "i18n": {
+      "es": "Glándula lacrimal"
+    }
+  },
+  "tears": {
+    "i18n": {
+      "es": "Lágrimas"
+    }
+  },
+  "thymus": {
+    "i18n": {
+      "es": "Timo"
+    }
+  },
+  "thyroid": {
+    "i18n": {
+      "es": "Tiroides"
+    }
+  },
+  "tissue": {
+    "i18n": {
+      "es": "Tejido"
+    }
+  },
+  "tonsil": {
+    "i18n": {
+      "es": "Amígdala, tonsila"
+    }
+  },
+  "trachea": {
+    "i18n": {
+      "es": "Tráquea"
+    }
+  },
+  "vocal chords": {
+    "i18n": {
+      "es": "Cuerdas vocales"
+    }
+  },
+  "wax (ear)": {
+    "i18n": {
+      "es": "Cera, cerumen (oído)"
+    }
+  },
+  "adrenal glands": {
+    "i18n": {
+      "es": "Glándulas adrenales"
+    }
+  },
+  "airways": {
+    "i18n": {
+      "es": "Vías respiratorias"
+    }
+  },
+  "alveolus": {
+    "i18n": {
+      "es": "Alvéolo"
+    }
+  },
+  "aorta": {
+    "i18n": {
+      "es": "Aorta"
+    }
+  },
+  "appendix": {
+    "i18n": {
+      "es": "Apéndice"
+    }
+  },
+  "artery": {
+    "i18n": {
+      "es": "Arteria"
+    }
+  },
+  "carotid artery": {
+    "i18n": {
+      "es": "Arteria carótida"
+    }
+  },
+  "coronary artery": {
+    "i18n": {
+      "es": "Arteria coronaria"
+    }
+  },
+  "femoral artery": {
+    "i18n": {
+      "es": "Arteria femoral"
+    }
+  },
+  "pulmonary artery": {
+    "i18n": {
+      "es": "Arteria pulmonar"
+    }
+  },
+  "arterioles": {
+    "i18n": {
+      "es": "Arteriolas"
+    }
+  },
+  "atrium": {
+    "i18n": {
+      "es": "Atrio"
+    }
+  },
+  "backbone": {
+    "i18n": {
+      "es": "Espinazo, columna vertebral"
+    }
+  },
+  "bile": {
+    "i18n": {
+      "es": "Bilis"
+    }
+  },
+  "bladder": {
+    "i18n": {
+      "es": "Vejiga"
+    }
+  },
+  "blood vessels": {
+    "i18n": {
+      "es": "Vasos sanguíneos"
+    }
+  },
+  "bone": {
+    "i18n": {
+      "es": "Hueso"
+    }
+  },
+  "bowel": {
+    "i18n": {
+      "es": "Intestino"
+    }
+  },
+  "bronchus": {
+    "i18n": {
+      "es": "Bronquio"
+    }
+  },
+  "bronchi": {
+    "i18n": {
+      "es": "Bronquios"
+    }
+  },
+  "bronchioles": {
+    "i18n": {
+      "es": "Bronquiolos"
+    }
+  },
+  "capillary": {
+    "i18n": {
+      "es": "Capilar"
+    }
+  },
+  "cartilage": {
+    "i18n": {
+      "es": "Cartílago"
+    }
+  },
+  "clavicle (collar bone)": {
+    "i18n": {
+      "es": "Clavícula"
+    }
+  },
+  "coccyx": {
+    "i18n": {
+      "es": "Cóccix, coxis"
+    }
+  },
+  "colon": {
+    "i18n": {
+      "es": "Colon"
+    }
+  },
+  "diaphragm": {
+    "i18n": {
+      "es": "Diafragma"
+    }
+  },
+  "ducts": {
+    "i18n": {
+      "es": "Conductos"
+    }
+  },
+  "esophagus": {
+    "i18n": {
+      "es": "Esófago"
+    }
+  },
+  "fibula": {
+    "i18n": {
+      "es": "Fíbula / peroné"
+    }
+  },
+  "gall bladder": {
+    "i18n": {
+      "es": "Vesícula biliar"
+    }
+  },
+  "glanglion": {
+    "i18n": {
+      "es": "Ganglio"
+    }
+  },
+  "heart": {
+    "i18n": {
+      "es": "Corazón"
+    }
+  },
+  "heart valve": {
+    "i18n": {
+      "es": "Válvula cardiaca"
+    }
+  },
+  "joint": {
+    "i18n": {
+      "es": "articulación, junta, juntura"
+    }
+  },
+  "joint capsule": {
+    "i18n": {
+      "es": "Cápsula articular"
+    }
+  },
+  "kidney": {
+    "i18n": {
+      "es": "Riñón"
+    }
+  },
+  "large intestine": {
+    "i18n": {
+      "es": "Intestino grueso"
+    }
+  },
+  "liver": {
+    "i18n": {
+      "es": "Hígado"
+    }
+  },
+  "lobules": {
+    "i18n": {
+      "es": "Lóbulos"
+    }
+  },
+  "lungs": {
+    "i18n": {
+      "es": "Pulmones"
+    }
+  },
+  "lymph": {
+    "i18n": {
+      "es": "Linfa"
+    }
+  },
+  "lymph gland": {
+    "i18n": {
+      "es": "Glándula linfática"
+    }
+  },
+  "lymph nodes": {
+    "i18n": {
+      "es": "Nódulos linfáticos"
+    }
+  },
+  "lymphatic system": {
+    "i18n": {
+      "es": "Sistema linfático"
+    }
+  },
+  "muscle": {
+    "i18n": {
+      "es": "Músculo"
+    }
+  },
+  "myocardium": {
+    "i18n": {
+      "es": "Miocardio"
+    }
+  },
+  "nerve": {
+    "i18n": {
+      "es": "Nervio"
+    }
+  },
+  "organs": {
+    "i18n": {
+      "es": "Órganos"
+    }
+  },
+  "pancreas": {
+    "i18n": {
+      "es": "Páncreas"
+    }
+  },
+  "pectoralis": {
+    "i18n": {
+      "es": "Pectorales"
+    }
+  },
+  "pulmonary alveoli": {
+    "i18n": {
+      "es": "Alvéolos pulmonares"
+    }
+  },
+  "purkinje fibers": {
+    "i18n": {
+      "es": "Fibras de Purkinje"
+    }
+  },
+  "ribs": {
+    "i18n": {
+      "es": "Costillas"
+    }
+  },
+  "scapula": {
+    "i18n": {
+      "es": "Escápula/omoplato"
+    }
+  },
+  "sinoatrial node (sa node)": {
+    "i18n": {
+      "es": "Nódulo sinoatrial"
+    }
+  },
+  "small intestine": {
+    "i18n": {
+      "es": "Intestino delgado"
+    }
+  },
+  "sphincter": {
+    "i18n": {
+      "es": "Esfínter"
+    }
+  },
+  "spinal cord": {
+    "i18n": {
+      "es": "Médula espinal"
+    }
+  },
+  "spinal disk": {
+    "i18n": {
+      "es": "Disco espinal"
+    }
+  },
+  "spine": {
+    "i18n": {
+      "es": "Espina"
+    }
+  },
+  "spine marrow": {
+    "i18n": {
+      "es": "Médula espinal"
+    }
+  },
+  "spleen": {
+    "i18n": {
+      "es": "Bazo"
+    }
+  },
+  "sternum": {
+    "i18n": {
+      "es": "Esternón"
+    }
+  },
+  "stomach": {
+    "i18n": {
+      "es": "Estómago"
+    }
+  },
+  "tibia": {
+    "i18n": {
+      "es": "Tibia"
+    }
+  },
+  "ureter": {
+    "i18n": {
+      "es": "Uréter"
+    }
+  },
+  "urethra": {
+    "i18n": {
+      "es": "Uretra"
+    }
+  },
+  "urine": {
+    "i18n": {
+      "es": "Orina"
+    }
+  },
+  "valve": {
+    "i18n": {
+      "es": "Válvula"
+    }
+  },
+  "vein": {
+    "i18n": {
+      "es": "Vena"
+    }
+  },
+  "venules": {
+    "i18n": {
+      "es": "Vénulas"
+    }
+  },
+  "ventricle of heart": {
+    "i18n": {
+      "es": "Ventrículo cardiaco"
+    }
+  },
+  "vertebra/vertebral column": {
+    "i18n": {
+      "es": "Vertebra / columna vertebral"
+    }
+  },
+  "ligament": {
+    "i18n": {
+      "es": "Ligamento"
+    }
+  },
+  "patella/kneecap": {
+    "i18n": {
+      "es": "Rótula"
+    }
+  },
+  "synovial capsule": {
+    "i18n": {
+      "es": "Cápsula sinobial"
+    }
+  },
+  "tendon": {
+    "i18n": {
+      "es": "Tendón"
+    }
+  },
+  "male": {
+    "i18n": {
+      "es": "Varones"
+    }
+  },
+  "epididymis": {
+    "i18n": {
+      "es": "Epididimo"
+    }
+  },
+  "foreskin": {
+    "i18n": {
+      "es": "Prepucio"
+    }
+  },
+  "penis": {
+    "i18n": {
+      "es": "Pene"
+    }
+  },
+  "prostate gland": {
+    "i18n": {
+      "es": "Glándula prostática"
+    }
+  },
+  "scrotum": {
+    "i18n": {
+      "es": "Escroto"
+    }
+  },
+  "semen": {
+    "i18n": {
+      "es": "Semen"
+    }
+  },
+  "seminal vesicle": {
+    "i18n": {
+      "es": "Vesícula seminal"
+    }
+  },
+  "seminiferous tubule": {
+    "i18n": {
+      "es": "Túbulos seminíferos"
+    }
+  },
+  "sperm": {
+    "i18n": {
+      "es": "Esperma"
+    }
+  },
+  "testicle": {
+    "i18n": {
+      "es": "Testículo"
+    }
+  },
+  "vas deferens": {
+    "i18n": {
+      "es": "Vasos deferentes"
+    }
+  },
+  "female": {
+    "i18n": {
+      "es": "Mujeres"
+    }
+  },
+  "aureole": {
+    "i18n": {
+      "es": "Aureola"
+    }
+  },
+  "breast": {
+    "i18n": {
+      "es": "Seno, mama, pecho, busto"
+    }
+  },
+  "cervix": {
+    "i18n": {
+      "es": "Cerviz, cérvix"
+    }
+  },
+  "clitoris": {
+    "i18n": {
+      "es": "Clítoris"
+    }
+  },
+  "endometrium": {
+    "i18n": {
+      "es": "Endometrio"
+    }
+  },
+  "fallopian tube": {
+    "i18n": {
+      "es": "Trompas de falopio"
+    }
+  },
+  "hymen": {
+    "i18n": {
+      "es": "Himen"
+    }
+  },
+  "labium": {
+    "i18n": {
+      "es": "Labio"
+    }
+  },
+  "ovary": {
+    "i18n": {
+      "es": "Ovario"
+    }
+  },
+  "ovule": {
+    "i18n": {
+      "es": "Óvulo"
+    }
+  },
+  "ovum": {
+    "i18n": {
+      "es": "Huevo, óvulo"
+    }
+  },
+  "uterus": {
+    "i18n": {
+      "es": "Útero"
+    }
+  },
+  "vagina": {
+    "i18n": {
+      "es": "Vagina"
+    }
+  },
+  "vulva": {
+    "i18n": {
+      "es": "Vulva"
+    }
+  },
+  "womb": {
+    "i18n": {
+      "es": "Útero, matriz"
+    }
+  },
+  "abrasion": {
+    "i18n": {
+      "es": "Abrasión"
+    }
+  },
+  "abuse": {
+    "i18n": {
+      "es": "Abuso, Maltrato"
+    }
+  },
+  "abscess": {
+    "i18n": {
+      "es": "Absceso, flemón"
+    }
+  },
+  "abscess of a tooth": {
+    "i18n": {
+      "es": "Absceso de un diente"
+    }
+  },
+  "acidity": {
+    "i18n": {
+      "es": "Acidez"
+    }
+  },
+  "accident": {
+    "i18n": {
+      "es": "Accidente"
+    }
+  },
+  "allergic reaction": {
+    "i18n": {
+      "es": "Reacción alérgica"
+    }
+  },
+  "anguish": {
+    "i18n": {
+      "es": "Angustia, congoja"
+    }
+  },
+  "appetite (loss of)": {
+    "i18n": {
+      "es": "Apetito (pérdida de)"
+    }
+  },
+  "asthmatic episode": {
+    "i18n": {
+      "es": "Episodio asmático"
+    }
+  },
+  "attack": {
+    "i18n": {
+      "es": "Ataque"
+    }
+  },
+  "bags (under the eye)": {
+    "i18n": {
+      "es": "Bolsas"
+    }
+  },
+  "beat (abuse)": {
+    "i18n": {
+      "es": "Golpe (abuso)"
+    }
+  },
+  "beating": {
+    "i18n": {
+      "es": "Paliza, golpiza"
+    }
+  },
+  "bedbug": {
+    "i18n": {
+      "es": "Chinche"
+    }
+  },
+  "belch": {
+    "i18n": {
+      "es": "Eructo"
+    }
+  },
+  "to belch": {
+    "i18n": {
+      "es": "Eructar"
+    }
+  },
+  "belief": {
+    "i18n": {
+      "es": "Creencia"
+    }
+  },
+  "belief system": {
+    "i18n": {
+      "es": "Sistema de creencias"
+    }
+  },
+  "bewitched": {
+    "i18n": {
+      "es": "Embrujado/a"
+    }
+  },
+  "bite": {
+    "i18n": {
+      "es": "Mordedura, picadura, mordisco"
+    }
+  },
+  "of an animal": {
+    "i18n": {
+      "es": "De un animal"
+    }
+  },
+  "of an insect": {
+    "i18n": {
+      "es": "De un Insecto"
+    }
+  },
+  "birthmark": {
+    "i18n": {
+      "es": "Marca de nacimiento"
+    }
+  },
+  "blackhead": {
+    "i18n": {
+      "es": "Espinilla, poro, punto negro"
+    }
+  },
+  "bleed": {
+    "i18n": {
+      "es": "Sangrar"
+    }
+  },
+  "bleeding": {
+    "i18n": {
+      "es": "Sangrando, sangrante"
+    }
+  },
+  "blindness": {
+    "i18n": {
+      "es": "Ceguera"
+    }
+  },
+  "blister": {
+    "i18n": {
+      "es": "Ampolla"
+    }
+  },
+  "bloated": {
+    "i18n": {
+      "es": "Hinchado, inflamado"
+    }
+  },
+  "bloody": {
+    "i18n": {
+      "es": "Sangrante, sangriento"
+    }
+  },
+  "blow (strike to the body)": {
+    "i18n": {
+      "es": "Un golpe"
+    }
+  },
+  "blurred vision": {
+    "i18n": {
+      "es": "Visión borrosa"
+    }
+  },
+  "bowel movement": {
+    "i18n": {
+      "es": "Movimientos intestinales"
+    }
+  },
+  "breath": {
+    "i18n": {
+      "es": "Respiro"
+    }
+  },
+  "to breathe": {
+    "i18n": {
+      "es": "Respirar"
+    }
+  },
+  "take a breath": {
+    "i18n": {
+      "es": "Respirar, tomar un respiro"
+    }
+  },
+  "broken": {
+    "i18n": {
+      "es": "Roto"
+    }
+  },
+  "bruise": {
+    "i18n": {
+      "es": "Moradura, moratón, moretón, cardenal,"
+    }
+  },
+  "build up": {
+    "i18n": {
+      "es": "Acumulación, intensificación, aumento"
+    }
+  },
+  "burn": {
+    "i18n": {
+      "es": "Quemar (V.), quemadura (N)"
+    }
+  },
+  "burping": {
+    "i18n": {
+      "es": "Eructando"
+    }
+  },
+  "callus": {
+    "i18n": {
+      "es": "Callo"
+    }
+  },
+  "chest tightness": {
+    "i18n": {
+      "es": "Tensión, presión en el pecho, pecho apretado"
+    }
+  },
+  "chills": {
+    "i18n": {
+      "es": "Escalofrío/s"
+    }
+  },
+  "choke": {
+    "i18n": {
+      "es": "Ahogar(se), asfixiar(se), estrangular, atascar,"
+    }
+  },
+  "congested": {
+    "i18n": {
+      "es": "Congestionado/a"
+    }
+  },
+  "congestion": {
+    "i18n": {
+      "es": "Congestión"
+    }
+  },
+  "constipated": {
+    "i18n": {
+      "es": "Estreñido/a"
+    }
+  },
+  "constipation": {
+    "i18n": {
+      "es": "Estreñimiento"
+    }
+  },
+  "cough": {
+    "i18n": {
+      "es": "Tos"
+    }
+  },
+  "coughing": {
+    "i18n": {
+      "es": "Tos"
+    }
+  },
+  "nagging cough": {
+    "i18n": {
+      "es": "Tos persistente, crónica"
+    }
+  },
+  "coughing with blood": {
+    "i18n": {
+      "es": "Tos con sangre, escupir sangre"
+    }
+  },
+  "unexplainable cough": {
+    "i18n": {
+      "es": "Tos inexplicable, sin explicación"
+    }
+  },
+  "convulse": {
+    "i18n": {
+      "es": "Convulsionar"
+    }
+  },
+  "convulsions": {
+    "i18n": {
+      "es": "Convulsiones"
+    }
+  },
+  "cramp": {
+    "i18n": {
+      "es": "Calambre, rampa, tirón"
+    }
+  },
+  "crushed": {
+    "i18n": {
+      "es": "Aplastado, magullado, machacado"
+    }
+  },
+  "cut": {
+    "i18n": {
+      "es": "Cortada, cortar"
+    }
+  },
+  "damage": {
+    "i18n": {
+      "es": "Daño, perjuicio"
+    }
+  },
+  "dark rings under the eyes": {
+    "i18n": {
+      "es": "Ojeras"
+    }
+  },
+  "deafness": {
+    "i18n": {
+      "es": "Sordera"
+    }
+  },
+  "deep (wound)": {
+    "i18n": {
+      "es": "Herida profunda"
+    }
+  },
+  "defecate": {
+    "i18n": {
+      "es": "Defecar"
+    }
+  },
+  "dehydrated": {
+    "i18n": {
+      "es": "Deshidratado"
+    }
+  },
+  "depressed": {
+    "i18n": {
+      "es": "Deprimido/a"
+    }
+  },
+  "diarrhea": {
+    "i18n": {
+      "es": "Diarrea"
+    }
+  },
+  "difficulty": {
+    "i18n": {
+      "es": "Dificultad"
+    }
+  },
+  "digestion": {
+    "i18n": {
+      "es": "Digestión"
+    }
+  },
+  "discharge": {
+    "i18n": {
+      "es": "Descarga, flujo"
+    }
+  },
+  "dislocated": {
+    "i18n": {
+      "es": "Dislocado"
+    }
+  },
+  "dizzy": {
+    "i18n": {
+      "es": "Mareado"
+    }
+  },
+  "dizziness": {
+    "i18n": {
+      "es": "Mareo"
+    }
+  },
+  "double vision": {
+    "i18n": {
+      "es": "Doble visión"
+    }
+  },
+  "drowsiness": {
+    "i18n": {
+      "es": "Somnolencia"
+    }
+  },
+  "dryness": {
+    "i18n": {
+      "es": "Sequedad, resequedad"
+    }
+  },
+  "dyspnea": {
+    "i18n": {
+      "es": "Dispnea"
+    }
+  },
+  "earache": {
+    "i18n": {
+      "es": "Dolor de oído"
+    }
+  },
+  "earwax": {
+    "i18n": {
+      "es": "Cera (del oído)"
+    }
+  },
+  "evil eye": {
+    "i18n": {
+      "es": "Mal de ojo"
+    }
+  },
+  "episodically": {
+    "i18n": {
+      "es": "Episódicamente, en episodios"
+    }
+  },
+  "faint": {
+    "i18n": {
+      "es": "Débil (Adj.), desmayo (N.)"
+    }
+  },
+  "fainting": {
+    "i18n": {
+      "es": "Desmayo"
+    }
+  },
+  "fatigued": {
+    "i18n": {
+      "es": "Fatigado"
+    }
+  },
+  "fester": {
+    "i18n": {
+      "es": "Úlcera, llaga, pústula (N); enconarse, pudrirse,"
+    }
+  },
+  "fever": {
+    "i18n": {
+      "es": "Fiebre"
+    }
+  },
+  "feverish": {
+    "i18n": {
+      "es": "Febril"
+    }
+  },
+  "flu": {
+    "i18n": {
+      "es": "Gripe, gripa"
+    }
+  },
+  "flu-like symptoms": {
+    "i18n": {
+      "es": "Síntomas como de gripa (Influenza)"
+    }
+  },
+  "fracture": {
+    "i18n": {
+      "es": "Fractura"
+    }
+  },
+  "freckle": {
+    "i18n": {
+      "es": "Peca"
+    }
+  },
+  "frequency": {
+    "i18n": {
+      "es": "Frecuencia"
+    }
+  },
+  "frequent": {
+    "i18n": {
+      "es": "Frecuente"
+    }
+  },
+  "frequently": {
+    "i18n": {
+      "es": "Frecuentemente"
+    }
+  },
+  "frighten": {
+    "i18n": {
+      "es": "Asustar, espantar"
+    }
+  },
+  "frozen": {
+    "i18n": {
+      "es": "Congelar, helar"
+    }
+  },
+  "full of gas": {
+    "i18n": {
+      "es": "Lleno de gas"
+    }
+  },
+  "germs": {
+    "i18n": {
+      "es": "Gérmenes"
+    }
+  },
+  "gum infection": {
+    "i18n": {
+      "es": "Infección de las encías"
+    }
+  },
+  "headache": {
+    "i18n": {
+      "es": "Dolor de cabeza"
+    }
+  },
+  "heartburn": {
+    "i18n": {
+      "es": "Acidez"
+    }
+  },
+  "heart trouble": {
+    "i18n": {
+      "es": "Enfermar del corazón, problemas cardiacos"
+    }
+  },
+  "hoarseness": {
+    "i18n": {
+      "es": "Ronquera, afonía"
+    }
+  },
+  "hypersensitivity": {
+    "i18n": {
+      "es": "Hipersensibilidad"
+    }
+  },
+  "indigestion": {
+    "i18n": {
+      "es": "Indigestión"
+    }
+  },
+  "infection": {
+    "i18n": {
+      "es": "Infección"
+    }
+  },
+  "injure": {
+    "i18n": {
+      "es": "Herir, dañar, lastimar, perjudicar"
+    }
+  },
+  "injured": {
+    "i18n": {
+      "es": "Herido"
+    }
+  },
+  "injury": {
+    "i18n": {
+      "es": "Herida, lesión, daño; agravio"
+    }
+  },
+  "insomnia": {
+    "i18n": {
+      "es": "Insomnio"
+    }
+  },
+  "intercourse": {
+    "i18n": {
+      "es": "Coito, relaciones sexuales con penetración"
+    }
+  },
+  "intestinal gas": {
+    "i18n": {
+      "es": "Gases intestinales"
+    }
+  },
+  "intoxicated": {
+    "i18n": {
+      "es": "Intoxicado por drogas o alcohol"
+    }
+  },
+  "irregular pulse": {
+    "i18n": {
+      "es": "Pulso irregular"
+    }
+  },
+  "irritation": {
+    "i18n": {
+      "es": "Irritación, picor"
+    }
+  },
+  "itch": {
+    "i18n": {
+      "es": "Picar, rascar"
+    }
+  },
+  "itchiness": {
+    "i18n": {
+      "es": "Comezón, picazón, rasquiña"
+    }
+  },
+  "jagged": {
+    "i18n": {
+      "es": "Dentado, mellado"
+    }
+  },
+  "jittery": {
+    "i18n": {
+      "es": "Nervioso, agitado, inquieto"
+    }
+  },
+  "jumpy": {
+    "i18n": {
+      "es": "Saltón, asustadizo, nervioso, aprensivo"
+    }
+  },
+  "lesion": {
+    "i18n": {
+      "es": "Lesión"
+    }
+  },
+  "limp": {
+    "i18n": {
+      "es": "Cojera"
+    }
+  },
+  "lose": {
+    "i18n": {
+      "es": "Perder"
+    }
+  },
+  "lose consciousness": {
+    "i18n": {
+      "es": "Perder la conciencia o el conocimiento, quedar"
+    }
+  },
+  "loss of vision": {
+    "i18n": {
+      "es": "Pérdida de la visión"
+    }
+  },
+  "lump": {
+    "i18n": {
+      "es": "Bulto, bola, chichón, hinchazón, abultamiento"
+    }
+  },
+  "malnourished": {
+    "i18n": {
+      "es": "Malnutrido"
+    }
+  },
+  "mass": {
+    "i18n": {
+      "es": "Masa"
+    }
+  },
+  "masturbation": {
+    "i18n": {
+      "es": "Marturbación"
+    }
+  },
+  "migraine": {
+    "i18n": {
+      "es": "Migraña"
+    }
+  },
+  "mind": {
+    "i18n": {
+      "es": "Mente"
+    }
+  },
+  "miracle": {
+    "i18n": {
+      "es": "Milagro"
+    }
+  },
+  "mold": {
+    "i18n": {
+      "es": "Hongo / musgo"
+    }
+  },
+  "mood swing": {
+    "i18n": {
+      "es": "Cambio de humor"
+    }
+  },
+  "mosquito": {
+    "i18n": {
+      "es": "Mosquito"
+    }
+  },
+  "nap": {
+    "i18n": {
+      "es": "Siesta"
+    }
+  },
+  "nausea": {
+    "i18n": {
+      "es": "Náusea"
+    }
+  },
+  "necrosis": {
+    "i18n": {
+      "es": "Necrosis"
+    }
+  },
+  "nervous": {
+    "i18n": {
+      "es": "Nervioso/a"
+    }
+  },
+  "nodule": {
+    "i18n": {
+      "es": "Nódulo"
+    }
+  },
+  "nosebleed": {
+    "i18n": {
+      "es": "Sangrado de nariz"
+    }
+  },
+  "numb": {
+    "i18n": {
+      "es": "Entumecido"
+    }
+  },
+  "to become numbed by inactivation": {
+    "i18n": {
+      "es": "Entumecerse por no moverse, por falta de"
+    }
+  },
+  "numbness": {
+    "i18n": {
+      "es": "Entumecimiento, adormecimiento"
+    }
+  },
+  "open sore": {
+    "i18n": {
+      "es": "Llaga abierta"
+    }
+  },
+  "oozing": {
+    "i18n": {
+      "es": "Rezumando, rezumante, exudante"
+    }
+  },
+  "climax": {
+    "i18n": {
+      "es": "Climax"
+    }
+  },
+  "orgasm": {
+    "i18n": {
+      "es": "Orgasmo"
+    }
+  },
+  "out of breath": {
+    "i18n": {
+      "es": "Sin Aliento, sin respiración"
+    }
+  },
+  "pale": {
+    "i18n": {
+      "es": "Pálido/a"
+    }
+  },
+  "palpitation": {
+    "i18n": {
+      "es": "Palpitación"
+    }
+  },
+  "paralysis": {
+    "i18n": {
+      "es": "Parálisis"
+    }
+  },
+  "pass out": {
+    "i18n": {
+      "es": "Desmayarse"
+    }
+  },
+  "perspire": {
+    "i18n": {
+      "es": "Sudar, transpirar, perspirar"
+    }
+  },
+  "perspiration": {
+    "i18n": {
+      "es": "Sudoración, transpiración, perspiración"
+    }
+  },
+  "plugged ear": {
+    "i18n": {
+      "es": "Oído entaponado / tapado"
+    }
+  },
+  "prick (hurt)": {
+    "i18n": {
+      "es": "Pinchazo, punzada"
+    }
+  },
+  "pulse": {
+    "i18n": {
+      "es": "Pulso"
+    }
+  },
+  "pus": {
+    "i18n": {
+      "es": "Pus"
+    }
+  },
+  "pustule": {
+    "i18n": {
+      "es": "Pústula"
+    }
+  },
+  "pyorrhea": {
+    "i18n": {
+      "es": "Piorrea"
+    }
+  },
+  "quake": {
+    "i18n": {
+      "es": "Temblor"
+    }
+  },
+  "quarrel": {
+    "i18n": {
+      "es": "Disputa, pelea"
+    }
+  },
+  "queasy": {
+    "i18n": {
+      "es": "Delicado, débil, remilgado"
+    }
+  },
+  "quick": {
+    "i18n": {
+      "es": "Rápido"
+    }
+  },
+  "quiet": {
+    "i18n": {
+      "es": "Silencio, silencioso"
+    }
+  },
+  "recurrent": {
+    "i18n": {
+      "es": "Recurrente"
+    }
+  },
+  "reproduction": {
+    "i18n": {
+      "es": "Reproducción"
+    }
+  },
+  "respiration": {
+    "i18n": {
+      "es": "Respiración"
+    }
+  },
+  "retention": {
+    "i18n": {
+      "es": "Retención"
+    }
+  },
+  "rhonchous lung sounds": {
+    "i18n": {
+      "es": "Sonidos roncos del pulmón"
+    }
+  },
+  "rhythm": {
+    "i18n": {
+      "es": "Ritmo"
+    }
+  },
+  "rough": {
+    "i18n": {
+      "es": "Áspero, tosco, grosero, rudo"
+    }
+  },
+  "runny nose": {
+    "i18n": {
+      "es": "Nariz que gotea, que moquea, nariz mocosa"
+    }
+  },
+  "rupture": {
+    "i18n": {
+      "es": "Ruptura"
+    }
+  },
+  "ruptured": {
+    "i18n": {
+      "es": "Roto, quebrado"
+    }
+  },
+  "scorpion": {
+    "i18n": {
+      "es": "Escorpión"
+    }
+  },
+  "scratch (injury)": {
+    "i18n": {
+      "es": "Rascadura, rascón, arañazo, rasguño, marca,"
+    }
+  },
+  "secrete": {
+    "i18n": {
+      "es": "Secretar"
+    }
+  },
+  "secretion": {
+    "i18n": {
+      "es": "Secreción"
+    }
+  },
+  "seizures": {
+    "i18n": {
+      "es": "Convulsiones"
+    }
+  },
+  "sensitive": {
+    "i18n": {
+      "es": "Sensible, sensitivo"
+    }
+  },
+  "sex": {
+    "i18n": {
+      "es": "Sexo"
+    }
+  },
+  "sexual activity": {
+    "i18n": {
+      "es": "Actividad sexual"
+    }
+  },
+  "sexual relations": {
+    "i18n": {
+      "es": "Relaciones sexuales"
+    }
+  },
+  "sexual partners": {
+    "i18n": {
+      "es": "Pareja sexual"
+    }
+  },
+  "sexually active": {
+    "i18n": {
+      "es": "Sexualmente activo"
+    }
+  },
+  "shiver": {
+    "i18n": {
+      "es": "Temblar"
+    }
+  },
+  "shock (fright)": {
+    "i18n": {
+      "es": "Choque, sobresalto"
+    }
+  },
+  "shortness of breath": {
+    "i18n": {
+      "es": "Falta de respiración"
+    }
+  },
+  "smoke": {
+    "i18n": {
+      "es": "Humo"
+    }
+  },
+  "snake": {
+    "i18n": {
+      "es": "Serpiente, culebra"
+    }
+  },
+  "sneeze": {
+    "i18n": {
+      "es": "Estornudar"
+    }
+  },
+  "sore throat": {
+    "i18n": {
+      "es": "Garganta irritada, dolor de garganta"
+    }
+  },
+  "spasm (of a muscle)": {
+    "i18n": {
+      "es": "Espasmo (muscular)"
+    }
+  },
+  "spicy foods": {
+    "i18n": {
+      "es": "Comidas picantes"
+    }
+  },
+  "spider": {
+    "i18n": {
+      "es": "Araña"
+    }
+  },
+  "spit": {
+    "i18n": {
+      "es": "Escupitajo, gapo, saliva, esputo"
+    }
+  },
+  "splinter": {
+    "i18n": {
+      "es": "Astilla"
+    }
+  },
+  "spread": {
+    "i18n": {
+      "es": "Diseminación, propagación, extensión, difusión"
+    }
+  },
+  "stiffness": {
+    "i18n": {
+      "es": "Rigidez, dureza, agarrotamiento,"
+    }
+  },
+  "sting (of an insect)": {
+    "i18n": {
+      "es": "Picadura, aguijonazo, aguijón"
+    }
+  },
+  "strain": {
+    "i18n": {
+      "es": "Tensión, presión; torcedura, esguince"
+    }
+  },
+  "strained muscle": {
+    "i18n": {
+      "es": "Esguince; músculo distendido"
+    }
+  },
+  "stuffed": {
+    "i18n": {
+      "es": "Relleno; disecado"
+    }
+  },
+  "stuffed up": {
+    "i18n": {
+      "es": "Con la nariz tapada, estar congestionado o"
+    }
+  },
+  "suffocate": {
+    "i18n": {
+      "es": "Sofocar"
+    }
+  },
+  "swallow": {
+    "i18n": {
+      "es": "Tragar"
+    }
+  },
+  "sweat": {
+    "i18n": {
+      "es": "Sudor"
+    }
+  },
+  "night sweat": {
+    "i18n": {
+      "es": "Sudor nocturno"
+    }
+  },
+  "swell": {
+    "i18n": {
+      "es": "Hinchazón, bulto"
+    }
+  },
+  "swelling": {
+    "i18n": {
+      "es": "Hinchando"
+    }
+  },
+  "swollen": {
+    "i18n": {
+      "es": "Hinchado, inflado, inflamado"
+    }
+  },
+  "symptom": {
+    "i18n": {
+      "es": "Síntoma"
+    }
+  },
+  "symptomatic": {
+    "i18n": {
+      "es": "Sintomático"
+    }
+  },
+  "teary/watery eyes": {
+    "i18n": {
+      "es": "Ojos llorosos"
+    }
+  },
+  "temperature": {
+    "i18n": {
+      "es": "Temperatura, fiebre"
+    }
+  },
+  "tense": {
+    "i18n": {
+      "es": "Tenso, tieso"
+    }
+  },
+  "tension": {
+    "i18n": {
+      "es": "Tensión"
+    }
+  },
+  "thirst (excessive)": {
+    "i18n": {
+      "es": "Sed (excesiva)"
+    }
+  },
+  "tick (insect)": {
+    "i18n": {
+      "es": "Garrapata"
+    }
+  },
+  "tightness": {
+    "i18n": {
+      "es": "Tensión, tirantez // Estrechez"
+    }
+  },
+  "tingling": {
+    "i18n": {
+      "es": "Cosquilleo, hormigueo"
+    }
+  },
+  "tired": {
+    "i18n": {
+      "es": "Cansado/a"
+    }
+  },
+  "tiredness": {
+    "i18n": {
+      "es": "Cansancio"
+    }
+  },
+  "toothache": {
+    "i18n": {
+      "es": "Dolor de dientes"
+    }
+  },
+  "transmission": {
+    "i18n": {
+      "es": "Transmisión"
+    }
+  },
+  "undernourished": {
+    "i18n": {
+      "es": "Malnutrido"
+    }
+  },
+  "understandable": {
+    "i18n": {
+      "es": "Comprensible"
+    }
+  },
+  "unwanted": {
+    "i18n": {
+      "es": "No deseado, indeseable"
+    }
+  },
+  "urinate": {
+    "i18n": {
+      "es": "Orinar"
+    }
+  },
+  "urination (excessive)": {
+    "i18n": {
+      "es": "Orinar (excesivo)"
+    }
+  },
+  "vision": {
+    "i18n": {
+      "es": "Visión"
+    }
+  },
+  "vomit": {
+    "i18n": {
+      "es": "Vomitar"
+    }
+  },
+  "vomiting": {
+    "i18n": {
+      "es": "Vómito"
+    }
+  },
+  "weak": {
+    "i18n": {
+      "es": "Débil"
+    }
+  },
+  "weakness": {
+    "i18n": {
+      "es": "Debilidad"
+    }
+  },
+  "weight fluctuations": {
+    "i18n": {
+      "es": "Fluctuaciones de peso"
+    }
+  },
+  "weight loss": {
+    "i18n": {
+      "es": "Pérdida de Peso, bajar de peso"
+    }
+  },
+  "well-hydrated": {
+    "i18n": {
+      "es": "Bien hidratado"
+    }
+  },
+  "wheeze": {
+    "i18n": {
+      "es": "Resuello, ruidoso, respiración violenta o con"
+    }
+  },
+  "wheezing": {
+    "i18n": {
+      "es": "Resollando como haciendo un silbido, respirar"
+    }
+  },
+  "withdrawal": {
+    "i18n": {
+      "es": "Retirada, abandono"
+    }
+  },
+  "worry": {
+    "i18n": {
+      "es": "Preocupación"
+    }
+  },
+  "wound": {
+    "i18n": {
+      "es": "Herida"
+    }
+  },
+  "a stab of pain (sudden, brief pain)": {
+    "i18n": {
+      "es": "Dolor que traspasa, que apuñala, una picada"
+    }
+  },
+  "aches (continuous dull pain)": {
+    "i18n": {
+      "es": "Dolores"
+    }
+  },
+  "to ache": {
+    "i18n": {
+      "es": "Doler"
+    }
+  },
+  "burning sensation": {
+    "i18n": {
+      "es": "Sensación de quemadura, de quemazón, de"
+    }
+  },
+  "chronic pain": {
+    "i18n": {
+      "es": "Dolor crónico"
+    }
+  },
+  "comes and goes": {
+    "i18n": {
+      "es": "Viene y se va"
+    }
+  },
+  "constant, persistent": {
+    "i18n": {
+      "es": "Constante, persistente"
+    }
+  },
+  "dull pain (not intense or sharp)": {
+    "i18n": {
+      "es": "Dolor sordo / extendido"
+    }
+  },
+  "excruciating (extremely painful)": {
+    "i18n": {
+      "es": "Dolor agudísimo, extremo, insoportable;"
+    }
+  },
+  "generalized pain": {
+    "i18n": {
+      "es": "Dolor generalizado"
+    }
+  },
+  "hurts": {
+    "i18n": {
+      "es": "Duele"
+    }
+  },
+  "intense": {
+    "i18n": {
+      "es": "Intenso"
+    }
+  },
+  "intermittent pain": {
+    "i18n": {
+      "es": "Dolor intermitente"
+    }
+  },
+  "localized pain": {
+    "i18n": {
+      "es": "Dolor localizado"
+    }
+  },
+  "minor": {
+    "i18n": {
+      "es": "Menor, mínimo"
+    }
+  },
+  "on and off": {
+    "i18n": {
+      "es": "A intervalos, de vez en cuando"
+    }
+  },
+  "painful": {
+    "i18n": {
+      "es": "Doloroso"
+    }
+  },
+  "pins and needles": {
+    "i18n": {
+      "es": "Aguijonazos, hormigueos"
+    }
+  },
+  "recurring": {
+    "i18n": {
+      "es": "Recurrente"
+    }
+  },
+  "sharp pain": {
+    "i18n": {
+      "es": "Dolor agudo, dolor punzante"
+    }
+  },
+  "shooting pain (pain shot up my leg)": {
+    "i18n": {
+      "es": "Dolor punzante"
+    }
+  },
+  "smarts (sharp, local pain; usually superficial)": {
+    "i18n": {
+      "es": "Punzada, picada, mordida"
+    }
+  },
+  "sore": {
+    "i18n": {
+      "es": "Dolorido, adolorido, inflamado, resentido, irritado"
+    }
+  },
+  "soreness": {
+    "i18n": {
+      "es": "Dolor, inflamación, irritación"
+    }
+  },
+  "splitting (headache)": {
+    "i18n": {
+      "es": "Fuerte, violento (folor de cabeza)"
+    }
+  },
+  "sting": {
+    "i18n": {
+      "es": "Picazón, dolor agudo, escozor (N.) // Picar,"
+    }
+  },
+  "tender (painfully sensitive)": {
+    "i18n": {
+      "es": "Adolorido, sensible"
+    }
+  },
+  "throbbing pain (beating with rapidity or force)": {
+    "i18n": {
+      "es": "Palpitante"
+    }
+  },
+  "unbearable": {
+    "i18n": {
+      "es": "Inaguantable, insoportable"
+    }
+  },
+  "biopsy": {
+    "i18n": {
+      "es": "Biopsia"
+    }
+  },
+  "blood pressure reading": {
+    "i18n": {
+      "es": "Medición de la presión sanguínea"
+    }
+  },
+  "blood": {
+    "i18n": {
+      "es": "Sangre"
+    }
+  },
+  "a pint": {
+    "i18n": {
+      "es": "Una pinta"
+    }
+  },
+  "antibody": {
+    "i18n": {
+      "es": "Anticuerpo"
+    }
+  },
+  "antigen": {
+    "i18n": {
+      "es": "Antígeno"
+    }
+  },
+  "blood bank": {
+    "i18n": {
+      "es": "Banco de sangre"
+    }
+  },
+  "blood clot": {
+    "i18n": {
+      "es": "Coágulo de sangre"
+    }
+  },
+  "blood count": {
+    "i18n": {
+      "es": "Recuento globular, recuento sanguíneo"
+    }
+  },
+  "blood donation": {
+    "i18n": {
+      "es": "Donación de sangre"
+    }
+  },
+  "blood glucose levels": {
+    "i18n": {
+      "es": "Niveles de glucosa en la sangre"
+    }
+  },
+  "blood glucose reading": {
+    "i18n": {
+      "es": "Medición de los niveles de glucosa"
+    }
+  },
+  "blood plasma": {
+    "i18n": {
+      "es": "Plasma sanguíneo"
+    }
+  },
+  "blood test": {
+    "i18n": {
+      "es": "Examen sanguíneo, de sangre"
+    }
+  },
+  "blood type": {
+    "i18n": {
+      "es": "Grupo/tipo sanguíneo"
+    }
+  },
+  "b-lymphocytes (b-cells)": {
+    "i18n": {
+      "es": "Linfocitos B (Células B)"
+    }
+  },
+  "bone marrow": {
+    "i18n": {
+      "es": "Médula Ósea"
+    }
+  },
+  "cd4 cells/cd4 count": {
+    "i18n": {
+      "es": "Células Cd4, recuento de Cd4"
+    }
+  },
+  "clotting factors": {
+    "i18n": {
+      "es": "Factores de coagulación"
+    }
+  },
+  "fibrin": {
+    "i18n": {
+      "es": "Fibrina"
+    }
+  },
+  "hematologist": {
+    "i18n": {
+      "es": "Hematólogo"
+    }
+  },
+  "hemoglobin": {
+    "i18n": {
+      "es": "Hemoglobina"
+    }
+  },
+  "leukocytes": {
+    "i18n": {
+      "es": "Leucocitos"
+    }
+  },
+  "mean (statistic)": {
+    "i18n": {
+      "es": "Media (Estadística)"
+    }
+  },
+  "range": {
+    "i18n": {
+      "es": "Rango"
+    }
+  },
+  "red blood cells": {
+    "i18n": {
+      "es": "Glóbulos rojos, hematíes"
+    }
+  },
+  "samples": {
+    "i18n": {
+      "es": "Muestras"
+    }
+  },
+  "seroconversion": {
+    "i18n": {
+      "es": "Seroconversión"
+    }
+  },
+  "serology": {
+    "i18n": {
+      "es": "Serología"
+    }
+  },
+  "serum": {
+    "i18n": {
+      "es": "Suero"
+    }
+  },
+  "td (median toxic dose)": {
+    "i18n": {
+      "es": "Dt (Dosis Tóxica Media)"
+    }
+  },
+  "titer": {
+    "i18n": {
+      "es": "Título, valor"
+    }
+  },
+  "t-lymphocytes (t-cells)": {
+    "i18n": {
+      "es": "Linfocitos T (Células T)"
+    }
+  },
+  "white blood cells": {
+    "i18n": {
+      "es": "Glóbulos blancos, leucocitos"
+    }
+  },
+  "transfusion": {
+    "i18n": {
+      "es": "Transfusión"
+    }
+  },
+  "viral load": {
+    "i18n": {
+      "es": "Carga viral"
+    }
+  },
+  "bone marrow transplant": {
+    "i18n": {
+      "es": "Transplante de Medula Ósea"
+    }
+  },
+  "bone scan": {
+    "i18n": {
+      "es": "Tomografía del hueso (ósea)"
+    }
+  },
+  "bronchoscopy": {
+    "i18n": {
+      "es": "Broncoscopia"
+    }
+  },
+  "catherization": {
+    "i18n": {
+      "es": "Caterización"
+    }
+  },
+  "catherize": {
+    "i18n": {
+      "es": "Caterizar"
+    }
+  },
+  "cauterization": {
+    "i18n": {
+      "es": "Cauterización"
+    }
+  },
+  "cauterize": {
+    "i18n": {
+      "es": "Cauterizar"
+    }
+  },
+  "check-up": {
+    "i18n": {
+      "es": "Verificar, chequear"
+    }
+  },
+  "circumcision": {
+    "i18n": {
+      "es": "Circuncisión"
+    }
+  },
+  "colposcopy": {
+    "i18n": {
+      "es": "Colposcopía"
+    }
+  },
+  "complete physical": {
+    "i18n": {
+      "es": "Examen físico completo"
+    }
+  },
+  "computed tomography (ct scan)": {
+    "i18n": {
+      "es": "Tomografía Computarizada, Computada"
+    }
+  },
+  "curettage": {
+    "i18n": {
+      "es": "Raspado, curetaje"
+    }
+  },
+  "conization": {
+    "i18n": {
+      "es": "Conización"
+    }
+  },
+  "cytology": {
+    "i18n": {
+      "es": "Citología"
+    }
+  },
+  "cytoscopy": {
+    "i18n": {
+      "es": "Cistoscopia"
+    }
+  },
+  "diagnose": {
+    "i18n": {
+      "es": "Diagosticar"
+    }
+  },
+  "diagnosis": {
+    "i18n": {
+      "es": "Diagnóstico"
+    }
+  },
+  "dilation and curettage (d&amp;c)": {
+    "i18n": {
+      "es": "Dilatación y raspado"
+    }
+  },
+  "echocardiogram (echo)": {
+    "i18n": {
+      "es": "Ecocardiograma/ Ecocardiografía"
+    }
+  },
+  "electrocardiogram (ekg)": {
+    "i18n": {
+      "es": "Electrocardiograma/fía (EKG)"
+    }
+  },
+  "electroencephalogram (eeg)": {
+    "i18n": {
+      "es": "Electroencefalograma/fía (Eeg)"
+    }
+  },
+  "elisa test for hiv": {
+    "i18n": {
+      "es": "Elisa Examen para la detección del VIH"
+    }
+  },
+  "endoscopy": {
+    "i18n": {
+      "es": "Endoscopia"
+    }
+  },
+  "exam": {
+    "i18n": {
+      "es": "Examen, prueba, análisis"
+    }
+  },
+  "excision": {
+    "i18n": {
+      "es": "Excisión"
+    }
+  },
+  "exercise tolerance test": {
+    "i18n": {
+      "es": "Prueba de tolerancia física"
+    }
+  },
+  "false negative": {
+    "i18n": {
+      "es": "Falso negativo // Negativo falso"
+    }
+  },
+  "false positive": {
+    "i18n": {
+      "es": "Falso positivo // Positivo falso"
+    }
+  },
+  "fast plasma glucose test (fpg)": {
+    "i18n": {
+      "es": "Prueba de glucosa en plasma en ayunas"
+    }
+  },
+  "filling (for tooth)": {
+    "i18n": {
+      "es": "Empaste (dental)\\"
+    }
+  },
+  "fluorescence microscopy": {
+    "i18n": {
+      "es": "Microscopía fluorescente"
+    }
+  },
+  "fluoroscopy": {
+    "i18n": {
+      "es": "Fluoroscopia"
+    }
+  },
+  "gastroscopy": {
+    "i18n": {
+      "es": "Gastroscopia"
+    }
+  },
+  "glucose meter": {
+    "i18n": {
+      "es": "Glucómetro"
+    }
+  },
+  "gown (clinical/hospital)": {
+    "i18n": {
+      "es": "Bata"
+    }
+  },
+  "holter monitor": {
+    "i18n": {
+      "es": "Monitor de ritmo cardíaco"
+    }
+  },
+  "hiv (human immuno-deficiency virus) test": {
+    "i18n": {
+      "es": "Test del VIH (Virus de Inmunodeficiencia"
+    }
+  },
+  "incision": {
+    "i18n": {
+      "es": "Incisión"
+    }
+  },
+  "intravenous pyelogram (ivp)": {
+    "i18n": {
+      "es": "Pielograma Intravenoso"
+    }
+  },
+  "laboratory test": {
+    "i18n": {
+      "es": "Examen de laboratorio"
+    }
+  },
+  "laparoscopic prostatectomy": {
+    "i18n": {
+      "es": "Prostatectomía laparoscópica"
+    }
+  },
+  "laser photocoagulation": {
+    "i18n": {
+      "es": "Foto-Coagulación por láser"
+    }
+  },
+  "laser surgery": {
+    "i18n": {
+      "es": "Cirugía láser"
+    }
+  },
+  "lithotripsy": {
+    "i18n": {
+      "es": "Litrotipsia, litolapaxia"
+    }
+  },
+  "lubricate": {
+    "i18n": {
+      "es": "Lubricar"
+    }
+  },
+  "lumbar/cervical roll": {
+    "i18n": {
+      "es": "Almohada, almohadilla cervical, lumbar"
+    }
+  },
+  "lumbar puncture": {
+    "i18n": {
+      "es": "Punción lumbar"
+    }
+  },
+  "lung function test": {
+    "i18n": {
+      "es": "Prueba de la función pulmonar"
+    }
+  },
+  "magnetic resonance imaging (mri)": {
+    "i18n": {
+      "es": "Resonancia Magnética Nuclear (RMN)"
+    }
+  },
+  "mammogram": {
+    "i18n": {
+      "es": "Mamografía"
+    }
+  },
+  "mammography": {
+    "i18n": {
+      "es": "Mamografía"
+    }
+  },
+  "nasal irrigation": {
+    "i18n": {
+      "es": "Irrigación nasal"
+    }
+  },
+  "needle aspiration biopsy": {
+    "i18n": {
+      "es": "Biopsia por aspiración con aguja"
+    }
+  },
+  "nerve-sparing prostatectomy": {
+    "i18n": {
+      "es": "Prostatectomía preservadora del nervio"
+    }
+  },
+  "observation": {
+    "i18n": {
+      "es": "Observación"
+    }
+  },
+  "operate": {
+    "i18n": {
+      "es": "Operar"
+    }
+  },
+  "operation": {
+    "i18n": {
+      "es": "Operación"
+    }
+  },
+  "oral glucose tolerance test": {
+    "i18n": {
+      "es": "Prueba oral de tolerancia a la glucosa"
+    }
+  },
+  "ova and parasite test": {
+    "i18n": {
+      "es": "Prueba de huevos y parásitos"
+    }
+  },
+  "pap smear": {
+    "i18n": {
+      "es": "Papanicolau; Citología (con tinción de"
+    }
+  },
+  "pathologist": {
+    "i18n": {
+      "es": "Patólogo"
+    }
+  },
+  "positron emission tomography (pet)": {
+    "i18n": {
+      "es": "Tomografía por emisión de positrones"
+    }
+  },
+  "ppd (purified protein derivative)": {
+    "i18n": {
+      "es": "Proteína derivada purificada"
+    }
+  },
+  "prescribe": {
+    "i18n": {
+      "es": "Recetar, prescribir"
+    }
+  },
+  "prostate-specific antigen blood test (psa)": {
+    "i18n": {
+      "es": "Prueba de sangre del antígeno prostático"
+    }
+  },
+  "pulmonary function test": {
+    "i18n": {
+      "es": "Evaluación de la función pulmonar"
+    }
+  },
+  "question": {
+    "i18n": {
+      "es": "Pregunta, cuestión"
+    }
+  },
+  "radical prostatectomy": {
+    "i18n": {
+      "es": "Prostatectomía radical"
+    }
+  },
+  "rapid plasma reagin (rpr)": {
+    "i18n": {
+      "es": "Test reagínico plasmático rápido"
+    }
+  },
+  "rectal exam": {
+    "i18n": {
+      "es": "Examen del recto"
+    }
+  },
+  "release": {
+    "i18n": {
+      "es": "Dar de alta"
+    }
+  },
+  "renal dialysis": {
+    "i18n": {
+      "es": "Diálisis renal"
+    }
+  },
+  "resection": {
+    "i18n": {
+      "es": "Resección"
+    }
+  },
+  "root canal": {
+    "i18n": {
+      "es": "Endodoncia, tratamiento de conductos"
+    }
+  },
+  "run a test": {
+    "i18n": {
+      "es": "Hacer un examen, llevar a cabo un examen"
+    }
+  },
+  "screening tests": {
+    "i18n": {
+      "es": "Exámenes de detección"
+    }
+  },
+  "screening (screening the population)": {
+    "i18n": {
+      "es": "Reconocimiento"
+    }
+  },
+  "semen analysis": {
+    "i18n": {
+      "es": "Análisis Seminal"
+    }
+  },
+  "serological test": {
+    "i18n": {
+      "es": "Prueba serológica"
+    }
+  },
+  "skin allergy testing": {
+    "i18n": {
+      "es": "Pruebas de alergias de la piel"
+    }
+  },
+  "sonogram": {
+    "i18n": {
+      "es": "Sonograma / ecografia"
+    }
+  },
+  "specimen": {
+    "i18n": {
+      "es": "Espécimen, muestra, modelo"
+    }
+  },
+  "sphygmomanometer": {
+    "i18n": {
+      "es": "Esfigmomanómetro"
+    }
+  },
+  "spirometry": {
+    "i18n": {
+      "es": "Espirometría"
+    }
+  },
+  "sterilization": {
+    "i18n": {
+      "es": "Esterilización"
+    }
+  },
+  "sterilize": {
+    "i18n": {
+      "es": "Esterilizar"
+    }
+  },
+  "stick out the tongue": {
+    "i18n": {
+      "es": "Sacar la lengua"
+    }
+  },
+  "stool sample/specimen": {
+    "i18n": {
+      "es": "Muestra de la materia fecal, del excremento"
+    }
+  },
+  "stomach pump": {
+    "i18n": {
+      "es": "Bomba estomacal, lavativa"
+    }
+  },
+  "survey": {
+    "i18n": {
+      "es": "Estudio, examen, reconocimiento, encuesta"
+    }
+  },
+  "test": {
+    "i18n": {
+      "es": "Examen"
+    }
+  },
+  "test strip": {
+    "i18n": {
+      "es": "Tira de detección, tirilla"
+    }
+  },
+  "temperature reading": {
+    "i18n": {
+      "es": "Medición de la temperatura"
+    }
+  },
+  "throat/wound culture": {
+    "i18n": {
+      "es": "Cultivo de la garganta, de una herida"
+    }
+  },
+  "thyroid image": {
+    "i18n": {
+      "es": "Imágen tiroidea"
+    }
+  },
+  "tonometry": {
+    "i18n": {
+      "es": "Tonometría"
+    }
+  },
+  "tourniquet": {
+    "i18n": {
+      "es": "Torniquete"
+    }
+  },
+  "tsh (thyroid stimulating hormone) assay": {
+    "i18n": {
+      "es": "Estudio de la hormona estimuladora de la"
+    }
+  },
+  "tuberculin test": {
+    "i18n": {
+      "es": "Test de la tuberculina"
+    }
+  },
+  "turn over": {
+    "i18n": {
+      "es": "Volcar, voltearse, darse la vuelta"
+    }
+  },
+  "ultrasound": {
+    "i18n": {
+      "es": "Ecocardiografía, ecografía, ultrasonido"
+    }
+  },
+  "undress": {
+    "i18n": {
+      "es": "Desvestirse, desnudarse"
+    }
+  },
+  "upper gi series": {
+    "i18n": {
+      "es": "Seriada gastrointestinal"
+    }
+  },
+  "urinalysis": {
+    "i18n": {
+      "es": "Urinálisis, análisis de la orina"
+    }
+  },
+  "urine test": {
+    "i18n": {
+      "es": "Examen de la orina"
+    }
+  },
+  "visual fields examination": {
+    "i18n": {
+      "es": "Examen del campo visual"
+    }
+  },
+  "x-ray": {
+    "i18n": {
+      "es": "Radiografía/ Rayos X"
+    }
+  },
+  "bedpan": {
+    "i18n": {
+      "es": "Orinal, cuña, silleta"
+    }
+  },
+  "brace": {
+    "i18n": {
+      "es": "Grapa, tirante, tensor, abrazadera"
+    }
+  },
+  "cane": {
+    "i18n": {
+      "es": "Bastón, caña"
+    }
+  },
+  "catheter": {
+    "i18n": {
+      "es": "Catéter"
+    }
+  },
+  "crutches": {
+    "i18n": {
+      "es": "Muletas"
+    }
+  },
+  "curette": {
+    "i18n": {
+      "es": "Cureta, raspador"
+    }
+  },
+  "cystoscope": {
+    "i18n": {
+      "es": "Cistoscopio"
+    }
+  },
+  "endoscope": {
+    "i18n": {
+      "es": "Endoscopio"
+    }
+  },
+  "flow meter": {
+    "i18n": {
+      "es": "Metro para medir el flujo, el fluído"
+    }
+  },
+  "fluoroscope": {
+    "i18n": {
+      "es": "Fluoroscopio"
+    }
+  },
+  "heating pad": {
+    "i18n": {
+      "es": "Almohadilla de calor, almohada eléctrica"
+    }
+  },
+  "hypodermic needle": {
+    "i18n": {
+      "es": "Aguja hipodérmica"
+    }
+  },
+  "laparoscope": {
+    "i18n": {
+      "es": "Laparoscopio"
+    }
+  },
+  "loop": {
+    "i18n": {
+      "es": "Lazo // Presilla, anilla, abrazadera"
+    }
+  },
+  "mercurochrome": {
+    "i18n": {
+      "es": "Mercuriocromo"
+    }
+  },
+  "meter": {
+    "i18n": {
+      "es": "Metro"
+    }
+  },
+  "microscope": {
+    "i18n": {
+      "es": "Microscopio"
+    }
+  },
+  "needle/syringe": {
+    "i18n": {
+      "es": "Jeringuilla // Jeringa"
+    }
+  },
+  "outlet protector": {
+    "i18n": {
+      "es": "Protector de salida"
+    }
+  },
+  "peak flow meter": {
+    "i18n": {
+      "es": "Medidor de flujo máximo"
+    }
+  },
+  "pumps": {
+    "i18n": {
+      "es": "Escarpines, zapatillas // bombas"
+    }
+  },
+  "stethoscope": {
+    "i18n": {
+      "es": "Estetoscopio"
+    }
+  },
+  "thermometer": {
+    "i18n": {
+      "es": "Termómetro"
+    }
+  },
+  "tuning fork": {
+    "i18n": {
+      "es": "Diapasón"
+    }
+  },
+  "tweezers": {
+    "i18n": {
+      "es": "Pinzas, tenacillas"
+    }
+  },
+  "walker": {
+    "i18n": {
+      "es": "Andador"
+    }
+  },
+  "wheelchair": {
+    "i18n": {
+      "es": "Silla de ruedas"
+    }
+  },
+  "abnormal": {
+    "i18n": {
+      "es": "Anormal"
+    }
+  },
+  "acne": {
+    "i18n": {
+      "es": "Acné"
+    }
+  },
+  "acute condition": {
+    "i18n": {
+      "es": "Enfermedad/ Afección/ Condición  aguda/grave"
+    }
+  },
+  "addiction": {
+    "i18n": {
+      "es": "Adicción"
+    }
+  },
+  "aids (acquired immuno-deficiency syndrome)": {
+    "i18n": {
+      "es": "Sida (Síndrome de Inmunodeficiencia Adquirida)"
+    }
+  },
+  "alcohol abuse": {
+    "i18n": {
+      "es": "Abuso de alcohol"
+    }
+  },
+  "alcohol withdrawal": {
+    "i18n": {
+      "es": "Abstinencia del alcohol"
+    }
+  },
+  "alcoholism": {
+    "i18n": {
+      "es": "Alcoholismo"
+    }
+  },
+  "allergy": {
+    "i18n": {
+      "es": "Alergia"
+    }
+  },
+  "allergen": {
+    "i18n": {
+      "es": "Alérgeno"
+    }
+  },
+  "anemia": {
+    "i18n": {
+      "es": "Anemia"
+    }
+  },
+  "anemic": {
+    "i18n": {
+      "es": "Anémico/a"
+    }
+  },
+  "aneurysm": {
+    "i18n": {
+      "es": "Aneurisma"
+    }
+  },
+  "arrythmia": {
+    "i18n": {
+      "es": "Arritmia"
+    }
+  },
+  "artherosclerosis": {
+    "i18n": {
+      "es": "Arterioesclerosis"
+    }
+  },
+  "arthritis": {
+    "i18n": {
+      "es": "Artritis"
+    }
+  },
+  "asthma": {
+    "i18n": {
+      "es": "Asma"
+    }
+  },
+  "asthmatic": {
+    "i18n": {
+      "es": "Asmático"
+    }
+  },
+  "asymptomatic": {
+    "i18n": {
+      "es": "Asintomático"
+    }
+  },
+  "autoimmune disease": {
+    "i18n": {
+      "es": "Enfermedad autoimmune"
+    }
+  },
+  "bacterial vaginosis (bv)": {
+    "i18n": {
+      "es": "Vaginosis bacteriana"
+    }
+  },
+  "benign prostatic hyperplasia (bph)": {
+    "i18n": {
+      "es": "Hiperplasia prostática benigna"
+    }
+  },
+  "bowel dysfunction": {
+    "i18n": {
+      "es": "Disfunción intestinal"
+    }
+  },
+  "break down (v)": {
+    "i18n": {
+      "es": "Descomponer"
+    }
+  },
+  "bronchitis": {
+    "i18n": {
+      "es": "Bronquitis"
+    }
+  },
+  "cancer": {
+    "i18n": {
+      "es": "Cáncer"
+    }
+  },
+  "catarrh": {
+    "i18n": {
+      "es": "Catarro"
+    }
+  },
+  "cavity (dental)": {
+    "i18n": {
+      "es": "Cavidad (dental)"
+    }
+  },
+  "chancre": {
+    "i18n": {
+      "es": "Chancro"
+    }
+  },
+  "chronic condition": {
+    "i18n": {
+      "es": "Estado crónico"
+    }
+  },
+  "chlamydia": {
+    "i18n": {
+      "es": "Clamidia"
+    }
+  },
+  "clogged ateries": {
+    "i18n": {
+      "es": "Arterias obstruídas"
+    }
+  },
+  "cold (illness)": {
+    "i18n": {
+      "es": "Resfriado, catarro"
+    }
+  },
+  "cold sore": {
+    "i18n": {
+      "es": "Herpes labial, llaga labial"
+    }
+  },
+  "color blindness": {
+    "i18n": {
+      "es": "Daltonismo"
+    }
+  },
+  "contagious": {
+    "i18n": {
+      "es": "Contagioso/a"
+    }
+  },
+  "infectious": {
+    "i18n": {
+      "es": "Infeccioso"
+    }
+  },
+  "crippled": {
+    "i18n": {
+      "es": "Lisiado, tullido"
+    }
+  },
+  "cyst": {
+    "i18n": {
+      "es": "Quiste"
+    }
+  },
+  "cystic fibrosis": {
+    "i18n": {
+      "es": "Fibrosis quística"
+    }
+  },
+  "deviated nasal septum": {
+    "i18n": {
+      "es": "Tabique (septum) nasal desviado"
+    }
+  },
+  "diabetes": {
+    "i18n": {
+      "es": "Diabetes"
+    }
+  },
+  "diabetic nephropathy": {
+    "i18n": {
+      "es": "Nefropatía diabética"
+    }
+  },
+  "diphtheria": {
+    "i18n": {
+      "es": "Difteria"
+    }
+  },
+  "disability": {
+    "i18n": {
+      "es": "Invalidez, minusvalía, discapacidad,"
+    }
+  },
+  "ductal carcinoma": {
+    "i18n": {
+      "es": "Carcinoma ductal"
+    }
+  },
+  "dyslexia": {
+    "i18n": {
+      "es": "Dislexia"
+    }
+  },
+  "dypsnea": {
+    "i18n": {
+      "es": "Disnea"
+    }
+  },
+  "dysentery": {
+    "i18n": {
+      "es": "Disentería"
+    }
+  },
+  "dysuria": {
+    "i18n": {
+      "es": "Disuria"
+    }
+  },
+  "edema": {
+    "i18n": {
+      "es": "Edema"
+    }
+  },
+  "embryonal cell carcinoma": {
+    "i18n": {
+      "es": "Carcinoma celular embrional"
+    }
+  },
+  "epilepsy": {
+    "i18n": {
+      "es": "Epilepsia"
+    }
+  },
+  "erectile dysfunction/compliation": {
+    "i18n": {
+      "es": "Disfunción, complicación eréctil"
+    }
+  },
+  "failure (medical context)": {
+    "i18n": {
+      "es": "fallo, insuficiencia (contexto médico)"
+    }
+  },
+  "fever blister": {
+    "i18n": {
+      "es": "Ampolla de fiebre en los labios, herpes labial"
+    }
+  },
+  "food poisoning": {
+    "i18n": {
+      "es": "Intoxicación"
+    }
+  },
+  "fungus": {
+    "i18n": {
+      "es": "Hongos"
+    }
+  },
+  "fuzz": {
+    "i18n": {
+      "es": "Vello, pelusa"
+    }
+  },
+  "gallstone": {
+    "i18n": {
+      "es": "Cálculo biliar"
+    }
+  },
+  "gangrene": {
+    "i18n": {
+      "es": "Gangrena"
+    }
+  },
+  "gastroesophageal reflux disease (grd)": {
+    "i18n": {
+      "es": "Enfermedad de reflujo gastroesofageal"
+    }
+  },
+  "genital warts": {
+    "i18n": {
+      "es": "Verrugas genitales"
+    }
+  },
+  "gingivitis": {
+    "i18n": {
+      "es": "Gingivitis"
+    }
+  },
+  "glycosuria": {
+    "i18n": {
+      "es": "Glicosuria"
+    }
+  },
+  "goiter": {
+    "i18n": {
+      "es": "Bocio, coto"
+    }
+  },
+  "gonorrhea": {
+    "i18n": {
+      "es": "Gonorrea"
+    }
+  },
+  "hay fever": {
+    "i18n": {
+      "es": "Fiebre del heno"
+    }
+  },
+  "heart attack/myocardial infarction": {
+    "i18n": {
+      "es": "Ataque cardiaco/infarto de miocardio"
+    }
+  },
+  "heart disease": {
+    "i18n": {
+      "es": "Enfermedad cardiaca"
+    }
+  },
+  "heart murmur": {
+    "i18n": {
+      "es": "Soplo cardiaco"
+    }
+  },
+  "heart rate": {
+    "i18n": {
+      "es": "ritmo cardiaco, ritmo del corazón"
+    }
+  },
+  "hematuria": {
+    "i18n": {
+      "es": "Hematuria"
+    }
+  },
+  "hemophillus": {
+    "i18n": {
+      "es": "Hemófilo"
+    }
+  },
+  "hemorrhoids": {
+    "i18n": {
+      "es": "Hemorroides, almorranas"
+    }
+  },
+  "hepatitis": {
+    "i18n": {
+      "es": "Hepatitis"
+    }
+  },
+  "hernia": {
+    "i18n": {
+      "es": "Hernia"
+    }
+  },
+  "herpes virus": {
+    "i18n": {
+      "es": "Virus del herpes"
+    }
+  },
+  "hiv (human immuno-deficiency virus)": {
+    "i18n": {
+      "es": "VIH (Virus de Inmunodeficiencia Humana)"
+    }
+  },
+  "hives": {
+    "i18n": {
+      "es": "Urticaria"
+    }
+  },
+  "human papilloma virus (hpv)": {
+    "i18n": {
+      "es": "Virus del papiloma humano"
+    }
+  },
+  "hyper-cholesterolemia": {
+    "i18n": {
+      "es": "Hiper-colesterolemia"
+    }
+  },
+  "hyperemesis gravida": {
+    "i18n": {
+      "es": "Hiperemésis gravídica"
+    }
+  },
+  "hyperglycemia": {
+    "i18n": {
+      "es": "Hiperglucemia"
+    }
+  },
+  "hypertension/high blood pressure": {
+    "i18n": {
+      "es": "Hipertensión, alta presión arterial/ sanguínea"
+    }
+  },
+  "silent killer": {
+    "i18n": {
+      "es": "Asesino silencioso"
+    }
+  },
+  "white coat syndrome": {
+    "i18n": {
+      "es": "Síndrome de bata blanca"
+    }
+  },
+  "rapid onset": {
+    "i18n": {
+      "es": "Aparición rápida"
+    }
+  },
+  "systolic": {
+    "i18n": {
+      "es": "Sistólico"
+    }
+  },
+  "diastolic": {
+    "i18n": {
+      "es": "Diastólico"
+    }
+  },
+  "hypotension": {
+    "i18n": {
+      "es": "Hipotensión"
+    }
+  },
+  "hyperthyroidism (graves disease)": {
+    "i18n": {
+      "es": "Hipertiroidismo (enfermedad de Graves)"
+    }
+  },
+  "hypoglycemia": {
+    "i18n": {
+      "es": "Hipoglucemia"
+    }
+  },
+  "impetigo": {
+    "i18n": {
+      "es": "Impétigo"
+    }
+  },
+  "inflammation": {
+    "i18n": {
+      "es": "Inflamación"
+    }
+  },
+  "influenza": {
+    "i18n": {
+      "es": "Influenza, gripe, gripa"
+    }
+  },
+  "inguinal syndrome": {
+    "i18n": {
+      "es": "Síndrome inguinal"
+    }
+  },
+  "intensive": {
+    "i18n": {
+      "es": "Intensivo"
+    }
+  },
+  "invasive": {
+    "i18n": {
+      "es": "Invasivo, invasor"
+    }
+  },
+  "jaundice": {
+    "i18n": {
+      "es": "Ictericia"
+    }
+  },
+  "kidney disease": {
+    "i18n": {
+      "es": "Enfermedad del riñón"
+    }
+  },
+  "lactose intolerance": {
+    "i18n": {
+      "es": "Intolerancia a la lactosa"
+    }
+  },
+  "leprosy (hansen’s disease)": {
+    "i18n": {
+      "es": "Lepra (enfermedad de Hansen)"
+    }
+  },
+  "lobular carcinoma": {
+    "i18n": {
+      "es": "Carcinoma lobular"
+    }
+  },
+  "low blood pressure": {
+    "i18n": {
+      "es": "Presión/tensión sanguínea baja"
+    }
+  },
+  "lupus": {
+    "i18n": {
+      "es": "Lupus"
+    }
+  },
+  "lymphogranuloma venerum (lgv)": {
+    "i18n": {
+      "es": "Linfogranuloma venerum (venéreo)"
+    }
+  },
+  "mastitis": {
+    "i18n": {
+      "es": "Mastitis"
+    }
+  },
+  "microorganism": {
+    "i18n": {
+      "es": "Microorganismo"
+    }
+  },
+  "obese": {
+    "i18n": {
+      "es": "Obeso/a"
+    }
+  },
+  "obesity": {
+    "i18n": {
+      "es": "Obesidad"
+    }
+  },
+  "onset": {
+    "i18n": {
+      "es": "Principio, comienzo, inicio"
+    }
+  },
+  "osteoporosis": {
+    "i18n": {
+      "es": "Osteoporosis"
+    }
+  },
+  "overactive thyroid": {
+    "i18n": {
+      "es": "Tiroides hiperactiva"
+    }
+  },
+  "overweight": {
+    "i18n": {
+      "es": "Sobrepeso"
+    }
+  },
+  "parasite": {
+    "i18n": {
+      "es": "Parásito"
+    }
+  },
+  "parasitic infection": {
+    "i18n": {
+      "es": "Infección parasitaria"
+    }
+  },
+  "periodontal disease": {
+    "i18n": {
+      "es": "Enfermedad periodental"
+    }
+  },
+  "pharyngeal syndrome": {
+    "i18n": {
+      "es": "Síndrome faríngeo"
+    }
+  },
+  "plague": {
+    "i18n": {
+      "es": "Plaga / Peste Bubónica"
+    }
+  },
+  "pneumonia": {
+    "i18n": {
+      "es": "Neumonía"
+    }
+  },
+  "pre-diabetes": {
+    "i18n": {
+      "es": "Prediabetes"
+    }
+  },
+  "rabies": {
+    "i18n": {
+      "es": "Rabia"
+    }
+  },
+  "rectal syndrome": {
+    "i18n": {
+      "es": "Síndrome rectal"
+    }
+  },
+  "retrovirus": {
+    "i18n": {
+      "es": "Retrovirus"
+    }
+  },
+  "rheumatic fever": {
+    "i18n": {
+      "es": "Fiebre reumática"
+    }
+  },
+  "salmonella": {
+    "i18n": {
+      "es": "Salmonela"
+    }
+  },
+  "scarlet fever": {
+    "i18n": {
+      "es": "Fiebre Escarlata / Escarlatina"
+    }
+  },
+  "seminal vesicle invasion": {
+    "i18n": {
+      "es": "Invasión de la vesícula seminal"
+    }
+  },
+  "sessile polyp": {
+    "i18n": {
+      "es": "Pólipo sésil"
+    }
+  },
+  "sexually transmitted disease (std)": {
+    "i18n": {
+      "es": "Enfermedad de Transmisión Sexual (ETS)"
+    }
+  },
+  "shingles": {
+    "i18n": {
+      "es": "Herpes Zoster, culebrilla"
+    }
+  },
+  "sinus disease": {
+    "i18n": {
+      "es": "Enfermedad de los senos"
+    }
+  },
+  "sinusitis": {
+    "i18n": {
+      "es": "Sinusitis"
+    }
+  },
+  "sleep apnea": {
+    "i18n": {
+      "es": "Apnea del sueño"
+    }
+  },
+  "slipped disk": {
+    "i18n": {
+      "es": "Vértebra dislocada"
+    }
+  },
+  "sprain": {
+    "i18n": {
+      "es": "Torcedura, torcer"
+    }
+  },
+  "sprained": {
+    "i18n": {
+      "es": "Torcido, luxado, dislocado"
+    }
+  },
+  "strep throat": {
+    "i18n": {
+      "es": "Angina de la garganta; Infeccion"
+    }
+  },
+  "stroke": {
+    "i18n": {
+      "es": "Apoplejía, derrame cerebral"
+    }
+  },
+  "sunburn": {
+    "i18n": {
+      "es": "Quemadura solar"
+    }
+  },
+  "syphilis": {
+    "i18n": {
+      "es": "Sífilis"
+    }
+  },
+  "syphilis sores": {
+    "i18n": {
+      "es": "Llagas de la sífilis"
+    }
+  },
+  "tapeworm": {
+    "i18n": {
+      "es": "Solitaria, lombriz Solitaria, Tenia"
+    }
+  },
+  "tendonitis": {
+    "i18n": {
+      "es": "Tendonitis, tendinitis"
+    }
+  },
+  "tetanus": {
+    "i18n": {
+      "es": "Tétanos"
+    }
+  },
+  "thrombosis": {
+    "i18n": {
+      "es": "Trombosis"
+    }
+  },
+  "tonsillitis": {
+    "i18n": {
+      "es": "Tonsillitis, amigdalitis"
+    }
+  },
+  "tooth decay": {
+    "i18n": {
+      "es": "Caries"
+    }
+  },
+  "trichomonas": {
+    "i18n": {
+      "es": "Tricomonas"
+    }
+  },
+  "tuberculosis": {
+    "i18n": {
+      "es": "Tuberculosis"
+    }
+  },
+  "tuberculosis (secondary)": {
+    "i18n": {
+      "es": "Tuberculosis (secundaria)"
+    }
+  },
+  "vaccine": {
+    "i18n": {
+      "es": "Vacuna"
+    }
+  },
+  "bcg vaccine": {
+    "i18n": {
+      "es": "Vacuna BCG"
+    }
+  },
+  "typhoid fever": {
+    "i18n": {
+      "es": "Fiebre Tfoidea"
+    }
+  },
+  "uremia": {
+    "i18n": {
+      "es": "Uremia"
+    }
+  },
+  "urinary dysfunction": {
+    "i18n": {
+      "es": "Disfunción urinaria"
+    }
+  },
+  "varicose veins": {
+    "i18n": {
+      "es": "Venas vricosas, varices"
+    }
+  },
+  "vasospasms": {
+    "i18n": {
+      "es": "Vasoespasmo"
+    }
+  },
+  "venereal disease": {
+    "i18n": {
+      "es": "Enfermedad venérea"
+    }
+  },
+  "virus": {
+    "i18n": {
+      "es": "Virus"
+    }
+  },
+  "viral infection": {
+    "i18n": {
+      "es": "Infección viral"
+    }
+  },
+  "worm": {
+    "i18n": {
+      "es": "Lombriz, gusano"
+    }
+  },
+  "allergy shots": {
+    "i18n": {
+      "es": "Inyecciones contra las alergias"
+    }
+  },
+  "amphetamines": {
+    "i18n": {
+      "es": "Anfetaminas"
+    }
+  },
+  "analgesic": {
+    "i18n": {
+      "es": "Analgésico"
+    }
+  },
+  "antiacid": {
+    "i18n": {
+      "es": "Antiácido"
+    }
+  },
+  "antibiotic": {
+    "i18n": {
+      "es": "Antibiótico"
+    }
+  },
+  "anticholinergic drugs": {
+    "i18n": {
+      "es": "Drogas anticolinérgicas"
+    }
+  },
+  "anticoagulant": {
+    "i18n": {
+      "es": "Anticoagulante"
+    }
+  },
+  "anticonvulsant": {
+    "i18n": {
+      "es": "Anticonvulsivo"
+    }
+  },
+  "antidepressant": {
+    "i18n": {
+      "es": "Antidepresivo"
+    }
+  },
+  "antidiarrheal": {
+    "i18n": {
+      "es": "Antidiarréico"
+    }
+  },
+  "antiemetic": {
+    "i18n": {
+      "es": "Antiemético (antivomitivo)"
+    }
+  },
+  "antihistamine": {
+    "i18n": {
+      "es": "Antihistamínico"
+    }
+  },
+  "antihypertensive": {
+    "i18n": {
+      "es": "Anti-hipertensivo"
+    }
+  },
+  "anti-inflammatory": {
+    "i18n": {
+      "es": "Anti-inflamatorio"
+    }
+  },
+  "anti-oncotic": {
+    "i18n": {
+      "es": "Anti-oncótico"
+    }
+  },
+  "antiseptic": {
+    "i18n": {
+      "es": "Antiséptico"
+    }
+  },
+  "antitussive": {
+    "i18n": {
+      "es": "Antitusivo"
+    }
+  },
+  "aspirin": {
+    "i18n": {
+      "es": "Aspirina"
+    }
+  },
+  "asthma pump": {
+    "i18n": {
+      "es": "Inhalador, insuflador"
+    }
+  },
+  "azithromycin": {
+    "i18n": {
+      "es": "Acitromicina"
+    }
+  },
+  "band-aid": {
+    "i18n": {
+      "es": "Tirita, curita"
+    }
+  },
+  "bandage": {
+    "i18n": {
+      "es": "Venda, vendaje (N.); vendar (Vb.)"
+    }
+  },
+  "bathe": {
+    "i18n": {
+      "es": "Lavar, Bañar(Se)"
+    }
+  },
+  "bend over": {
+    "i18n": {
+      "es": "Inclinarse, agacharse"
+    }
+  },
+  "beta agonist": {
+    "i18n": {
+      "es": "Agonista beta"
+    }
+  },
+  "birth control pill": {
+    "i18n": {
+      "es": "Píldora anticonceptiva, de control del embarazo"
+    }
+  },
+  "blood thinner": {
+    "i18n": {
+      "es": "Diluyente sanguíneo/ anticoagulante"
+    }
+  },
+  "booster shot": {
+    "i18n": {
+      "es": "Revacunación, inyección de refuerzo"
+    }
+  },
+  "bronchodilator": {
+    "i18n": {
+      "es": "Broncodilatador"
+    }
+  },
+  "calcium": {
+    "i18n": {
+      "es": "Calcio"
+    }
+  },
+  "capsule": {
+    "i18n": {
+      "es": "Cápsula"
+    }
+  },
+  "cast": {
+    "i18n": {
+      "es": "Yeso, escayola"
+    }
+  },
+  "cathartic": {
+    "i18n": {
+      "es": "Catártico"
+    }
+  },
+  "chamomile": {
+    "i18n": {
+      "es": "Camomila, manzanilla"
+    }
+  },
+  "cod liver oil": {
+    "i18n": {
+      "es": "Aceite de hígado de bacalao"
+    }
+  },
+  "compress (hot/cold)": {
+    "i18n": {
+      "es": "Compresas (frías/calientes)"
+    }
+  },
+  "condoms": {
+    "i18n": {
+      "es": "Condones, preservativos"
+    }
+  },
+  "contraceptive": {
+    "i18n": {
+      "es": "Anticonceptivo, contraceptivo"
+    }
+  },
+  "cough syrup": {
+    "i18n": {
+      "es": "Jarabe para la Tos"
+    }
+  },
+  "counseling": {
+    "i18n": {
+      "es": "Terapia (consejería)"
+    }
+  },
+  "cream (medicinal)": {
+    "i18n": {
+      "es": "Crema, pomada"
+    }
+  },
+  "decongestant": {
+    "i18n": {
+      "es": "Descongestivo"
+    }
+  },
+  "dental floss": {
+    "i18n": {
+      "es": "Hilo/seda dental, seda encerada/floja dental"
+    }
+  },
+  "dentures": {
+    "i18n": {
+      "es": "Dentadura postiza; caja"
+    }
+  },
+  "depressant": {
+    "i18n": {
+      "es": "Depresivo"
+    }
+  },
+  "depressing": {
+    "i18n": {
+      "es": "Deprimente / depresivo"
+    }
+  },
+  "detergent": {
+    "i18n": {
+      "es": "Detergente"
+    }
+  },
+  "diet": {
+    "i18n": {
+      "es": "Dieta"
+    }
+  },
+  "disinfectant": {
+    "i18n": {
+      "es": "Desinfectante"
+    }
+  },
+  "diuretic": {
+    "i18n": {
+      "es": "Diurético"
+    }
+  },
+  "dosage": {
+    "i18n": {
+      "es": "Dosis, dosificación, posología"
+    }
+  },
+  "dose": {
+    "i18n": {
+      "es": "Dosis"
+    }
+  },
+  "drops": {
+    "i18n": {
+      "es": "Gotas"
+    }
+  },
+  "dropper": {
+    "i18n": {
+      "es": "Cuentagotas"
+    }
+  },
+  "drug": {
+    "i18n": {
+      "es": "Droga, medicamento"
+    }
+  },
+  "drugstore": {
+    "i18n": {
+      "es": "Farmacia, botica, droguería"
+    }
+  },
+  "emetic": {
+    "i18n": {
+      "es": "Emético"
+    }
+  },
+  "enema": {
+    "i18n": {
+      "es": "Enema"
+    }
+  },
+  "exercise": {
+    "i18n": {
+      "es": "Ejercicio"
+    }
+  },
+  "extract (herbal)": {
+    "i18n": {
+      "es": "Extracto (herbal)"
+    }
+  },
+  "expectorant": {
+    "i18n": {
+      "es": "Expectorante"
+    }
+  },
+  "exubera": {
+    "i18n": {
+      "es": "Exubera"
+    }
+  },
+  "eye drops": {
+    "i18n": {
+      "es": "Gotas para los ojos"
+    }
+  },
+  "eyeglasses": {
+    "i18n": {
+      "es": "Gafas, lentes, espejuelos"
+    }
+  },
+  "flu shot": {
+    "i18n": {
+      "es": "Vacuna contra la gripe/a/ influenza"
+    }
+  },
+  "fluoride": {
+    "i18n": {
+      "es": "Fluoruro, flúor"
+    }
+  },
+  "foam": {
+    "i18n": {
+      "es": "Espuma"
+    }
+  },
+  "folk healer": {
+    "i18n": {
+      "es": "Sanador, curandero"
+    }
+  },
+  "gardasil": {
+    "i18n": {
+      "es": "Gardasil"
+    }
+  },
+  "gargle": {
+    "i18n": {
+      "es": "Hacer gárgaras"
+    }
+  },
+  "gauze": {
+    "i18n": {
+      "es": "Gasa"
+    }
+  },
+  "glucose": {
+    "i18n": {
+      "es": "Glucosa"
+    }
+  },
+  "glyburide": {
+    "i18n": {
+      "es": "Gliburida / hipoglucemiante oral"
+    }
+  },
+  "glypizide (glucatrol)": {
+    "i18n": {
+      "es": "Glipicida/ hipoglucemiante oral"
+    }
+  },
+  "heal": {
+    "i18n": {
+      "es": "Curar, sanar, cicatrizar, remediar"
+    }
+  },
+  "hearing aid": {
+    "i18n": {
+      "es": "Audifono // Sonotone"
+    }
+  },
+  "heat": {
+    "i18n": {
+      "es": "Calor, calefacción"
+    }
+  },
+  "herb": {
+    "i18n": {
+      "es": "Hierba"
+    }
+  },
+  "herbal treatment": {
+    "i18n": {
+      "es": "Tratamiento herbal, omeopático"
+    }
+  },
+  "hot pack": {
+    "i18n": {
+      "es": "Almohodilla de calor, almohadilla eléctrica"
+    }
+  },
+  "hot water bottle": {
+    "i18n": {
+      "es": "Bolsa de agua caliente"
+    }
+  },
+  "humidifier": {
+    "i18n": {
+      "es": "Humidificador"
+    }
+  },
+  "hydration": {
+    "i18n": {
+      "es": "Hidratación"
+    }
+  },
+  "hydrogen peroxide": {
+    "i18n": {
+      "es": "Agua oxigenada, peróxido hidrogenado"
+    }
+  },
+  "hypnotic/soporifics": {
+    "i18n": {
+      "es": "Hipnóticos, soporíferos"
+    }
+  },
+  "immunization": {
+    "i18n": {
+      "es": "Inmunización"
+    }
+  },
+  "immuno therapy": {
+    "i18n": {
+      "es": "Inmuno-terapia"
+    }
+  },
+  "inhaled corticosteroids": {
+    "i18n": {
+      "es": "Corticoesteroides inhaladas"
+    }
+  },
+  "inhaler": {
+    "i18n": {
+      "es": "Inhalador"
+    }
+  },
+  "injection": {
+    "i18n": {
+      "es": "Inyección"
+    }
+  },
+  "insecticide": {
+    "i18n": {
+      "es": "Insecticida"
+    }
+  },
+  "insertion": {
+    "i18n": {
+      "es": "Inserción"
+    }
+  },
+  "insulin": {
+    "i18n": {
+      "es": "Insulina"
+    }
+  },
+  "insulin injection": {
+    "i18n": {
+      "es": "Inyección de insulina"
+    }
+  },
+  "insulin pump": {
+    "i18n": {
+      "es": "Bomba de insulina"
+    }
+  },
+  "intravenous drip": {
+    "i18n": {
+      "es": "Goteo intravenoso"
+    }
+  },
+  "iodine": {
+    "i18n": {
+      "es": "Yodo/iodo"
+    }
+  },
+  "jam": {
+    "i18n": {
+      "es": "Aprieto, apuro // compota, conserva"
+    }
+  },
+  "jelly": {
+    "i18n": {
+      "es": "Jalea"
+    }
+  },
+  "laxative": {
+    "i18n": {
+      "es": "Laxante"
+    }
+  },
+  "long-term control medicines": {
+    "i18n": {
+      "es": "Medicinas de control a largo plazo"
+    }
+  },
+  "lose weight": {
+    "i18n": {
+      "es": "Perder peso"
+    }
+  },
+  "lotion": {
+    "i18n": {
+      "es": "Loción"
+    }
+  },
+  "lukewarm": {
+    "i18n": {
+      "es": "Tibio, templado"
+    }
+  },
+  "make-up": {
+    "i18n": {
+      "es": "Maquillaje"
+    }
+  },
+  "massage": {
+    "i18n": {
+      "es": "Masaje"
+    }
+  },
+  "measure": {
+    "i18n": {
+      "es": "Medida"
+    }
+  },
+  "medication": {
+    "i18n": {
+      "es": "Medicación"
+    }
+  },
+  "medicine": {
+    "i18n": {
+      "es": "Medicina"
+    }
+  },
+  "medicine cabinet": {
+    "i18n": {
+      "es": "Gabinete médico"
+    }
+  },
+  "merthiolate": {
+    "i18n": {
+      "es": "Merthiolate (marca registrada de un"
+    }
+  },
+  "nebulizer": {
+    "i18n": {
+      "es": "Nebulizador"
+    }
+  },
+  "nose drop": {
+    "i18n": {
+      "es": "Gotas nasales, para la nariz"
+    }
+  },
+  "nourish": {
+    "i18n": {
+      "es": "Nutrir"
+    }
+  },
+  "novocaine": {
+    "i18n": {
+      "es": "Novocaína"
+    }
+  },
+  "oil": {
+    "i18n": {
+      "es": "Aceite"
+    }
+  },
+  "ointment": {
+    "i18n": {
+      "es": "Ungüento, pomada"
+    }
+  },
+  "on an empty stomach": {
+    "i18n": {
+      "es": "Con el estómago vacío"
+    }
+  },
+  "oxygen": {
+    "i18n": {
+      "es": "Oxígeno"
+    }
+  },
+  "pacemaker": {
+    "i18n": {
+      "es": "Marcapasos // nodo atrioventricular del corazón"
+    }
+  },
+  "painkiller": {
+    "i18n": {
+      "es": "Calmante"
+    }
+  },
+  "peak": {
+    "i18n": {
+      "es": "Pico"
+    }
+  },
+  "pharmacist": {
+    "i18n": {
+      "es": "Farmacéutico"
+    }
+  },
+  "pharmacy": {
+    "i18n": {
+      "es": "Farmacia"
+    }
+  },
+  "pill": {
+    "i18n": {
+      "es": "Píldora, pastilla"
+    }
+  },
+  "half-pill": {
+    "i18n": {
+      "es": "Media pastilla"
+    }
+  },
+  "pulverized": {
+    "i18n": {
+      "es": "Pulverizada"
+    }
+  },
+  "quarter of a pill": {
+    "i18n": {
+      "es": "Un cuarto de pastilla"
+    }
+  },
+  "placebo": {
+    "i18n": {
+      "es": "Placebo"
+    }
+  },
+  "plastic": {
+    "i18n": {
+      "es": "Plástico"
+    }
+  },
+  "prescription": {
+    "i18n": {
+      "es": "Prescripción"
+    }
+  },
+  "protection": {
+    "i18n": {
+      "es": "Protección"
+    }
+  },
+  "pulp": {
+    "i18n": {
+      "es": "Pulpa, pulpa dentaria, pulpeja"
+    }
+  },
+  "quick-relief medicines": {
+    "i18n": {
+      "es": "Medicinas de alivio rápido"
+    }
+  },
+  "reading glasses": {
+    "i18n": {
+      "es": "Gafas, lentes de lectura"
+    }
+  },
+  "refill": {
+    "i18n": {
+      "es": "Rellenar"
+    }
+  },
+  "remedy": {
+    "i18n": {
+      "es": "Remedio"
+    }
+  },
+  "repellant": {
+    "i18n": {
+      "es": "Repelente"
+    }
+  },
+  "resistance": {
+    "i18n": {
+      "es": "Resistencia"
+    }
+  },
+  "rinse": {
+    "i18n": {
+      "es": "Aclarar, enjuagar"
+    }
+  },
+  "rub": {
+    "i18n": {
+      "es": "Frotar (Vb), frotación, roce (N)"
+    }
+  },
+  "rubdown": {
+    "i18n": {
+      "es": "Masaje, fricción"
+    }
+  },
+  "salve": {
+    "i18n": {
+      "es": "Preservar, aliviar (Vb.) ungüento (N.)"
+    }
+  },
+  "sample": {
+    "i18n": {
+      "es": "Muestra, ejemplar"
+    }
+  },
+  "second-line drugs (slds)": {
+    "i18n": {
+      "es": "Drogas de segunda línea"
+    }
+  },
+  "shaman": {
+    "i18n": {
+      "es": "Chamán"
+    }
+  },
+  "shave": {
+    "i18n": {
+      "es": "Afeitar"
+    }
+  },
+  "shots": {
+    "i18n": {
+      "es": "Inyección"
+    }
+  },
+  "skimmed milk": {
+    "i18n": {
+      "es": "Leche desnatada, descremada, sin natilla"
+    }
+  },
+  "sitz bath": {
+    "i18n": {
+      "es": "Baño de asiento"
+    }
+  },
+  "soak": {
+    "i18n": {
+      "es": "Empapar, remojar (Vb). mojada (Adj)"
+    }
+  },
+  "soap": {
+    "i18n": {
+      "es": "Jabón"
+    }
+  },
+  "spermicide": {
+    "i18n": {
+      "es": "Espermicida"
+    }
+  },
+  "splint": {
+    "i18n": {
+      "es": "Astilla, tablilla"
+    }
+  },
+  "spoonful": {
+    "i18n": {
+      "es": "Cucharada"
+    }
+  },
+  "steroid": {
+    "i18n": {
+      "es": "Esteroide"
+    }
+  },
+  "stimulant": {
+    "i18n": {
+      "es": "Estimulante"
+    }
+  },
+  "stone": {
+    "i18n": {
+      "es": "Piedra // cálculo"
+    }
+  },
+  "suck": {
+    "i18n": {
+      "es": "Chupar, mamar, aspirar"
+    }
+  },
+  "surgery": {
+    "i18n": {
+      "es": "Cirugía"
+    }
+  },
+  "suppository": {
+    "i18n": {
+      "es": "Supositorio"
+    }
+  },
+  "tablespoon": {
+    "i18n": {
+      "es": "Cuchara de sopa"
+    }
+  },
+  "tablet": {
+    "i18n": {
+      "es": "Pastilla, comprimido, tableta"
+    }
+  },
+  "tb skin test": {
+    "i18n": {
+      "es": "Prueba cutánea (de la piel) de la tuberculina"
+    }
+  },
+  "teaspoon": {
+    "i18n": {
+      "es": "Cucharilla, cucharadita"
+    }
+  },
+  "tetanus shot": {
+    "i18n": {
+      "es": "Inyección antitetánica, para el Tétanos"
+    }
+  },
+  "therapy": {
+    "i18n": {
+      "es": "Terapia"
+    }
+  },
+  "toothbrush": {
+    "i18n": {
+      "es": "Cepillo de dientes"
+    }
+  },
+  "toothpaste": {
+    "i18n": {
+      "es": "Pasta de dientes, dentífrico"
+    }
+  },
+  "tranquilizer": {
+    "i18n": {
+      "es": "Tranquilizador"
+    }
+  },
+  "tylenol": {
+    "i18n": {
+      "es": "Tylenol"
+    }
+  },
+  "ultraviolet (uv) treatment": {
+    "i18n": {
+      "es": "Tratamiento ultravioleta (UV)"
+    }
+  },
+  "vasodilator": {
+    "i18n": {
+      "es": "Vasodilatador"
+    }
+  },
+  "vinegar": {
+    "i18n": {
+      "es": "Vinagre"
+    }
+  },
+  "vitamin supplement": {
+    "i18n": {
+      "es": "Suplemento vitamínico"
+    }
+  },
+  "walking cane": {
+    "i18n": {
+      "es": "Bastón"
+    }
+  },
+  "yeast": {
+    "i18n": {
+      "es": "Levadura // hongo"
+    }
+  },
+  "acupuncture": {
+    "i18n": {
+      "es": "Acupuntura"
+    }
+  },
+  "herbal medicines": {
+    "i18n": {
+      "es": "Medicinas herbales"
+    }
+  },
+  "magnet therapy": {
+    "i18n": {
+      "es": "Terapia magnética"
+    }
+  },
+  "anesthesiologist": {
+    "i18n": {
+      "es": "Anestesiólogo"
+    }
+  },
+  "local anesthesia": {
+    "i18n": {
+      "es": "Anestesia local"
+    }
+  },
+  "pain management": {
+    "i18n": {
+      "es": "Manejo del dolor"
+    }
+  },
+  "spinal anesthesia": {
+    "i18n": {
+      "es": "Anestesia espinal, epidural"
+    }
+  },
+  "angina pectoris": {
+    "i18n": {
+      "es": "Angina pectoris, angina de pecho, dolor de"
+    }
+  },
+  "angiogram": {
+    "i18n": {
+      "es": "Angiograma"
+    }
+  },
+  "arrhythmia": {
+    "i18n": {
+      "es": "Arritmia"
+    }
+  },
+  "arterial aneurism": {
+    "i18n": {
+      "es": "Aneurismo arterial"
+    }
+  },
+  "atherosclerosis": {
+    "i18n": {
+      "es": "Aterosclerosis"
+    }
+  },
+  "balloon": {
+    "i18n": {
+      "es": "Globo, balón"
+    }
+  },
+  "cardiac catherization": {
+    "i18n": {
+      "es": "Caterización cardiaca"
+    }
+  },
+  "cardiac arrest": {
+    "i18n": {
+      "es": "Paro cardiaco"
+    }
+  },
+  "cardiac scan": {
+    "i18n": {
+      "es": "Escáner cardiaco"
+    }
+  },
+  "cardiac surgeon": {
+    "i18n": {
+      "es": "Cirujano cardiaco"
+    }
+  },
+  "cardiopulmonary": {
+    "i18n": {
+      "es": "Cardiopulmonar"
+    }
+  },
+  "cardiologist": {
+    "i18n": {
+      "es": "Cardiólogo"
+    }
+  },
+  "cardioscope": {
+    "i18n": {
+      "es": "Cardioscopio"
+    }
+  },
+  "cardiovascular": {
+    "i18n": {
+      "es": "Cardiovascular"
+    }
+  },
+  "circulatory system": {
+    "i18n": {
+      "es": "Sistema circulatorio"
+    }
+  },
+  "congestive heart failure": {
+    "i18n": {
+      "es": "Fallo congestivo cardiaco"
+    }
+  },
+  "coronary angioplasty": {
+    "i18n": {
+      "es": "angioplastia coronaria"
+    }
+  },
+  "coronary arteries": {
+    "i18n": {
+      "es": "Arterias coronarias"
+    }
+  },
+  "coronary bypass surgery": {
+    "i18n": {
+      "es": "Cirugía para un desvío coronario, para un"
+    }
+  },
+  "cpr": {
+    "i18n": {
+      "es": "RCP (Reanimación Cardio-Pulmonar)"
+    }
+  },
+  "cyanosis": {
+    "i18n": {
+      "es": "Cianosis (color azulado)"
+    }
+  },
+  "echocardiogram": {
+    "i18n": {
+      "es": "Ecocardiograma/fía"
+    }
+  },
+  "encephalomyocarditis": {
+    "i18n": {
+      "es": "Encéfalomiocarditis"
+    }
+  },
+  "embolism": {
+    "i18n": {
+      "es": "Embolismo"
+    }
+  },
+  "exercise thallium test": {
+    "i18n": {
+      "es": "Examen de ejercicio del Talio, Test del Talio"
+    }
+  },
+  "heart beat": {
+    "i18n": {
+      "es": "Latido del corazón, pulsación cardiaca"
+    }
+  },
+  "heart failure": {
+    "i18n": {
+      "es": "Fallo cardiaco"
+    }
+  },
+  "ischemia": {
+    "i18n": {
+      "es": "Isquemia"
+    }
+  },
+  "dl (low density lipoprotein)": {
+    "i18n": {
+      "es": "Lipoproteína de baja densidad"
+    }
+  },
+  "left ventricular hypertrophy": {
+    "i18n": {
+      "es": "Hipertrofia ventricular izquierda"
+    }
+  },
+  "myocarditis": {
+    "i18n": {
+      "es": "Miocarditis"
+    }
+  },
+  "open-heart surgery": {
+    "i18n": {
+      "es": "Cirugía a corazón abierto"
+    }
+  },
+  "rheumatic heart disease": {
+    "i18n": {
+      "es": "Enfermedad reumática del corazón"
+    }
+  },
+  "single ventricle": {
+    "i18n": {
+      "es": "Ventrículo único"
+    }
+  },
+  "steady pace": {
+    "i18n": {
+      "es": "Ritmo estable"
+    }
+  },
+  "stenosis": {
+    "i18n": {
+      "es": "Estenósis"
+    }
+  },
+  "stent": {
+    "i18n": {
+      "es": "Estent // varilla"
+    }
+  },
+  "stressors": {
+    "i18n": {
+      "es": "Estresantes"
+    }
+  },
+  "stress/exercise test": {
+    "i18n": {
+      "es": "Examen para medir el ritmo cardiaco"
+    }
+  },
+  "the heart beats": {
+    "i18n": {
+      "es": "Los latidos del corazón"
+    }
+  },
+  "arch insert": {
+    "i18n": {
+      "es": "Plantilla para el zapato"
+    }
+  },
+  "arch support": {
+    "i18n": {
+      "es": "Sostén del arco"
+    }
+  },
+  "chiropractor": {
+    "i18n": {
+      "es": "Quiropráctico"
+    }
+  },
+  "allergist": {
+    "i18n": {
+      "es": "Alergista"
+    }
+  },
+  "biopsy (punch/shave)": {
+    "i18n": {
+      "es": "Biopsia (por aguja, por cepillo)"
+    }
+  },
+  "blemishes": {
+    "i18n": {
+      "es": "Manchas, imperfecciones"
+    }
+  },
+  "boil": {
+    "i18n": {
+      "es": "Furúnculo"
+    }
+  },
+  "callous": {
+    "i18n": {
+      "es": "Calloso"
+    }
+  },
+  "carbuncle": {
+    "i18n": {
+      "es": "Canbunclo, Ántrax"
+    }
+  },
+  "corn": {
+    "i18n": {
+      "es": "Callo"
+    }
+  },
+  "culture a wound": {
+    "i18n": {
+      "es": "Cultivo de una herida"
+    }
+  },
+  "cysts": {
+    "i18n": {
+      "es": "Quistes"
+    }
+  },
+  "dandruff": {
+    "i18n": {
+      "es": "Caspa"
+    }
+  },
+  "dermatitis": {
+    "i18n": {
+      "es": "Dermatitis"
+    }
+  },
+  "dermatologist": {
+    "i18n": {
+      "es": "Dermatólogo"
+    }
+  },
+  "dermatology": {
+    "i18n": {
+      "es": "Dermatología"
+    }
+  },
+  "draining a cyst": {
+    "i18n": {
+      "es": "Drenar un quiste"
+    }
+  },
+  "dry skin": {
+    "i18n": {
+      "es": "Piel seca"
+    }
+  },
+  "dust mite": {
+    "i18n": {
+      "es": "Ácaros del polvo"
+    }
+  },
+  "eczema": {
+    "i18n": {
+      "es": "Eccema"
+    }
+  },
+  "fungal scraping": {
+    "i18n": {
+      "es": "Examen fungal por raspado"
+    }
+  },
+  "fungus of nails": {
+    "i18n": {
+      "es": "Hongos de las uñas"
+    }
+  },
+  "hypoallergenic": {
+    "i18n": {
+      "es": "Hipoalergénico"
+    }
+  },
+  "lice": {
+    "i18n": {
+      "es": "Piojos"
+    }
+  },
+  "moisten": {
+    "i18n": {
+      "es": "Humedecer, humedecerse"
+    }
+  },
+  "moisturizing": {
+    "i18n": {
+      "es": "Humidificante, hidratante"
+    }
+  },
+  "mole": {
+    "i18n": {
+      "es": "Lunar"
+    }
+  },
+  "non-comedogenic": {
+    "i18n": {
+      "es": "No-comedogénico"
+    }
+  },
+  "peeling": {
+    "i18n": {
+      "es": "Pelándose"
+    }
+  },
+  "pimples": {
+    "i18n": {
+      "es": "Granos, barros"
+    }
+  },
+  "psoriasis": {
+    "i18n": {
+      "es": "Psoriasis"
+    }
+  },
+  "rash; eruption": {
+    "i18n": {
+      "es": "Salpullido, sarpullido, erupción"
+    }
+  },
+  "scabies": {
+    "i18n": {
+      "es": "Sarna"
+    }
+  },
+  "scab": {
+    "i18n": {
+      "es": "Costra"
+    }
+  },
+  "scale": {
+    "i18n": {
+      "es": "Escama"
+    }
+  },
+  "scaling": {
+    "i18n": {
+      "es": "Escamándose"
+    }
+  },
+  "scaly": {
+    "i18n": {
+      "es": "Escamoso"
+    }
+  },
+  "skin cancer": {
+    "i18n": {
+      "es": "Cáncer de piel"
+    }
+  },
+  "skin complications": {
+    "i18n": {
+      "es": "Complicaciones de la piel"
+    }
+  },
+  "sunburned": {
+    "i18n": {
+      "es": "Quemado por el sol"
+    }
+  },
+  "sunscreen": {
+    "i18n": {
+      "es": "Pantalla solar"
+    }
+  },
+  "wart": {
+    "i18n": {
+      "es": "Verruga"
+    }
+  },
+  "acidosis": {
+    "i18n": {
+      "es": "Acidosis"
+    }
+  },
+  "alkalosis": {
+    "i18n": {
+      "es": "Alcalosis"
+    }
+  },
+  "anaphylactic shock": {
+    "i18n": {
+      "es": "Shock Anafiláctico (Choque, choc)"
+    }
+  },
+  "appendicitis": {
+    "i18n": {
+      "es": "Apendicitis"
+    }
+  },
+  "appendectomy": {
+    "i18n": {
+      "es": "Apendectomía"
+    }
+  },
+  "asphyxia": {
+    "i18n": {
+      "es": "Asfixia"
+    }
+  },
+  "asphyxiation": {
+    "i18n": {
+      "es": "Asfixia"
+    }
+  },
+  "bullet": {
+    "i18n": {
+      "es": "Bala"
+    }
+  },
+  "bullet wound": {
+    "i18n": {
+      "es": "Herida de bala"
+    }
+  },
+  "cardiopulmonary rescucitation/rescucitator": {
+    "i18n": {
+      "es": "Resucitación cardiopulmonar"
+    }
+  },
+  "concussion": {
+    "i18n": {
+      "es": "Concusión"
+    }
+  },
+  "contusion": {
+    "i18n": {
+      "es": "Contusión"
+    }
+  },
+  "detoxification": {
+    "i18n": {
+      "es": "Desintoxicación"
+    }
+  },
+  "drown": {
+    "i18n": {
+      "es": "Ahogar(se); anegar(se)"
+    }
+  },
+  "drunken": {
+    "i18n": {
+      "es": "Borracho, ebrio, embriagado, bebido, tomado"
+    }
+  },
+  "exposure": {
+    "i18n": {
+      "es": "Exposición"
+    }
+  },
+  "first/second/third degree burns": {
+    "i18n": {
+      "es": "Quemaduras de primer/segundo y tercer grado"
+    }
+  },
+  "hemorrhage": {
+    "i18n": {
+      "es": "Hemorragia"
+    }
+  },
+  "i stopped breathing": {
+    "i18n": {
+      "es": "Dejé de respirar"
+    }
+  },
+  "i stopped to breathe": {
+    "i18n": {
+      "es": "Paré para respirar"
+    }
+  },
+  "induce vomiting": {
+    "i18n": {
+      "es": "Vómito inducido"
+    }
+  },
+  "insulin reaction": {
+    "i18n": {
+      "es": "Reacción a la Insulina"
+    }
+  },
+  "insulin shock": {
+    "i18n": {
+      "es": "Shock Insulínico (Choque, choc)"
+    }
+  },
+  "intensive care unit (icu)": {
+    "i18n": {
+      "es": "Unidad de Cuidados Intensivos (UCI)"
+    }
+  },
+  "intoxicated (see food poisoning)": {
+    "i18n": {
+      "es": "Borracho o drogado"
+    }
+  },
+  "isolate": {
+    "i18n": {
+      "es": "Aislar"
+    }
+  },
+  "lacerate": {
+    "i18n": {
+      "es": "Lacerar"
+    }
+  },
+  "laceration": {
+    "i18n": {
+      "es": "Laceración"
+    }
+  },
+  "maceration": {
+    "i18n": {
+      "es": "Maceración"
+    }
+  },
+  "overdose": {
+    "i18n": {
+      "es": "Sobredosis"
+    }
+  },
+  "poison": {
+    "i18n": {
+      "es": "Veneno"
+    }
+  },
+  "poisoning": {
+    "i18n": {
+      "es": "Venenoso"
+    }
+  },
+  "quarantine": {
+    "i18n": {
+      "es": "Cuarentena"
+    }
+  },
+  "rape": {
+    "i18n": {
+      "es": "Violar"
+    }
+  },
+  "raped": {
+    "i18n": {
+      "es": "Violado/a"
+    }
+  },
+  "sepsis": {
+    "i18n": {
+      "es": "Sepsis"
+    }
+  },
+  "spinal tap": {
+    "i18n": {
+      "es": "Drenaje espinal"
+    }
+  },
+  "stitches": {
+    "i18n": {
+      "es": "Puntadas, puntos, suturas"
+    }
+  },
+  "tear (muscle, tendon, ligament)": {
+    "i18n": {
+      "es": "Desgarro (músculo, tendon, ligamento)"
+    }
+  },
+  "toxic": {
+    "i18n": {
+      "es": "Tóxico"
+    }
+  },
+  "toxicity": {
+    "i18n": {
+      "es": "Toxicidad"
+    }
+  },
+  "toxins": {
+    "i18n": {
+      "es": "Toxinas"
+    }
+  },
+  "trauma": {
+    "i18n": {
+      "es": "Trauma"
+    }
+  },
+  "triage": {
+    "i18n": {
+      "es": "Escoger priorizando a los más graves // triage"
+    }
+  },
+  "wounds": {
+    "i18n": {
+      "es": "Heridas"
+    }
+  },
+  "endocrinologist": {
+    "i18n": {
+      "es": "Endocrinólogo"
+    }
+  },
+  "glucagon": {
+    "i18n": {
+      "es": "Glucagón"
+    }
+  },
+  "gluconeogenesis": {
+    "i18n": {
+      "es": "Gluconeogénesis"
+    }
+  },
+  "hormone": {
+    "i18n": {
+      "es": "Hormona"
+    }
+  },
+  "hormone therapy": {
+    "i18n": {
+      "es": "Terapia hormonal"
+    }
+  },
+  "reproductive endocrinologist/fertility specialist": {
+    "i18n": {
+      "es": "Endocrinólogo reproductor/Especialista en"
+    }
+  },
+  "steroids": {
+    "i18n": {
+      "es": "Esteroides"
+    }
+  },
+  "synthetic thyroid hormone (levothyroxine)": {
+    "i18n": {
+      "es": "Hormona tiroidea sintética (Levotiroxina)"
+    }
+  },
+  "testosterone": {
+    "i18n": {
+      "es": "Testosterona"
+    }
+  },
+  "thyroid stimulating hormone": {
+    "i18n": {
+      "es": "Hormona estimulante de la tiroides"
+    }
+  },
+  "adenopathy": {
+    "i18n": {
+      "es": "Adenopatía"
+    }
+  },
+  "astigmatism": {
+    "i18n": {
+      "es": "Astigmatismo"
+    }
+  },
+  "audiologist": {
+    "i18n": {
+      "es": "Audiologista  //  audiólogo"
+    }
+  },
+  "balance": {
+    "i18n": {
+      "es": "Balance"
+    }
+  },
+  "barium swallow": {
+    "i18n": {
+      "es": "Dosis de bario que se traga"
+    }
+  },
+  "dysplasia": {
+    "i18n": {
+      "es": "Displasia"
+    }
+  },
+  "hard of hearing": {
+    "i18n": {
+      "es": "Sordo"
+    }
+  },
+  "otalgia": {
+    "i18n": {
+      "es": "Otalgia"
+    }
+  },
+  "otolaryngologist": {
+    "i18n": {
+      "es": "Otorrinolaringólogo"
+    }
+  },
+  "otolaryngology": {
+    "i18n": {
+      "es": "Otorrinolaringología"
+    }
+  },
+  "postnasal drip": {
+    "i18n": {
+      "es": "Goteo post-nasal"
+    }
+  },
+  "ringing in the ear": {
+    "i18n": {
+      "es": "Zumbido en los oídos"
+    }
+  },
+  "sense of hearing": {
+    "i18n": {
+      "es": "Sentido del oído"
+    }
+  },
+  "sense of smell": {
+    "i18n": {
+      "es": "Sentido del olfato"
+    }
+  },
+  "sleep study": {
+    "i18n": {
+      "es": "Estudio del sueño"
+    }
+  },
+  "throat clearing": {
+    "i18n": {
+      "es": "Aclararse la garganta"
+    }
+  },
+  "tinnitus": {
+    "i18n": {
+      "es": "Tinitus"
+    }
+  },
+  "vertigo": {
+    "i18n": {
+      "es": "Vértigo"
+    }
+  },
+  "voice evaluation": {
+    "i18n": {
+      "es": "Evaluación de la voz"
+    }
+  },
+  "aids (acquired immunodeficiency syndrome)": {
+    "i18n": {
+      "es": "Sida (Síndrome de la Inmunodeficiencia"
+    }
+  },
+  "alcohol use counseling": {
+    "i18n": {
+      "es": "Asesoramiento sobre el consumo del alcohol"
+    }
+  },
+  "blood pressure": {
+    "i18n": {
+      "es": "Presión sanguínea"
+    }
+  },
+  "body mass index (bmi)": {
+    "i18n": {
+      "es": "Índice de masa corporal"
+    }
+  },
+  "cholesterol": {
+    "i18n": {
+      "es": "Colesterol"
+    }
+  },
+  "cirrhosis": {
+    "i18n": {
+      "es": "Cirrosis"
+    }
+  },
+  "domestic abuse": {
+    "i18n": {
+      "es": "Abuso doméstico"
+    }
+  },
+  "dentist": {
+    "i18n": {
+      "es": "Dentista"
+    }
+  },
+  "family practice physician": {
+    "i18n": {
+      "es": "Médico de práctica familiar"
+    }
+  },
+  "family background/history": {
+    "i18n": {
+      "es": "Antecedentes familiares, historia de la familia"
+    }
+  },
+  "general practitioner": {
+    "i18n": {
+      "es": "Practicante general"
+    }
+  },
+  "glucose levels": {
+    "i18n": {
+      "es": "Niveles de glucosa"
+    }
+  },
+  "hiv (human immunodeficiency virus)": {
+    "i18n": {
+      "es": "VIH (Virus de Inmunodeficiencia Humana)"
+    }
+  },
+  "immune system": {
+    "i18n": {
+      "es": "Sistema inmune"
+    }
+  },
+  "immunologist": {
+    "i18n": {
+      "es": "Inmunólogo"
+    }
+  },
+  "incubation period": {
+    "i18n": {
+      "es": "Período de incubación"
+    }
+  },
+  "infectious disease": {
+    "i18n": {
+      "es": "Enfermedad infecciosa"
+    }
+  },
+  "infectious disease specialist": {
+    "i18n": {
+      "es": "Especialista en enfermedades infecciosas"
+    }
+  },
+  "internist": {
+    "i18n": {
+      "es": "Internista"
+    }
+  },
+  "medical study": {
+    "i18n": {
+      "es": "Estudio médico"
+    }
+  },
+  "neonatologist": {
+    "i18n": {
+      "es": "Neonatólogo"
+    }
+  },
+  "nicotine": {
+    "i18n": {
+      "es": "Nicotina"
+    }
+  },
+  "opportunistic infection": {
+    "i18n": {
+      "es": "Infección oportunista"
+    }
+  },
+  "orthodontics": {
+    "i18n": {
+      "es": "Ortodoncia"
+    }
+  },
+  "physical exam": {
+    "i18n": {
+      "es": "Examen físico"
+    }
+  },
+  "preventive care": {
+    "i18n": {
+      "es": "Cuidados preventivos"
+    }
+  },
+  "primary care provider": {
+    "i18n": {
+      "es": "Profesional de la salud principal"
+    }
+  },
+  "primary physician": {
+    "i18n": {
+      "es": "Médico principal, de cabecera"
+    }
+  },
+  "quitting smoking": {
+    "i18n": {
+      "es": "Dejar de fumar"
+    }
+  },
+  "risk behavior": {
+    "i18n": {
+      "es": "Conductas de riesgo"
+    }
+  },
+  "risk factors": {
+    "i18n": {
+      "es": "Factores de riesgo"
+    }
+  },
+  "safe sex": {
+    "i18n": {
+      "es": "Sexo seguro"
+    }
+  },
+  "sense of sight": {
+    "i18n": {
+      "es": "Sentido de la vista"
+    }
+  },
+  "sense of taste": {
+    "i18n": {
+      "es": "Sentido del gusto"
+    }
+  },
+  "sense of touch": {
+    "i18n": {
+      "es": "Sentido del tacto"
+    }
+  },
+  "smoking cessation": {
+    "i18n": {
+      "es": "Dejar de fumar"
+    }
+  },
+  "stress": {
+    "i18n": {
+      "es": "Estrés"
+    }
+  },
+  "the senses": {
+    "i18n": {
+      "es": "Los sentidos"
+    }
+  },
+  "unsafe": {
+    "i18n": {
+      "es": "Inseguro, peligroso"
+    }
+  },
+  "vaccines": {
+    "i18n": {
+      "es": "Vacunas"
+    }
+  },
+  "whiskey": {
+    "i18n": {
+      "es": "Whisky"
+    }
+  },
+  "you are at risk for hiv": {
+    "i18n": {
+      "es": "Tienes riesgo de contraer el VIH"
+    }
+  },
+  "cholecystitis": {
+    "i18n": {
+      "es": "Colecistitis"
+    }
+  },
+  "colon polyps": {
+    "i18n": {
+      "es": "Pólipos en el colon"
+    }
+  },
+  "colonoscopy": {
+    "i18n": {
+      "es": "Colonoscopia"
+    }
+  },
+  "colostomy": {
+    "i18n": {
+      "es": "Colostomía"
+    }
+  },
+  "digestive system": {
+    "i18n": {
+      "es": "Sistema digestivo"
+    }
+  },
+  "diverticulosis": {
+    "i18n": {
+      "es": "Diverticulosis"
+    }
+  },
+  "esophagitis": {
+    "i18n": {
+      "es": "Esofagitis"
+    }
+  },
+  "gallstones": {
+    "i18n": {
+      "es": "Cálculos biliares"
+    }
+  },
+  "gastritis": {
+    "i18n": {
+      "es": "Gastritis"
+    }
+  },
+  "gastroenterologist": {
+    "i18n": {
+      "es": "Gastroenterólogo"
+    }
+  },
+  "gastroenterology": {
+    "i18n": {
+      "es": "Gastroenterología"
+    }
+  },
+  "gastroparesis": {
+    "i18n": {
+      "es": "Gastroparesis"
+    }
+  },
+  "hardening of the stomach": {
+    "i18n": {
+      "es": "Endurecimiento del estómago"
+    }
+  },
+  "hiatal hernia": {
+    "i18n": {
+      "es": "Hernia de Hiato"
+    }
+  },
+  "irritable bowel syndrome": {
+    "i18n": {
+      "es": "Síndrome del colon irritable"
+    }
+  },
+  "polyp": {
+    "i18n": {
+      "es": "Pólipo"
+    }
+  },
+  "reflux": {
+    "i18n": {
+      "es": "Reflujo"
+    }
+  },
+  "ringworm": {
+    "i18n": {
+      "es": "Tiña"
+    }
+  },
+  "sigmoidoscopy": {
+    "i18n": {
+      "es": "Sigmoidoscopia"
+    }
+  },
+  "stool": {
+    "i18n": {
+      "es": "Materia fecal, excremento"
+    }
+  },
+  "ulcer": {
+    "i18n": {
+      "es": "Úlcera"
+    }
+  },
+  "anesthesia": {
+    "i18n": {
+      "es": "Anestesia"
+    }
+  },
+  "bone graft": {
+    "i18n": {
+      "es": "Injerto de hueso"
+    }
+  },
+  "cryosurgery": {
+    "i18n": {
+      "es": "Criocirugía"
+    }
+  },
+  "cryotherapy": {
+    "i18n": {
+      "es": "Crioterapia"
+    }
+  },
+  "donor": {
+    "i18n": {
+      "es": "Donante"
+    }
+  },
+  "organ match": {
+    "i18n": {
+      "es": "Órgano compatible"
+    }
+  },
+  "organ rejection": {
+    "i18n": {
+      "es": "Rechazo de un órgano"
+    }
+  },
+  "organ transplant": {
+    "i18n": {
+      "es": "Transplante de órgano"
+    }
+  },
+  "post-operative recovery": {
+    "i18n": {
+      "es": "Recuperación post-quirúrgica"
+    }
+  },
+  "pre-operative assessment": {
+    "i18n": {
+      "es": "Evaluación pre-quirúrgica"
+    }
+  },
+  "pre-operative preparation": {
+    "i18n": {
+      "es": "Preparación pre-quirúrgica"
+    }
+  },
+  "recipient": {
+    "i18n": {
+      "es": "Recipiente"
+    }
+  },
+  "scar": {
+    "i18n": {
+      "es": "Cicatriz"
+    }
+  },
+  "scrub (surgically)": {
+    "i18n": {
+      "es": "Lavarse frotándose antes de la cirugía"
+    }
+  },
+  "skin graft": {
+    "i18n": {
+      "es": "Injerto de piel"
+    }
+  },
+  "surgeon": {
+    "i18n": {
+      "es": "Cirujano"
+    }
+  },
+  "transplant": {
+    "i18n": {
+      "es": "Transplante"
+    }
+  },
+  "abnormal finding": {
+    "i18n": {
+      "es": "Descubrimiento anormal"
+    }
+  },
+  "abortion": {
+    "i18n": {
+      "es": "Aborto"
+    }
+  },
+  "adenine": {
+    "i18n": {
+      "es": "Adenina"
+    }
+  },
+  "alpha thalassemia": {
+    "i18n": {
+      "es": "Alfa Talasemia"
+    }
+  },
+  "amino acid": {
+    "i18n": {
+      "es": "Aminoácido"
+    }
+  },
+  "amniocentesis": {
+    "i18n": {
+      "es": "Amniocentesis"
+    }
+  },
+  "autosomal": {
+    "i18n": {
+      "es": "Autosómico"
+    }
+  },
+  "autosomal chromosome": {
+    "i18n": {
+      "es": "Cromosoma Autosómico"
+    }
+  },
+  "baby’s father’s father’s medical history": {
+    "i18n": {
+      "es": "Historial médico del padre del padre del bebé"
+    }
+  },
+  "baby’s father’s medical history": {
+    "i18n": {
+      "es": "Historial médico del padre del bebé"
+    }
+  },
+  "baby’s father’s mother’s medical history": {
+    "i18n": {
+      "es": "Historial médico de la madre del padre del bebé"
+    }
+  },
+  "baby’s father’s siblings’ children’s medical history": {
+    "i18n": {
+      "es": "Historial médico de los hijos de los hermanos"
+    }
+  },
+  "baby’s father’s siblings’ medical history": {
+    "i18n": {
+      "es": "Historial médico de los hermanos del padre del"
+    }
+  },
+  "baby’s mother’s father’s medical history": {
+    "i18n": {
+      "es": "Historial médico del padre de la madre del bebé"
+    }
+  },
+  "baby’s mother’s medical history": {
+    "i18n": {
+      "es": "Historial médico de la madre del bebé"
+    }
+  },
+  "baby’s mother’s mother’s medical history": {
+    "i18n": {
+      "es": "Historial médico de la madre de la madre del"
+    }
+  },
+  "baby’s mother’s siblings’ children’s medical history": {
+    "i18n": {
+      "es": "Historial médico de los hijos de los hermanos de"
+    }
+  },
+  "baby’s mother’s siblings’ medical history": {
+    "i18n": {
+      "es": "Historial médico de los hermanos de la madre"
+    }
+  },
+  "bacteria, microbes, germs": {
+    "i18n": {
+      "es": "Bacterias; microbios; gérmenes"
+    }
+  },
+  "barr body": {
+    "i18n": {
+      "es": "Cuerpo de Barr"
+    }
+  },
+  "base": {
+    "i18n": {
+      "es": "Base"
+    }
+  },
+  "beta thalassemia": {
+    "i18n": {
+      "es": "Beta Talasemia Bet"
+    }
+  },
+  "birth defects": {
+    "i18n": {
+      "es": "Defectos de nacimiento, defectos congénitos"
+    }
+  },
+  "blood relatives": {
+    "i18n": {
+      "es": "Parientes de sangre, parientes consanguíneos"
+    }
+  },
+  "bloom syndrome": {
+    "i18n": {
+      "es": "Síndrome de Bloom"
+    }
+  },
+  "carrier": {
+    "i18n": {
+      "es": "Portador, mensajero"
+    }
+  },
+  "carrier screening status": {
+    "i18n": {
+      "es": "Estado de detección del portador"
+    }
+  },
+  "caucasian": {
+    "i18n": {
+      "es": "Caucásico"
+    }
+  },
+  "cells": {
+    "i18n": {
+      "es": "Células"
+    }
+  },
+  "chromosome analysis": {
+    "i18n": {
+      "es": "Análisis cromosómico"
+    }
+  },
+  "chromosomes": {
+    "i18n": {
+      "es": "Cromosomas"
+    }
+  },
+  "co-dominance": {
+    "i18n": {
+      "es": "Co-Dominancia"
+    }
+  },
+  "co-dominant inheritance": {
+    "i18n": {
+      "es": "Herencia co-dominante"
+    }
+  },
+  "consanguinity": {
+    "i18n": {
+      "es": "Consanguineidad"
+    }
+  },
+  "cytoplasm": {
+    "i18n": {
+      "es": "Citoplasma"
+    }
+  },
+  "cytosine": {
+    "i18n": {
+      "es": "Citosina"
+    }
+  },
+  "defects": {
+    "i18n": {
+      "es": "Defectos"
+    }
+  },
+  "deformities": {
+    "i18n": {
+      "es": "Deformidades"
+    }
+  },
+  "deoxyribonucleic acid (dna)": {
+    "i18n": {
+      "es": "Ácido Desoxiribonucleico (ADN)"
+    }
+  },
+  "detection": {
+    "i18n": {
+      "es": "Detección"
+    }
+  },
+  "distant relatives": {
+    "i18n": {
+      "es": "Parientes lejanos"
+    }
+  },
+  "dominant": {
+    "i18n": {
+      "es": "Dominante"
+    }
+  },
+  "double helix": {
+    "i18n": {
+      "es": "Doble hélice"
+    }
+  },
+  "down syndrome": {
+    "i18n": {
+      "es": "Síndrome de Down"
+    }
+  },
+  "eletrophoresis": {
+    "i18n": {
+      "es": "Electroforesis"
+    }
+  },
+  "encoded": {
+    "i18n": {
+      "es": "Codificado"
+    }
+  },
+  "endonuclease": {
+    "i18n": {
+      "es": "Endonucleasa"
+    }
+  },
+  "enzyme": {
+    "i18n": {
+      "es": "Enzima"
+    }
+  },
+  "ethnic background": {
+    "i18n": {
+      "es": "Antecedentes étnicos, grupo étnico"
+    }
+  },
+  "ethnicity": {
+    "i18n": {
+      "es": "Etnicidad"
+    }
+  },
+  "familial chromosome abnormality": {
+    "i18n": {
+      "es": "Anormalidad cromosómica familiar"
+    }
+  },
+  "fanconi’s anemia": {
+    "i18n": {
+      "es": "Anemia de Franconi"
+    }
+  },
+  "fatty acids": {
+    "i18n": {
+      "es": "Ácidos grasos"
+    }
+  },
+  "fertilized": {
+    "i18n": {
+      "es": "Fertilizado"
+    }
+  },
+  "filament": {
+    "i18n": {
+      "es": "Filamento"
+    }
+  },
+  "fragile x syndrome": {
+    "i18n": {
+      "es": "Síndrome del X Frágil"
+    }
+  },
+  "fragments": {
+    "i18n": {
+      "es": "Fragmentos"
+    }
+  },
+  "fraternal twins": {
+    "i18n": {
+      "es": "Mellizos"
+    }
+  },
+  "gaucher’s disease": {
+    "i18n": {
+      "es": "Enfermedad de Gaucher"
+    }
+  },
+  "genes": {
+    "i18n": {
+      "es": "Genes"
+    }
+  },
+  "genetic counselor": {
+    "i18n": {
+      "es": "Consejero genético"
+    }
+  },
+  "genetic tendency": {
+    "i18n": {
+      "es": "Tendencia genética"
+    }
+  },
+  "genetic testing": {
+    "i18n": {
+      "es": "Examen genético, prueba genética"
+    }
+  },
+  "geneticist": {
+    "i18n": {
+      "es": "Geneticista"
+    }
+  },
+  "genetics": {
+    "i18n": {
+      "es": "Genética"
+    }
+  },
+  "genetics counseling": {
+    "i18n": {
+      "es": "Consejo genético"
+    }
+  },
+  "genotype": {
+    "i18n": {
+      "es": "Genotipo"
+    }
+  },
+  "genus": {
+    "i18n": {
+      "es": "Género"
+    }
+  },
+  "gestation": {
+    "i18n": {
+      "es": "Gestación"
+    }
+  },
+  "guanine": {
+    "i18n": {
+      "es": "Guanina"
+    }
+  },
+  "helix": {
+    "i18n": {
+      "es": "Hélice"
+    }
+  },
+  "hemoglobin h disease": {
+    "i18n": {
+      "es": "Enfermedad de la Hemoglobina H"
+    }
+  },
+  "hemoglobinopathy": {
+    "i18n": {
+      "es": "Hemoglobinopatía"
+    }
+  },
+  "hemophilia": {
+    "i18n": {
+      "es": "Hemofilia"
+    }
+  },
+  "hereditary": {
+    "i18n": {
+      "es": "Hereditario"
+    }
+  },
+  "human genome project": {
+    "i18n": {
+      "es": "Proyecto del genoma humano"
+    }
+  },
+  "huntington's syndrome": {
+    "i18n": {
+      "es": "Síndrome de Huntington (Corea de Huntington)"
+    }
+  },
+  "identical twins": {
+    "i18n": {
+      "es": "Gemelos idénticos, mellizos idénticos"
+    }
+  },
+  "inheritance": {
+    "i18n": {
+      "es": "Herencia"
+    }
+  },
+  "inherited disorder": {
+    "i18n": {
+      "es": "Trastorno heredado"
+    }
+  },
+  "living children": {
+    "i18n": {
+      "es": "Niños vivos"
+    }
+  },
+  "locus": {
+    "i18n": {
+      "es": "Lugar, sitio"
+    }
+  },
+  "mapping": {
+    "i18n": {
+      "es": "Mapeo"
+    }
+  },
+  "marfan's syndrome": {
+    "i18n": {
+      "es": "Síndrome de Marfan"
+    }
+  },
+  "maternal": {
+    "i18n": {
+      "es": "Materno"
+    }
+  },
+  "meiosis": {
+    "i18n": {
+      "es": "Meiosis"
+    }
+  },
+  "mitochondria": {
+    "i18n": {
+      "es": "Mitocondria"
+    }
+  },
+  "molecule": {
+    "i18n": {
+      "es": "Molécula"
+    }
+  },
+  "mongoloid": {
+    "i18n": {
+      "es": "Mongol"
+    }
+  },
+  "multiple gestation": {
+    "i18n": {
+      "es": "Gestación múltiple"
+    }
+  },
+  "mutation": {
+    "i18n": {
+      "es": "Mutación"
+    }
+  },
+  "negroid": {
+    "i18n": {
+      "es": "Negroide"
+    }
+  },
+  "neonatal death": {
+    "i18n": {
+      "es": "Muerte neonatal"
+    }
+  },
+  "nephritis": {
+    "i18n": {
+      "es": "Nefritis"
+    }
+  },
+  "neural tube defects": {
+    "i18n": {
+      "es": "Defecto del tubo neural"
+    }
+  },
+  "non-disjunction": {
+    "i18n": {
+      "es": "No-Disyunción"
+    }
+  },
+  "nucleus": {
+    "i18n": {
+      "es": "Núcleo"
+    }
+  },
+  "oncogene": {
+    "i18n": {
+      "es": "Oncogen"
+    }
+  },
+  "past pregnancies": {
+    "i18n": {
+      "es": "Embarazos anteriores"
+    }
+  },
+  "paternal": {
+    "i18n": {
+      "es": "Paterno"
+    }
+  },
+  "paternity test": {
+    "i18n": {
+      "es": "Examen de paternidad"
+    }
+  },
+  "phenotype": {
+    "i18n": {
+      "es": "Fenotipo"
+    }
+  },
+  "pigment": {
+    "i18n": {
+      "es": "Pigmento"
+    }
+  },
+  "polymerase": {
+    "i18n": {
+      "es": "Polímeros"
+    }
+  },
+  "pregnancy outcome": {
+    "i18n": {
+      "es": "Resultados del embarazo"
+    }
+  },
+  "premature birth": {
+    "i18n": {
+      "es": "Parto prematuro"
+    }
+  },
+  "prenatal testing": {
+    "i18n": {
+      "es": "Examen prenatal"
+    }
+  },
+  "present health status": {
+    "i18n": {
+      "es": "Estado de salud actual"
+    }
+  },
+  "probe": {
+    "i18n": {
+      "es": "Probeta"
+    }
+  },
+  "radioactive atom": {
+    "i18n": {
+      "es": "Átomo radioactivo"
+    }
+  },
+  "rare disease": {
+    "i18n": {
+      "es": "Enfermedad rara, extraña"
+    }
+  },
+  "recessive genes": {
+    "i18n": {
+      "es": "Gen(e) recesivo"
+    }
+  },
+  "recurrence": {
+    "i18n": {
+      "es": "Recurrencia"
+    }
+  },
+  "red-green color blindness": {
+    "i18n": {
+      "es": "Daltonismo Rojo-Verde"
+    }
+  },
+  "ribonucleic acid (rna)": {
+    "i18n": {
+      "es": "Ácido Ribonucleico (ARN)"
+    }
+  },
+  "ribosomes": {
+    "i18n": {
+      "es": "Ribosomas"
+    }
+  },
+  "rickets": {
+    "i18n": {
+      "es": "Raquitismo"
+    }
+  },
+  "risk of chromosome analysis": {
+    "i18n": {
+      "es": "Riesgo por el análisis cromosómico"
+    }
+  },
+  "risk of miscarriage": {
+    "i18n": {
+      "es": "Riesgo de aborto involuntario"
+    }
+  },
+  "sex chromosomes": {
+    "i18n": {
+      "es": "Cromosomas sexuales"
+    }
+  },
+  "sickle-cell anemia": {
+    "i18n": {
+      "es": "Anemia de glóbulos falciformes"
+    }
+  },
+  "single gestation": {
+    "i18n": {
+      "es": "Gestación única"
+    }
+  },
+  "southern blot test": {
+    "i18n": {
+      "es": "Test de Southern Blot"
+    }
+  },
+  "sweat test": {
+    "i18n": {
+      "es": "Prueba de sudor"
+    }
+  },
+  "tay sachs disease": {
+    "i18n": {
+      "es": "Enfermedad de Tay Sachs"
+    }
+  },
+  "template": {
+    "i18n": {
+      "es": "Molde, patrón, plantilla"
+    }
+  },
+  "thalassemia": {
+    "i18n": {
+      "es": "Talasemia"
+    }
+  },
+  "thymine": {
+    "i18n": {
+      "es": "Timina"
+    }
+  },
+  "to clone": {
+    "i18n": {
+      "es": "Clonar"
+    }
+  },
+  "to splice": {
+    "i18n": {
+      "es": "Unir, juntar"
+    }
+  },
+  "trait": {
+    "i18n": {
+      "es": "Rasgo, característica"
+    }
+  },
+  "trisomy": {
+    "i18n": {
+      "es": "Trisomía"
+    }
+  },
+  "turner’s syndrome": {
+    "i18n": {
+      "es": "Síndrome de Turner"
+    }
+  },
+  "uracil": {
+    "i18n": {
+      "es": "Uracilo"
+    }
+  },
+  "geriatrician": {
+    "i18n": {
+      "es": "Geriatra"
+    }
+  },
+  "a hit of acid": {
+    "i18n": {
+      "es": "Tomarse o meterse un ácido"
+    }
+  },
+  "abrasions": {
+    "i18n": {
+      "es": "Abrasiones"
+    }
+  },
+  "abused": {
+    "i18n": {
+      "es": "Abusado/a"
+    }
+  },
+  "abuser": {
+    "i18n": {
+      "es": "Abusador"
+    }
+  },
+  "abusing (relationship)": {
+    "i18n": {
+      "es": "(Relación) abusiva"
+    }
+  },
+  "abusive": {
+    "i18n": {
+      "es": "Abusivo"
+    }
+  },
+  "acid": {
+    "i18n": {
+      "es": "Ácido"
+    }
+  },
+  "active": {
+    "i18n": {
+      "es": "Activo"
+    }
+  },
+  "activity level": {
+    "i18n": {
+      "es": "Nivel de actividad"
+    }
+  },
+  "acute": {
+    "i18n": {
+      "es": "Agudo, grave"
+    }
+  },
+  "aggressive": {
+    "i18n": {
+      "es": "Agresivo"
+    }
+  },
+  "aggressiveness": {
+    "i18n": {
+      "es": "Agresividad"
+    }
+  },
+  "aggressor": {
+    "i18n": {
+      "es": "Agresor"
+    }
+  },
+  "agitated": {
+    "i18n": {
+      "es": "Agitado/a"
+    }
+  },
+  "agitation": {
+    "i18n": {
+      "es": "Agitación"
+    }
+  },
+  "agoraphobia": {
+    "i18n": {
+      "es": "Agorafobia"
+    }
+  },
+  "alcohol": {
+    "i18n": {
+      "es": "Alcohol"
+    }
+  },
+  "anger": {
+    "i18n": {
+      "es": "Rabia"
+    }
+  },
+  "anorexia": {
+    "i18n": {
+      "es": "Anorexia"
+    }
+  },
+  "anorexia nervosa": {
+    "i18n": {
+      "es": "Anorexia nerviosa"
+    }
+  },
+  "anorexic": {
+    "i18n": {
+      "es": "Anoréxico/a"
+    }
+  },
+  "anxiety disorder": {
+    "i18n": {
+      "es": "Trastorno de ansiedad"
+    }
+  },
+  "anxious": {
+    "i18n": {
+      "es": "Ansioso/a"
+    }
+  },
+  "apathetic": {
+    "i18n": {
+      "es": "Apático"
+    }
+  },
+  "apathy": {
+    "i18n": {
+      "es": "Apatía"
+    }
+  },
+  "aphasia": {
+    "i18n": {
+      "es": "Afasia"
+    }
+  },
+  "aptitude": {
+    "i18n": {
+      "es": "Aptitud"
+    }
+  },
+  "attention deficit disorder": {
+    "i18n": {
+      "es": "Trastorno de déficit de atención"
+    }
+  },
+  "attention deficit hyperactivity disorder": {
+    "i18n": {
+      "es": "Trastorno de déficit de atención e hiperactividad"
+    }
+  },
+  "attitude": {
+    "i18n": {
+      "es": "Actitud"
+    }
+  },
+  "behavior": {
+    "i18n": {
+      "es": "Comportamiento"
+    }
+  },
+  "behavioral health": {
+    "i18n": {
+      "es": "Salud comportamental"
+    }
+  },
+  "bulimia nervosa": {
+    "i18n": {
+      "es": "Bulimia nerviosa"
+    }
+  },
+  "biological factors": {
+    "i18n": {
+      "es": "Factores biológicos"
+    }
+  },
+  "bipolar disorder": {
+    "i18n": {
+      "es": "Trastorno bipolar"
+    }
+  },
+  "blackout (drug/alcohol related)": {
+    "i18n": {
+      "es": "Laguna mental, desmayo"
+    }
+  },
+  "body language": {
+    "i18n": {
+      "es": "Lenguaje corporal"
+    }
+  },
+  "borderline": {
+    "i18n": {
+      "es": "Limítrofe, Incierto, en el límite, borderline"
+    }
+  },
+  "borderline personality disorder": {
+    "i18n": {
+      "es": "Trastorno límite de la personalidad"
+    }
+  },
+  "brooding": {
+    "i18n": {
+      "es": "Cavilación"
+    }
+  },
+  "bulimia": {
+    "i18n": {
+      "es": "Bulimia"
+    }
+  },
+  "bulimic": {
+    "i18n": {
+      "es": "Bulímico/a"
+    }
+  },
+  "caretaker": {
+    "i18n": {
+      "es": "Cuidador"
+    }
+  },
+  "chronic": {
+    "i18n": {
+      "es": "Crónico"
+    }
+  },
+  "claustrophobia": {
+    "i18n": {
+      "es": "Claustrofobia"
+    }
+  },
+  "claustrophobic": {
+    "i18n": {
+      "es": "Claustrofóbico/a"
+    }
+  },
+  "cocaine": {
+    "i18n": {
+      "es": "Cocaína"
+    }
+  },
+  "cognition": {
+    "i18n": {
+      "es": "Cognición"
+    }
+  },
+  "cognitive factors": {
+    "i18n": {
+      "es": "Factores cognitivos"
+    }
+  },
+  "coke": {
+    "i18n": {
+      "es": "Coca, farla, farlopa, perico, fua, nieve, merca"
+    }
+  },
+  "concentration": {
+    "i18n": {
+      "es": "Concentración"
+    }
+  },
+  "concrete": {
+    "i18n": {
+      "es": "Concreto/a"
+    }
+  },
+  "conscience": {
+    "i18n": {
+      "es": "Conciencia"
+    }
+  },
+  "conscious": {
+    "i18n": {
+      "es": "Conciente"
+    }
+  },
+  "consciousness": {
+    "i18n": {
+      "es": "Conciencia"
+    }
+  },
+  "constricted": {
+    "i18n": {
+      "es": "Constricto/a"
+    }
+  },
+  "contact person": {
+    "i18n": {
+      "es": "Persona de contacto"
+    }
+  },
+  "cooperative": {
+    "i18n": {
+      "es": "Cooperativa/o"
+    }
+  },
+  "counselor": {
+    "i18n": {
+      "es": "Consejero"
+    }
+  },
+  "crack cocaine": {
+    "i18n": {
+      "es": "Crack, cocaína en base, basuco"
+    }
+  },
+  "crazy": {
+    "i18n": {
+      "es": "Loco"
+    }
+  },
+  "crime": {
+    "i18n": {
+      "es": "Crimen"
+    }
+  },
+  "cultural beliefs": {
+    "i18n": {
+      "es": "Creencias culturales"
+    }
+  },
+  "cultural shock": {
+    "i18n": {
+      "es": "Choque cultural"
+    }
+  },
+  "defensive": {
+    "i18n": {
+      "es": "Defensivo/a"
+    }
+  },
+  "delirious": {
+    "i18n": {
+      "es": "Delirante"
+    }
+  },
+  "delusions": {
+    "i18n": {
+      "es": "Delirios"
+    }
+  },
+  "delusions of grandeur": {
+    "i18n": {
+      "es": "Delirios de grandeza"
+    }
+  },
+  "delusions of persecution": {
+    "i18n": {
+      "es": "Delirios de persecución"
+    }
+  },
+  "demented": {
+    "i18n": {
+      "es": "Demente"
+    }
+  },
+  "dementia": {
+    "i18n": {
+      "es": "Demencia"
+    }
+  },
+  "depression": {
+    "i18n": {
+      "es": "Depresión"
+    }
+  },
+  "depressive": {
+    "i18n": {
+      "es": "Depresivo"
+    }
+  },
+  "developmental factors": {
+    "i18n": {
+      "es": "Factores del desarrollo"
+    }
+  },
+  "difficulty articulating": {
+    "i18n": {
+      "es": "Dificultad articulatoria, para articular"
+    }
+  },
+  "dignity": {
+    "i18n": {
+      "es": "Dignidad"
+    }
+  },
+  "dissociation": {
+    "i18n": {
+      "es": "Disociación"
+    }
+  },
+  "dissociative identity disorder": {
+    "i18n": {
+      "es": "Trastorno Disociativo de la Identidad"
+    }
+  },
+  "distracted": {
+    "i18n": {
+      "es": "Distraído/a"
+    }
+  },
+  "distractibility": {
+    "i18n": {
+      "es": "Distractibilidad"
+    }
+  },
+  "distress": {
+    "i18n": {
+      "es": "Angustia, aflicción"
+    }
+  },
+  "distressed": {
+    "i18n": {
+      "es": "Ditresado, angustiado"
+    }
+  },
+  "distressing": {
+    "i18n": {
+      "es": "Distresante, angustiante"
+    }
+  },
+  "drug abuse": {
+    "i18n": {
+      "es": "Abuso de drogas"
+    }
+  },
+  "drug overdose": {
+    "i18n": {
+      "es": "Sobredosis por drogas"
+    }
+  },
+  "dysthymia": {
+    "i18n": {
+      "es": "Distimia"
+    }
+  },
+  "eating patterns": {
+    "i18n": {
+      "es": "Patrones de alimentación"
+    }
+  },
+  "educational problems": {
+    "i18n": {
+      "es": "Problemas educativos"
+    }
+  },
+  "emotional": {
+    "i18n": {
+      "es": "Emocional"
+    }
+  },
+  "environmental factors": {
+    "i18n": {
+      "es": "Factores ambientales"
+    }
+  },
+  "episodes": {
+    "i18n": {
+      "es": "Episodios"
+    }
+  },
+  "euphoria": {
+    "i18n": {
+      "es": "Euforia"
+    }
+  },
+  "euphoric": {
+    "i18n": {
+      "es": "Eufórico"
+    }
+  },
+  "euthymia": {
+    "i18n": {
+      "es": "Eutimia"
+    }
+  },
+  "evasive": {
+    "i18n": {
+      "es": "Evasivo"
+    }
+  },
+  "excessive guilt": {
+    "i18n": {
+      "es": "Culpa Excesiva"
+    }
+  },
+  "feeling of depression": {
+    "i18n": {
+      "es": "Sentimiento de depresión"
+    }
+  },
+  "feeling of helplessness": {
+    "i18n": {
+      "es": "Sentimiento de impotencia, de desamparo"
+    }
+  },
+  "feeling of hopelessness": {
+    "i18n": {
+      "es": "Sentimiento de desesperanza"
+    }
+  },
+  "feeling of tiredness": {
+    "i18n": {
+      "es": "Sensación de cansancio/fatiga"
+    }
+  },
+  "feeling worthlessness": {
+    "i18n": {
+      "es": "Sentimiento de inutilidad"
+    }
+  },
+  "feelings": {
+    "i18n": {
+      "es": "Sentimientos, sensaciones"
+    }
+  },
+  "general slowing down": {
+    "i18n": {
+      "es": "Sentimientos, sensaciones de decaimiento"
+    }
+  },
+  "genetic inheritance": {
+    "i18n": {
+      "es": "Herencia genética"
+    }
+  },
+  "gesticulation": {
+    "i18n": {
+      "es": "Gesticulación"
+    }
+  },
+  "gestures": {
+    "i18n": {
+      "es": "Gestos"
+    }
+  },
+  "gluttonous": {
+    "i18n": {
+      "es": "Glotón"
+    }
+  },
+  "group therapy": {
+    "i18n": {
+      "es": "Terapia grupal, de grupo"
+    }
+  },
+  "guarded": {
+    "i18n": {
+      "es": "A la defensiva"
+    }
+  },
+  "guardian": {
+    "i18n": {
+      "es": "Guardián, tutor"
+    }
+  },
+  "hallucinations": {
+    "i18n": {
+      "es": "Alucinaciones"
+    }
+  },
+  "hangover": {
+    "i18n": {
+      "es": "Resaca, guayabo, cruda, ratón, borrachera"
+    }
+  },
+  "hearing voices": {
+    "i18n": {
+      "es": "Escuchar u oir voces"
+    }
+  },
+  "heroine": {
+    "i18n": {
+      "es": "Heroína, caballo, jaco"
+    }
+  },
+  "hobbies": {
+    "i18n": {
+      "es": "Hobbies, entretenimientos, pasatiempos,"
+    }
+  },
+  "homicidal": {
+    "i18n": {
+      "es": "Homicida"
+    }
+  },
+  "homicidal attempt": {
+    "i18n": {
+      "es": "Intento de homicidio"
+    }
+  },
+  "homicidal ideation": {
+    "i18n": {
+      "es": "Ideación homicida"
+    }
+  },
+  "homicidal thoughts": {
+    "i18n": {
+      "es": "Pensamientos homicidas"
+    }
+  },
+  "homicide": {
+    "i18n": {
+      "es": "Homicidio"
+    }
+  },
+  "hostile": {
+    "i18n": {
+      "es": "Hostil"
+    }
+  },
+  "housing problem": {
+    "i18n": {
+      "es": "Problema de vivienda"
+    }
+  },
+  "human services agencies": {
+    "i18n": {
+      "es": "Agencies de servicios humanos"
+    }
+  },
+  "hyperactive": {
+    "i18n": {
+      "es": "Hiperactivo/a"
+    }
+  },
+  "hyperactivity disorder": {
+    "i18n": {
+      "es": "Trastorno de hiperactividad"
+    }
+  },
+  "hypochondria": {
+    "i18n": {
+      "es": "Hipocondria"
+    }
+  },
+  "hypochondriac": {
+    "i18n": {
+      "es": "Hipocondriaco"
+    }
+  },
+  "hypomania": {
+    "i18n": {
+      "es": "Hipomania"
+    }
+  },
+  "i.v. (intravenous) drugs": {
+    "i18n": {
+      "es": "Drogas intravenosas, por vía parenteral"
+    }
+  },
+  "illogical": {
+    "i18n": {
+      "es": "Ilógico"
+    }
+  },
+  "illusions": {
+    "i18n": {
+      "es": "Ilusiones"
+    }
+  },
+  "immigration issues": {
+    "i18n": {
+      "es": "Asuntos de inmigración, inmigratorios"
+    }
+  },
+  "immigration status": {
+    "i18n": {
+      "es": "Estado de Inmigración"
+    }
+  },
+  "impulsive": {
+    "i18n": {
+      "es": "Impulsivo"
+    }
+  },
+  "inability to concentrate": {
+    "i18n": {
+      "es": "Incapacidad para concentrarse"
+    }
+  },
+  "incident of abuse": {
+    "i18n": {
+      "es": "Incidente de abuso"
+    }
+  },
+  "incongruity": {
+    "i18n": {
+      "es": "Incongruencia"
+    }
+  },
+  "increased appetite": {
+    "i18n": {
+      "es": "Apetito aumentado, aumento del apetito"
+    }
+  },
+  "increased emotionality": {
+    "i18n": {
+      "es": "Emocionalidad aumentada"
+    }
+  },
+  "indecisiveness": {
+    "i18n": {
+      "es": "Indecisión"
+    }
+  },
+  "induces behavior": {
+    "i18n": {
+      "es": "Induce un/a comportamiento/conducta"
+    }
+  },
+  "ingratiating": {
+    "i18n": {
+      "es": "Congraciador"
+    }
+  },
+  "insane": {
+    "i18n": {
+      "es": "Loco, demente"
+    }
+  },
+  "insanity": {
+    "i18n": {
+      "es": "Locura, demencia"
+    }
+  },
+  "irrelevant": {
+    "i18n": {
+      "es": "Irrelevante"
+    }
+  },
+  "irritability": {
+    "i18n": {
+      "es": "Irritabilidad"
+    }
+  },
+  "irritable": {
+    "i18n": {
+      "es": "Irritable"
+    }
+  },
+  "labile": {
+    "i18n": {
+      "es": "Lábil"
+    }
+  },
+  "lacerations": {
+    "i18n": {
+      "es": "Laceraciones"
+    }
+  },
+  "learned behavior": {
+    "i18n": {
+      "es": "Conducta aprendida"
+    }
+  },
+  "leisure time": {
+    "i18n": {
+      "es": "Tiempo libre"
+    }
+  },
+  "lethargy": {
+    "i18n": {
+      "es": "Letargia"
+    }
+  },
+  "listless": {
+    "i18n": {
+      "es": "Lánguido"
+    }
+  },
+  "loss of energy": {
+    "i18n": {
+      "es": "Pérdida de energía"
+    }
+  },
+  "loss of functioning": {
+    "i18n": {
+      "es": "Pérdida de funcionalidad"
+    }
+  },
+  "loss of interest": {
+    "i18n": {
+      "es": "Pérdida de Interés"
+    }
+  },
+  "lsd": {
+    "i18n": {
+      "es": "LSD (Ácido Lisérgico Dietilamida)"
+    }
+  },
+  "major depression": {
+    "i18n": {
+      "es": "Depresión mayor"
+    }
+  },
+  "mania": {
+    "i18n": {
+      "es": "Manía"
+    }
+  },
+  "maniac": {
+    "i18n": {
+      "es": "Maniático"
+    }
+  },
+  "manic": {
+    "i18n": {
+      "es": "Maniaco"
+    }
+  },
+  "manifestations": {
+    "i18n": {
+      "es": "Manifestaciones"
+    }
+  },
+  "marihuana": {
+    "i18n": {
+      "es": "Marihuana, maría, hierba"
+    }
+  },
+  "marital status": {
+    "i18n": {
+      "es": "Estado civil, marital"
+    }
+  },
+  "memory loss": {
+    "i18n": {
+      "es": "Pérdida de memoria"
+    }
+  },
+  "mental health": {
+    "i18n": {
+      "es": "Salud mental"
+    }
+  },
+  "mental illness": {
+    "i18n": {
+      "es": "Enfermedad mental"
+    }
+  },
+  "mental retardation": {
+    "i18n": {
+      "es": "Retardo o retraso mental"
+    }
+  },
+  "mental suicide": {
+    "i18n": {
+      "es": "Suicidio mental"
+    }
+  },
+  "mentally abused": {
+    "i18n": {
+      "es": "Abusado // maltratado psicológicamente,"
+    }
+  },
+  "mentally ill": {
+    "i18n": {
+      "es": "Enfermo mental"
+    }
+  },
+  "mentally retarded": {
+    "i18n": {
+      "es": "Retrasado mental"
+    }
+  },
+  "mood": {
+    "i18n": {
+      "es": "Humor"
+    }
+  },
+  "multiple personality disorder": {
+    "i18n": {
+      "es": "Trastorno de Personalidad Multiple, Trastorno"
+    }
+  },
+  "mushrooms": {
+    "i18n": {
+      "es": "Hongos (Alucinógenos), champiñones"
+    }
+  },
+  "mute": {
+    "i18n": {
+      "es": "Mudo"
+    }
+  },
+  "neurosis": {
+    "i18n": {
+      "es": "Neurosis"
+    }
+  },
+  "neurotic": {
+    "i18n": {
+      "es": "Neurótico"
+    }
+  },
+  "obsessive-compulsive": {
+    "i18n": {
+      "es": "Obsesivo-Compulsivo"
+    }
+  },
+  "obsessive-compulsive disorder (ocd)": {
+    "i18n": {
+      "es": "Trastorno Obsesivo-Compulsivo (TOC)"
+    }
+  },
+  "occupational problems": {
+    "i18n": {
+      "es": "Problemas Ocupacionales"
+    }
+  },
+  "oppositional defiant disorder": {
+    "i18n": {
+      "es": "Trastorno de Desafío y Oposición"
+    }
+  },
+  "optimism": {
+    "i18n": {
+      "es": "Optimismo"
+    }
+  },
+  "optimistic": {
+    "i18n": {
+      "es": "Optimista"
+    }
+  },
+  "panic attack": {
+    "i18n": {
+      "es": "Ataque de pánico, de angustia"
+    }
+  },
+  "panic disorder": {
+    "i18n": {
+      "es": "Trastorno de pánico"
+    }
+  },
+  "paranoia": {
+    "i18n": {
+      "es": "Paranoia"
+    }
+  },
+  "paranoid": {
+    "i18n": {
+      "es": "Paranoico"
+    }
+  },
+  "partner": {
+    "i18n": {
+      "es": "Pareja, Compañero/a"
+    }
+  },
+  "peace of mind": {
+    "i18n": {
+      "es": "Paz mental"
+    }
+  },
+  "perception": {
+    "i18n": {
+      "es": "Percepción"
+    }
+  },
+  "perpetrator of abuse": {
+    "i18n": {
+      "es": "Perpetrador/autor de abusos/maltratos"
+    }
+  },
+  "persecution": {
+    "i18n": {
+      "es": "Persecución"
+    }
+  },
+  "personality disorders": {
+    "i18n": {
+      "es": "Trastornos de Personalidad"
+    }
+  },
+  "pessimism": {
+    "i18n": {
+      "es": "Pesimismo"
+    }
+  },
+  "pessimistic": {
+    "i18n": {
+      "es": "Pesimista"
+    }
+  },
+  "phobia": {
+    "i18n": {
+      "es": "Fobia"
+    }
+  },
+  "phobia to commitment": {
+    "i18n": {
+      "es": "Fobia al compromiso"
+    }
+  },
+  "physically abused": {
+    "i18n": {
+      "es": "Abusado/maltratado físicamente"
+    }
+  },
+  "poor appetite": {
+    "i18n": {
+      "es": "Poco apetito, apetito pobre  //  malo"
+    }
+  },
+  "poor self-esteem": {
+    "i18n": {
+      "es": "Baja autoestima"
+    }
+  },
+  "post traumatic stress disorder(ptsd)": {
+    "i18n": {
+      "es": "Trastorno de Estrés Postraumático (TEP)"
+    }
+  },
+  "pot": {
+    "i18n": {
+      "es": "María, hierba, marihuana"
+    }
+  },
+  "psychiatric": {
+    "i18n": {
+      "es": "Psiquiátrico"
+    }
+  },
+  "psychiatric problem": {
+    "i18n": {
+      "es": "Problema psiquiátrico"
+    }
+  },
+  "psychiatrist": {
+    "i18n": {
+      "es": "Psiquiatra"
+    }
+  },
+  "psychoactive drug": {
+    "i18n": {
+      "es": "Droga psicoactiva"
+    }
+  },
+  "psychological problems": {
+    "i18n": {
+      "es": "Problemas psicológicos"
+    }
+  },
+  "psychologist": {
+    "i18n": {
+      "es": "Psicólogo/a"
+    }
+  },
+  "psychology": {
+    "i18n": {
+      "es": "Psicología"
+    }
+  },
+  "psychopathy": {
+    "i18n": {
+      "es": "Psicopatía"
+    }
+  },
+  "psychosis": {
+    "i18n": {
+      "es": "Psicosis"
+    }
+  },
+  "psychosocial problems": {
+    "i18n": {
+      "es": "Problemas psicosociales"
+    }
+  },
+  "psychosomatic": {
+    "i18n": {
+      "es": "Psicosomático"
+    }
+  },
+  "psychotherapy": {
+    "i18n": {
+      "es": "Psicoterapia"
+    }
+  },
+  "psychotic episode": {
+    "i18n": {
+      "es": "Episodio psicótico"
+    }
+  },
+  "reasonable": {
+    "i18n": {
+      "es": "Razonable"
+    }
+  },
+  "refugee": {
+    "i18n": {
+      "es": "Refugiado/a"
+    }
+  },
+  "relationship to patient": {
+    "i18n": {
+      "es": "Relación con el paciente"
+    }
+  },
+  "religious beliefs": {
+    "i18n": {
+      "es": "Creencias religiosas"
+    }
+  },
+  "restlessness": {
+    "i18n": {
+      "es": "Desasosiego"
+    }
+  },
+  "rigid": {
+    "i18n": {
+      "es": "Rígido/a"
+    }
+  },
+  "rigidity": {
+    "i18n": {
+      "es": "Rigidez"
+    }
+  },
+  "sad mood": {
+    "i18n": {
+      "es": "Estado de Humor Triste"
+    }
+  },
+  "schizophrenia": {
+    "i18n": {
+      "es": "Esquizofrenia"
+    }
+  },
+  "schizophrenic": {
+    "i18n": {
+      "es": "Esquizofrénico"
+    }
+  },
+  "seductive": {
+    "i18n": {
+      "es": "Seductor/a"
+    }
+  },
+  "self-reproach": {
+    "i18n": {
+      "es": "Autorreproche"
+    }
+  },
+  "self-absorbed": {
+    "i18n": {
+      "es": "Absorto/a"
+    }
+  },
+  "self-conscious": {
+    "i18n": {
+      "es": "Cohibido, tímido"
+    }
+  },
+  "self-esteem": {
+    "i18n": {
+      "es": "Autoestima"
+    }
+  },
+  "sexually abused": {
+    "i18n": {
+      "es": "Abusado/a sexualmente"
+    }
+  },
+  "sleep patterns": {
+    "i18n": {
+      "es": "Patrones del sueño"
+    }
+  },
+  "social factors": {
+    "i18n": {
+      "es": "Factores sociales"
+    }
+  },
+  "social withdrawal": {
+    "i18n": {
+      "es": "Retraimiento social, abandono social"
+    }
+  },
+  "social work": {
+    "i18n": {
+      "es": "Trabajo Social"
+    }
+  },
+  "strengths": {
+    "i18n": {
+      "es": "Virtudes, fuerzas, fortalezas"
+    }
+  },
+  "stresses": {
+    "i18n": {
+      "es": "Estresa"
+    }
+  },
+  "stressful": {
+    "i18n": {
+      "es": "Estresante"
+    }
+  },
+  "stressing": {
+    "i18n": {
+      "es": "Estresante"
+    }
+  },
+  "subconscious": {
+    "i18n": {
+      "es": "Subconsciente"
+    }
+  },
+  "substance abuse": {
+    "i18n": {
+      "es": "Abuso de sustancias"
+    }
+  },
+  "suicidal": {
+    "i18n": {
+      "es": "Suicida"
+    }
+  },
+  "suicidal attempt": {
+    "i18n": {
+      "es": "Intento suicida"
+    }
+  },
+  "suicidal ideation": {
+    "i18n": {
+      "es": "Ideación suicida"
+    }
+  },
+  "suicidal plan": {
+    "i18n": {
+      "es": "Plan suicida"
+    }
+  },
+  "suicidal thoughts": {
+    "i18n": {
+      "es": "Pensamientos suicidas"
+    }
+  },
+  "suicide": {
+    "i18n": {
+      "es": "Suicidio"
+    }
+  },
+  "supernatural": {
+    "i18n": {
+      "es": "Sobrenatural"
+    }
+  },
+  "tearfulness": {
+    "i18n": {
+      "es": "Lacrimosidad"
+    }
+  },
+  "therapist": {
+    "i18n": {
+      "es": "Terapeuta"
+    }
+  },
+  "thought of harming others": {
+    "i18n": {
+      "es": "Pensar en hacer daño a otros"
+    }
+  },
+  "thoughts of harming oneself": {
+    "i18n": {
+      "es": "Pensar en hacerse daño a uno mismo"
+    }
+  },
+  "to be alert": {
+    "i18n": {
+      "es": "Estar alerta"
+    }
+  },
+  "to be hyperalert": {
+    "i18n": {
+      "es": "Estar hiper-alerta"
+    }
+  },
+  "to be intoxicated": {
+    "i18n": {
+      "es": "Estar embriagado // drogrado"
+    }
+  },
+  "to be lethargic": {
+    "i18n": {
+      "es": "Estar letárgico"
+    }
+  },
+  "to blackout": {
+    "i18n": {
+      "es": "Desmayarse // enlagunarse"
+    }
+  },
+  "to commit a crime": {
+    "i18n": {
+      "es": "Cometer un crimen"
+    }
+  },
+  "to commit suicide": {
+    "i18n": {
+      "es": "Cometer suicidio"
+    }
+  },
+  "to kill oneself": {
+    "i18n": {
+      "es": "Matarse, suicidarse"
+    }
+  },
+  "to molest (sexually)": {
+    "i18n": {
+      "es": "Abusar sexualmente, tocar inapropiadamente"
+    }
+  },
+  "to seek counseling": {
+    "i18n": {
+      "es": "Buscar ayuda, consejo, counseling,"
+    }
+  },
+  "torture": {
+    "i18n": {
+      "es": "Tortura"
+    }
+  },
+  "tremors": {
+    "i18n": {
+      "es": "Temblores"
+    }
+  },
+  "trouble sleeping": {
+    "i18n": {
+      "es": "Dificultad de dormir"
+    }
+  },
+  "twitches": {
+    "i18n": {
+      "es": "Sacudida, contorsión"
+    }
+  },
+  "unconscious": {
+    "i18n": {
+      "es": "Inconsciente"
+    }
+  },
+  "victim of abuse": {
+    "i18n": {
+      "es": "Víctima de abuso"
+    }
+  },
+  "weak; languid; run-down": {
+    "i18n": {
+      "es": "Débil, lánguido"
+    }
+  },
+  "weaknesses": {
+    "i18n": {
+      "es": "Debilidad"
+    }
+  },
+  "weight gain": {
+    "i18n": {
+      "es": "Aumento de peso"
+    }
+  },
+  "withdrawn": {
+    "i18n": {
+      "es": "Aislado, apartado, retirado, retraído,"
+    }
+  },
+  "creatinine measurement": {
+    "i18n": {
+      "es": "Medida de la creatina"
+    }
+  },
+  "descended bladder": {
+    "i18n": {
+      "es": "Ptosis, caída o prolapso de la vejiga"
+    }
+  },
+  "dialysis": {
+    "i18n": {
+      "es": "Diálisis"
+    }
+  },
+  "glomerulitis": {
+    "i18n": {
+      "es": "Glomérulitis"
+    }
+  },
+  "hematuria (blood in urine)": {
+    "i18n": {
+      "es": "Hematuria (sangre en la orina)"
+    }
+  },
+  "kidney stone": {
+    "i18n": {
+      "es": "Cálculo/Piedra en el riñón"
+    }
+  },
+  "nephrologist": {
+    "i18n": {
+      "es": "Nefrólogo"
+    }
+  },
+  "renal disease": {
+    "i18n": {
+      "es": "Enfermedad renal"
+    }
+  },
+  "blackouts": {
+    "i18n": {
+      "es": "Lagunas mentales //  desmayos"
+    }
+  },
+  "carpal tunnel syndrome": {
+    "i18n": {
+      "es": "Síndrome del túnel carpiano"
+    }
+  },
+  "cerebrovascular": {
+    "i18n": {
+      "es": "Cerebrovascular"
+    }
+  },
+  "craniotomy": {
+    "i18n": {
+      "es": "Craneotomía"
+    }
+  },
+  "electric stimulation": {
+    "i18n": {
+      "es": "Estimulación eléctrica"
+    }
+  },
+  "(tens) transcutaneous electric nerve stimulation": {
+    "i18n": {
+      "es": "Estimulación Nerviosa Eléctrica Transcutánea"
+    }
+  },
+  "electromyelogram (emg)": {
+    "i18n": {
+      "es": "Electromielograma (EMG)"
+    }
+  },
+  "herniated disk": {
+    "i18n": {
+      "es": "Disco Herniado"
+    }
+  },
+  "meningitis": {
+    "i18n": {
+      "es": "Meningitis"
+    }
+  },
+  "muscle hypotrophy": {
+    "i18n": {
+      "es": "Hipotrofia muscular"
+    }
+  },
+  "neurologist": {
+    "i18n": {
+      "es": "Neurólogo"
+    }
+  },
+  "neurology": {
+    "i18n": {
+      "es": "Neurología"
+    }
+  },
+  "reflexes": {
+    "i18n": {
+      "es": "Reflejos"
+    }
+  },
+  "tingling sensation": {
+    "i18n": {
+      "es": "Sensación de hormigueo"
+    }
+  },
+  "what do you sense?": {
+    "i18n": {
+      "es": "¿"
+    }
+  },
+  "carbohydrates": {
+    "i18n": {
+      "es": "Carbohidratos, Hidratos de Carbono"
+    }
+  },
+  "carbon dioxide": {
+    "i18n": {
+      "es": "Dióxido de Carbono"
+    }
+  },
+  "dietetic": {
+    "i18n": {
+      "es": "Dietética"
+    }
+  },
+  "dietitian": {
+    "i18n": {
+      "es": "Dietólogo, Dietista"
+    }
+  },
+  "fats": {
+    "i18n": {
+      "es": "Grasas"
+    }
+  },
+  "nourishment": {
+    "i18n": {
+      "es": "Nutrición"
+    }
+  },
+  "nutritionist": {
+    "i18n": {
+      "es": "Nutricionista, Nutrólogo"
+    }
+  },
+  "potassium": {
+    "i18n": {
+      "es": "Potasio"
+    }
+  },
+  "sodium": {
+    "i18n": {
+      "es": "Sodio"
+    }
+  },
+  "to fast": {
+    "i18n": {
+      "es": "Ayunar"
+    }
+  },
+  "to nurture": {
+    "i18n": {
+      "es": "Educar, formar, criar"
+    }
+  },
+  "vitamins": {
+    "i18n": {
+      "es": "Vitaminas"
+    }
+  },
+  "vitamin deficiency": {
+    "i18n": {
+      "es": "Deficiencia vitamínica"
+    }
+  },
+  "afterbirth (plancenta)": {
+    "i18n": {
+      "es": "Placenta"
+    }
+  },
+  "amenorrhea": {
+    "i18n": {
+      "es": "Amenorrea"
+    }
+  },
+  "amniotic fluid": {
+    "i18n": {
+      "es": "Fluido amniótico"
+    }
+  },
+  "artificial insemination": {
+    "i18n": {
+      "es": "Inseminación artificial"
+    }
+  },
+  "baby": {
+    "i18n": {
+      "es": "Bebé"
+    }
+  },
+  "baby bottle": {
+    "i18n": {
+      "es": "Biberón"
+    }
+  },
+  "baby formula": {
+    "i18n": {
+      "es": "Leche para bebés"
+    }
+  },
+  "birth control": {
+    "i18n": {
+      "es": "Control de natalidad"
+    }
+  },
+  "bottle feed": {
+    "i18n": {
+      "es": "Alimentar por biberón"
+    }
+  },
+  "bottle nipple": {
+    "i18n": {
+      "es": "Tetilla de biberón"
+    }
+  },
+  "breast-feed": {
+    "i18n": {
+      "es": "Amamantar"
+    }
+  },
+  "cesarean section": {
+    "i18n": {
+      "es": "Operación cesárea"
+    }
+  },
+  "childbirth": {
+    "i18n": {
+      "es": "Nacimiento de un niño/A"
+    }
+  },
+  "chloasma": {
+    "i18n": {
+      "es": "Cloasma"
+    }
+  },
+  "clinical breast exam": {
+    "i18n": {
+      "es": "Examen clínico del seno"
+    }
+  },
+  "coitus (pre-coitus, post-coitus)": {
+    "i18n": {
+      "es": "Coito (Pre-Coito, Post-Coito)"
+    }
+  },
+  "conceive": {
+    "i18n": {
+      "es": "Concebir"
+    }
+  },
+  "congenital conditions": {
+    "i18n": {
+      "es": "Enfermedades congénitas"
+    }
+  },
+  "cleft lip": {
+    "i18n": {
+      "es": "Labio leporino"
+    }
+  },
+  "cleft palate": {
+    "i18n": {
+      "es": "Paladar hendido"
+    }
+  },
+  "failure to thrive": {
+    "i18n": {
+      "es": "Fallo para crecer/prosperar"
+    }
+  },
+  "fused spinal column": {
+    "i18n": {
+      "es": "Fusión de la columna espinal"
+    }
+  },
+  "missing vertebrae": {
+    "i18n": {
+      "es": "Vertebra ausente"
+    }
+  },
+  "spina bifida": {
+    "i18n": {
+      "es": "Espina bífida"
+    }
+  },
+  "split lip": {
+    "i18n": {
+      "es": "Labio cortado, labio leporino"
+    }
+  },
+  "contraception": {
+    "i18n": {
+      "es": "Anticoncepción, contracepción"
+    }
+  },
+  "contraction": {
+    "i18n": {
+      "es": "Contracción"
+    }
+  },
+  "crown": {
+    "i18n": {
+      "es": "Corona"
+    }
+  },
+  "diapers": {
+    "i18n": {
+      "es": "Pañales"
+    }
+  },
+  "cloth": {
+    "i18n": {
+      "es": "Trapo, tela"
+    }
+  },
+  "disposable": {
+    "i18n": {
+      "es": "Descartable, desechable, de usar y Tirar"
+    }
+  },
+  "deliver": {
+    "i18n": {
+      "es": "Parir, dar a luz"
+    }
+  },
+  "delivery": {
+    "i18n": {
+      "es": "Parto"
+    }
+  },
+  "delivery room": {
+    "i18n": {
+      "es": "Sala de partos"
+    }
+  },
+  "douche": {
+    "i18n": {
+      "es": "Lavado vaginal"
+    }
+  },
+  "dysmenorrhea": {
+    "i18n": {
+      "es": "Dismenorrea"
+    }
+  },
+  "dyspareuria": {
+    "i18n": {
+      "es": "Dispareunia"
+    }
+  },
+  "ectopic pregnancy": {
+    "i18n": {
+      "es": "Embarazo ectópico"
+    }
+  },
+  "embryo": {
+    "i18n": {
+      "es": "Embrión"
+    }
+  },
+  "endometriosis": {
+    "i18n": {
+      "es": "Endometriosis"
+    }
+  },
+  "episiotomy": {
+    "i18n": {
+      "es": "Episiotomía"
+    }
+  },
+  "epidural": {
+    "i18n": {
+      "es": "Epidural"
+    }
+  },
+  "estrogen": {
+    "i18n": {
+      "es": "Estrógeno"
+    }
+  },
+  "extirpation of the uterus": {
+    "i18n": {
+      "es": "Extirpación del útero"
+    }
+  },
+  "fallopian tubes": {
+    "i18n": {
+      "es": "Trompas de Falopio"
+    }
+  },
+  "family planning": {
+    "i18n": {
+      "es": "Planificación familiar"
+    }
+  },
+  "fertile": {
+    "i18n": {
+      "es": "Fértil"
+    }
+  },
+  "fertility": {
+    "i18n": {
+      "es": "Fertilidad"
+    }
+  },
+  "fertilization": {
+    "i18n": {
+      "es": "Fertilización"
+    }
+  },
+  "fetal heart tone": {
+    "i18n": {
+      "es": "Latido del corazón fetal"
+    }
+  },
+  "fetal surgery": {
+    "i18n": {
+      "es": "Cirugía fetal"
+    }
+  },
+  "fetoscopy": {
+    "i18n": {
+      "es": "Fetoscopia"
+    }
+  },
+  "fetus": {
+    "i18n": {
+      "es": "Feto"
+    }
+  },
+  "fibroid": {
+    "i18n": {
+      "es": "Fibroide"
+    }
+  },
+  "fibroid tumor": {
+    "i18n": {
+      "es": "Tumor Fibroide"
+    }
+  },
+  "forceps": {
+    "i18n": {
+      "es": "Forceps"
+    }
+  },
+  "full term": {
+    "i18n": {
+      "es": "Término/tiempo completo"
+    }
+  },
+  "gynecologist": {
+    "i18n": {
+      "es": "Ginecólogo/a"
+    }
+  },
+  "hot flashes": {
+    "i18n": {
+      "es": "Rubores, calores, fogaje, bochornos"
+    }
+  },
+  "hysterectomy": {
+    "i18n": {
+      "es": "Histerectomía"
+    }
+  },
+  "implantation": {
+    "i18n": {
+      "es": "Implantación"
+    }
+  },
+  "incubator": {
+    "i18n": {
+      "es": "Incubadora"
+    }
+  },
+  "induced labor": {
+    "i18n": {
+      "es": "Parto inducido"
+    }
+  },
+  "infant": {
+    "i18n": {
+      "es": "Infante, niño/a"
+    }
+  },
+  "infant formula": {
+    "i18n": {
+      "es": "Leche formulada para bebé"
+    }
+  },
+  "infantile paralysis": {
+    "i18n": {
+      "es": "Parálisis infantil"
+    }
+  },
+  "infertility": {
+    "i18n": {
+      "es": "Infertilidad"
+    }
+  },
+  "inverted nipple": {
+    "i18n": {
+      "es": "Pezón invertido"
+    }
+  },
+  "labor": {
+    "i18n": {
+      "es": "Parto"
+    }
+  },
+  "labor pains": {
+    "i18n": {
+      "es": "Dolores de parto"
+    }
+  },
+  "lactation": {
+    "i18n": {
+      "es": "Lactancia"
+    }
+  },
+  "laparoscopy": {
+    "i18n": {
+      "es": "Laparoscopia"
+    }
+  },
+  "leukorrhea": {
+    "i18n": {
+      "es": "Leucorrea"
+    }
+  },
+  "maternity": {
+    "i18n": {
+      "es": "Maternidad"
+    }
+  },
+  "maternity ward": {
+    "i18n": {
+      "es": "Sala de maternidad"
+    }
+  },
+  "menopause": {
+    "i18n": {
+      "es": "Menopausia"
+    }
+  },
+  "menorrhagia": {
+    "i18n": {
+      "es": "Menorragia"
+    }
+  },
+  "menses": {
+    "i18n": {
+      "es": "Menstruación"
+    }
+  },
+  "menstrual cycle": {
+    "i18n": {
+      "es": "Ciclo menstrual"
+    }
+  },
+  "menstruation (period)": {
+    "i18n": {
+      "es": "Menstruación, regla, periodo"
+    }
+  },
+  "miscarriage": {
+    "i18n": {
+      "es": "Aborto involuntario"
+    }
+  },
+  "multiple pregnancy": {
+    "i18n": {
+      "es": "Embarazo múltiple"
+    }
+  },
+  "natural family planning (rhythm method)": {
+    "i18n": {
+      "es": "Planificación familiar natural, método de ritmo"
+    }
+  },
+  "natural vaginal birth": {
+    "i18n": {
+      "es": "Parto natural (vaginal)"
+    }
+  },
+  "navel chord": {
+    "i18n": {
+      "es": "Cordón umbilical"
+    }
+  },
+  "neonatal": {
+    "i18n": {
+      "es": "Neonatal"
+    }
+  },
+  "newlywed": {
+    "i18n": {
+      "es": "Recién casados"
+    }
+  },
+  "normal delivery": {
+    "i18n": {
+      "es": "Parto normal, sin problemas"
+    }
+  },
+  "nuliparous": {
+    "i18n": {
+      "es": "Nulípara"
+    }
+  },
+  "obstetrician": {
+    "i18n": {
+      "es": "Obstetra"
+    }
+  },
+  "ovarian cyst": {
+    "i18n": {
+      "es": "Quiste ovárico"
+    }
+  },
+  "ovulation": {
+    "i18n": {
+      "es": "Ovulación"
+    }
+  },
+  "pelvic exam": {
+    "i18n": {
+      "es": "Examen pélvico"
+    }
+  },
+  "pelvic ultrasound": {
+    "i18n": {
+      "es": "Ultrasonido pélvico"
+    }
+  },
+  "pelvic inflammatory disease (pid)": {
+    "i18n": {
+      "es": "Enfermedad inflamatoria de la pelvis"
+    }
+  },
+  "placenta": {
+    "i18n": {
+      "es": "Placenta"
+    }
+  },
+  "post partum": {
+    "i18n": {
+      "es": "Post-parto"
+    }
+  },
+  "pre-eclampsia": {
+    "i18n": {
+      "es": "Preeclampsia"
+    }
+  },
+  "pregnancy": {
+    "i18n": {
+      "es": "Embarazo"
+    }
+  },
+  "pregnancy test": {
+    "i18n": {
+      "es": "Test del embarazo"
+    }
+  },
+  "pregnant": {
+    "i18n": {
+      "es": "Embarazada; preñada"
+    }
+  },
+  "prenatal": {
+    "i18n": {
+      "es": "Prenatal"
+    }
+  },
+  "prenatal care": {
+    "i18n": {
+      "es": "Cuidados prenatales"
+    }
+  },
+  "premature": {
+    "i18n": {
+      "es": "Prematuro/A"
+    }
+  },
+  "progesterone": {
+    "i18n": {
+      "es": "Progesterona"
+    }
+  },
+  "prolapse": {
+    "i18n": {
+      "es": "Prolapso"
+    }
+  },
+  "push": {
+    "i18n": {
+      "es": "Empujar, pujar"
+    }
+  },
+  "rh factor": {
+    "i18n": {
+      "es": "Factor Rh"
+    }
+  },
+  "sanitary pads": {
+    "i18n": {
+      "es": "Toallas/Compresas Higiénicas"
+    }
+  },
+  "screen for breast cancer": {
+    "i18n": {
+      "es": "Examinar en busca de cáncer del seno/ mama;"
+    }
+  },
+  "speculum": {
+    "i18n": {
+      "es": "Espéculo"
+    }
+  },
+  "still birth": {
+    "i18n": {
+      "es": "Parto de un feto muerto"
+    }
+  },
+  "tampon": {
+    "i18n": {
+      "es": "Tampón"
+    }
+  },
+  "test tube baby": {
+    "i18n": {
+      "es": "Bebé probeta"
+    }
+  },
+  "tie the tubes": {
+    "i18n": {
+      "es": "Ligar las trompas (atar los tubos)"
+    }
+  },
+  "toxic shock syndrome": {
+    "i18n": {
+      "es": "Síndrome del shock tóxico"
+    }
+  },
+  "triplets": {
+    "i18n": {
+      "es": "Trillizos"
+    }
+  },
+  "tubal ligation": {
+    "i18n": {
+      "es": "Ligadura de trompas"
+    }
+  },
+  "twins": {
+    "i18n": {
+      "es": "Gemelos, mellizos"
+    }
+  },
+  "umbilical chord": {
+    "i18n": {
+      "es": "Cordón umbilical"
+    }
+  },
+  "urinary tract infection (uti)": {
+    "i18n": {
+      "es": "Infección del tracto urinario"
+    }
+  },
+  "vaginal bleeding": {
+    "i18n": {
+      "es": "Sangrado vaginal"
+    }
+  },
+  "vaginal discharge": {
+    "i18n": {
+      "es": "Descarga vaginal / flujo"
+    }
+  },
+  "vaginitis": {
+    "i18n": {
+      "es": "Vaginitis"
+    }
+  },
+  "wean": {
+    "i18n": {
+      "es": "Destetar"
+    }
+  },
+  "yeast infection": {
+    "i18n": {
+      "es": "Levadura / hongos"
+    }
+  },
+  "adjuvant therapy": {
+    "i18n": {
+      "es": "Terapia adyuvante"
+    }
+  },
+  "alternative therapy": {
+    "i18n": {
+      "es": "Terapia alternativa"
+    }
+  },
+  "axillary lymph nodes": {
+    "i18n": {
+      "es": "Nódulos linfáticos axilares"
+    }
+  },
+  "benign": {
+    "i18n": {
+      "es": "Benigno"
+    }
+  },
+  "brca1 and brca2 (breast cancer genes)": {
+    "i18n": {
+      "es": "BRCA1 y BRCA2 (Genes del cáncer de mama)"
+    }
+  },
+  "breast conservation surgery (lumpectomy)": {
+    "i18n": {
+      "es": "Cirugía conservadorea del seno (lumpectomía)"
+    }
+  },
+  "breast mass": {
+    "i18n": {
+      "es": "Masa en el seno // mamaria"
+    }
+  },
+  "carcinoma": {
+    "i18n": {
+      "es": "Carcinoma"
+    }
+  },
+  "carcinoma in situ": {
+    "i18n": {
+      "es": "Carcinoma in situ"
+    }
+  },
+  "chemotherapy": {
+    "i18n": {
+      "es": "Quimioterapia"
+    }
+  },
+  "fibroblastic breast changes": {
+    "i18n": {
+      "es": "Cambios fibroblásticos del seno"
+    }
+  },
+  "hormone (endocrine) therapy": {
+    "i18n": {
+      "es": "Terapia hormonal (endocrinológica)"
+    }
+  },
+  "invasive cancer": {
+    "i18n": {
+      "es": "Cáncer invasivo, invasor"
+    }
+  },
+  "malignant": {
+    "i18n": {
+      "es": "Maligno"
+    }
+  },
+  "margins of resection": {
+    "i18n": {
+      "es": "Márgenes de resección"
+    }
+  },
+  "mastectomy": {
+    "i18n": {
+      "es": "Mastectomía"
+    }
+  },
+  "metastasis": {
+    "i18n": {
+      "es": "Metástasis"
+    }
+  },
+  "metastasize": {
+    "i18n": {
+      "es": "Hacer metástasis // metastatizar"
+    }
+  },
+  "neoadjuvant therapy": {
+    "i18n": {
+      "es": "Terapia neoadyuvante"
+    }
+  },
+  "neoplasia": {
+    "i18n": {
+      "es": "Neoplasia"
+    }
+  },
+  "oncologist": {
+    "i18n": {
+      "es": "Oncólogo/a"
+    }
+  },
+  "prosthesis": {
+    "i18n": {
+      "es": "Prótesis"
+    }
+  },
+  "radiation therapy": {
+    "i18n": {
+      "es": "Terapia por radiación"
+    }
+  },
+  "reconstructive surgery": {
+    "i18n": {
+      "es": "Cirugía reconstructiva"
+    }
+  },
+  "relapse": {
+    "i18n": {
+      "es": "Recaída, relapso"
+    }
+  },
+  "sarcoma": {
+    "i18n": {
+      "es": "Sarcoma"
+    }
+  },
+  "surgical therapy": {
+    "i18n": {
+      "es": "Terapia quirúrgica"
+    }
+  },
+  "tumor": {
+    "i18n": {
+      "es": "Tumor"
+    }
+  },
+  "acuity test": {
+    "i18n": {
+      "es": "Prueba de agudeza, precisión"
+    }
+  },
+  "cataract": {
+    "i18n": {
+      "es": "Catarata"
+    }
+  },
+  "contact lens": {
+    "i18n": {
+      "es": "Lentes de contacto"
+    }
+  },
+  "corneal transplant": {
+    "i18n": {
+      "es": "Transplante de córnea"
+    }
+  },
+  "cross-eyed": {
+    "i18n": {
+      "es": "Bizco"
+    }
+  },
+  "diabetic retinopathy/diabetic blindness": {
+    "i18n": {
+      "es": "Retinopatía diabética/ceguera por diabetes"
+    }
+  },
+  "electroretinography (erg)": {
+    "i18n": {
+      "es": "Electroretinografía"
+    }
+  },
+  "eye doctor": {
+    "i18n": {
+      "es": "Oculista; médico de los ojos"
+    }
+  },
+  "eye exam": {
+    "i18n": {
+      "es": "Examen ocular"
+    }
+  },
+  "eyestrain": {
+    "i18n": {
+      "es": "Tensión ocular"
+    }
+  },
+  "farsighted": {
+    "i18n": {
+      "es": "ve bien de lejos"
+    }
+  },
+  "farsightedness": {
+    "i18n": {
+      "es": "que ve bien de lejos"
+    }
+  },
+  "floaters (black spots in front of eye)": {
+    "i18n": {
+      "es": "Flotadores, manchas visuales"
+    }
+  },
+  "foggy vision": {
+    "i18n": {
+      "es": "Visión Nublada / empañada"
+    }
+  },
+  "glaucoma": {
+    "i18n": {
+      "es": "Glaucoma"
+    }
+  },
+  "macular degeneration": {
+    "i18n": {
+      "es": "Degeneración macular"
+    }
+  },
+  "near sighted": {
+    "i18n": {
+      "es": "Ve bien de cerca (miope)"
+    }
+  },
+  "nearsightedness": {
+    "i18n": {
+      "es": "Que ve bien de cerca (miopía)"
+    }
+  },
+  "oculist": {
+    "i18n": {
+      "es": "Oculista"
+    }
+  },
+  "ophthalmologist": {
+    "i18n": {
+      "es": "Oftalmólogo"
+    }
+  },
+  "ophthalmoscopy": {
+    "i18n": {
+      "es": "Oftalmoscopia"
+    }
+  },
+  "optometrist": {
+    "i18n": {
+      "es": "Optometrista"
+    }
+  },
+  "presbyopia": {
+    "i18n": {
+      "es": "Presbiopsia / presbicia"
+    }
+  },
+  "retinal detachment": {
+    "i18n": {
+      "es": "Desprendimiento de la retina"
+    }
+  },
+  "retinopathy": {
+    "i18n": {
+      "es": "Retinopatía"
+    }
+  },
+  "slit lamp exam": {
+    "i18n": {
+      "es": "Examen con lámpara de hendidura"
+    }
+  },
+  "tunnel vision": {
+    "i18n": {
+      "es": "Visión en túnel"
+    }
+  },
+  "visual acuity test": {
+    "i18n": {
+      "es": "Prueba de agudeza visual"
+    }
+  },
+  "visual fields": {
+    "i18n": {
+      "es": "Campos visuales"
+    }
+  },
+  "bunions": {
+    "i18n": {
+      "es": "Juanetes"
+    }
+  },
+  "bursitis": {
+    "i18n": {
+      "es": "Bursitis"
+    }
+  },
+  "orthopedist": {
+    "i18n": {
+      "es": "Ortopedista"
+    }
+  },
+  "podiatrist": {
+    "i18n": {
+      "es": "Podólogo, podiatra"
+    }
+  },
+  "podiatry": {
+    "i18n": {
+      "es": "Podología, podiatría"
+    }
+  },
+  "side stitch": {
+    "i18n": {
+      "es": "Dolor lateral, bazo"
+    }
+  },
+  "spurs": {
+    "i18n": {
+      "es": "Espolón, espuelas"
+    }
+  },
+  "strains": {
+    "i18n": {
+      "es": "Tensiones, torceduras"
+    }
+  },
+  "to stitch": {
+    "i18n": {
+      "es": "Poner puntos, dar puntadas, coser"
+    }
+  },
+  "chickenpox": {
+    "i18n": {
+      "es": "Varicela"
+    }
+  },
+  "colic": {
+    "i18n": {
+      "es": "Cólico"
+    }
+  },
+  "crawl": {
+    "i18n": {
+      "es": "Arrastre, gateado"
+    }
+  },
+  "croup": {
+    "i18n": {
+      "es": "Anca, grupa"
+    }
+  },
+  "dpt (diphtheria and tetanus toxoids and pertussis": {
+    "i18n": {
+      "es": "Dpt Difteria- Pertussis-Tetanos (Vacuna)"
+    }
+  },
+  "eggs of a louse": {
+    "i18n": {
+      "es": "Liendres"
+    }
+  },
+  "epiglottitis": {
+    "i18n": {
+      "es": "Epiglotitis"
+    }
+  },
+  "german measles": {
+    "i18n": {
+      "es": "Rubeóla"
+    }
+  },
+  "hemangioma": {
+    "i18n": {
+      "es": "Hemangioma"
+    }
+  },
+  "hyperactivity": {
+    "i18n": {
+      "es": "Hiperactividad"
+    }
+  },
+  "immunized": {
+    "i18n": {
+      "es": "Inmunizado/a"
+    }
+  },
+  "louse/lice": {
+    "i18n": {
+      "es": "Piojo/Piojos"
+    }
+  },
+  "measles": {
+    "i18n": {
+      "es": "Sarampión"
+    }
+  },
+  "mumps": {
+    "i18n": {
+      "es": "Paperas"
+    }
+  },
+  "otitis media": {
+    "i18n": {
+      "es": "Otitis media"
+    }
+  },
+  "pediatrician": {
+    "i18n": {
+      "es": "Pediatra"
+    }
+  },
+  "pertussis": {
+    "i18n": {
+      "es": "Pertussis, tos ferina"
+    }
+  },
+  "polio": {
+    "i18n": {
+      "es": "Polio"
+    }
+  },
+  "polio vaccine": {
+    "i18n": {
+      "es": "Vacuna contra la Polio"
+    }
+  },
+  "rubella": {
+    "i18n": {
+      "es": "Rubeóla"
+    }
+  },
+  "smallpox": {
+    "i18n": {
+      "es": "Viruela"
+    }
+  },
+  "vaccinate": {
+    "i18n": {
+      "es": "Vacunar"
+    }
+  },
+  "vaccination": {
+    "i18n": {
+      "es": "Vacunación"
+    }
+  },
+  "wet the bed": {
+    "i18n": {
+      "es": "Mojar la cama"
+    }
+  },
+  "whooping cough": {
+    "i18n": {
+      "es": "Tos ferina, tos convulsiva"
+    }
+  },
+  "athlete’s foot": {
+    "i18n": {
+      "es": "Pie de atleta"
+    }
+  },
+  "bunion": {
+    "i18n": {
+      "es": "Bunio, juanete"
+    }
+  },
+  "capsulitis": {
+    "i18n": {
+      "es": "Capsulitas"
+    }
+  },
+  "foot complications": {
+    "i18n": {
+      "es": "Complicaciones de los pies"
+    }
+  },
+  "fungal toe nails": {
+    "i18n": {
+      "es": "Hongos de las uñas de los pies"
+    }
+  },
+  "hammer toe": {
+    "i18n": {
+      "es": "Dedo en martillo"
+    }
+  },
+  "ingrown toenail": {
+    "i18n": {
+      "es": "Uña Enterrada / encarnada"
+    }
+  },
+  "vascular disease": {
+    "i18n": {
+      "es": "Enfermedad vascular"
+    }
+  },
+  "chronic pulmonary obstructive disease": {
+    "i18n": {
+      "es": "Enfermedad pulmonar obstructiva crónica"
+    }
+  },
+  "izonizid": {
+    "i18n": {
+      "es": "Izonizid"
+    }
+  },
+  "rifampin": {
+    "i18n": {
+      "es": "Rifampin"
+    }
+  },
+  "emphysema": {
+    "i18n": {
+      "es": "Enfisema"
+    }
+  },
+  "empyema": {
+    "i18n": {
+      "es": "Empiema"
+    }
+  },
+  "pleurae": {
+    "i18n": {
+      "es": "Pleuras"
+    }
+  },
+  "pleurism": {
+    "i18n": {
+      "es": "Pleurismo"
+    }
+  },
+  "pulmonary circulation": {
+    "i18n": {
+      "es": "Circulación pulmonar"
+    }
+  },
+  "pulmonary pressure": {
+    "i18n": {
+      "es": "Presión pulmonar"
+    }
+  },
+  "pulmonary system": {
+    "i18n": {
+      "es": "Sistema pulmonar"
+    }
+  },
+  "pulmonary tuberculosis": {
+    "i18n": {
+      "es": "Tuberculosis pulmonar"
+    }
+  },
+  "pulmonologist": {
+    "i18n": {
+      "es": "Pulmonólogo"
+    }
+  },
+  "respiratory system": {
+    "i18n": {
+      "es": "Sistema respiratorio"
+    }
+  },
+  "tuberculosis pleurisy": {
+    "i18n": {
+      "es": "Tuberculosis pleuritis"
+    }
+  },
+  "upper respiratory infection": {
+    "i18n": {
+      "es": "Infección respiratoria superior"
+    }
+  },
+  "vital capacity": {
+    "i18n": {
+      "es": "Capacidad vital"
+    }
+  },
+  "radioactive iodine": {
+    "i18n": {
+      "es": "Yodo radioactivo"
+    }
+  },
+  "radioactive tracing": {
+    "i18n": {
+      "es": "Trazo radioactivo"
+    }
+  },
+  "radiography": {
+    "i18n": {
+      "es": "Radiografía"
+    }
+  },
+  "radiologist": {
+    "i18n": {
+      "es": "Radiólogo"
+    }
+  },
+  "radiology technician": {
+    "i18n": {
+      "es": "Técnico en radiología"
+    }
+  },
+  "occupational rehabilitation": {
+    "i18n": {
+      "es": "Rehabilitación ocupacional"
+    }
+  },
+  "physical therapy": {
+    "i18n": {
+      "es": "Fisioterapia"
+    }
+  },
+  "degernerative disc disease": {
+    "i18n": {
+      "es": "Enfermedad de disco degenerativa"
+    }
+  },
+  "degenerative joint desease": {
+    "i18n": {
+      "es": "Enfermedad degenerativa de las articulaciones"
+    }
+  },
+  "fibromyalgia": {
+    "i18n": {
+      "es": "Fibromialgia"
+    }
+  },
+  "gout": {
+    "i18n": {
+      "es": "Gota"
+    }
+  },
+  "joint fluid": {
+    "i18n": {
+      "es": "Líquido articular"
+    }
+  },
+  "measurement of inflammation": {
+    "i18n": {
+      "es": "Medida de la inflamación"
+    }
+  },
+  "osteoarthritis": {
+    "i18n": {
+      "es": "Osteoartritis"
+    }
+  },
+  "rheumatism": {
+    "i18n": {
+      "es": "Reumatismo"
+    }
+  },
+  "rheumatoid arthritis": {
+    "i18n": {
+      "es": "Arthritis reumatoide(a)"
+    }
+  },
+  "rheumatoid blood factor test": {
+    "i18n": {
+      "es": "Examen de factor reumatoide(o) en la sangre"
+    }
+  },
+  "rheumatologist": {
+    "i18n": {
+      "es": "Reumatólogo"
+    }
+  },
+  "rheumatology": {
+    "i18n": {
+      "es": "Reumatología"
+    }
+  },
+  "child abuse": {
+    "i18n": {
+      "es": "Abuso, maltrato infantil"
+    }
+  },
+  "domestic violence": {
+    "i18n": {
+      "es": "Violencia doméstica"
+    }
+  },
+  "medicaid": {
+    "i18n": {
+      "es": "Medicaid"
+    }
+  },
+  "medicare": {
+    "i18n": {
+      "es": "Medicare"
+    }
+  },
+  "chronic renal failure": {
+    "i18n": {
+      "es": "Ataque renal crónico"
+    }
+  },
+  "ejaculate": {
+    "i18n": {
+      "es": "Eyacular"
+    }
+  },
+  "ejaculation": {
+    "i18n": {
+      "es": "Eyaculación"
+    }
+  },
+  "epididymitis": {
+    "i18n": {
+      "es": "Epididimitis"
+    }
+  },
+  "erection": {
+    "i18n": {
+      "es": "Erección"
+    }
+  },
+  "hematouria": {
+    "i18n": {
+      "es": "Hematouria"
+    }
+  },
+  "impotence": {
+    "i18n": {
+      "es": "Impotencia"
+    }
+  },
+  "incontinence": {
+    "i18n": {
+      "es": "Incontinencia"
+    }
+  },
+  "kidney stones": {
+    "i18n": {
+      "es": "Cálculos // piedras renales, en el riñón"
+    }
+  },
+  "microalbumin": {
+    "i18n": {
+      "es": "Microalbumina"
+    }
+  },
+  "proteinuria": {
+    "i18n": {
+      "es": "Proteinuria"
+    }
+  },
+  "renal": {
+    "i18n": {
+      "es": "Renal"
+    }
+  },
+  "strong stream of urine": {
+    "i18n": {
+      "es": "Chorro, flujo, caudal fuerte de orina"
+    }
+  },
+  "urinary tract infection": {
+    "i18n": {
+      "es": "Infección del tracto urinario"
+    }
+  },
+  "urologist": {
+    "i18n": {
+      "es": "Urólogo"
+    }
+  },
+  "urology": {
+    "i18n": {
+      "es": "Urología"
+    }
+  },
+  "vasectomy": {
+    "i18n": {
+      "es": "Vasectomía"
+    }
+  }
+}
