@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="container">
+    <div class="text-center">
+        <h1 class="text-center mt-5">Medical Terminology</h1>
+        <p class="lead">Unlock the world of medical knowledge.</p>
+        <hr class="my-4">
+        <p>Explore a vast collection of medical terms, glossaries, anatomical references, and bone information to enhance your understanding.</p>
+    </div>
+    <div class="row mt-5">
+        <div class="col-lg-4">
+            <h2 class="mb-4">Medical Glossary</h2>
+            <p>Manage and expand the medical glossary:</p>
+            <ul class="list-group">
+                <li class="list-group-item"><a href="/glossary">Glossary</a></li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h2 class="mb-4">Medical Dictionary</h2>
+            <p>Explore the translations in different languages:</p>
+            <ul class="list-group">
+                <li class="list-group-item"><a href="/dictionary/pt">Portuguese-English-Spanish</a></li>
+                <li class="list-group-item"><a href="/dictionary/en">English-Spanish-Portuguese</a></li>
+                <li class="list-group-item"><a href="/dictionary/es">Spanish-English-Portuguese</a></li>
+            </ul>
+        </div>
+
+        <div class="col-lg-4">
+            <h2 class="mb-4">Anatomy</h2>
+            <p>Explore the anatomical terms:</p>
+            <ul class="list-group">
+                <li class="list-group-item"><a href="/anatomy">Anatomical Terms</a></li>
+            </ul>
+        </div>
+
+        <div class="col-lg-4">
+            <h2 class="mb-4">Bones</h2>
+            <p>Discover information about bones:</p>
+            <ul class="list-group">
+                <li class="list-group-item"><a href="/bones">Bones Information</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

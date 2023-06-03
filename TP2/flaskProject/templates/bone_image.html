@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+{% block body %}
+<div>
+    <h2>{{ title }}</h2>
+    <h3>{{ groupName }}</h3>
+    <div class="mb-2">
+        <a href="/bones">Back</a>
+    </div>
+    {% for imgData in groupData.imgs %}
+    <div class="row bone-div">
+        <div class="bone-container col-sm-6">
+            <img src="../../static/bones/{{ imgData.name }}" class="bone-image"
+                 width="{{ imgData.position.width }}" height="{{ imgData.position.height }}"
+                 style="left:{{ imgData.position.left }}px; top:{{ imgData.position.top }}px; width:{{ imgData.position.width }}; height:{{ imgData.position.height }};">
+
+            {% for id, idsData in groupData.ids.items() %}
+            {% if idsData.position %}
+            <div class="bone-label" style="top: {{ idsData.position.top }}px; left: {{ idsData.position.left }}px;"
+                 data-bone-id="bone-{{ id }}">{{ id }}
+            </div>
+            <div class="bone-description"
+                 style="top: {{ idsData.position.top }}px; left: {{ idsData.position.left }}px;"
+                 data-bone-id="bone-{{ id }}">
+                {{ idsData.descr }}
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <div class="bone-container col-sm-3" style="padding-top:50px">
+            <ul class="">
+                {% for id, idsData in groupData.ids.items() %}
+                {% if idsData.position %}
+                <li class="list-group-item" style="border: none;"><strong>({{ id }})</strong> <a
+                        href="/bones/definition/{{ idsData.descr }}">{{ idsData.descr }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

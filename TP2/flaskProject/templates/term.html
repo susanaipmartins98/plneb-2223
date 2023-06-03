@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<div class="card mt-4">
+    <h5 class="card-header">{{term}}</h5>
+    <div class="card-body">
+        {% if term_data.descr %}
+        <h5 class="card-title">Description</h5>
+        <p class="card-text">{{term_data.descr}}</p>
+        {% endif%}
+
+        {% if term_data.notfound %}
+        <p class="card-text">{{term_data.notfound}}</p>
+        {% endif %}
+
+        {% if term_data.syn %}
+        <p class="synonym-title">
+            <span class="synonym">{{term_data.syn}}</span>
+        </p>
+        {% endif %}
+
+        {% if term_data.tag %}
+        <p class="tag-title">
+           <span class="tag badge badge-custom">{{term_data.tag}}</span>
+        </p>
+        {% endif %}
+
+        {% if term_data.i18n %}
+            {% for lan, desc in term_data.i18n.items() %}
+            <a href="#" class="btn btn-link" data-lang="{{ lan }}" onclick="showTranslation('{{ lan }}', '{{ desc }}')">
+                {{ lan|upper }}
+            </a>
+            {% endfor %}
+        {% endif%}
+        <div class="card-translation" style="display: none;">
+            <p class="translation-title">Translation: <span class="lan"></span></p>
+            <p class="translation"></p>
+        </div>
+    </div>
+    <hr>
+    <div class="mx-3 mb-2">
+        <a href="/glossary">Back</a>
+    </div>
+</div>
+{% endblock %}

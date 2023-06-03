@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<div class="card mt-4">
+    <h5 class="card-header">{{ term }}</h5>
+    <div class="card-body">
+        {% if term_data.description %}
+        <h5 class="card-title">Description</h5>
+        <p class="card-text">{{ term_data.description }}</p>
+        {% endif %}
+
+        {% if term_data.notfound %}
+        <p class="card-text">{{ term_data.notfound }}</p>
+        {% endif %}
+
+        {% if term_data.image_urls %}
+
+        <div class="card-images">
+            {% for image_url in term_data.image_urls %}
+            <img src="{{ image_url }}" class="card-image" alt="Anatomy Image">
+            {% endfor %}
+        </div>
+        {% endif %}
+
+    </div>
+    <hr>
+    <div class="mx-3 mb-2">
+        <a href="/anatomy">Back</a>
+    </div>
+</div>
+
+{% endblock %}

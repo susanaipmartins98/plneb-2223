@@ -1,0 +1,54 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="container my-5 col-sm-8">
+    <h1>Dictionary</h1>
+    <ul class="nav nav-tabs mt-3" id="dictionary-nav-tabs" role="tablist">
+        {% for language in dictionary %}
+        <li class="nav-item">
+            <a class="nav-link {% if lang == language %}active{% endif %}" href="/dictionary/{{ language }}">{{ language|upper }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+
+    {% if lang_dict %}
+    <div class="tab-content mt-4">
+        <div class="tab-pane fade show active" id="{{ lang }}">
+
+            <table class="table " id="dictionary-table">
+                 <thead>
+                    <tr>
+                        <th>Term</th>
+                        {% for key in lang_dict.values()|first %}
+                        <th>{{ key }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for term, translations in lang_dict.items() %}
+                    <tr>
+                        <td>{{ term }}</td>
+                        {% for column_key in lang_dict.values()|first %}
+                        <td>{{ translations.get(column_key, '') }}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    {% endif %}
+</div>
+
+<script>
+    var lan = "{{ lang }}"; // Obter o valor de "lang" do seu código Jinja
+
+    if (!lan) {
+        // Selecionar o primeiro tab
+        var firstTab = document.querySelector('#dictionary-nav-tabs .nav-link');
+
+        // Disparar o evento de clique no primeiro tab
+        firstTab.click();
+    }
+</script>
+
+{% endblock %}

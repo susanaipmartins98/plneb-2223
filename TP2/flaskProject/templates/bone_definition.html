@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<div class="card mt-4">
+    <h5 class="card-header">{{ name }}</h5>
+    <div class="card-body">
+        {% if bone.notfound %}
+        <p class="card-text">{{ bone.notfound }}</p>
+        {% endif %}
+
+        {% if bone.descr %}
+        <h5 class="card-title">Definition</h5>
+        <p class="card-text">{{ bone.descr }}</p>
+        {% endif %}
+
+        {% if bone.quoted_note %}
+        <p class="card-text"><cite>{{ bone.quoted_note }}</cite></p>
+        {% endif %}
+
+        {% if bone.img_link %}
+        <div class="card-images">
+            <img src="{{ bone.img_link }}" class="card-image" alt="Bone Image">
+        </div>
+        {% endif %}
+
+    </div>
+    <hr>
+    <div class="mx-3 mb-2">
+        <a href="javascript:void(0);" onclick="goBack()">Back</a>
+    </div>
+</div>
+
+{% endblock %}

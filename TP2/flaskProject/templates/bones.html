@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% block body %}
+<div>
+    <h1>{{ title }}</h1>
+    <ul>
+        {% for category, categoryData in bones.items() %}
+            <li>
+                <h5>{{ category }}</h5>
+                <ul>
+                    {% for groupName, groupData in categoryData.items() %}
+                    {% if groupData.imgs %}
+                        <li>
+                            <a href="/bones/{{ category }}/{{ groupName }}">{{ groupName }}</a>
+                        </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}
